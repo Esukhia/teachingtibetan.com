@@ -1,4 +1,5 @@
 
 - Communicative
-    - [content](/communicative/content.md)
-    - [General linguistic range](/communicative/general_linguistic_range.md)
+    - [དཀར་ཆག་](/communicative/content.md)
+    - [སྤྱི་ཡོངས་ཀྱི་སྐད་བརྡའི་ཁྱབ་ཚད།](/communicative/general_linguistic_range.md)
+    - [བརྡ་སྤྲོད་གཞུང་དང་མཐུན་པ།](/communicative/Grammatical_accuracy.md)
