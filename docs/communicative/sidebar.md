@@ -6,3 +6,6 @@
     - [དག་ཆ་ཚོད་འཛིན།](/communicative/orthographic_control.md)
     - [སྒྲ་གདངས་སྟངས་འཛིན་བྱེད་སྟངས།](/communicative/phonological_control.md)
     - [སྡེབ་སྦྱོར་གྱི་ཁྱད་ཆོས།](/communicative/prosodic_feature.md)
+    - [སྒྲ་གདངས་འདོན་ཚུལ་](/communicative/sound_articulation.md)
+    - [ཐ་སྙད་ཕྱུག་ཚད།](/communicative/vocabulary_range.md)
+    - [མིང་ཚིག་སྟངས་འཛིན།](/communicative/vocabulary_control.md)
