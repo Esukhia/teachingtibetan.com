@@ -2,7 +2,8 @@
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> རྩོམ་ཡིག་འབྲི་དུས་དག་ཆ་མ་ནོར་བ་མེད།
+> དོན་དག་གལ་ཆེ་བ་(དཔེར་ན། ཁྱད་པར་འབྱེད་པ་དང་། ནན་བཤད་བྱེད་པ་)རྣམས་བཤད་པའི་ཆེད་དུ་སྡེབ་སྦྱོར་གྱི་ཁྱད་ཆོས་(དཔེར་ན། རྩོལ་བ་དང་། འགྲོས། འགྱུར་ཁུགས་)རྣམས་འོས་ཤིང་འཚམས་པ་དང་གནད་དུ་འཁེལ་བའི་སྒོ་ནས་བཀོལ་སྤྱོད་བྱེད་ཐུབ།
+
 
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
@@ -16,7 +17,8 @@
 
 <!-- div:right-panel -->
 
-> Writing is orthographically free of error.
+> Can exploit prosodic features (e.g. stress, rhythm and intonation) appropriately and effectively in order to convey finer shades of meaning (e.g. to differentiate and emphasise).
+
 
 <details>
 
@@ -33,8 +35,9 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> བཀོད་པ་དང། དུམ་མཚམས། རྐྱེན་གྱི་ཚིག་རྣམས་རན་པོ་དང་ཕན་ཐོགས་ཆེན་པོ་ཡོད།
-ཡི་གེ་འབྲི་དུས་ནོར་འཁྲུལ་མེད་ན་དག་ཆ་རྣམས་ཏག་ཏག་རེད།
+> ནུས་ཤུགས་དང་གོ་རྟོགས་ཀྱི་རང་བཞིན་ལ་སྐྱོན་མ་ཐེབས་པར། འགྲོས་ཡང་ན་འགྱུར་ཁུགས་ལ་མཚམས་མཚམས་ཁོ་ནར་ཆད་ནོར་ལྡན་པའི་སྒོ་ནས། སྒྲའི་རྩོལ་བ་ལ་སྟངས་འཛིན་དང་།  འཇམ་ཞིང་གོ་རྟོགས་ལྡན་པའི་ངག་ཐོག་གི་གཏམ་བཤད་བཟོ་སྒྲིག་བྱེད་ཐུབ།
+ཁོ་ཚོས་ཅི་ཞིག་བཤད་འདོད་ཡོད་པ་དེ་ཏག་ཏག་ཅིག་བཤད་ཐུབ་པའི་ཆེད་དུ། འགྱུར་ཁུགས་ཀྱི་དབྱེ་བ་འབྱེད་ཐུབ་ཅིང་། དུས་སྐབས་ཏག་ཏག་ལ་རྩོལ་བ་འདོན་ཐུབ།
+
 
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
@@ -47,8 +50,9 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
 <!-- div:right-panel -->
 
-> Layout, paragraphing and punctuation are consistent and helpful.
-Spelling is accurate, apart from occasional slips of the pen.
+> Can produce smooth, intelligible spoken discourse with only occasional lapses in control of stress, rhythm and/or intonation, which do not affect intelligibility or effectiveness.
+Can vary intonation and place stress correctly in order to express precisely what they mean to say.
+
 
 <details>
 
@@ -69,8 +73,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> ཚད་ལྡན་གྱི་བཀོད་པ་དང་དུམ་བུ་ཁ་བརྡ་བྱེད་པའི་གོ་བ་ལེན་མི་ཐུབ་པ་དང་རྒྱུན་ཆད་མེད་པར་འབྲི་ཐུབ། 
-དག་ཆ་དང་རྐྱེན་གྱི་ཡི་གེ་རྣམས་ཏག་ཏག་ཡིན་སྲིད་པ་རེད། འོན་ཀྱང། ཕ་སྐད་ཀྱི་ཤུགས་རྐྱེན་ཐོན་སྲིད།
+> ཁོ་ཚོས་བཤད་འདོད་ཡོད་པའི་བརྡ་འཕྲིན་དེར་རྒྱབ་སྐྱོར་བྱེད་པའི་ཆེད་དུ་སྡེབ་སྦྱོར་གྱི་ཁྱད་ཆོས་(དཔེར་ན། རྩོལ་བ་དང་། འགྱུར་ཁུགས། འགྲོས་)བཀོལ་སྤྱོད་བྱེད་ཐུབ་ཀྱང་། ཁོ་ཚོས་རྒྱུན་དུ་བཤད་པའི་སྐད་ཡིག་གཞན་དག་གི་ཤུགས་རྐྱེན་གང་འཚམས་ལྡན་ཡོད།
+
 
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
@@ -84,8 +88,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can produce clearly intelligible, continuous writing which follows standard layout and paragraphing conventions.
-Spelling and punctuation are reasonably accurate but may show signs of mother-tongue influence.
+> Can employ prosodic features (e.g. stress, intonation, rhythm) to support the message they intend to convey, though with some influence from the other languages they speak.
+
 
 <details>
 
@@ -105,8 +109,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> ཐོག་མཐའ་བར་གསུམ་དུ་གོ་བ་ལེན་མི་ཐུབ་པའི་རྒྱུན་མཐུད་ཀྱི་རྩོམ་ཡིག་འབྲི་ཐུབ་ཀྱི་ཡོད།
-དག་ཆ། རྐྱེན་གྱི་ཡི་གེ་དང་བཀོད་པ་དཀོད་པ་གནད་ལ་འཁེལ་བ་ཞིག་ཡིན་པས་དུས་ཚོད་མང་ཆེ་བར་བརྩོ་སྲུང་བྱེད་ཐུབ།
+> རྩོལ་བ་དང་འགྱུར་ཁུགས། ཡང་ན་འགྲོས་བཅས་ལ་ཁོ་ཚོས་དུས་རྒྱུན་བཤད་པའི་སྐད་ཡིག་གཞན་དག་གི་ཤུགས་རྐྱེན་ཆེན་པོ་ལྡན་ཡོད་ནའང་། གོ་རྟོགས་ཐུབ་པའི་རང་བཞིན་གྱི་ལམ་ནས་ཁོ་ཚོའི་བརྒྱུད་སྤྲོད་བྱེད་ཐུབ།
 
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
@@ -119,8 +122,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can produce continuous writing which is generally intelligible throughout.
-Spelling, punctuation and layout are accurate enough to be followed most of the time.
+> Can convey their message in an intelligible way in spite of a strong influence on stress, intonation and/or rhythm from the other language(s) they speak.
+
 
 <details>
 
@@ -135,12 +138,14 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- panels:end -->
 
+
 ### A2
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> རྒྱུན་ལྡན་གྱི་བརྗོད་གཞི་ཞིག་གི་ཐད་ལ་ཚིག་སྒྲུབ་ཐུང་ངུ་རེ་དཔེ་བཞུ་ཐུབ་ཀྱི་ཡོད། དཔེར་ན། ས་ཆ་གཅིག་ལ་འགྲོ་ཆེད་ཕྱོགས་གང་ནས་བསྐྱོད་དགོས་མིན།
-ལུགས་མཐུན་གྱི་སྒྲ་རིག་པའི་ཡང་དག་ངང་ཡི་གེ་ཐུང་ངུ་ཞིག་གིས་ཁོ་ཚོའི་ཁ་སྐད་ཀྱི་ཐ་སྙད་ཁྲོད་དུ་འབྲི་ཐུབ། (འོན་ཀྱང། ཐ་སྙད་ཐ་ཚང་ཚད་ལྡན་ཡིན་པའི་ངེས་པ་མེད།)
+> རྩོལ་བ་དང་འགྱུར་ཁུགས། ཡང་ན་འགྲོས་བཅས་ལ་ཁོ་ཚོས་དུས་རྒྱུན་བཤད་པའི་སྐད་ཡིག་གཞན་དག་གི་ཤུགས་རྐྱེན་ཆེན་པོ་ལྡན་ཡོད་ནའང་། རྒྱུན་བཀོལ་ཚིག་དང་བརྗོད་པ་རྣམས་ཀྱི་སྡེབ་སྦྱོར་ཀྱི་ཁྱད་ཆོས་རྣམས་གོ་རྟོགས་ཀྱི་རང་བཞིན་ལྡན་པའི་སྒོ་ནས་བཀོལ་སྤྱོད་བྱེད་ཐུབ།
+སྡེབ་སྦྱོར་གྱི་ཁྱད་ཆོས་(དཔེར་ན། ཚིག་གི་རྩོལ་བ་)རྣམས། སྐད་གདངས་སྟབས་བདེ་དང་རྒྱུས་མངའ་ཡོད་པའི་རྒྱུན་བཀོལ་ཚིག་ལ་རན་པ་ཞིག་ཡོད།
+
 
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
@@ -153,8 +158,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can copy short sentences on everyday subjects, e.g. directions on how to get somewhere.
-Can write with reasonable phonetic accuracy (but not necessarily fully standard spelling) short words that are in their oral vocabulary.
+> Can use the prosodic features of everyday words and phrases intelligibly, in spite of a strong influence on stress, intonation and/or rhythm from the other language(s) they speak.
+Prosodic features (e.g. word stress) are adequate for familiar everyday words and simple utterances.
 
 <details>
 
@@ -177,10 +182,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> རྒྱུས་མངའ་ཡོད་པའི་ཚིག་དང་ཚིག་ཚོགས་ལས་སླ་པོ་རྣམས་དཔེ་བཤུ་ཤེས་ཀྱི་ཡོད། དཔེར་ན། སྟབས་བདེ་མཚཽན་རྟགས་སམ་གསལ་བཤད་ཡི་གེ། ཉིན་ལྟར་བེད་སྤྱོད་བྱེད་བཞིན་པའི་ཅ་དངོས། ཚོང་ཁང་གི་མིང། ཚིག་ཉུང་བེད་སྤྱོད་བྱས་ནས་སྐད་ཆ་ཤོད་རྒྱུ། 
-ཁོ་ཚོའི་ཁ་བྱང་དང། མི་རིགས། དེ་བཞིན་སྐོར་གཞན་རྣམས་ཤོད་ཤེས་ཀྱི་ཡོད།
-རྐྱེན་གྱི་ཡི་གེ་ཕལ་པ་རྣམས་བེད་སྤྱོད་བྱེད་ཤེས་ཀྱི་ཡོད།
-
+> རྩོལ་བ་དང་འགྱུར་ཁུགས། ཡང་ན་འགྲོས་བཅས་ལ་ཁོ་ཚོས་དུས་རྒྱུན་བཤད་པའི་སྐད་ཡིག་གཞན་དག་གི་ཤུགས་རྐྱེན་དང། ཁ་བརྡ་སྤྲོད་རོགས་ཀྱིས་རྒྱབ་སྐྱོར་ལ་རག་ལུས་ཡོད་ནའང་། ཚིག་ཕྱུག་ལོད་ཚད་བཀག་ཡོད་པའི་སྟབས་བདེའི་ཚིག་དང་བརྗོད་པ་རྣམས་ཀྱི་སྡེབ་སྦྱོར་གྱི་ཁྱད་ཆོས་རྣམས་བེད་སྤྱོད་བྱེད་ཐུབ།
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
@@ -192,10 +194,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can copy familiar words and short phrases, e.g. simple signs or instructions, names of everyday objects, names of shops, and set phrases used regularly.
-Can spell their address, nationality and other personal details.
-Can use basic punctuation (e.g. full stops, question marks).
-
+> Can use the prosodic features of a limited repertoire of simple words and phrases intelligibly, in spite of a very strong influence on stress, rhythm and/or intonation from the other language(s) they speak; their interlocutor needs to be collaborative.
 <details>
 
   <summary>Detailed explanation</summary>
@@ -206,45 +205,5 @@ Let me break it down into simpler parts:
 Example: "The sky is blue today" is a clear and simple sentence.
 
 </details>
-
-<!-- panels:end -->
-
-
-
-
-### pre-A1
-<!-- panels:start -->
-<!-- div:left-panel -->
-
-> འགྲེལ་བཤད་གསལ་མི་འདུག
-
-<details>
-  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
-
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
-</details>
-
-<!-- div:right-panel -->
-
-> No descriptors available
-
-
-<details>
-
-  <summary>Detailed explanation</summary>
-
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
-
-</details>
-
-
-<!-- details:end -->
-
 
 <!-- panels:end -->
