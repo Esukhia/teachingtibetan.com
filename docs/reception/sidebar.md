@@ -1,5 +1,5 @@
 
-- Communicative
+- Reception
     - [དཀར་ཆག་](/reception/content.md)
     - [བརྙན་འཕྲིན་དང་། གློག་བརྙན། བརྙན་ལ་ལྟ་བ།](/reception/audio_visual_tv.md)
     - [གསལ་བསྒྲགས་དང་ལམ་སྟོན་ལ་རྒྱུས་ལོན་བྱེད་པ།](/reception/oral_announcement.md)
