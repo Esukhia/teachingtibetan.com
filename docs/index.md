@@ -6,7 +6,7 @@
 </br>
 </br>
 
-###   ལེན་རྩལ། &nbsp; &nbsp; - &nbsp; [Reception](/)
+###   ལེན་རྩལ། &nbsp; &nbsp; - &nbsp; [Reception](/reception/content.md)
 ###   གཏོང་རྩལ།  &nbsp;  - &nbsp; [Production](/)
 ###   གླེང་མོལ། &nbsp; &nbsp; - &nbsp; [Interaction](/interaction/content.md)
 ###   མཚམས་སྦྱོར། &nbsp;  - &nbsp; [Mediation](/) 

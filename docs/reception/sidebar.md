@@ -1,0 +1,16 @@
+
+- Communicative
+    - [དཀར་ཆག་](/reception/content.md)
+    - [བརྙན་འཕྲིན་དང་། གློག་བརྙན། བརྙན་ལ་ལྟ་བ།](/reception/audio_visual_tv.md)
+    - [གསལ་བསྒྲགས་དང་ལམ་སྟོན་ལ་རྒྱུས་ལོན་བྱེད་པ།](/reception/oral_announcement.md)
+    - [བསྡུ་འཇུག་(སྒྲ་འཇུག་)ལ་རྒྱུས་ལོན་བྱེད་པ། ](/reception/oral_audio_media.md)
+    - [མང་ཚོགས་སུ་དངོས་ཞུགས་ཀྱིས་ཤེས་པ།](/reception/oral_live_audience.md)
+    - [མི་གཞན་ཚོོའི་བར་གྱི་གླེང་མོལ་ལ་རྒྱུས་ལོན་བྱེད་པ།](/reception/oral_other_people.md)
+    - [སྤྱི་ཡོངས་ཀྱི་ངག་རྩལ་རྟོགས་པ།](/reception/oral_overall_comprehention.md)
+    - [ཡིག་འབྲེལ་ཀློག་རྩལ།](/reception/reading_correspondence.md)
+    - [ཟབ་སྦྱོང་སྐབས་ཀྱི་ཀློག་རྩལ།](/reception/reading_for_orientation.md)
+    - [གནས་ཚུལ་དང་རྩོད་གླེང་སྐོར་གྱི་ཀློག་རྩལ།](/reception/reading_info_argument.md)
+    - [ལམ་སྟོན་ཀློག་རྩལ།](/reception/reading_instruction.md)
+    - [ཞོར་ལས་ཀློག་རྩལ།](/reception/reading_leisure.md)
+    - [སྤྱི་ཡོངས་ཀྱི་ཀློག་རྩལ།](/reception/reading_overall_compreh.md)
+    - [ཁུངས་སྣེ་དང་སྔོན་དཔག་ངོས་འཛིན་བྱེད་རྩལ།](/reception/strategy_cues_infer.md)
