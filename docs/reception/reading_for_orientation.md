@@ -2,7 +2,7 @@
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> འགྲེལ་བཤད་གསལ་གྱི་མི་འདུག C1 གཟིགས་རོགས་གནང་། 
+> B2 ལ་ལྟོས། 
 
 
 
@@ -19,7 +19,7 @@
 
 <!-- div:right-panel -->
 
-> No descriptors available; see C1
+> No descriptors available; see B2
 
 
 
@@ -41,10 +41,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->  གློག་བརྙན་ལས་བྱེད་ལྟར་གནས་ཚད་ངེས་ཅན་གྱི་ཁ་སྐད་དང་གཏམ་དཔེ་བེད་སྤྱོད་ཀྱིས་རྗེས་མཐུད་བྱེད་ཐུབ་ཀྱི་ཡོད།
-འགྲོ་རྒྱུག་ཅན་གྱི་བརྙན་འཕྲིན་གྱི་ལས་རིམ་དཔེར་ན། ད་ལྟའི་དཀའ་རྙོག་གི་ལས་རིམ་དང་། བཅར་འདྲི། གླེང་མོལ་ལས་རིམ། ལབ་གླེང་ལྟད་མོ་ཁག་ཏུ་གསལ་བའི་རྩོད་གླེང་རྒྱས་པ་རྣམས་ཧ་གོ་ཐུབ།
-གློག་བརྙན་ཕལ་ཆེ་བ་དང་། འཁྲབ་སྟོན་དང་བརྙན་འཕྲིན་གྱི་ལས་རིམ་དུ་སྐད་ཡིག་ཚད་ལྡན་ནམ་ཤེས་རྟོགས་སྣ་མང་དོན་སྟོན་ཆེད་དུ་བེད་སྤྱོད་པའི་བཟོ་བཀོད་དང་ཚོས་གཞི་སོགས་དབྱེ་བ་ཕྲ་མོ་རྣམས་ངས་ཤེས་ཀྱི་ཡོད། 
-
+>  B2 ལ་ལྟོས།
 
 
 <details>
@@ -58,9 +55,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
 <!-- div:right-panel -->
 
->Can follow films employing a considerable degree of slang and idiomatic usage.
-Can understand in detail the arguments presented in demanding television broadcasts such as current affairs programmes, interviews, discussion programmes and chat shows.
-Can understand nuances and implied meaning in most films, plays and TV programmes, provided these are delivered in standard language or a familiar variety.
+>No descriptors available; see B2
 
 
 
@@ -85,8 +80,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> གནས་ཚུལ་དང་ད་ལྟའི་དཀའ་རྙོག་ཐོག་ལས་རིམ་ཁག་ཏུ་གསལ་བའི་རྩོད་གླེང་དང་གླེང་མོལ་འཁྲོད་གལ་གནད་ཅན་གྱི་དོན་ཚན་རྣམས་འདོན་ཐུབ་ཀྱི་ཡོད།
-བརྙན་འཔྲིན་གྱི་གནས་ཚུལ་དང་ད་ལྟའི་དཀའ་རྙོག་ཐོག་གི་ལས་རིམ་ཕལ་ཆེ་བ་རྟོགས་ཐུབ། 
+> རྩོམ་ཡིག་དང་། སྙན་ཐོ། དྲ་རྒྱ། དེབ་ལ་སོགས་པའི་ཁུངས་འགའ་ལ་བརྟེན་ནས་དུས་མཉམ་དུ་ཁོང་ཚོ་སྒེར་གྱི་ཆེད་ལས་དང་འབྲེལ་ཡོད་ཀྱི་ཆེདལས་གཉིས་ཀར་མྱུར་དུ་མིག་ཤར་རྒྱག་ཐུབ་ལ། ཁ་ཡོད་ལག་ཡོད་ཀྱིས་ལས་དོན་དེར་སྡེ་ཚན་བྱེ་བྲག་པ་དེ་དག་གི་བེད་སྤྱོད་དང་འབྲེལ་བ་དེ་ངོས་འཛིན་བྱེད་ཐུབ།
+
 
 
 
@@ -102,8 +97,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
->Can extract the main points from the arguments and discussions in news and current affairs programmes.
-Can understand most TV news and current affairs programmes.
+>Can scan quickly through several sources (articles, reports, websites, books, etc.) in parallel, in both their own field and in related fields, and can identify the relevance and usefulness of particular sections for the task at hand.
 
 
 
@@ -128,7 +122,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> གློག་བརྙན་ཕལ་ཆེ་བར་སྐད་ཡིག་སྙོམས་པའམ་མྱོང་འདྲིས་ཅན་སྣ་མང་དུ། དངོས་བྱུང་ལྟད་མོ་དང་། ཐད་མཐོང་བཅར་འདྲི། ལབ་གླེང་ལྟད་མོ། འཁྲབ་སྟོན་ཧ་གོ་ཐུབ། 
+>རིང་ལ་རྙོག་འཛིངས་ཅན་གྱི་ཡི་གེ་ལ་བརྟེན་ནས་ས་གནས་ཀྱི་འབྲེལ་ཡོད་ཀྱི་ཞིབ་ཕྲའི་གནས་ཚུལ་དག་ལ་མྱུར་དུ་མིག་ཤར་རྒྱག་ཐུབ།
+ཞིབ་ཚགས་ཀྱི་ཉམས་ཞིབ་ནི་དགེ་མཚན་དང་ལྡན་པ་ཞིག་ཡིན་མིན་ཐག་གཅོད་བྱེད་པར། ཆེད་ལས་ཀྱི་བརྗོད་གཞི་སྣ་མང་ཐད་ཀྱི་སྙན་ཐོ་དང་། ཆེད་རྩོམ། གསར་འགྱུར་བཅས་ཀྱི་སྐབས་བབ་ཀྱི་འབྲེལ་བ་དང་ནང་དོན་དེ་འཕྲལ་དུ་ངོས་འཛིན་བྱེད་ཐུབ།
+
 
 
 
@@ -144,7 +140,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can understand documentaries, live interviews, talk shows, plays and the majority of films in the standard form of the language or a familiar variety.
+> Can scan quickly through long and complex texts, locating relevant details.
+Can quickly identify the content and relevance of news items, articles and reports on a wide range of professional topics, deciding whether closer study is worthwhile.
+
 
 
 
@@ -170,7 +168,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> བརྙན་འཕྲིན་གྱི་ལས་རིམ་དཔེར་ན། བཅར་འདྲི་དང། གཏམ་བཤད་ཐུང་ཐུང་། སྙན་ཐོ་གསར་པར་རང་ཉིད་ཀྱི་དོ་དབྱིངས་ཡོད་པའི་བརྗོད་གཞིའི་ཐོག་དལ་པོ་དང་གསལ་པོ་ངང་ལན་སྤྲོད་བྱེད་ན་ཤེས་ཀྱི་ཡོད། 
+> དགོས་ངེས་ཀྱི་གནས་ཚུལ་འཚོལ་ཞིབ་བྱེད་པར་ཡི་གེ་རིང་པོ་དག་ལ་མིག་ཤར་རྒྱག་ཐུབ་ལ། ལས་དོན་བྱེ་བྲག་པ་ཞིག་ལེགས་སྒྲུབ་ཡོང་བར་དེབ་འདྲ་མིན་ནམ། དེབ་ཅིག་གི་དུམ་མཚམས་འདྲ་མིན་ལས་གནས་ཚུལ་བསྡུ་རུབ་བྱེད་ཐུབ།
+དྲ་ཚིགས་དང་། ངོ་སྤྲོད་དེབ་ཆུང་། དུས་དེབ་བཅས་ཀྱི་ནང་གི་གཡོལ་ཟོལ་མེད་པའི་དངོས་ཡོད་ཀྱི་ཡི་གེ་དག་ལ་མིག་ཤར་རྒྱག་ཐུབ་ལ། དེ་ཚོ་ག་རེའི་སྐོར་ཡིན་པ་ངོས་འཛིན་བྱས་ཏེ་ཁ་ཡོད་ལག་ཡོད་ཀྱི་བེད་སྤྱོད་ཡིན་སྲིད་པའི་གནས་ཚུལ་ཡོད་མེད་ཐག་གཅོད་བྱེད་ཐུབ། 
+
 
 
 
@@ -185,7 +185,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can understand a large part of many TV programmes on topics of personal interest such as interviews, short lectures and news reports when the delivery is relatively slow and clear.
+> Can scan longer texts in order to locate desired information, and gather information from different parts of a text, or from different texts in order to fulfil a specific task.
+Can scan through straightforward, factual texts in magazines, brochures or on the web, identify what they are about and decide whether they contain information that might be of practical use.
+
 
 
 
@@ -206,8 +208,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> གློག་བརྙན་མང་པོའི་སྒྲུང་གི་ནང་དུ་མིག་མཐོང་དང་བྱ་བ་བྱེད་སྐབས་སྐད་ཡིག་རྣམས་ཁ་རུ་ཁ་ཐུག་དང་གསལ་པོའི་ངང་ལན་སྤྲོད་བྱེད་ན་དེ་བཞིན་རྗེས་མཐུད་བྱེད་ཐུབ། 
-བརྙན་འཕྲིན་གྱི་ལས་རིམ་དུ་རྒྱུས་མངའ་ཡོད་པའི་བརྗོད་གཞིའི་ཐོག་དལ་པོ་དང་གསལ་པོའི་ངང་ལན་སྤྲོད་བྱེད་པ་ན་དོན་ཚན་གལ་ཆེ་བ་རྣམས་རྟོགས་ཐུབ།
+> གཞུང་འབྲེལ་གྱི་ཡིག་ཆ་ཐུང་ཐུང་དང་། ངོ་སྤྲོད་དེབ་ཆུང་། གཏོང་ཡིག་ལྟ་བུའི་འཆར་ཅན་གྱི་རྒྱུ་ཆ་དག་ལས་འབྲེལ་ཡོད་ཀྱི་གནས་ཚུལ་དེ་འཚོལ་ཐུབ་ལ་གོ་ཐུབ་ཀྱི་ཡོད།
+སྨན་དང་ཟས་རིགས་སྟེང་གི་ཡི་གེ་དག་ལས་སྟ་གོན་དང་བེད་སྤྱོད་སྐོར་གྱི་གལ་གནད་ཆེ་བའི་གནས་ཚུལ་དེ་ངོས་འཛིན་བྱེད་ཐུབ།
+བསྐྱར་ཞིབ་བམ། ཞིབ་འཇུག་སྙན་ཐོ། ཡང་ན་རྩོམ་ཞིག་དགོས་ངེས་ཀྱི་བརྗོད་གཞི་དེའི་སྐོར་ཡིན་མིན་དཔྱད་ཞིབ་བྱེད་ཐུབ།
+གལ་སྲིད་བསྡུས་ཚིག་ཞེ་དྲག་མང་པོ་མེད་ན། དུས་དེབ་དང་ཚགས་ཤོག་ནང་གི་སྟབས་བདེ་ལ་གོ་བདེ་བའི་ཁྱབ་བསྒྲགས་ནང་གི་གནས་ཚུལ་གལ་ཆེན་དག་གོ་ཐུབ།
 
 
 
@@ -223,8 +227,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can follow many films in which visuals and action carry much of the storyline, and which are delivered clearly in straightforward language.
-Can catch the main points in TV programmes on familiar topics when the delivery is relatively slow and clear.
+> Can find and understand relevant information in everyday material, such as letters, brochures and short official documents.
+Can pick out important information about preparation and usage on the labels on foodstuff and medicine.
+Can assess whether an article, report or review is on the required topic.
+Can understand the important information in simple, clearly drafted adverts in newspapers or magazines, provided there are not too many abbreviations.
+
 
 
 
@@ -250,8 +257,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> བརྙན་འཕྲིན་གྱི་གནས་ཚུལ་དུ་བྱུང་རིམ་ངོ་སྤྲོད་དང་། དོན་རྐྱེན་སོགས་སུ་ལྟད་མོའི་འོག་ཏུ་མཆན་ཡོད་པ་ན་དོན་ཚན་གལ་ཆེ་བ་རྣམས་ངོས་འཛིན་བྱེད་ཐུབ། 
-ཁ་གསལ་ཞིང་དེ་དང་འབྲེལ་བའི་ཐོག་དལ་པོའི་ངང་བརྙན་འཕྲིན་དུ་ཚོང་ལས་ཁྱབ་བསྒྲགས་ལན་སྤྲོད་བྱེད་པ་དང་། གློག་བརྙན་གྱི་སྔོན་འགྲོའི་གསལ་བསྒྲགས་སམ་འཁྲབ་ཚན་གྱི་འབྲེལ་ཡོད་བརྗོད་གཞི་ཤེས་ཐུབ་ཅིང་། དཔར་རིས་ཀྱིས་རྟོགས་ཐུབ་པར་དེ་བས་རོགས་པ་ཆེན་པོ་བྱེད།
+> གལ་ཏེ་ཚིག་ལས་སླ་པོའི་ཐོག་ནས་བྲིས་ཡོད་ཚེ། དངོས་སུ་ལག་ལེན་དང་སྔོན་དཔག་ཐུབ་པའི་དེབ་ནང་གི་གནས་ཚུལ་ཏག་ཏག་དེ་འཚོལ་ཐུབ། དཔེར་ན། འགྲུལ་བཞུད་ལམ་སྟོན་གྱི་དེབ་དང་། ཟས་དེབ་ལྟ་བུ།
+དྲ་ཚིགས་དང་ངོ་སྤྲོད་དེབ་ཆུང་ནང་གི་ཅ་ལག་ཚོའི་འགྲེལ་བཤད་ཐུང་ལ་ཚིག་ལས་སླ་པོ་ནང་གི་གནས་ཚུལ་གཙོ་བོ་དེ་གོ་ཐུབ། དཔེར་ན། འཁྱེར་བདེ་བའི་གློག་ཆས་ཀྱི་རིགས་དང་། པར་ཆས་ལྟ་བུ། 
+
 
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
@@ -264,8 +272,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can identify the main point of TV news items reporting events, accidents, etc. where the visuals support the commentary.
-Can follow a TV commercial or a trailer for or scene from a film, understanding what topic(s) are concerned, provided the images are a great help in understanding and the delivery is clear and relatively slow.
+> Can find specific information in practical, concrete, predictable texts (e.g. travel guidebooks, recipes), provided they are produced in simple language.
+Can understand the main information in short and simple descriptions of goods in brochures and websites (e.g. portable digital devices, cameras).
 
 
 
@@ -288,7 +296,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> དངོས་འབྲེལ་ཅན་གྱི་བརྙན་འཕྲིན་གནས་ཚུལ་ཁག་ཏུ་བརྗོད་གཞི་བསྒྱུར་བ་ཐེབས་པ་དེར་རྗེས་མཐུད་དང། ནང་དོན་གཙོ་བོ་བསམ་བློར་འཆར་ཐུབ། 
+> དུས་ཚོད་རེའུ་མིག་དང་། ཐོ་གཞུང་། ཟས་དེབ། འགྲེལ་བརྗོད་དེབ་ཆུང་། ཁྱབ་བསྒྲགས་ལྟ་བུའི་ཉིན་རེའི་འཚོ་བའི་ཁྲོད་ཀྱི་རྒྱུ་ཆ་སྟབས་བདེའི་རིགས་ནང་གི་སྔོན་དཔག་ཐུབ་བའི་གནས་ཚུལ་བྱེ་བྲག་པ་འཚོལ་ཐུབ།
+ཐོ་གཞུང་མང་པོའི་ནང་ནས་གནས་ཚུལ་བྱེ་བྲག་པ་འཚོལ་ཐུབ་ལ། དགོས་ངེས་ཀྱི་གནས་ཚུལ་དེ་ལོགས་སུ་འབྱེད་ཐུབ། དཔེར་ན། ཞབས་ཞུ་བའམ། ཚོང་པ་ཞིག་འཚོལ་བར་ཤོག་ལྷེ་སེར་པོ་བེད་སྤྱོད་བྱེད་པ། 
+མེ་འཁོར་འབབ་ཚུགས་དང་། ཟ་ཁང་། སྲང་ལམ་ལྟ་བུའི་མི་མང་འཛོམས་སའི་ས་ཆ་དག་གི་ནང་གི་རྒྱུན་གཏན་གྱི་མཚོན་རྟགས་དག་དང་ཁྱབ་བསྒྲགས་ལ་སོགས་པ་གོ་ཐུབ་ལ། ལས་ཀ་བྱེད་སའི་ནང་གི་ལམ་ཕྱོགས་དང་། བཀའ་ཁྱབ། ཉེན་བརྡ་ལྟ་བུའི་རྟགས་དག་དང་གསལ་བསྒྲགས་དག་ཀྱང་གོ་ཐུབ།
+
 
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
@@ -301,7 +312,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can follow changes of topic of factual TV news items, and form an idea of the main content.
+> Can find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus, reference lists and timetables.
+Can locate specific information in lists and isolate the information required (e.g. use the Yellow Pages to find a service or tradesman).
+Can understand everyday signs and notices, etc. in public places, such as streets, restaurants, railway stations; in workplaces, such as directions, instructions, hazard warnings.
+
 
 
 <details>
@@ -324,7 +338,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->རྒྱུས་མངའ་ཡོད་པའི་ཚིག་དང་རྟགས། ཚིག་དུམ་ངོས་འཛིན་ཐུབ་ཅིང་། གནས་ཚུལ་སྙིང་བསྡུས་ཀྱི་ནང་དུ་བརྗོད་གཞིའི་ཁ་བྱང་དང་། ཁྱབ་བསྒྲགས་ཁག་ཏུ་ཅ་དངོས་མང་པོར་མིང་མཐོང་བརྡ་ལན་དང་། སྤྱིར་བཏང་ཤེས་བྱ་ཆེད་དུ་རྟོགས་ཐུབ། 
+>རྒྱུན་གཏན་གྱི་ཉིན་རེའི་གནས་སྟངས་ཕལ་ཆེ་བའི་ཁྲོད་ཀྱི་གསལ་བསྒྲགས་སྟབས་བདེ་པོ་ཚོའི་ནང་གི་ཚིག་འགྲོས་ཆེས་དཀྱུས་མ་དག་དང་། མཚོན་རྟགས་སམ་ཚིག རྒྱུས་མངའ་ཡོད་པའི་མིང་བཅས་ངོས་འཛིན་བྱེད་ཐུབ།
+ཐོག་བརྩེགས་གང་ན་སྡེ་ཚན་དག་ཡོདཔའི་གནས་ཚུལ་ལྟ་བུའི་མཛོད་ཁང་ལམ་སྟོན་དག་དང་། མགྱོགས་འདེགས་འཕྲུལ་འཁོར་གང་དུ་འཚོལ་དགོས་པའི་ལམ་ཕྱོགས་དག་ཤེས་ཐུབ།
+མགྲོན་ཁང་གི་གཞི་རྩའི་གནས་ཚུལ་དག་གོ་ཐུབ། དཔེར་ན། དུས་ཚོད་གང་དང་གང་ལ་ཁ་ལག་གྲ་སྒྲིག་ཡིན་པ་ལྟ་བུ། 
+ངོ་སྤྲོད་དེབ་ཆུང་དང་། ཤོག་ལྷེ་རེ་ཟུང་གི་ཡིག་རིགས། དམིགས་བསལ་ལས་འགུལ་ཆེད་དུ་བསྒྲིགས་པའི་མཛད་རིམ། ཁྱབ་བསྒྲགས་བཅས་ཀྱི་ནང་གི་གནས་ཚུལ་སྟབས་བདེ་ལ་གལ་ཆེན་པོ་དག་རྙེད་ཐུབ་ལ་གོ་ཡང་ཐུབ། དཔེར་ན། ཕྱོགས་སྐྱོད་ཀྱི་དུས་ཚོད་དང་། ཚོགས་འདུ་ཚོགས་སའི་ས་གནས། ཟླ་དུས་ཚེས་གྲངས། རིན་གོང་། དེ་མིན་གྲོས་འཆར་ཅི་ཞིག་འདོན་འཆར་ཡོད་པ་ལྟ་བུ། 
+
  
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
@@ -337,7 +355,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can recognise familiar words/signs and phrases and identify the topics in headline news summaries and many of the products in advertisements, by exploiting visual information and general knowledge.
+> Can recognise familiar names, words/signs and very basic phrases on simple notices in the most common everyday situations.
+Can understand store guides (information on which floors departments are on) and directions (eg. where to find lifts).
+Can understand basic hotel information (e.g. times when meals are served).
+Can find and understand simple, important information in advertisements, programmes for special events, leaflets and brochures (e.g. what is proposed, costs, the date and place of the event, departure times).
+
 
 
 <details>
@@ -359,7 +381,8 @@ Let me break it down into simpler parts:
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> མིག་མཐོང་བརྡ་ལན་དང་། སྔོན་གྱི་ཤེས་བྱ་ལ་གཞིགས་ནས་དངོས་བྱུང་བརྙན་གྱི་བརྗོད་གཞི་ངོས་འཛིན་བྱེད་ཐུབ། 
+> རླངས་འཁོར་འཇོག་ས་དང་། འབབ་ཚུགས། གསོལ་ཚིགས་ཁང་། ཐ་མག་འཐེན་མི་ཆོག་ལྟ་བུའི་ཉིན་རེའི་འཚོ་བའི་ཁྲོད་ཀྱི་རྟགས་ལས་སླ་པོ་དག་ཤེས་ཐུབ། 
+སྦྱར་ཡིག་དང་། འགྲེམ་ཡིག གསལ་བསྒྲགས་བཅས་ཀྱི་སྒང་གི་རིན་གོང་དང་། དུས་ཚོད། ས་ཆ་བཅས་ཀྱི་སྐོར་འཚོལ་ཐུབ། 
 
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
@@ -372,7 +395,8 @@ Let me break it down into simpler parts:
 
 <!-- div:right-panel -->
 
-> Can identify the subject of a video document on the basis of visual information and previous knowledge.
+> Can understand simple everyday signs such as “Parking”, “Station”, “Dining room”, “No smoking”, etc.
+Can find information about places, times and prices on posters, flyers and notices.
 
 <details>
 

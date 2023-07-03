@@ -41,9 +41,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->  གློག་བརྙན་ལས་བྱེད་ལྟར་གནས་ཚད་ངེས་ཅན་གྱི་ཁ་སྐད་དང་གཏམ་དཔེ་བེད་སྤྱོད་ཀྱིས་རྗེས་མཐུད་བྱེད་ཐུབ་ཀྱི་ཡོད།
-འགྲོ་རྒྱུག་ཅན་གྱི་བརྙན་འཕྲིན་གྱི་ལས་རིམ་དཔེར་ན། ད་ལྟའི་དཀའ་རྙོག་གི་ལས་རིམ་དང་། བཅར་འདྲི། གླེང་མོལ་ལས་རིམ། ལབ་གླེང་ལྟད་མོ་ཁག་ཏུ་གསལ་བའི་རྩོད་གླེང་རྒྱས་པ་རྣམས་ཧ་གོ་ཐུབ།
-གློག་བརྙན་ཕལ་ཆེ་བ་དང་། འཁྲབ་སྟོན་དང་བརྙན་འཕྲིན་གྱི་ལས་རིམ་དུ་སྐད་ཡིག་ཚད་ལྡན་ནམ་ཤེས་རྟོགས་སྣ་མང་དོན་སྟོན་ཆེད་དུ་བེད་སྤྱོད་པའི་བཟོ་བཀོད་དང་ཚོས་གཞི་སོགས་དབྱེ་བ་ཕྲ་མོ་རྣམས་ངས་ཤེས་ཀྱི་ཡོད། 
+>  སྐབས་ཐོག་ཀྱི་འབྲེལ་བ་དང་བརྡ་སྤྲོད། ཐ་སྙད་ཀྱི་གོ་བ་བཅས་ཀྱི་ཁུངས་སྣེ་བེད་སྤྱད་དེ་ཀུན་སློང་དང་། སེམས་ཁམས། བལྟ་སྟངས་བཅས་སྔོན་དཔག་བྱས་ནས་རྗེས་སུ་ཅི་ཞིག་ཡོང་རྒྱུར་ཚོད་དཔག་བྱེད་པར་རྩལ་དང་ལྡན་པ།
 
 
 
@@ -58,52 +56,8 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
 <!-- div:right-panel -->
 
->Can follow films employing a considerable degree of slang and idiomatic usage.
-Can understand in detail the arguments presented in demanding television broadcasts such as current affairs programmes, interviews, discussion programmes and chat shows.
-Can understand nuances and implied meaning in most films, plays and TV programmes, provided these are delivered in standard language or a familiar variety.
-
-
-
-
-<details>
-
-  <summary>Detailed explanation</summary>
-
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
-
-</details>
-
-<!-- panels:end -->
-
-
-
-
-### B2+
-<!-- panels:start -->
-<!-- div:left-panel -->
-
-> གནས་ཚུལ་དང་ད་ལྟའི་དཀའ་རྙོག་ཐོག་ལས་རིམ་ཁག་ཏུ་གསལ་བའི་རྩོད་གླེང་དང་གླེང་མོལ་འཁྲོད་གལ་གནད་ཅན་གྱི་དོན་ཚན་རྣམས་འདོན་ཐུབ་ཀྱི་ཡོད།
-བརྙན་འཔྲིན་གྱི་གནས་ཚུལ་དང་ད་ལྟའི་དཀའ་རྙོག་ཐོག་གི་ལས་རིམ་ཕལ་ཆེ་བ་རྟོགས་ཐུབ། 
-
-
-
-<details>
-  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
-
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
-</details>
-
-
-<!-- div:right-panel -->
-
->Can extract the main points from the arguments and discussions in news and current affairs programmes.
-Can understand most TV news and current affairs programmes.
+>Is skilled at using contextual, grammatical and lexical cues to infer attitude, mood and intentions and 
+anticipate what will come next.
 
 
 
@@ -128,7 +82,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> གློག་བརྙན་ཕལ་ཆེ་བར་སྐད་ཡིག་སྙོམས་པའམ་མྱོང་འདྲིས་ཅན་སྣ་མང་དུ། དངོས་བྱུང་ལྟད་མོ་དང་། ཐད་མཐོང་བཅར་འདྲི། ལབ་གླེང་ལྟད་མོ། འཁྲབ་སྟོན་ཧ་གོ་ཐུབ། 
+> སྐབས་ཐོབ་ཀྱི་འབྲེལ་བའི་ཁུངས་སྣེ་བེད་སྤྱད་ནས་གོ་བར་ཞིབ་བཤེར་བྱེད་པ་དང་། ནང་དོན་གཙོ་བོ་དག་འཚོལ་ཞིབ་བྱེད་པ་སོགས་ཀྱི་གོ་རྟོགས་ཐོབ་པར་ཐབས་ཇུས་སྣ་ཚོགས་བེད་སྤྱོད་བྱེད་ཐུབ།
+
 
 
 
@@ -144,7 +99,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can understand documentaries, live interviews, talk shows, plays and the majority of films in the standard form of the language or a familiar variety.
+> Can use a variety of strategies to achieve comprehension, including watching out for main points and checking comprehension by using contextual clues.
 
 
 
@@ -163,14 +118,16 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 
 
-
-
-
 ### B1+
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> བརྙན་འཕྲིན་གྱི་ལས་རིམ་དཔེར་ན། བཅར་འདྲི་དང། གཏམ་བཤད་ཐུང་ཐུང་། སྙན་ཐོ་གསར་པར་རང་ཉིད་ཀྱི་དོ་དབྱིངས་ཡོད་པའི་བརྗོད་གཞིའི་ཐོག་དལ་པོ་དང་གསལ་པོ་ངང་ལན་སྤྲོད་བྱེད་ན་ཤེས་ཀྱི་ཡོད། 
+> དེབ་ཅིག་ནང་གི་རྩོད་གཞི་དེ་ལེགས་པོར་རྟོགས་སླད་དུ་སྤྱི་ཡོངས་ཀྱི་རིམ་པའི་ནང་གི་དུམ་བུ་གཙོ་བོ་དག་དང་། རྒྱུ་མཚན་དང་དུས་ཚོད་ཨང་གྲངས་ལྟ་བུའི་སྦྲེལ་མཐུད་ཀྱི་རིགས་སྣ་ཚོགས་པ་བཀོལ་ཐུབ།
+
+སྤྱི་ཡོངས་ནས་དཔེ་དེབ་ཅིག་ལ་བསམ་གཞིགས་བྱས་ཏེ་དཔེ་དེབ་དེའི་ནང་གི་དུམ་བུ་ཞིག་གི་ནང་དོན་དེ་ཚོད་དཔག་བྱེད་ཐུབ།
+སོ་སོའི་དགའ་མོས་བྱེད་ས་དང་ཆེད་ལས་དང་འབྲེལ་བའི་བརྗོད་གཞིའི་སྐོར་གྱི་འབྲེལ་ཆགས་ལས་རྒྱུས་མངའ་མེད་པའི་མཚོན་རྟགས་དང་ཚིག་དག་གི་གོ་བ་དེ་ངོས་འཛིན་བྱེད་ཐུབ། 
+
+གལ་སྲིད་གྲོས་བསྡུར་བྱས་པའི་བརྗོད་གཞི་དེ་རྒྱུས་མངའ་ཅན་ཞིག་ཡིན་ན། འབྲེལ་ཆགས་དེའི་ནང་ནས་སྐབས་བབ་ཀྱི་རྒྱུས་མངའ་མེད་པའི་མཚོན་རྟགས་དང་ཚིག་དག་ཚོད་འགམ་ཐུབ་ཅིང་། ཚིག་སྒྲུབ་ཀྱི་གོ་བ་དཔོག་ཐུབ།
 
 
 
@@ -185,7 +142,13 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can understand a large part of many TV programmes on topics of personal interest such as interviews, short lectures and news reports when the delivery is relatively slow and clear.
+> Can exploit different types of connectors (numerical, temporal, logical) and the role of key paragraphs in 
+the overall organisation in order to better understand the argumentation in a text.
+Can extrapolate the meaning of a section of a text by taking into account the text as a whole.
+Can identify the meaning of unfamiliar words/signs from the context on topics related to their field and 
+interests.
+Can extrapolate the meaning of occasional unknown words/signs from the context and deduce sentence meaning, provided the topic discussed is familiar.
+
 
 
 
@@ -206,8 +169,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> གློག་བརྙན་མང་པོའི་སྒྲུང་གི་ནང་དུ་མིག་མཐོང་དང་བྱ་བ་བྱེད་སྐབས་སྐད་ཡིག་རྣམས་ཁ་རུ་ཁ་ཐུག་དང་གསལ་པོའི་ངང་ལན་སྤྲོད་བྱེད་ན་དེ་བཞིན་རྗེས་མཐུད་བྱེད་ཐུབ། 
-བརྙན་འཕྲིན་གྱི་ལས་རིམ་དུ་རྒྱུས་མངའ་ཡོད་པའི་བརྗོད་གཞིའི་ཐོག་དལ་པོ་དང་གསལ་པོའི་ངང་ལན་སྤྲོད་བྱེད་པ་ན་དོན་ཚན་གལ་ཆེ་བ་རྣམས་རྟོགས་ཐུབ།
+> འགོ་བརྗོད་དག་ནས་དཔེ་དེབ་ཀྱི་ནང་དོན་སྐོར་ལ་གཞི་རྩའི་སྔོན་དཔག་གམ་ཚོད་དཔག་བྱེད་ཐུབ།
+སྒྲུང་ཐུང་ཐུང་དག་ལ་ཉན་པའམ་བལྟས་ནས་རྗེས་སུ་ཅི་ཞིག་ཡོང་རྒྱུ་ཡིན་པ་སྔོན་དཔག་བྱེད་ཐུབ།
+སྔོན་འཚུད་ནས་དང་དེའི་རྗེས་སུ་ལྟ་བུའི་དུས་ཚོད་ཀྱི་སྦྲེལ་མཐུད་དང་། གང་ལྟར་ཡང་དང་རྒྱུ་མཚན་ལྟ་བུའི་སྤྱི་ཡོངས་ཀྱི་རྒྱུ་མཚན་སྦྲེལ་མཐུད་བཅས་ལ་གཙོ་བོར་གཞི་བཅོལ་ནས་སྒྲུང་ཞིག་གི་གནས་ཚུལ་གྱི་རིམ་པ་དེའམ། རྩོད་གཞི་དེའི་རྒྱུན་ཞིག་གི་རྗེས་སུ་འབྲང་ཐུབ། 
+རྩ་བ་དང་ཐ་སྙད། སྔོན་འཇུག་དང་རྗེས་འཇུག་ལྟ་བུའི་ཆ་ཤས་དག་ངོས་འཛིན་བྱས་པར་བརྟེན་ནས་དེབ་ཅིག་གི་ནང་གི་རྒྱུས་མངའ་མེད་པའི་ཚིག་དང་མཚོན་རྟགས་ཀྱི་གོ་བ་ཧ་ལམ་ཚོད་འགམ་བྱེད་ཐུབ།
 
 
 
@@ -223,8 +188,12 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can follow many films in which visuals and action carry much of the storyline, and which are delivered clearly in straightforward language.
-Can catch the main points in TV programmes on familiar topics when the delivery is relatively slow and clear.
+> Can make basic inferences or predictions about text content from headings, titles or headlines.
+Can watch or listen to a short narrative and predict what will happen next.
+Can follow a line of argumentation or the sequence of events in a story, by focusing on common logical connectors (e.g. however, because) and temporal connectors (e.g. after that, beforehand).
+Can deduce the probable meaning of unknown words/signs in a text by identifying their constituent parts 
+(e.g. identifying roots, lexical elements, suffixes and prefixes).
+
 
 
 
@@ -250,8 +219,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> བརྙན་འཕྲིན་གྱི་གནས་ཚུལ་དུ་བྱུང་རིམ་ངོ་སྤྲོད་དང་། དོན་རྐྱེན་སོགས་སུ་ལྟད་མོའི་འོག་ཏུ་མཆན་ཡོད་པ་ན་དོན་ཚན་གལ་ཆེ་བ་རྣམས་ངོས་འཛིན་བྱེད་ཐུབ། 
-ཁ་གསལ་ཞིང་དེ་དང་འབྲེལ་བའི་ཐོག་དལ་པོའི་ངང་བརྙན་འཕྲིན་དུ་ཚོང་ལས་ཁྱབ་བསྒྲགས་ལན་སྤྲོད་བྱེད་པ་དང་། གློག་བརྙན་གྱི་སྔོན་འགྲོའི་གསལ་བསྒྲགས་སམ་འཁྲབ་ཚན་གྱི་འབྲེལ་ཡོད་བརྗོད་གཞི་ཤེས་ཐུབ་ཅིང་། དཔར་རིས་ཀྱིས་རྟོགས་ཐུབ་པར་དེ་བས་རོགས་པ་ཆེན་པོ་བྱེད།
+> འགྲེལ་བ་མིན་འདུག
 
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
@@ -264,8 +232,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can identify the main point of TV news items reporting events, accidents, etc. where the visuals support the commentary.
-Can follow a TV commercial or a trailer for or scene from a film, understanding what topic(s) are concerned, provided the images are a great help in understanding and the delivery is clear and relatively slow.
+> Can use an idea of the overall meaning of short texts and utterances on everyday topics of a concrete type 
+to derive the probable meaning of unknown words/signs from the context.
+Can exploit their recognition of known words/signs to deduce the meaning of unfamiliar words/signs in short expressions used in routine everyday contexts.
+
 
 
 
@@ -288,7 +258,15 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> དངོས་འབྲེལ་ཅན་གྱི་བརྙན་འཕྲིན་གནས་ཚུལ་ཁག་ཏུ་བརྗོད་གཞི་བསྒྱུར་བ་ཐེབས་པ་དེར་རྗེས་མཐུད་དང། ནང་དོན་གཙོ་བོ་བསམ་བློར་འཆར་ཐུབ། 
+>སྐབས་དོན་དེའི་ནང་གི་རྒྱུས་མངའ་མེད་པའི་ཚིག་དང་མཚོན་རྟགས་དག་གི་གོ་བ་ཕལ་ཆེར་བ་རྟོགས་པར་དངོས་ཡོད་ཀྱི་ཉིན་རེའི་བརྗོད་གཞིའི་ཐད་ཀྱི་བརྗོད་པ་དང་ཡི་གེ་ཐུང་ཐུང་དག་གི་སྤྱི་ཁོག་གི་གོ་བའི་ལྟ་སྟངས་ཤིག་བེད་སྤྱོད་བྱེད་ཐུབ།
+
+འཆར་ཅན་གྱི་ཉིན་རེའི་འཚོ་བའི་ཁྲོད་དུ་བེད་སྤྱོད་བྱེད་པའི་བརྗོད་པ་ཐུང་ཐུང་དག་གི་ནང་རྒྱུས་མེད་ཀྱི་ཚིག་དང་མཚོན་རྟགས་ཀྱི་ནང་དོན་ཚོད་འགམ་བྱེད་པར་རྒྱུས་མངའ་ཅན་གྱི་ཚིག་དང་མཚོན་རྟགས་ཀྱི་གོ་བ་དེ་བཀོལ་སྤྱོད་བྱེད་ཐུབ།
+
+གསར་འགྱུར་དང་། ཁྱབ་བསྒྲགས་ཡི་གེ རྩོམ། སློབ་དེབ། གླེང་མོལ་ལམ་ཚོགས་འདུ་ལྟ་བུའི་ཡི་གེའི་རིགས་དེ་ངོས་འཛིན་བྱེད་པར་བཟོ་བལྟ་དང་། ཕྱིའི་རྣམ་པ། པར་སྐྲུན་གྱི་ཁྱད་ཆོས་དག་བཅས་བཀོལ་ཐུབ། 
+
+ཡི་གེ་ཞིག་གི་བརྗོད་གཞི་ངོས་འཛིན་བྱེད་པར་ཨང་གྲངས་དང་ཟླ་ཚེས། མིང་། དངོས་མིང་ལ་སོགས་པ་བཀོལ་ཐུབ།
+ཡི་གེ་ཞིག་གི་ནང་སོ་སོའི་གོ་ས་ནང་གི་རྒྱུས་མངའ་མེད་པའི་ཡི་གེའི་ཚོགས་དག་གི་བྱེད་ལས་དང་གོ་བ་དེ་ཚོད་འགམ་བྱེད་ཐུབ། དཔེར་ན། ཐོག་མ་ལ་འམ། མཐའ་མ་ལ་ལྟ་བུ། 
+
 
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
@@ -301,7 +279,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can follow changes of topic of factual TV news items, and form an idea of the main content.
+> Can exploit format, appearance and typographic features in order to identify the type of text: news story, 
+promotional text, article, textbook, chat or forum, etc.
+Can exploit numbers, dates, names, proper nouns, etc. to identify the topic of a text.
+Can deduce the meaning and function of unknown formulaic expressions from their position in a text (e.g. 
+at the beginning or end of a letter).
 
 
 <details>
@@ -324,7 +306,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->རྒྱུས་མངའ་ཡོད་པའི་ཚིག་དང་རྟགས། ཚིག་དུམ་ངོས་འཛིན་ཐུབ་ཅིང་། གནས་ཚུལ་སྙིང་བསྡུས་ཀྱི་ནང་དུ་བརྗོད་གཞིའི་ཁ་བྱང་དང་། ཁྱབ་བསྒྲགས་ཁག་ཏུ་ཅ་དངོས་མང་པོར་མིང་མཐོང་བརྡ་ལན་དང་། སྤྱིར་བཏང་ཤེས་བྱ་ཆེད་དུ་རྟོགས་ཐུབ། 
+>ཡི་གེ་དེ་ཤིན་ཏུ་ལས་སླ་ལ་ཉིན་རེའི་བརྗོད་གཞི་རྒྱུས་མངའ་ཅན་ཞིག་ཡིན་ཚེ། དངོས་ཡོད་ཀྱི་བྱ་བའམ་ཡུལ་ཞིག་གི་སླད་དུ་རྒྱུས་མངའ་མེད་པའི་ཚིག་དང་མཚོན་རྟགས་ཤིག་གི་གོ་བ་དེ་ཚོད་འགམ་བྱེད་ཐུབ།
+
+ནམ་རྒྱུན་དུ་བེད་སྤྱོད་བྱེད་པའི་སྐད་ཡིག་ནང་གི་གཅིག་དང་འདྲ་པོ་ཡིན་པའི་རྒྱུས་མངའ་མེད་པའི་ཚིག་གམ་མཚོན་རྟགས་ཤིག་གི་གོ་བ་ཕལ་ཆེར་ཚོད་འགམ་བྱེད་ཐུབ།
  
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
@@ -337,7 +321,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can recognise familiar words/signs and phrases and identify the topics in headline news summaries and many of the products in advertisements, by exploiting visual information and general knowledge.
+> Can deduce the meaning of an unknown word/sign for a concrete action or object, provided the 
+surrounding text is very simple, and on a familiar everyday subject.
+Can guess the probable meaning of an unknown word/sign that is similar to one in the language they 
+normally use.
 
 
 <details>
@@ -359,7 +346,7 @@ Let me break it down into simpler parts:
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> མིག་མཐོང་བརྡ་ལན་དང་། སྔོན་གྱི་ཤེས་བྱ་ལ་གཞིགས་ནས་དངོས་བྱུང་བརྙན་གྱི་བརྗོད་གཞི་ངོས་འཛིན་བྱེད་ཐུབ། 
+> པར་རིས་སམ་འདྲ་གཟུགས་ཤིག་གི་རོགས་སྐྱོར་ལ་བརྟེན་ནས་མཚོན་རྟགས་སམ་ཚིག་ཅིག་གི་གོ་དོན་དེ་ཚོད་འགམ་བྱེད་ཐུབ།
 
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
@@ -372,7 +359,7 @@ Let me break it down into simpler parts:
 
 <!-- div:right-panel -->
 
-> Can identify the subject of a video document on the basis of visual information and previous knowledge.
+> Can deduce the meaning of a word/sign from an accompanying picture or icon.
 
 <details>
 
