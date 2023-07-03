@@ -1,0 +1,354 @@
+### C2
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+> འགྲེལ་བཤད་གསལ་གྱི་མི་འདུག C1 གཟིགས་རོགས་གནང་། 
+
+
+
+
+<details>
+  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
+
+བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
+
+1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
+དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+</details>
+
+
+<!-- div:right-panel -->
+
+> No descriptors available; see C1
+
+
+
+
+<details>
+
+  <summary>Detailed explanation</summary>
+
+It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+
+</details>
+
+<!-- panels:end -->
+
+
+
+
+### C1
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+>  གློག་བརྙན་ལས་བྱེད་ལྟར་གནས་ཚད་ངེས་ཅན་གྱི་ཁ་སྐད་དང་གཏམ་དཔེ་བེད་སྤྱོད་ཀྱིས་རྗེས་མཐུད་བྱེད་ཐུབ་ཀྱི་ཡོད།
+འགྲོ་རྒྱུག་ཅན་གྱི་བརྙན་འཕྲིན་གྱི་ལས་རིམ་དཔེར་ན། ད་ལྟའི་དཀའ་རྙོག་གི་ལས་རིམ་དང་། བཅར་འདྲི། གླེང་མོལ་ལས་རིམ། ལབ་གླེང་ལྟད་མོ་ཁག་ཏུ་གསལ་བའི་རྩོད་གླེང་རྒྱས་པ་རྣམས་ཧ་གོ་ཐུབ།
+གློག་བརྙན་ཕལ་ཆེ་བ་དང་། འཁྲབ་སྟོན་དང་བརྙན་འཕྲིན་གྱི་ལས་རིམ་དུ་སྐད་ཡིག་ཚད་ལྡན་ནམ་ཤེས་རྟོགས་སྣ་མང་དོན་སྟོན་ཆེད་དུ་བེད་སྤྱོད་པའི་བཟོ་བཀོད་དང་ཚོས་གཞི་སོགས་དབྱེ་བ་ཕྲ་མོ་རྣམས་ངས་ཤེས་ཀྱི་ཡོད། 
+
+
+
+<details>
+  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
+
+བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
+
+1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
+དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+</details>
+
+<!-- div:right-panel -->
+
+>Can communicate clearly detailed distinctions between ideas, concepts and things that closely resemble one other.
+Can give instructions on carrying out a series of complex professional or academic procedures.
+
+
+
+
+<details>
+
+  <summary>Detailed explanation</summary>
+
+Let me break it down into simpler parts:
+
+1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
+Example: "The sky is blue today" is a clear and simple sentence.
+
+</details>
+
+<!-- panels:end -->
+
+
+
+
+### B2+
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+> རྙོག་འཛིངས་ཆེ་བའི་བརྡ་ལན་སྤྲོད་རྒྱུའི་སྐོར་བཤད་ཐུབ་པ་དང། ཁོ་ཚོའི་ཆེད་ལས་དང་འབྲེལ་ཡོད་ཐོག་ལ་བསམ་ཚུལ་བཏོན་ཤེས་ཀྱི་ཡོད།  ཁོང་ཚོའི་འཚོ་ཐབས་དང་འབྲེལ་བའི་གནད་དོན་རིམ་པ་ཚང་མའི་བསླབ་བྱ་དང་རྙོག་འཛིངས་ཅན་གྱི་གནས་ཚུལ་མཁོ་སྤྲོད་བྱེད་ཐུབ།
+
+
+
+<details>
+  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
+
+བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
+
+1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
+དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+</details>
+
+
+<!-- div:right-panel -->
+
+>Can communicate complex information and advice on the full range of matters related to their 
+occupational role.
+
+
+
+
+<details>
+
+  <summary>Detailed explanation</summary>
+
+Let me break it down into simpler parts:
+
+1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
+Example: "The sky is blue today" is a clear and simple sentence.
+
+</details>
+
+<!-- panels:end -->
+
+
+
+
+### B2
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+> གནས་ཚུལ་ཞིབ་ཕྲ་རྣམས་བློས་བཀས་ཆོག་པའི་ངང་ནས་བཤད་ཐུབ་ཀྱི་ཡོད། ཞིབ་ཕྲའི་གནས་ཚུལ་ཁུངས་ཐུབ་པོའི་སྒོ་ནས་མཁོ་སྤྲོད་བྱེད་ཐུབ།
+བྱ་བའི་བརྒྱུད་རིམ་ཇི་ལྟར་སྤེལ་དགོས་མིན་སྐོར་འགྲེལ་བཤད་ཁ་གསལ་པོ་དང། ཞིབ་ཅིང་ཕྲ་བ་རྒྱག་ཐུབ་ཀྱི་ཡོད། བྱ་བའི་རྒྱུད་རིམ་ཞིག་ཇི་ལྟར་ལག་ལེན་དུ་བསྟར་བར་འགྲེལ་བཤད་ཞིབ་ཕྲ་དང་ཁ་གསལ་པོ་ཞིག་རྒྱག་ཐུབ།
+
+
+
+
+<details>
+  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
+
+བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
+
+1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
+དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+</details>
+
+
+<!-- div:right-panel -->
+
+> Can communicate detailed information reliably.
+Can give a clear, detailed description of how to carry out a procedure.
+
+
+
+<details>
+
+  <summary>Detailed explanation</summary>
+
+Let me break it down into simpler parts:
+
+1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
+Example: "The sky is blue today" is a clear and simple sentence.
+
+</details>
+
+<!-- panels:end -->
+
+
+
+
+
+
+### B1+
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+> དཀའ་ངལ་དག་གནད་ལ་འཁེལ་བའི་སྒོ་ནས་དང། བསམ་ཚུལ་བཏོན་ནས་གནད་དོན་ནང་གི་གཙོ་གནད་གསལ་བཤད་བྱེད་ཐུབ་ཀྱི་ཡོད།  དཀའ་ངལ་ལམ་བསམ་ཚུལ་ཞིག་གི་གནད་དོན་གཙོ་བོ་དག་རྒྱུ་མཚན་དང་ལྡན་པའི་སྒོ་ནས་འགྲེལ་བཤད་བྱེད་ཐུབ།
+ཞིབ་ཕྲའི་ལམ་སྟོན་དག་བྱས་ནས་ཅི་ཞིག་ཇི་ལྟར་བྱེད་དགོས་མིན་འགྲེལ་བཤད་རྒྱག་ཐུབ།
+
+
+
+<details>
+  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
+
+བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
+
+1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
+དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+</details>
+
+<!-- div:right-panel -->
+
+> Can explain the main points in an idea or problem with reasonable precision.
+Can describe how to do something, giving detailed instructions.
+
+
+
+<details>
+
+  <summary>Detailed explanation</summary>
+
+Let me break it down into simpler parts:
+
+1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
+Example: "The sky is blue today" is a clear and simple sentence.
+
+</details>
+
+<!-- panels:end -->
+
+### B1
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+> རྒྱུས་མངའ་ཡོད་པའི་བརྗོད་གཞི་ཞིག་གི་ཐོག་ཁ་རུ་ཁ་ཐུག་གི་འབྱོར་བརྡ་འབུལ་ཐུབ་ཀྱི་ཡོད། དཔེར་ན། ཁོ་ཚོས་གྲ་སྒྲིག་སྔོན་ནས་ཐུབ་ཆེད་གནད་དོན་ཞིག་གི་དཀའ་ངལ་གསལ་བཤད་བྱེད་པའམ། ལམ་ཕྱོགས་ཁ་གསལ་པོ་སྟོན་ཡ།  གལ་སྲིད་སྔོན་ཚུད་ནས་གྲ་སྒྲིག་བྱེད་ཆོག་ན། ཞིབ་ཕྲའི་ཁ་ཕྱོགས་བརྗོད་པའམ། དཀའ་ངལ་ཞིག་གི་རང་བཞིན་སྟོན་པ་ལྟ་བུའི་རྒྱུས་མངའ་ཡོད་པའི་བརྗོད་གཞི་ཞིག་གི་སྐོར་གྱི་ཁ་རེ་ཁ་ཐུག་དང་དངོས་ཡོད་ཀྱི་གནས་ཚུལ་དེ་སྙན་སེང་ཞུ་ཐུབ།
+
+
+
+
+<details>
+  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
+
+བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
+
+1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
+དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+</details>
+
+<!-- div:right-panel -->
+
+> Can report straightforward factual information on a familiar topic, for example to indicate the nature of a problem or to give detailed directions, provided they can prepare beforehand.
+
+
+
+<details>
+
+  <summary>Detailed explanation</summary>
+
+Let me break it down into simpler parts:
+
+1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
+Example: "The sky is blue today" is a clear and simple sentence.
+
+</details>
+
+<!-- panels:end -->
+
+
+
+
+### A2
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+> "དང་པོ།" "དེ་ནས།" "མཐར།"ལྟ་བུའི་གོ་རིམ་སྟོན་པའི་སྦྲེལ་མཐུད་ཀྱི་ཚིག་དང་མཉམ་དུ།'གཡས་ཕྱོགས་ལ་བསྒྱུར།' 'ཁ་ཐུག་རྒྱུགས།'ལྟ་བུའི་གཞི་རྩའི་བརྗོད་པ་བེད་སྤྱད་ནས་ཀ་ནས་ཁ་བར་ཇི་ལྟར་འགྲོ་དགོས་པའི་ཁ་ཕྱོགས་ལས་སླ་པོ་དག་སྟོན་ཐུབ།
+
+
+
+<details>
+  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
+
+བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
+
+1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
+དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+</details>
+
+<!-- div:right-panel -->
+
+> Can give simple directions on how to get from X to Y, using basic expressions such as “turn right” and “go straight”, along with sequential connectors such as “first”, “then” and “next”.
+
+
+
+<details>
+
+  <summary>Detailed explanation</summary>
+
+Let me break it down into simpler parts:
+
+1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
+Example: "The sky is blue today" is a clear and simple sentence.
+
+</details>
+
+<!-- panels:end -->
+
+
+
+
+### A1
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+>དངོས་པོ་ཞིག་གི་མིང་འདོན་ཤེས་པ་དང། མི་གཞན་ལ་སྟོན་དུས་ཚིག་དང་མཚོན། ཚིག་ཚོགས། སོགས་བེད་སྤྱོད་བྱས་ནས་དེའི་དབྱིབས་དང་ཁ་མདོག་གསལ་པོ་སྟོན་ཐུབ་ཀྱི་ཡོད། གལ་སྲིད་སྔོན་ནས་གྲ་སྒྲིག་བྱེད་ཆོག་ན། དངོས་པོ་ཞིག་གཞན་ལ་བསྟན་ནས་ཚིག་ཚོགས་དང་། ཚིག་འགྲོས། རྒྱུན་སྤྱོད་ཀྱི་ཚིག་རྐྱང་པ་དང་མཚོན་རྟགས་བཅས་བེད་སྤྱད་ནས་དེའི་མིང་ལབ་ཐུབ་ལ་དེའི་དབྱིབས་དང་ཁ་དོག་ཀྱང་སྟོན་ཐུབ།
+
+
+<details>
+  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
+
+བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
+
+1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
+དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+</details>
+
+<!-- div:right-panel -->
+
+> Can name an object and indicate its shape and colour while showing it to others using basic words/signs, phrases and formulaic expressions, provided they can prepare in advance.
+
+
+
+<details>
+
+  <summary>Detailed explanation</summary>
+
+Let me break it down into simpler parts:
+
+1. Can communicate very basic information about personal details in a simple way.
+
+</details>
+
+<!-- panels:end -->
+
+
+
+
+### pre-A1
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+> འགྲེལ་བཤད་གསལ་ཁ་མི་འདུག།
+
+<details>
+  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
+
+བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
+
+1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
+དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+</details>
+
+<!-- div:right-panel -->
+
+> No descriptors available
+
+<details>
+
+  <summary>Detailed explanation</summary>
+
+Let me break it down into simpler parts:
+
+1. Can communicate very basic information about personal details in a simple way.
+
+</details>
+
+<!-- panels:end -->
+

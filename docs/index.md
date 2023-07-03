@@ -7,7 +7,7 @@
 </br>
 
 ###   ལེན་རྩལ། &nbsp; &nbsp; - &nbsp; [Reception](/reception/content.md)
-###   གཏོང་རྩལ།  &nbsp;  - &nbsp; [Production](/)
+###   གཏོང་རྩལ།  &nbsp;  - &nbsp; [Production](/production/content.md)
 ###   གླེང་མོལ། &nbsp; &nbsp; - &nbsp; [Interaction](/interaction/content.md)
 ###   མཚམས་སྦྱོར། &nbsp;  - &nbsp; [Mediation](/) 
 ###   སྐད་ཡིག་སྣ་མང་། &nbsp; - &nbsp; [Plurillingual](/)
