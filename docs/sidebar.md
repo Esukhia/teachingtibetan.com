@@ -1,5 +1,11 @@
-
 - [CEFR](/)
+    - [ལེན་རྩལ།](/reception/content.md)
+    - [གཏོང་རྩལ།](/production/content.md)
+    - [གླེང་མོལ།](/interaction/content.md)
+    - [མཚམས་སྦྱོར།](/)
+    - [སྐད་ཡིག་སྣ་མང་།](/)
+    - [སྐད་བརྡ།](/communicative/content.md)
+
 - [LINK-01](link-01.md)
 - [LINK-02](link-02.md)
 
