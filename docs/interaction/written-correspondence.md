@@ -2,9 +2,7 @@
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> ཐད་སྲིང་དྲ་ཐོག་གི་བགྲོ་གླེང་སྐབས་སུ། སེམས་ཚོར་དང་གབ་ཚིག ཆོབ་ཀྱི་བཀོལ་སྤྱོད་བཅས་ཚུད་པའི་ཐོག་ནས།མཉེན་ཆ་དོད་པོ་དང་ཚོར་བ་སྐྱེན་པོའི་སྒོ་ནས་བརྗོད་བྱ་དང་མཐུན་པར་སྐད་ཆ་སྙོམ་སྒྲིག་བྱས་ཏེ། རང་ཉིད་ཀྱི་བསམ་ཚུལ་རྣམས་ཁ་གསལ་པོ་དང་གནད་ལ་འཁེལ་བ་བཤད་ཐུབ། 
-དྲ་ཐོག་གི་གྲོས་བསྡུར་ཞིག་གི་ནང་དུ་བྱུང་སྲིད་པའི་གོ་ལོག་(རིག་གཞུང་གི་གོ་ལོག་ཡང་ཚུད་ཡོད་)དང། འབྲེལ་ལམ་ཀྱི་དཀའ་ངལ། ཚོར་བའི་ཡ་ལན་རྣམས་སྔོན་ནས་ཚོད་དཔག་བྱེད་ཐུབ་ཅིང་། གནད་དུ་འཁེལ་བའི་སྒོ་ནས་གདོང་ལེན་བྱེད་ཐུབ། 
-དྲ་རྒྱའི་ཁོར་ཡུག་འདྲ་མིན་དང། འབྲེལ་མོལ་གྱི་དམིགས་ཡུལ། སྐད་ཆ་ཤོད་སྟངས་བཅས་དང་མཐུན་པའི་ཆེད་དུ།ལས་སླ་བོ་དང་མྱུར་སྟབས་སྒོ་ནས་སོ་སོའི་སྐད་གཤིས་དང་ཉམས་འགྱུར་བཅོས་སྒྲིག་བྱེད་ཐུབ།
+> ཁོ་ཚོའི་ཆེད་གཉེར་ལས་ཀའི་ནང་གལ་འགངས་ཆེ་བའི་ཡིག་འབྲེལ་གྱི་དབྱེ་བ་མི་འདྲ་བ་ཧ་ལམ་ཆ་ཚང་འོས་ཤིང་འཚམས་པའི་སྒྲ་གདངས་དང་ཁྱད་ཆོས་ལྡན་པའི་ཐོག་ནས་རྩོམ་ཐུབ།
 
 
 
@@ -20,9 +18,7 @@
 
 <!-- div:right-panel -->
 
-> Can express themselves with clarity and precision in real-time online discussion, adjusting language flexibly and sensitively to context, including emotional, allusive and joking usage.
-Can anticipate and deal effectively with possible misunderstandings (including cultural ones), communication issues and emotional reactions in an online discussion.
-Can easily and quickly adapt their register and style to suit different online environments, communication purposes and speech acts.
+> Can compose virtually any type of correspondence necessary in the course of their professional life in an appropriate tone and style.
 
 
 
@@ -44,10 +40,9 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->  ཚོགས་བཅར་བ་དུ་མ་དང་བརྗེ་རེས་དང། འབྲེལ་ལམ་གྱི་དམིགས་ཡུལ་རྟོགས་ཐུབ་ཅིང། རིག་གཞུང་གི་རྙོག་དྲ་ཚུད་པའི་བྱ་སྤྱོད་ལ་བསྡུ་ཆ་འདྲ་མིན་རྣམས་ཀྱི་ཐོག་དྲ་རྒྱའི་ཐོག་དངོས་སུ་ཚོགས་སྐབས་མཉམ་ཞུགས་བྱེད་ཐུབ། 
-རྙོག་གཞི་ཆེ་བའི་གནད་དོན་སྤྱི་མཚན་པ་ཞིག་གི་གལ་གནད་ལ་གཞིགས་པའི་ཁུངས་ལུང་འཕར་མ་བཤད་དགོས་པར་རེ་སྐུལ་བྱེད་པ་དང་། ཁུངས་ལུངས་འཕར་མ་སྤྲོད་པའི་ཐོག་ནས། ཆེད་ལས་ཡང་ན་ཤེས་ཡོན་སྐོར་གྱི་ཐད་སྲིང་དྲ་ཐོག་གྲོས་བསྡུར་ནང་གནད་དུ་འཁེལ་བའི་སྒོ་ནས་འཛུལ་ཞུགས་བྱེད་ཐུབ།
-དྲ་རྒྱའི་གླེང་མོལ་གྱི་སྐབས་བབས་ལ་གཞིགས་ནས་ཐོ་བཀོད་ལྟར་གནས་ཐུབ་ལ། དགོས་མཁོ་བྱུང་བ་ན་བརྗེ་རེས་གཅིག་གི་ནང་དུ་ཐོ་བཀོད་གཅིག་ནས་གཞན་དུ་འགྲོ་ཐུབ། 
-ལས་གནས་དང་ཤེས་ཡོན་གྱི་རྩོད་གླེང་ཐོག་དྲ་ཐོག་ཏུ་རྒྱང་བསྲིང་གི་གླེང་མོལ་དང་། ཡིག་འབྲེལ་བྱེད་སྐབས་ཚོད་དཔག་ཐུབ་པ་དང། བསྐྱར་དུ་ཚིག་ཐོ་བཀོད་པ། གདོང་ལེན་བྱེད་ནུས།
+>  སེམས་ཚོར་དང་གོ་བརྡ། ཆོབ་ཀྱི་ཁྱད་ཆོས་བེད་སྤྱོད་བྱེད་པའི་ཐོག་ནས་སྐད་ཡིག་མཉེན་པོ་དང་གནད་དུ་འཁེལ་བར་བཀོལ་སྤྱོད་བྱས་ཏེ། སྒེར་དང་འབྲེལ་བའི་ཡིག་འབྲེལ་ནང་ཁོ་ཚོས་རང་ཉིད་ཀྱི་བསམ་བློ་ཁ་གསལ་དང་ཏག་ཏག་ཅིག་གསལ་བཤད་བྱེད་ཐུབ།
+གནས་ཚུལ་གསལ་བཤད་དང་། སྙན་ཞུ། ངོ་སྤྲོད་རྒྱབ་གཉེར། ཞུ་གཏུགས། གདུང་སེམས་མཉམ་བསྐྱེད། སེམས་གསོའི་འཕྲིན་ཡིག་ལྟ་བུའི་གཞུང་འབྲེལ་གྱི་ཡིག་འབྲེལ་རྣམས་རྣམ་འགྱུར་ཡག་པོ་དང་ནོར་འཁྲུལ་མེད་པའི་སྒོ་ནས་རྩོམ་ཐུབ།
+
 
 
 
@@ -64,10 +59,8 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
 <!-- div:right-panel -->
 
->Can engage in real-time online exchanges with several participants, understanding the communicative intentions and cultural implications of the various contributions.
-Can participate effectively in live, online professional or academic discussion, asking for and giving further clarification of complex, abstract issues as necessary.
-Can adapt their register according to the context of online interaction, moving from one register to the other within the same exchange if necessary.
-Can evaluate, restate and challenge arguments in professional or academic live online chat and discussion.
+>Can express themselves with clarity and precision in personal correspondence, using language flexibly and effectively, including emotional, allusive and joking usage.
+Can, with good expression and accuracy, compose formal correspondence such as letters of clarification, application, recommendation, reference, complaint, sympathy and condolence.
 
 
 
@@ -93,7 +86,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> དྲ་ཐོག་མཉམ་བརྗེ་དང། སྔོན་གྱི་བསྡུ་བྱ་དེར་རྒྱུན་མཐུད་བྱེད་ཅིང། རིག་གཞུང་གི་དཀའ་ངལ་བྱ་སྤྱོད་རྣམས་ཤེས་པའི་ཐོག་ཡ་ལན་རན་པ་ཞིག་སྤྲོད་ཐུབ། 
+> སྒེར་གྱི་ཡིག་འབྲེལ་ནང་མྱོང་ཚོར་ཞིབ་ཚགས་པོའི་སྒོ་ནས་འགྲེལ་བརྗོད་བྱེད་པ་དང་། སེམས་གསོའི་དྲི་བ་འདོན་པ། ཕྱོགས་གཉིས་ཀའི་དོ་སྣང་བྱ་ཡུལ་གྱི་གནད་དོན་གླེང་བའི་ཆེད་དུ།སྐད་ཡིག་གནད་དུ་འཁེལ་བ་དང་ཆུ་རྒྱུག་རྒྱུག་གི་སྒོ་ནས་འབྲེལ་ལམ་རྒྱུན་སྐྱོང་བྱེད་ཐུབ།
+ཡིག་འབྲེལ་དང་འབྲེལ་ལམ་གཞན་པའི་གནད་དོན་ཕལ་ཆེ་བའི་ཁ་དཔེའི་བརྡ་སྟོན་དང། ཕལ་སྐད་རྣམས་ཤེས་ཐུབ་ཅིང། གནས་སྟངས་ལ་གཞིགས་པའི་ཧ་ལམ་ཡོངས་གྲགས་དེ་སོ་སོས་བེད་སྤྱོད་བྱེད་ཐུབ།  
+འོས་ཤིང་འཚམ་པའི་ཐ་སྙད་ཀྱི་གནས་ཚད་དང་། སྒྲོམ་གཞི། འབྲི་སྟངས་བཅས་བེད་སྤྱོད་བྱེད་པའི་སྒོ་ནས། འདྲི་རྩད་དང་། འབོད་སྐུལ། སྙན་ཞུ། ཞུ་གཏུགས་ཀྱི་འཕྲིན་ཡིག་ལྟ་བུའི་གཞུང་འབྲེལ་གྱི་ཡིག་འབྲེལ་འབྲི་ཐུབ།
+རྒྱབ་རྟེན་གྱི་ཆེད་དུ་རྒྱས་བཤད་དང་རང་འདོད་བཞིན་གྲུབ་འབྲས་ཀྱི་བསྒྲགས་གཏམ་རྣམས་ལ་དྲག་ཤུགས་ལྡན་ནའང། གུས་བཀུར་གྱི་རྣམ་པའི་ཐོག་ཞུ་གཏུགས་འཕྲིན་ཡིག་རྩོམ་ཐུབ།
+
 
 
 
@@ -110,7 +107,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can engage in online exchanges, linking their contributions to previous ones in the thread, understanding cultural implications and reacting appropriately.
+> Can maintain a relationship through personal correspondence using the language fluently and effectively to give detailed descriptions of experiences, pose sympathetic questions and follow up issues of mutual interest.
+Can in most cases understand idiomatic expressions and colloquialisms in correspondence and other communications and use the most common ones themselves as appropriate to the situation.
+Can compose formal correspondence such as letters of enquiry, request, application and complaint using appropriate register, structure and conventions.
+Can compose a forceful but polite letter of complaint, including supporting details and a statement of the desired outcome.
+
 
 
 
@@ -135,9 +136,12 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> དྲ་རྒྱའི་བགྲོ་གླེང་དུ་ཚགས་ཚུད་ཀྱི་སྒོ་ནས་མཉམ་ཞུགས་ཐུབ་ཅིང། ཚད་གཞི་ངེས་ཅན་ཐོག་དོ་དབྱིངས་ཡོད་པའི་བརྗོད་གཞིའི་ཐོག་ལྟ་ཚུལ་བཤད་པ་དང་ཡ་ལན་བྱེད་ཐུབ་ལ། ལན་སྤྲོད་མཁན་ལ་མ་བདེ་བ་དང་སྐད་ཡིག་མཁྲེགས་པོ་རྣམས་བཀག་འགོག་དང་ལན་འདེབས་བྱེད་པར་དུས་ཚོད་སྤྲོད་ཐུབ་ཀྱི་ཡོད། 
-ཚོགས་བཅར་བ་དུ་མ་ལྷན་འཛོམས་ཡོད་པའི་དྲ་ཐོག་ལྟ་ཚུལ་བརྗེ་རེས་སྐབས་མཉམ་ཞུགས་བྱེད་པ་དང། སྔོན་གྱི་བསྡུ་བྱ་རྣམས་དོན་དང་ལྡན་པའི་སྒོ་ནས་འབྲེལ་མཐུད་བྱེད་ཐུབ་ཅིང། བགྲོ་གླེང་སྟངས་འཛིན་ཐུབ་པར་སྟངས་འཛིན་བྱེད་མཁན་ཞིག་ཀྱང་སྤྲོད་ཐུབ། 
-དྲ་རྒྱར་གླེང་མོལ་བྱེད་སྐབས་གོ་ནོར་དང་འདོད་པ་མ་ཁེངས་པ་བྱུང་བ་དག །བགྲོ་གླེང་བྱེད་པོ་དང་མཉམ་འབྲེལ་བྱེད་འདོད་པ་ཞིག་བཟོ་སྟེ་སྟངས་འཛིན་བྱེད་ཐུབ།
+> ཡི་གེའི་ནང་ཚོར་བ་ངེས་ཅན་ཞིག་ལན་སྤྲོད་ཐུབ་ཅིང།  སྒེར་གྱིས་དོན་རྐྱེན་དང་མྱོང་འཚོར་གྱི་གལ་གནད་རྣམས་འབུར་འདོན་དང། གསར་འགྱུར་དང་ལྟ་ཚུལ་གྱི་ཐོག་བསམ་ཚུལ་ཡོད་པ་ཞིག་རྩོམ་འབྲི་བྱེད་ཐུབ། 
+སྒེར་དང་ཆེད་ལས་ཀྱི་འཕྲིན་ཡིག གློག་འཕྲིན་བཅས་འབྲི་སྐབས། བརྗོད་དོན་དང་འཚམ་པའི་འབྲི་ལུགས་དང་སྐད་ཡིག་གི་ཚད་གཞི་བཀོལ་སྤྱོད་བྱེད་ཐུབ།
+འོས་ཤིང་འཚམ་པའི་སྐད་ཡིག་གི་གཤིས་ཀ་དང་ལམ་ལུགས་བཀོལ་སྤྱོད་བྱེད་པའི་སྒོ་ནས། མགྲོན་བརྡ་དང་། ཐུགས་རྗེ་ཆེ་ཞུ་ཡང་ན་དགོངས་སེལ་ཞུ་བའི་རྒྱུན་སྲོལ་གྱི་གློག་འཕྲིན་ནམ་འཕྲིན་ཡིག་རྩོམ་ཐུབ།
+འོས་ཤིང་འཚམ་པའི་སྒྲོམ་གཞི་དང་ལམ་ལུགས་བཀོལ་སྤྱོད་བྱེད་པའི་སྒོ་ནས་རྒྱུན་ལྡན་མིན་པའི་ཆེད་ལས་ཀྱི་འཕྲིན་ཡིག་རྩོམ་ཐུབ་ཀྱང་། དེ་དག་དོན་དངོས་ཀྱི་གནས་ཚུལ་ལ་ཚོད་འཛིན་བྱེད་པ་ཞིག་དགོས།
+འཕྲིན་ཡིག་གམ་གློག་འཕྲིན་བརྒྱུད་ནས་ལས་དོན་བྱེ་བྲག་ཅིག་ལ་དགོས་མཁོ་ཡོད་པའི་གནས་ཚུལ་ལེན་ཐུབ་པ་དང་། གནས་ཚུལ་དེ་ཕྱོགས་བསྡུས་བྱས་ཏེ་གློག་འཕྲིན་ཐོག་ནས་མི་གཞན་ལ་བརྒྱུད་སྤྲོད་བྱེད་ཐུབ།
+
 
 
 
@@ -153,9 +157,12 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can participate actively in an online discussion, stating and responding to opinions on topics of interest at some length, provided contributors avoid unusual or complex language and allow time for responses.
-Can engage in online exchanges between several participants, effectively linking their contributions to previous ones in the thread, provided a moderator helps manage the discussion.
-Can recognise misunderstandings and disagreements that arise in an online interaction and deal with them, provided the interlocutor(s) are willing to co-operate.
+> Can compose letters conveying degrees of emotion and highlighting the personal significance of events and experiences and commenting on the correspondent’s news and views.
+Can use formality and conventions appropriate to the context when writing personal and professional letters and e-mails.
+Can compose formal e-mails/letters of invitation, thanks or apology using appropriate registers and conventions.
+Can compose non-routine professional letters, using appropriate structure and conventions, provided these are restricted to matters of fact.
+Can obtain, by letter or e-mail, information required for a particular purpose, collate it and forward it by e-mail to other people.
+
 
 
 
@@ -182,9 +189,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> ཚོགས་བཅར་བ་གཅིག་ལས་མང་བ་དང་མཉམ་དུ་དྲ་རྒྱའི་ཐོག་བརྗེ་རེས་བྱེད་ཐུབ་ཅིང། མཉམ་ཞུགས་བྱེད་མཁན་རེ་རེའི་འབྲེལ་ལམ་གྱི་དམིགས་ཡུལ་རྣམས་ངོས་འཛིན་བྱེད་ཀྱང་འགྲེལ་བཤད་རྒྱས་པ་ཞིག་མ་བྱེད་ན་གྲ་རྒྱས་པ་ཞིག་ཧ་གོ་མ་སོང། 
-སྤྱི་ཚོགས་ཀྱི་དོན་རྐྱེན་དང། ཉམས་མྱོང། བྱེད་སྒོ་རྣམས་བརྒྱུད་ལམ་དང་དྲ་ལམ་ལ་ཁུངས་བཅོལ་ཏེ། སྒེར་གྱི་ཚོར་བ་རྣམས་དྲ་རྒྱའི་ཐོག་འདོན་ཐུབ།
-
+> སྤྱི་ཡོངས་ཡང་ན་རིག་གཞུང་སྐོར་གྱི་བརྗོད་གཞི་དཔེར་ན། གཞས་ཡང་ན་གློག་བརྙན་ལྟ་བུའི་སྐོར་ལ་གསར་འགྱུར་དང་བསམ་ཚུལ་གསལ་བའི་སྒེར་གྱི་འཕྲིན་ཡིག་རྩོམ་ཐུབ།
+བསམ་ཚུལ་འདྲ་མིན་བཤད་པ་དང་། སྒེར་གྱི་ཚོར་བ་དང་ཉམས་མྱོང་ཞིབ་ཅིང་རྒྱས་པ་བརྗོད་པའི་འཕྲིན་ཡིག་རྩོམ་ཐུབ།
+ཡིག་ཐོག་ནས་ཁྱབ་བསྒྲགས་ལ་ལན་རྒྱག་ཐུབ་པ་དང་། ཁོ་ཚོར་སྤྲོ་སྣང་བྱིན་པའི་ཅ་དངོས་རྣམས་ཀྱི་སྐོར་ལ་གནས་ཚུལ་ད་དུང་མང་པོ་དྲིས་ཐུབ།
+གཞི་རྩའི་རྒྱུན་སྲོལ་གྱི་གློག་འཕྲིན་ཡང་ན་འཕྲིན་ཡིག་(དཔེར་ན། ཞུ་གཏུགས་དང་བྱ་སྤྱོད་རེ་སྐུལ་བྱེད་པ་)རྩོམ་ཐུབ།
 
 
 
@@ -199,8 +207,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can engage in real-time online exchanges with more than one participant, recognising the communicative intentions of each contributor, but may not understand details or implications without further explanation.
-Can post online accounts of social events, experiences and activities referring to embedded links and media and sharing personal feelings.
+> Can compose personal letters giving news and expressing thoughts about abstract or cultural topics such as music or film.
+Can compose letters expressing different opinions and giving detailed accounts of personal feelings and experiences.
+Can reply to an advertisement in writing and ask for further information on items that interest them.
+Can compose basic formal e-mails/letters (e.g. to make a complaint and request action).
 
 
 
@@ -224,9 +234,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> རྒྱུས་མངའ་ཡོད་པའི་བརྗོད་གཞི་དོ་དབྱིངས་ཅན་ཐོག་དྲ་རྒྱའི་སྟེང་བགྲོ་གླེང་བྱུང་བ་སྐབས་སུ་བསྡུ་བྱ་བློར་ཐད་པ་རྣམས་འདོན་ཞིང། ཡི་གེ་རྣམས་སྔོན་ཚོད་ནས་གྲ་སྒྲིག་དང་སྐད་ཡིག་བར་ཐག་སྐོང་བར་དྲ་རྒྱའི་འཕྲུལ་ཆས་བེད་སྤྱོད་བྱེད་ཅིང། ཏག་ཏག་ཅིག་བཅོས་བྱེད་ཐུབ། 
-དྲ་རྒྱའི་ཐོག་སྒེར་གྱི་ཉམས་མྱོང་དང་ཚོར་བ། དོན་རྐྱེན་རྣམས་འདོན་ཏེ། དག་ཆའི་ནོར་འཁྲུལ་དང་མཚམས་རེར་བསྐྱར་ཟློས་དང་སྒྲོམ་གཞི་ཏག་ཏག་ཅིག་མེད་ཀྱང། གཞན་གྱི་མཆན་བཀོད་བྱེད་པ་རྣམས་ལ་གྲ་རྒྱས་པོའི་ཐོག་སྒེར་སོ་སོར་ལན་འདེབས་བྱེད་ཐུབ། 
- 
+> ཉམས་མྱོང་དང་ཚོར་བ། དོན་རྐྱེན་རྣམས་གང་འཚམས་ཞིབ་ཚགས་ཐོག་འགྲེལ་བཤད་བྱེད་པའི་སྒེར་གྱི་འཕྲིན་ཡིག་རྩོམ་ཐུབ།
+དོན་དངོས་ཀྱི་རང་བཞིན་ལྡན་པའི་གློག་འཕྲིན་ཡང་ན་ཡིག་འཕྲིན་རྩོམ་ཐུབ།(དཔེར་ན། གནས་ཚུལ་སྤྲོད་པར་འབོད་སྐུལ་བྱེད་པའམ། ངེས་བརྟན་བཟོ་བའི་ཆེད་དང་ངེས་བརྟན་བཟོ་བར་འབོད་སྐུལ་བྱེད་པ།)
+རྒྱབ་རྟེན་གྱི་ཞིབ་ཕྲའི་གནས་ཚུལ་ཚད་དང་ལྡན་པའི་གཞི་རྩའི་སྙན་ཞུའི་འཕྲིན་ཡིག་ཅིག་རྩོམ་ཐུབ།
 
 
 
@@ -241,8 +251,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can post a comprehensible contribution in an online discussion on a familiar topic of interest, provided they can prepare the text beforehand and use online tools to fill gaps in language and check accuracy.
-Can make personal online postings about experiences, feelings and events and respond individually to the comments of others in some detail, though lexical limitations sometimes cause repetition and inappropriate formulation.
+> Can compose personal letters describing experiences, feelings and events in some detail.
+Can compose basic e-mails/letters of a factual nature (e.g. to request information or to ask for and give confirmation).
+Can compose a basic letter of application with limited supporting details.
+
 
 
 
@@ -267,10 +279,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> དྲ་རྒྱའི་ཐོག་སོ་སོའི་ངོ་སྤྲོད་དང་བརྗེ་རེས་སྟབས་བདེ་རིགས་སྟངས་འཛིན་ཐུབ་ཅིང། དྲི་བ་དྲིས་པ་དང་ལན་འདེབས་བྱེད་པ། རྒྱུས་གཏན་གྱི་བརྗོད་གཞི་ཚོད་དཔག་གིས་བསམ་ཚུལ་བརྗེ་ལེན་རྣམས་དུས་ཚོད་དགོས་མཁོ་འདང་བ་ཞིག་གི་ཐོག་ལན་འདེབས་བྱེད་ཅིང། དུས་ཚོད་གཅིག་ཏུ་བགྲོ་གླེང་བྱེད་པོ་གཅིག་དང་འབྲེལ་མཐུད་བྱེད་ཐུབ། 
- རྒྱུས་གཏན་གྱི་གནད་དོན་དང། སྤྱི་ཚོགས་ཀྱི་བྱེད་སྒོ། ཚོར་བ་རྣམས་ལས་སླ་པོ་དང་གྲ་རྒྱས་པོའི་སྒོ་ནས་དྲ་ཐོག་ཏུ་འགྲེལ་བཤད་ཐུང་ཐུང་རེ་འདོན་ཐུབ། 
-གཞན་གྱི་དྲ་ཐོག་ཏུ་འདོན་པ་དེར་ཡི་གེ་དང་རྟགས་གཉིས་ཀྱི་སྐད་ཡིག་ལས་སླ་པོ་བེད་སྤྱོད་ཀྱིས་མཆན་འདེབས་པ་དང། བརྒྱུད་ལམ་གྱི་བརྒྱུད་ནས་ཧང་སངས་པའི་ཚོར་བ་བྱུང་བ་དང། དབྱིངས་ཡོད་པ། མ་འདྲ་བ་བྱུང་བ་རྣམས་ལས་སླ་པོའི་སྒོ་ནས་ཡ་ལན་སྤྲོད་ཐུབ། 
-
+> གློག་འཕྲིན་ཡང་ན་འཕྲིན་ཡིག་ཐུང་ཐུང་ནང་ཡིག་འཕྲིན་གྱི་སྒོ་ནས་མི་གཞན་གྱི་དྲི་བར་ལན་འདེབས་བྱས་ཏེ་གནས་ཚུལ་བརྗེ་ལེན་བྱེད་ཐུབ།
   
 
 
@@ -285,10 +294,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can introduce themselves and manage simple exchanges online, asking and answering questions and exchanging ideas on predictable everyday topics, provided enough time is allowed to formulate responses, and that they interact with one interlocutor at a time.
-Can make short descriptive online postings about everyday matters, social activities and feelings, with simple key details.
-Can comment on other people’s online postings, provided they are written/signed in simple language, reacting to embedded media by expressing feelings of surprise, interest and indifference in a simple way.
-
+> Can exchange information by text message, by e-mail or in short letters, responding to questions from the other person (e.g. about a new product or activity).
 
 
 
@@ -311,8 +317,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> (དཔེར་ན། དུས་ཆེན་དམིགས་བསལ་དུ་དྲ་ཐོག་ཏུ་ཤོག་བུར་འཕྲིན་ཐུང་དང། གནས་ཚུལ་བརྗེ་རེས། ཐུག་རྒྱུའི་འཆར་གཞི་བཟོ་བའམ་གཏན་འཁེལ་བྱུང་མིན་) དྲ་རྒྱའི་ནང་སྤྱི་ཚོགས་འབྲེལ་ལམ་རྨང་གཞིར་ཞུགས་ཐུབ་ཀྱི་ཡོད།
-སྐད་ཡིག་གི་རྨང་གཞི་ཤེས་ཚད་བེད་སྤྱོད་ཀྱིས་དྲ་ལམ་དང་བརྒྱུད་ལམ་རྣམས་སུ་མཆན་བཟང་ངན་རྣམས་དྲ་རྒྱའི་ཕབ་བསྒྱུར་འཕྲུལ་ཆས་དང་རྒྱུ་ཆ་གཞན་རྣམས་ལ་གཞིགས་ནས་མདོར་བསྡུས་ཤིག་བཀོད་ཐུབ།
+> སྒེར་གྱི་རྒྱུན་ལྡན་རང་བཞིན་ཞིག་གི་གནས་ཚུལ་བཤད་ཐུབ། དཔེར་ན། གློག་འཕྲིན་ཡང་ན་འཕྲིན་ཡིག་ཐུང་ཐུང་ཞིག་གི་ནང་རང་ཉིད་ངོ་སྤྲོད་བྱེད་པ།
+ཐུགས་རྗེ་ཆེ་ཞུ་དང་དགོངས་སེལ་ཞུ་བའི་སྒེར་གྱི་འཕྲིན་ཡིག་ཧ་ཅང་སྟབས་བདེ་བོའི་རིགས་རྩོམ་ཐུབ།
+ཡིག་འཕྲིན་དང་གློག་འཕྲིན། སྟབས་བདེའི་ཟིན་ཐོ་ཐུང་ཐུང་རྩོམ་ཐུབ།(དཔེར་ན། མགྲོན་བརྡ་ཞིག་གཏོང་བའམ་ལན་འདེབས་བྱེད་པ། འཆར་གཞི་ཞིག་གཏན་འཁེལ་བཟོ་བའམ་འགྱུར་བ་གཏོང་བ།)
+འཚམས་འདྲིའི་ཤིས་ཤོག་ཅིག་གི་ནང་ལ་འཕྲིན་ཐུང་ཐུང་ཞིག་རྩོམ་ཐུབ།(དཔེར་ན། མི་ཞིག་གི་སྐྱེས་སྐར་ཡང་ན། ཁོང་ཚོར་ལོ་གསར་ལ་བཀྲ་ཤིས་བདེ་ལེགས་ཞེས་སྨོན་འདུན་ཞུ་རྒྱུའི་ཆེད།)
+
 
 
   
@@ -329,8 +338,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can engage in basic social communication online (e.g. a simple message on a virtual card for special occasions, sharing news and making/confirming arrangements to meet).
-Can make brief positive or negative comments online about embedded links and media using a repertoire of basic language, though they will generally have to refer to an online translation tool and other resources.
+> Can convey personal information of a routine nature, for example in a short e-mail or letter introducing themselves.
+Can compose very simple personal letters expressing thanks and apology.
+Can compose short, simple notes, e-mails and text messages (e.g. to send or reply to an invitation, to confirm or change an arrangement).
+Can compose a short text in a greetings card (e.g. for someone’s birthday or to wish them a Happy New Year).
+
 
 
 
@@ -355,8 +367,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->སོ་སོའི་དབྱིངས་དང། དགའ་དང་མི་དགའ་སོགས་ཕབ་བསྒྱུར་འཕྲུལ་ཆས་བེད་སྤྱོད་ཀྱིས་ཚིག་སྒྲུབ་ཧ་ཅང་ཐུང་ཐུང་དང་འཕྲིན་ཐུང་སྟབས་བདེ་སྒྲིག་སྟེ་དྲ་ཐོག་ཏུ་བཞག་ཐུབ། 
-དྲ་ཐོག་བཞག་པའི་པར་རིས་ལྟ་བུ་དང་། དྲ་ཐག་དང་བརྒྱུད་ལམ་བཅས་ལ། བཟང་ངན་གྱི་ལེན་འདེབས་དྲ་སྤེལ་བྱེད་པའི་ཆེད་དུ། རྒྱུན་སྲོལ་གྱི་རྣམ་འགྱུར་མཚོན་ཐབས་དང་།ལས་སླ་བའི་ཚིག་གམ་རྟགས་རྣམས་བེད་སྤྱོད་བྱེད་ཐུབ་ལ། ད་དུང་མཆན་བཀོད་པ་རྣམས་ལ་ཐུགས་རྗེ་ཆེ་ཞུ་དང་དགོངས་དག་ལྟ་བུ་རྒྱུན་སྲོལ་གྱི་རྣམ་འགྱུར་སྟོན་སྟངས་ལྡན་པའི་ཐོག་ནས་ལན་འདེབས་བྱེད་ཐུབ།
+>ཚིག་མཛོད་ལ་གཞིར་བཞག་ནས། སྟབས་བདེའི་ཚིག་དང་སྤྱི་འགྲོས་ཀྱི་མཚོན་ཐབས་བཀོལ་སྤྱོད་བྱས་ཏེ། དོ་དབྱིངས་དང་། དགའ་བ་དང་མི་དགའ་བའི་སྐོར་ལ་བརྗོད་པ་ཐུང་ཐུང་རིམ་པ་བཀོད་དེ་བརྡ་འཕྲིན་དང་དྲ་ཐོག་ཁྱབ་བསྒྲགས་རྩོམ་ཐུབ།
+སྦྲག་ཤོག་སྟབས་བདེ་བོ་དང་ཐུང་ཐུང་ཞིག་རྩོམ་ཐུབ།
+གྲོགས་པོ་ཞིག་ལ་གནས་ཚུལ་ཞིག་བརྒྱུད་སྤྲོད་བྱེད་པའམ། གནད་དོན་ཞིག་འདྲི་རྩད་བྱེད་པའི་བརྡ་འཕྲིན་(དཔེར་ན་ཡིག་འཕྲིན་ཞིག་)ཧ་ཅང་སྟབས་བདེ་བོ་དང་ཐུང་ཐུང་ཞིག་རྩོམ་ཐུབ།
+
 
  
 <details>
@@ -370,8 +384,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can formulate very simple messages and personal online postings as a series of very short sentences about hobbies, likes/dislikes, etc., relying on the aid of a translation tool.
-Can use formulaic expressions and combinations of simple words/signs to post short positive and negative reactions to simple online postings and their embedded links and media, and can respond to further comments with standard expressions of thanks and apology.
+> Can compose messages and online postings as a series of very short sentences about hobbies and likes/dislikes, using simple words and formulaic expressions, with reference to a dictionary.
+Can compose a short, simple postcard.
+Can compose a short, very simple message (e.g. a text message) to friends to give them a piece of information or to ask them a question.
 
 
 <details>
@@ -393,8 +408,8 @@ Let me break it down into simpler parts:
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> ལས་སླ་བའི་རྒྱུན་སྲོལ་གྱི་རྣམ་འགྱུར་མཚོན་ཐབས་དང་སེམས་ཚོར་མགུལ་རིས་བེད་སྤྱོད་བྱས་ཏེ། དྲ་ཐོག་ཏུ་ལས་སླ་བའི་འཚམས་འདྲི་དག་འདོན་ཐུབ།  
-གལ་ཏེ་ཁོང་ཚོས་རིའུ་མིག་དང་དྲ་ཐོག་ཡིག་སྒྱུར་འཕྲུལ་ཆས་བེད་སྤྱོད་བྱས་ནས་འདེམས་ཆོག་ན། སོ་སོ་དང་འབྲེལ་བའི་ཐུང་ལ་ལས་སླ་བའི་གནས་ཚུལ་དག་དྲ་རྒྱའི་ཐོག་འདོན་ཐུབ་ལ། དཔེར་ན། དགའ་རོགས་ཀྱི་གནས་བབ་དང་། རྒྱལ་ཁོངས། ལས་ཀ་ལྟ་བུ། 
+> ཚིག་མཛོད་བེད་སྤྱོད་བྱས་ཏེ། ཚིག་སྒྲུབ་དང་བརྗོད་པ་ཐུང་ཐུང་ནང་སྒེར་གྱི་གཞི་རྩའི་གནས་ཚུལ་བཤད་ཐུབ།
+
 
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
@@ -407,8 +422,7 @@ Let me break it down into simpler parts:
 
 <!-- div:right-panel -->
 
-> Can post simple online greetings, using basic formulaic expressions and emoticons.
-Can post online short simple statements about themselves (e.g. relationship status, nationality, occupation), provided they can select them from a menu and/or refer to an online translation tool.
+> Can convey basic personal information in short phrases and sentences, with reference to a dictionary.
 
 <details>
 
