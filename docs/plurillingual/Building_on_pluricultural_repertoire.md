@@ -70,13 +70,13 @@ Can deal with ambiguity in cross-cultural communication and express their reacti
 
 Here's a breakdown of each part:
 
-1. "Can identify differences in sociolinguistic/pragmatic conventions, critically reflect on them and adjust their communication accordingly."
+"Can identify differences in sociolinguistic/pragmatic conventions, critically reflect on them and adjust their communication accordingly."
 This means that the person can recognize and understand the variations in language use and communication styles within different social and cultural contexts. They can think critically about these differences and make appropriate adjustments in their own communication to fit the specific situation.
 
-2. "Can sensitively explain the background to and interpret and discuss aspects of cultural values and practices drawing on intercultural encounters, reading, film, etc."
+"Can sensitively explain the background to and interpret and discuss aspects of cultural values and practices drawing on intercultural encounters, reading, film, etc."
 This indicates that the person can effectively describe and interpret cultural values and practices. They are able to draw upon their experiences of interacting with people from different cultures, as well as their knowledge gained from reading or watching films, to have informed discussions about various cultural aspects.
 
-3. "Can deal with ambiguity in cross-cultural communication and express their reactions constructively and culturally appropriately in order to bring clarity."
+"Can deal with ambiguity in cross-cultural communication and express their reactions constructively and culturally appropriately in order to bring clarity."
 This means that the person can handle situations where there is uncertainty or lack of clarity in cross-cultural communication. They can express their thoughts, feelings, or opinions in a constructive manner that is respectful of cultural differences. Their goal is to bring clarity and understanding to the conversation.
 
 Overall, these descriptors highlight the ability to recognize, reflect upon, and adapt to sociolinguistic and cultural variations, as well as navigate cross-cultural communication with sensitivity and clarity.
@@ -132,28 +132,28 @@ Can reflect on and explain particular ways of communicating in their own and oth
 
 Here's a simpler explanation for each part:
 
-1. "Can describe and evaluate the viewpoints and practices of different social groups, understanding the hidden values that often shape judgments and prejudices."
+"Can describe and evaluate the viewpoints and practices of different social groups, understanding the hidden values that often shape judgments and prejudices."
 This means the person can talk about and assess the beliefs and actions of various social groups. They are aware that judgments and biases often stem from underlying values.
 
-2. "Can explain their own community's and other communities' cultural assumptions, stereotypes, and prejudices."
+"Can explain their own community's and other communities' cultural assumptions, stereotypes, and prejudices."
 They can describe and clarify the cultural beliefs, preconceived notions, stereotypes, and biases of both their own community and other communities they are familiar with.
 
-3. "Can analyze and relate a document or event from one culture to similar documents or events from their own culture or other cultures they know."
+"Can analyze and relate a document or event from one culture to similar documents or events from their own culture or other cultures they know."
 They can interpret and explain a written document or occurrence from a different culture and connect it to similar things from their own culture or other cultures they are familiar with.
 
-4. "Can discuss the fairness and impartiality of information and opinions presented in media about different communities."
+"Can discuss the fairness and impartiality of information and opinions presented in media about different communities."
 They can talk about how objective and balanced the information and opinions presented in the media are when it comes to different communities, including their own.
 
-5. "Can recognize and reflect on cultural differences in behavior (e.g., gestures, speech volume) and discuss their significance for mutual understanding."
+"Can recognize and reflect on cultural differences in behavior (e.g., gestures, speech volume) and discuss their significance for mutual understanding."
 They can identify and think about the ways people from different cultures behave, such as their gestures or how loudly they speak. They can discuss why these differences matter for fostering mutual understanding.
 
-6. "In intercultural encounters, can understand that not everyone shares the same assumptions about a situation, and can respond appropriately."
+"In intercultural encounters, can understand that not everyone shares the same assumptions about a situation, and can respond appropriately."
 They can realize that what is considered normal or expected in one culture may not be the same in another culture. They can react and express themselves in a suitable manner in intercultural situations.
 
-7. "Can generally understand and interpret cultural cues in the relevant culture."
+"Can generally understand and interpret cultural cues in the relevant culture."
 They can generally comprehend and make sense of cultural signals and cues in the specific culture they are dealing with.
 
-8. "Can reflect on and explain different ways of communication in their own culture and others, as well as the risks of misunderstandings they may create."
+"Can reflect on and explain different ways of communication in their own culture and others, as well as the risks of misunderstandings they may create."
 They can think about and clarify different communication styles used in their own culture and other cultures. They are aware of the potential risks of misunderstandings that can arise from these different styles.
 
 </details>
@@ -173,7 +173,6 @@ They can think about and clarify different communication styles used in their ow
 ཐ་སྙད་ལས་སླ་པོ་བཀོལ་སྤྱོད་བྱེད་དེ། སོ་སོའི་ལྟ་སྟངས་དང་སྤྱོད་པས་མི་གཞན་པའི་ལྟ་སྟངས་དང་སྤྱོད་པ་ལ་ཇི་ལྟར་ཤུགས་རྐྱེན་ཐེབས་མིན་འགྲེལ་བཤད་རྒྱག་ཐུབ། 
 ཐ་སྙད་ལས་སླ་པོ་བེད་སྤྱོད་བྱེད་དེ། སོ་སོར་གནད་དོན་དེ་ "ཁྱད་མཚར་" ཞིག་ཏུ་སྣང་རུང་སྤྱི་ཚོགས་རིག་གཞུང་གཞན་བྱེད་མཁན་ཞིག་ལ་དེ་འབྲེལ་གྱི་གནད་ནི་ "སྤྱིར་བཏང་" ཡིན་པའི་སྐོར་གྲོས་བསྡུས་བྱེད་ཐུབ།
 ཐ་སྙད་ལས་སླ་པོ་བཀོལ་སྤྱོད་བྱེད་དེ། སོ་སོའི་རིག་གཞུང་གི་བྱ་བ་ཞིག་རིག་གཞུང་གཞན་གྱི་མི་ཡིས་མ་འདྲ་བ་ཞིག་ཏུ་མཐོང་སྲིད་པའི་སྐོར་གྲོས་བསྡུས་བྱེད་ཐུབ། 
-
 (དཔེར་ན། འཚམས་འདྲི་འདྲ་མིན་དང། ཆོ་ག་)ཉིན་རེའི་སྤྱི་ཚོགས་བརྗེ་ལེན་དང་འབྲེལ་བ་ཡོད་པའི་རིག་གཞུང་གི་ལམ་ལུགས་རྨང་གཞི་རྣམས་ལག་བསྟར་དང་ངོས་འཛིན་ཐུབ་ཀྱི་ཡོད། 
 ཉིན་རེའི་འཚམས་འདྲི་དང། ཕེབས་སྐྱེལ། ཐུགས་རྗེ་གནང་། དགོངས་དག་གི་རྣམ་འགྱུར་རྣམས་རྒྱུན་གཏན་ལད་མོས་བྱེད་རྒྱུ་ཁག་པོ་ཡོད་ཀྱང་ཏག་ཏག་ཅིག་བྱེད་ཐུབ།
 ཉིན་རེའི་འཚོ་བ་ནང་བྱེད་འཆར་ཡོད་པ་ལས་མ་འདྲ་བ་ཞིག་ལབ་འདོད་ཀྱི་སྤྱོད་པ་རྣམས་ངོས་འཛིན་གྱིས་སྟབས་བདེ་ོཔོའི་སྒོ་ནས་འགྲེལ་བཤད་རྒྱག་རྒྱུར་ཐབས་ཤེས་བྱེད་ཐུབ། 
@@ -211,22 +210,22 @@ Can discuss in simple terms the way their own culturally determined actions may 
 
 Here's a simplified explanation for each sentence:
 
-1. "Can generally act according to conventions regarding posture, eye contact, and distance from others."
+"Can generally act according to conventions regarding posture, eye contact, and distance from others."
 This means the person can typically adjust their body posture, make appropriate eye contact, and maintain an appropriate physical distance when interacting with others, following the expected social norms.
 
-2. "Can generally respond appropriately to the most commonly used cultural cues."
+"Can generally respond appropriately to the most commonly used cultural cues."
 They can generally understand and respond in a suitable manner to the cultural signals or cues that are commonly used in a specific culture.
 
-3. "Can explain features of their own culture to members of another culture or explain features of the other culture to members of their own culture."
+"Can explain features of their own culture to members of another culture or explain features of the other culture to members of their own culture."
 They can describe and clarify aspects of their own culture to people from a different culture, or they can explain features of the other culture to members of their own culture.
 
-4. "Can explain in simple terms how their own values and behaviors influence their views of other people's values and behaviors."
+"Can explain in simple terms how their own values and behaviors influence their views of other people's values and behaviors."
 They can describe, in simple terms, how their personal beliefs and actions shape their perceptions and judgments of the values and behaviors of other individuals.
 
-5. "Can discuss in simple terms how things that may seem 'strange' in another cultural context can be considered 'normal' for the people in that culture."
+"Can discuss in simple terms how things that may seem 'strange' in another cultural context can be considered 'normal' for the people in that culture."
 They can have a basic conversation about how something that might appear unusual or unfamiliar to them in another cultural context could actually be considered normal or typical for the people who belong to that culture.
 
-6. "Can discuss in simple terms how their own culturally determined actions may be perceived differently by people from other cultures."
+"Can discuss in simple terms how their own culturally determined actions may be perceived differently by people from other cultures."
 They can talk, in simple terms, about how their own behaviors, which are influenced by their culture, might be interpreted or understood differently by individuals from other cultures.
 
 These descriptors highlight the individual's ability to adapt to cultural norms, interpret and explain cultural features, understand the influence of their own culture on their perceptions, and recognize and respect cultural differences in behavior and interpretation.
@@ -270,16 +269,16 @@ Can recognise when difficulties occur in interaction with members of other cultu
 
 Here's a simplified explanation for each sentence:
 
-1. "Can recognize and apply basic cultural conventions associated with everyday social exchanges (e.g., different greetings, rituals)."
+"Can recognize and apply basic cultural conventions associated with everyday social exchanges (e.g., different greetings, rituals)."
 The person can identify and use the basic cultural customs and practices related to everyday social interactions, such as understanding and using appropriate greetings or participating in common rituals.
 
-2. "Can act appropriately in everyday greetings, farewells, and expressions of thanks and apology, although they have difficulty coping with any departure from the routine."
+"Can act appropriately in everyday greetings, farewells, and expressions of thanks and apology, although they have difficulty coping with any departure from the routine."
 They can behave in a suitable manner during everyday interactions, like greetings, farewells, expressing thanks, or apologizing. However, they may struggle if the situation deviates from the usual routine.
 
-3. "Can recognize that their behavior in an everyday transaction may convey a message different from the one they intend, and can try to explain this simply."
+"Can recognize that their behavior in an everyday transaction may convey a message different from the one they intend, and can try to explain this simply."
 They can realize that their actions during a regular interaction may communicate a message different from their intended meaning. They can make an effort to explain this in a straightforward manner.
 
-4. "Can recognize when difficulties occur in interaction with members of other cultures, even though they may not be sure how to behave in the situation."
+"Can recognize when difficulties occur in interaction with members of other cultures, even though they may not be sure how to behave in the situation."
 They can identify when challenges arise during interactions with individuals from other cultures, even if they are unsure about the appropriate behavior to adopt in that particular situation.
 
 These descriptors highlight the individual's ability to understand and apply basic cultural conventions, act appropriately in everyday social exchanges, recognize potential miscommunications, and acknowledge challenges when interacting with individuals from different cultures.
