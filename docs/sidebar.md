@@ -2,8 +2,8 @@
     - [ལེན་རྩལ།](/reception/content.md)
     - [གཏོང་རྩལ།](/production/content.md)
     - [གླེང་མོལ།](/interaction/content.md)
-    - [མཚམས་སྦྱོར།](/)
-    - [སྐད་ཡིག་སྣ་མང་།](/)
+    - [མཚམས་སྦྱོར།](/mediation/content.md)
+    - [སྐད་ཡིག་སྣ་མང་།](/plurillingual/content.md)
     - [སྐད་བརྡ།](/communicative/content.md)
 
 - [LINK-01](link-01.md)
