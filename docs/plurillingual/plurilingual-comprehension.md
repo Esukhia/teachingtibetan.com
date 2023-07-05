@@ -10,10 +10,7 @@
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 
@@ -26,8 +23,7 @@
 <details>
 
   <summary>Detailed explanation</summary>
-
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+...
 
 </details>
 
@@ -49,10 +45,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -67,10 +60,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+...
 
 </details>
 
@@ -109,10 +99,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person can utilize their understanding of different genres and patterns of language use in the languages they know to aid in understanding written or spoken texts.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In simpler terms, they can apply their knowledge of how different types of texts are structured and written in various languages to help them better comprehend and make sense of written or spoken materials. This understanding of genre conventions and textual patterns assists them in grasping the content more effectively.
 
 </details>
 
@@ -163,10 +152,24 @@ Can use their knowledge of contrasting grammatical structures and functional exp
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+They can leverage their understanding of a topic and main message in one language to comprehend texts in another language. For example, when reading short newspaper articles in different languages but on the same theme, they can use their knowledge to grasp the overall meaning.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+"Can use parallel translations of texts (e.g., magazine articles, stories, passages from novels) to develop comprehension in different languages."
+They can utilize parallel translations of texts, such as magazine articles, stories, or passages from novels, to enhance their understanding in different languages. By comparing the translations side by side, they can develop comprehension skills.
+
+"Can deduce the message of a text by exploiting what they have understood from texts on the same theme in different languages (e.g., news in brief, museum brochures, online reviews)."
+They can infer the message of a text by utilizing their understanding of texts on the same theme in different languages. For instance, when reading news in brief, museum brochures, or online reviews, they can draw upon their knowledge to deduce the intended meaning.
+
+"Can extract information from documents in different languages in their field (e.g., to include in a presentation)."
+They can extract information from documents written in different languages within their field of expertise. This allows them to gather relevant information that can be incorporated into presentations or other professional contexts.
+
+"Can recognize similarities and contrasts between the way concepts are expressed in different languages, in order to distinguish between identical uses of the same word/sign and 'false friends'."
+They can identify similarities and differences in how concepts are expressed across different languages. This skill enables them to differentiate between cases where the same word or sign is used identically and cases where similar-looking words may be "false friends" with different meanings.
+
+"Can use their knowledge of contrasting grammatical structures and functional expressions of languages in their plurilingual repertoire in order to support comprehension."
+They can utilize their understanding of the contrasting grammatical structures and functional expressions in the languages they know to aid comprehension. This knowledge helps them make sense of the language and improve their understanding.
+
+These descriptors highlight the person's ability to leverage their understanding of one language to comprehend texts in another language, use parallel translations to enhance comprehension, deduce messages from related texts, extract information from documents in their field, recognize linguistic similarities and differences, and use knowledge of grammar and functional expressions to support comprehension.
 
 </details>
 
@@ -209,9 +212,15 @@ Can use simple warnings, instructions and product information given in parallel 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+They can comprehend short announcements that are clearly articulated by combining their understanding from different language versions. By comparing and piecing together information from multiple languages, they can grasp the intended message.
 
-1. Can communicate very basic information about personal details in a simple way.
+"Can understand short, clearly expressed messages and instructions by piecing together what they understand from the versions in different languages."
+They can comprehend short messages and instructions that are clearly expressed by assembling their understanding from different language versions. By combining information from various languages, they can make sense of the content and follow the instructions.
+
+"Can use simple warnings, instructions, and product information given in parallel in different languages to find relevant information."
+They can utilize parallel information provided in different languages, such as simple warnings, instructions, and product information, to locate relevant details. By comparing the different language versions, they can extract the necessary information they are seeking.
+
+In simpler terms, these descriptors highlight the person's ability to understand short announcements, messages, instructions, and product information by piecing together information from different language versions. They can gather the intended meaning by comparing and combining information from multiple languages.
 
 </details>
 
@@ -248,9 +257,13 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person can identify international words or signs that are common across different languages. For example, they can recognize similarities like "haus/hus/house." They can use this recognition to:
 
-1. Can communicate very basic information about personal details in a simple way.
+Understand the meaning of simple signs and notices.
+Identify the likely message conveyed in a short and straightforward text.
+Follow the general content of short and basic social interactions conducted slowly and clearly in their presence.
+Deduce the intended message when someone is speaking directly to them, as long as the speech is very slow, clear, and possibly repeated if needed.
+In simpler terms, these descriptors highlight the person's ability to recognize shared words or signs between different languages. They can use this recognition to understand simple signs, make sense of basic texts, follow slow and clear social exchanges, and deduce what people are trying to communicate to them when spoken to directly, provided that the speech is slow, clear, and potentially repeated if necessary.
 
 </details>
 
@@ -268,10 +281,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -282,9 +292,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

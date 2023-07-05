@@ -29,7 +29,12 @@ Can explore similarities and differences between metaphors and other figures of 
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+This means that the person can engage in conversations or discussions about abstract and specialized subjects in a multilingual setting. They are able to switch between different languages they know and use them appropriately based on the topic or context. If needed, they can also explain the different perspectives or contributions that each language brings to the conversation.
+
+"Can explore similarities and differences between metaphors and other figures of speech in the languages in their plurilingual repertoire, either for rhetorical effect or for fun."
+They can examine and compare the similarities and differences in metaphors and other figures of speech across the languages they know. This can be done for various purposes, such as to create a persuasive impact in communication or simply for enjoyment or amusement.
+
+In simpler terms, these descriptors indicate that the person can effectively communicate in multiple languages, discussing complex topics and switching between languages if needed. They can also analyze and compare metaphors and figures of speech across different languages, using them creatively or for enjoyment.
 
 </details>
 
@@ -77,10 +82,21 @@ Can support comprehension and discussion of a text spoken, signed or written in 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person can switch between languages smoothly to aid communication in a multilingual setting. They can summarize and provide explanations in different languages they know, helping to clarify the contributions made in the conversation and the texts being referred to.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+"Can participate effectively in a conversation in two or more languages in their plurilingual repertoire, adjusting to the changes of language and catering to the needs and linguistic skills of the interlocutors."
+They can actively engage and contribute to a conversation that takes place in two or more languages they are familiar with. They adapt to language switches and accommodate the needs and language abilities of the people they are conversing with.
+
+"Can use and explain specialized terminology from another language in their plurilingual repertoire that is more familiar to the interlocutor(s), in order to improve understanding in a discussion of abstract and specialized topics."
+They can utilize and clarify specialized terms from another language they know, which the interlocutor(s) are more comfortable with, to enhance understanding during a discussion on complex and specialized subjects.
+
+"Can respond spontaneously and flexibly in the appropriate language when someone else changes to another language in their plurilingual repertoire."
+They can react and respond naturally and adaptively in the suitable language when someone else switches to another language they are familiar with.
+
+"Can support comprehension and discussion of a text spoken, signed, or written in one language by explaining, summarizing, clarifying, and expanding it in another language in their plurilingual repertoire."
+They can assist in understanding and discussing a text, whether it is spoken, signed, or written in one language, by explaining, summarizing, clarifying, and expanding on it in another language they are proficient in.
+
+These descriptors highlight the person's ability to navigate and contribute effectively in multilingual conversations, switch languages smoothly, utilize specialized terminology, and provide support for understanding and discussing texts in different languages.
 
 </details>
 
@@ -129,10 +145,24 @@ Can make use of different languages in their plurilingual repertoire to encourag
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+They can determine when it is suitable to use different languages from their language repertoire in a specific situation to enhance communication efficiency. They understand the appropriate level of language flexibility required for effective interaction.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+"Can alternate efficiently between languages in their plurilingual repertoire in order to facilitate comprehension with and between third parties who lack a common language."
+They can switch languages effectively between their language repertoire to aid understanding and communication between individuals who do not share a common language.
+
+"Can introduce into an utterance an expression from another language in their plurilingual repertoire that is particularly apt for the situation/concept being discussed, explaining it for the interlocutor when necessary."
+They can incorporate an expression from another language they know into their speech when it is fitting for the situation or concept being discussed. They can also provide an explanation for the interlocutor if needed.
+
+"Can alternate between languages in their plurilingual repertoire in order to communicate specialized information and issues on a subject in their field of interest to different interlocutors."
+They can switch between languages in their language repertoire to effectively communicate specialized information and address specific topics within their area of interest to different interlocutors.
+
+"Can make use of different languages in their plurilingual repertoire during collaborative interaction, in order to clarify the nature of a task, the main steps, the decisions to be taken, and the outcomes expected."
+They can utilize different languages from their language repertoire during collaborative interactions to provide clarity on the nature of a task, the essential steps involved, the decisions to be made, and the expected outcomes.
+
+"Can make use of different languages in their plurilingual repertoire to encourage other people to use the language in which they feel more comfortable."
+They can employ different languages from their language repertoire to encourage others to communicate in the language they feel most comfortable with.
+
+These descriptors highlight the person's ability to flexibly use different languages to enhance communication efficiency, facilitate comprehension between parties without a common language, incorporate expressions from other languages appropriately, convey specialized information, clarify tasks and outcomes during collaborative interactions, and encourage others to communicate in their preferred language.
 
 </details>
 
@@ -173,10 +203,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person can creatively utilize their limited knowledge of different languages from their language repertoire to manage unforeseen or unexpected situations in everyday contexts.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In simpler terms, they can creatively use the few languages they know to adapt and handle unexpected situations that arise in their daily life. They make the most of their language skills to navigate through unfamiliar circumstances.
 
 </details>
 
@@ -220,7 +249,15 @@ Can use a simple word/sign from another language in their plurilingual repertoir
 
 Let me break it down into simpler parts:
 
-1. Can communicate very basic information about personal details in a simple way.
+They can utilize the languages they know, even if their knowledge is limited, to effectively communicate and describe a problem or seek assistance and clarification from others.
+
+"Can use simple words/signs and phrases from different languages in their plurilingual repertoire to conduct a simple, practical transaction or information exchange."
+They can employ basic words, signs, and phrases from various languages they are familiar with to carry out uncomplicated and practical transactions or exchange information.
+
+"Can use a simple word/sign from another language in their plurilingual repertoire to make themselves understood in a routine everyday situation when they cannot think of an adequate expression in the language being used."
+When they are unable to recall an appropriate expression in the language being spoken, they can utilize a simple word or sign from another language they know to effectively convey their message and make themselves understood in typical everyday situations.
+
+In simpler terms, these descriptors highlight the person's ability to make use of their limited language knowledge in different languages to explain problems, seek help, conduct simple transactions, and communicate effectively in routine situations when they cannot find the right words or expressions in the language being used.
 
 </details>
 
@@ -256,9 +293,9 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person is able to utilize their very limited knowledge of different languages to carry out simple and practical everyday transactions with someone who is cooperative and willing to assist.
 
-1. Can communicate very basic information about personal details in a simple way.
+In simpler terms, they can rely on their limited language skills in various languages to complete straightforward and everyday tasks when interacting with someone who is supportive and willing to work together.
 
 </details>
 
@@ -276,10 +313,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -290,9 +324,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 
