@@ -10,10 +10,7 @@
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 
@@ -28,7 +25,7 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+...
 
 </details>
 
@@ -64,10 +61,11 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand a wide range of recorded and broadcast material, which includes both standard and non-standard language usage. They can comprehend and follow the content presented in various forms of recorded and broadcast material, such as audio recordings, radio programs, podcasts, or televised broadcasts.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they possess the skill to identify finer points of detail within the material they encounter. This includes understanding implicit attitudes and discerning the relationships between people as expressed in the content they consume. They are able to grasp the subtle nuances, implicit meanings, and underlying dynamics present in the material.
+
+Overall, their language comprehension skills allow them to understand and engage with a broad range of recorded and broadcast material. They can comprehend both standard and non-standard language usage, and they have the capacity to discern the finer details, including implicit attitudes and relationships between individuals within the content they encounter.
 
 </details>
 
@@ -105,10 +103,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand recordings in the standard form of the language that are typically encountered in social, professional, or academic settings. They can comprehend and follow the information presented in these recordings, which may include conversations, lectures, presentations, or discussions.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they possess the skill to identify viewpoints and attitudes expressed in the recordings. They can discern the perspectives, opinions, or attitudes of the speakers or participants involved in the recordings, alongside understanding the factual information being conveyed.
+
+Overall, their language comprehension skills allow them to understand and engage with recordings in the standard form of the language encountered in various aspects of life, such as social interactions, professional environments, or academic contexts. They can grasp the information content while also identifying the viewpoints and attitudes expressed by the individuals involved in the recordings.
 
 </details>
 
@@ -145,10 +144,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand the majority of documentaries and other recorded or broadcast material delivered in the standard form of the language. They can comprehend and follow the content presented in these recordings, which may include documentaries, audio recordings, radio programs, podcasts, or televised broadcasts.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they possess the skill to identify the mood, attitude, and other expressive elements within the material. They can discern the emotional tone, attitude, or overall mood conveyed by the speakers or participants in the recordings, providing them with a deeper understanding of the content.
+
+Overall, their language comprehension skills enable them to understand and engage with most documentaries and other recorded or broadcast material delivered in the standard form of the language. They can comprehend the information and details presented while also identifying the mood, attitude, and other expressive elements conveyed by the speakers or participants in the recordings.
 
 </details>
 
@@ -186,10 +186,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand the information content of the majority of recorded or broadcast material on topics that personally interest them. They can comprehend and follow the information presented in these recordings, which may include audio recordings, radio programs, podcasts, or televised broadcasts.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they possess the capability to grasp the information when it is delivered in clear, standard language. They can understand the facts, details, and main points being conveyed in the recordings, particularly when the language used is easily understandable.
+
+Overall, their language comprehension skills enable them to understand and engage with the information content of most recorded or broadcast material that aligns with their personal interests. They can comprehend the information presented in these recordings when it is delivered in clear, standard language, allowing them to stay informed and engaged with topics of personal interest.
 
 </details>
 
@@ -226,10 +227,11 @@ Can understand the main points and important details in stories and other narrat
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand the main points of news bulletins and simpler recorded material that cover familiar subjects. They can comprehend and grasp the essential information presented in these recordings when the delivery is relatively slow and clear.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand the main points and important details in stories and narratives, such as descriptions of holidays or personal experiences. They can follow and comprehend the central ideas and significant details conveyed in these narratives, particularly when the delivery is slow and clear.
+
+Overall, their language comprehension skills enable them to understand the main points of news bulletins and simpler recorded material on familiar subjects. They can also comprehend the central ideas and important details in stories and narratives, provided the delivery is slow and clear.
 
 </details>
 
@@ -268,10 +270,11 @@ Can understand in an interview what people say they do in their free time, what 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand the most important information conveyed in short commercials promoting goods and services of interest. They can comprehend the key details and messages presented in these commercials, such as those related to CDs, video games, or travel.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand what people say about their activities during their free time in an interview. They can grasp the information about what individuals enjoy doing, what they dislike doing, and how they spend their leisure time, provided that the interviewees speak slowly and clearly.
+
+Overall, their language comprehension skills enable them to understand the crucial information presented in short commercials advertising goods and services of interest. They can also comprehend the statements made by individuals in interviews regarding their free time activities, preferences, and dislikes, as long as the speakers communicate at a slower pace and with clear articulation.
 
 </details>
 
@@ -309,10 +312,16 @@ Can understand the important points of a story and manage to follow the plot, pr
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Certainly! The descriptor you provided can be simplified as follows:
+
+The person has the ability to understand and extract essential information from short recorded passages that cover predictable everyday matters. They can comprehend the key details and main points presented in these passages, particularly when they are delivered slowly and clearly.
+
+Additionally, they can extract important information from short broadcasts, such as weather forecasts, concert announcements, or sports results, as long as the speakers communicate clearly. They can understand the crucial information being conveyed in these broadcasts.
+
+Furthermore, they can understand the important points of a story and follow the plot, provided that the story is told slowly and clearly. They can grasp the significant aspects of the story and follow its narrative progression when it is delivered in a clear and unhurried manner.
+
+Overall, their language comprehension skills enable them to understand and extract essential information from short recorded passages on predictable everyday matters. They can comprehend important details in broadcasts, such as weather forecasts or concert announcements, and understand the important points of a story when it is told slowly and clearly.
 
 </details>
 
@@ -345,9 +354,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to pick out concrete information, such as places and times, from short recordings that cover familiar everyday topics. They can identify and comprehend specific details when the recordings are delivered at a very slow pace and with clear articulation.
 
-1. Can communicate very basic information about personal details in a simple way.
+Specifically, they can extract and understand information related to specific locations, timings, or other concrete details presented in these recordings. They have the capacity to grasp these specific pieces of information when they are delivered slowly and clearly.
+
+Overall, their language comprehension skills enable them to pick out concrete information from short recordings on familiar everyday topics. They can identify and understand details such as places and times when the recordings are presented at a very slow pace and with clear delivery.
 
 </details>
 
@@ -379,9 +390,11 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to recognize words, signs, names, and numbers that they already know in simple and short recordings. They can identify and comprehend familiar vocabulary and specific information when the recordings are delivered at a very slow pace and with clear articulation.
 
-1. Can communicate very basic information about personal details in a simple way.
+Specifically, they can recognize and understand words, signs, names, and numbers that they are already familiar with when encountered in these recordings. They have the capacity to grasp and comprehend this known information when it is presented slowly and with clear delivery.
+
+Overall, their language recognition skills enable them to identify and understand familiar words, signs, names, and numbers in simple and short recordings. They can recognize and comprehend this known information when the recordings are delivered at a very slow pace and with clear articulation.
 
 </details>
 

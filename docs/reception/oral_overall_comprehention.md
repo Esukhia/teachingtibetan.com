@@ -31,7 +31,11 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+The person has the ability to understand with ease virtually any kind of language, whether it is live or broadcast, and delivered at a fast, natural speed. They can effortlessly comprehend and grasp the content, meaning, and nuances of the language, regardless of the mode of delivery or the speed at which it is spoken.
+
+Specifically, they possess highly developed language comprehension skills that enable them to process and understand the language quickly and efficiently. They can effortlessly follow and comprehend the information, ideas, and interactions conveyed in various forms of language, including live conversations, broadcasts, speeches, or presentations, even when delivered at a fast, natural speed.
+
+Overall, their exceptional language comprehension skills allow them to effortlessly understand and grasp virtually any kind of language, whether it is live or broadcast, and delivered at a fast, natural speed. They can quickly process and comprehend the content, meaning, and nuances of the language, regardless of the mode of delivery or the speed at which it is spoken.
 
 </details>
 
@@ -70,10 +74,11 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand standard language or a familiar variety, whether it is live or broadcast. They can comprehend and grasp the content and meaning of language used in personal, social, academic, or vocational contexts, both on familiar and unfamiliar topics. Their language comprehension extends to various aspects of their daily life.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+However, their ability to understand may be influenced by factors such as extreme auditory or visual background noise, inadequate discourse structure, or idiomatic usage. These factors may pose challenges to their comprehension, but under normal conditions, they can effectively understand and comprehend the language used.
+
+Overall, their language comprehension skills enable them to understand standard language or a familiar variety in live or broadcast contexts, across a range of personal, social, academic, or vocational topics. Their ability to comprehend is generally strong, with challenges arising only in extreme background noise, inadequate discourse structure, or the presence of idiomatic expressions.
 
 </details>
 
@@ -112,10 +117,11 @@ Can follow extended discourse and complex lines of argument, provided the topic 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand the main ideas of propositionally and linguistically complex discourse, whether it is on concrete or abstract topics. They can comprehend and grasp the central concepts and key points presented in discussions delivered in standard language or a familiar variety. This includes technical discussions within their field of specialization.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can follow extended discourse and complex lines of argument when the topic being discussed is reasonably familiar to them. They have the capacity to understand the logical flow and progression of the argument, especially when the direction of the argument is clearly indicated by explicit markers or cues.
+
+Overall, their language comprehension skills enable them to understand the main ideas presented in complex discourse on both concrete and abstract topics. They can follow extended discussions and comprehend complex lines of argument when the topic is reasonably familiar to them. Moreover, they can navigate the discourse effectively when the direction of the argument is indicated by explicit markers or cues.
 
 </details>
 
@@ -153,10 +159,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand straightforward factual information about common everyday or job-related topics. They can comprehend and grasp both the general messages and specific details conveyed in the information. This understanding is facilitated when people articulate clearly and use a generally familiar variety of language.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Specifically, they can effectively process and understand the content of factual information related to common everyday or job-related topics. They can identify and comprehend the main messages or overall meaning as well as specific details that are presented. Clear articulation and the use of a generally familiar language variety enhance their comprehension.
+
+Overall, their language comprehension skills enable them to understand straightforward factual information about common everyday or job-related topics. They can identify and comprehend both the general messages and specific details presented in the information, particularly when people articulate clearly and use a generally familiar variety of language.
 
 </details>
 
@@ -191,10 +198,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand the main points expressed in clear standard language or a familiar variety on familiar matters that are regularly encountered at work, school, leisure, and other areas of life. This includes their comprehension of short narratives.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Specifically, they can effectively grasp and comprehend the key ideas and main points presented in discussions, conversations, or narratives that are delivered in clear standard language or a variety they are familiar with. They can understand the content related to topics they commonly encounter in their daily life.
+
+Overall, their language comprehension skills enable them to understand the main points made in clear standard language or a familiar variety regarding familiar matters that they regularly encounter in various aspects of their life, such as work, school, and leisure. They can comprehend and grasp the key ideas and main points presented, including their understanding of short narratives.
 
 </details>
 
@@ -228,10 +236,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand enough to meet concrete needs, as long as people articulate clearly and speak at a slower pace.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Specifically, they can comprehend and understand information that is necessary to fulfill practical and tangible needs. This could include understanding instructions, following directions, or grasping essential information related to everyday tasks or specific situations. However, their comprehension relies on clear and slow articulation from others.
+
+Overall, their language comprehension skills enable them to understand enough to meet concrete needs, given that people communicate clearly and speak at a slower pace. They can comprehend and grasp the necessary information to fulfill practical requirements or navigate specific situations, as long as the communication is clear and deliberate.
 
 </details>
 
@@ -263,10 +272,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand phrases and expressions related to areas of immediate priority. These areas may include very basic personal and family information, shopping, local geography, and employment. However, their comprehension relies on clear and slow articulation from others.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Specifically, they can comprehend and understand the essential phrases and expressions that are relevant to their immediate needs and priorities. This may involve understanding basic information about themselves, their family, or their surroundings. They can also understand simple conversations related to shopping or employment. However, clear and slow articulation from others is necessary for their understanding.
+
+Overall, their language comprehension skills enable them to understand phrases and expressions related to areas of immediate priority, such as personal and family information, shopping, local geography, and employment. Their comprehension is enhanced when people articulate clearly and speak at a slower pace, allowing them to grasp the necessary information for their immediate needs.
 
 </details>
 
@@ -302,9 +312,11 @@ Can recognise concrete information (e.g. places and times) on familiar topics en
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to follow language that is spoken very slowly and carefully articulated, with long pauses to allow them to assimilate the meaning. They can understand and comprehend the content when it is delivered at a significantly reduced pace.
 
-1. Can communicate very basic information about personal details in a simple way.
+Additionally, they can recognize concrete information, such as places and times, related to familiar topics encountered in everyday life. However, their comprehension is contingent upon the information being delivered slowly and clearly, allowing them to grasp the details effectively.
+
+Overall, their language comprehension skills enable them to follow language that is delivered at a very slow pace and carefully articulated, with pauses to facilitate understanding. They can comprehend the content and meaning when it is presented in this manner. Furthermore, they can recognize concrete information related to familiar topics encountered in everyday life, but this understanding is dependent on the information being delivered slowly and clearly.
 
 </details>
 
@@ -339,9 +351,13 @@ Can recognise numbers, prices, dates and days of the week, provided they are del
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand short and very simple questions and statements when they are delivered slowly and clearly, and when they are accompanied by visuals or manual gestures to support understanding. Repetition may be necessary for complete comprehension.
 
-1. Can communicate very basic information about personal details in a simple way.
+Additionally, they can recognize everyday and familiar words or signs when they are delivered clearly and slowly within a defined and familiar everyday context. They can comprehend the meaning and identify these commonly used words or signs.
+
+Furthermore, they can recognize and understand numbers, prices, dates, and days of the week when they are delivered slowly and clearly within a defined and familiar everyday context. They can comprehend and grasp the numerical information conveyed.
+
+Overall, their language comprehension skills enable them to understand short and very simple questions and statements, provided they are delivered slowly and clearly and supported by visuals or manual gestures if needed. They can recognize everyday and familiar words or signs within a defined context, and they can understand numerical information such as numbers, prices, dates, and days of the week when presented in a clear and deliberate manner within a familiar context.
 
 </details>
 

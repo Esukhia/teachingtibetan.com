@@ -29,7 +29,11 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+The person has the ability to identify the sociocultural implications of most of the language used in colloquial discussions that take place at a natural speed. They can comprehend and understand the cultural nuances, social implications, and contextual meaning embedded within the language used in informal conversations.
+
+Specifically, they can recognize and interpret the social and cultural connotations, attitudes, and norms reflected in the colloquial language. They have the capacity to grasp the deeper implications and unspoken messages conveyed through informal speech, considering factors such as humor, sarcasm, politeness, and cultural references.
+
+Overall, their language comprehension skills enable them to identify the sociocultural implications of the language used in colloquial discussions at a natural speed. They can understand and interpret the cultural nuances, social cues, and contextual meaning embedded within informal conversations, providing them with a deeper understanding of the sociocultural aspects of language use.
 
 </details>
 
@@ -70,10 +74,11 @@ Can identify the attitude of each participant in an animated discussion characte
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to easily follow complex interactions between third parties in group discussions and debates, even when the topics are abstract, complex, or unfamiliar. They can comprehend and understand the dynamics, arguments, and ideas exchanged among multiple participants in these discussions.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can identify the attitude of each participant in animated discussions characterized by overlapping turns, digressions, and colloquialisms. They can discern the individual perspectives, opinions, or attitudes expressed by each participant in these dynamic conversations that occur at a natural speed and in familiar language varieties.
+
+Overall, their language comprehension skills enable them to effortlessly follow complex interactions between third parties in group discussions and debates. They can understand the content, arguments, and ideas exchanged even when the topics are abstract or unfamiliar. Furthermore, they can identify the attitude of each participant in animated discussions that involve overlapping turns, digressions, and colloquial language, providing them with a comprehensive understanding of the dynamics and perspectives within the conversation.
 
 </details>
 
@@ -109,10 +114,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to keep up with an animated conversation between proficient users of the target language. They can follow and comprehend the rapid pace, dynamic nature, and complexity of the conversation taking place among fluent speakers.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Specifically, they can effectively process and understand the content, ideas, and interactions that occur in real-time during the animated conversation. They possess the linguistic skills necessary to comprehend and respond to the information being shared, allowing them to actively participate in the conversation.
+
+Overall, their language comprehension skills enable them to keep pace with animated conversations between proficient users of the target language. They can follow the rapid flow of information, understand the content being discussed, and actively engage in the conversation alongside fluent speakers.
 
 </details>
 
@@ -157,10 +163,13 @@ Can follow chronological sequence in extended informal discourse, e.g. in a stor
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability, with some effort, to catch much of what is said around them. However, they may find it challenging to actively participate effectively in discussions with several users of the target language who do not modify their language in any way. While they can comprehend a significant portion of the conversation, they may struggle to actively engage in the discussion.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can identify the main reasons for and against an argument or idea in a discussion conducted in clear standard language or a familiar variety. They have the capability to recognize and understand the primary points presented on both sides of an argument or idea, enabling them to grasp the main perspectives being expressed.
+
+Furthermore, they can follow the chronological sequence in extended informal discourse, such as in a story or anecdote. They can comprehend the narrative flow and understand the sequence of events or information as it unfolds in the discourse.
+
+Overall, their language comprehension skills allow them to catch a significant portion of what is said around them. However, they may find it challenging to actively participate in discussions with multiple users of the target language who do not modify their language. Nonetheless, they can identify the main reasons for and against arguments or ideas and follow the chronological sequence in extended informal discourse.
 
 </details>
 
@@ -200,10 +209,11 @@ language or in a familiar variety.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to follow much of everyday conversation and discussion as long as it is clearly articulated in standard language or a familiar variety. They can comprehend and understand the content of the conversation when it is presented in a clear and understandable manner.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Specifically, they can effectively follow and comprehend the information, ideas, and interactions that occur in everyday conversations and discussions. They possess the necessary language skills to understand the content and engage in the conversation when the language used is standard or familiar to them.
+
+Overall, their language comprehension skills enable them to follow and understand much of everyday conversation and discussion. They can comprehend the content and meaning conveyed when the conversation is delivered clearly and articulately in standard language or a variety they are familiar with.
 
 </details>
 
@@ -238,10 +248,11 @@ articulated in standard language or a familiar variety.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to generally follow the main points of extended discussions happening around them when the discussions are clearly articulated in standard language or a familiar variety. They can comprehend and understand the central ideas and key points being conveyed in the discussion.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Specifically, they can effectively grasp and comprehend the main topics, arguments, or themes discussed in extended conversations. They possess the language skills necessary to understand the primary points being expressed when the language used is standard or familiar to them.
+
+Overall, their language comprehension skills enable them to generally follow the main points of extended discussions happening around them. They can comprehend and understand the central ideas and key points being conveyed when the discussions are clearly articulated in standard language or a familiar variety.
 
 </details>
 
@@ -278,10 +289,11 @@ Can recognise when people agree and disagree in a conversation conducted slowly 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to generally identify the topic of discussion happening around them when it is conducted slowly and clearly. They can comprehend and understand the subject matter or theme being discussed.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can recognize when people agree and disagree in a conversation conducted slowly and clearly. They can discern and understand the indications of agreement or disagreement expressed by the participants in the conversation.
+
+Overall, their language comprehension skills enable them to generally identify the topic of discussion happening around them when it is conducted in a slow and clear manner. They can also recognize and understand the expressions of agreement and disagreement within a conversation when it is conducted at a manageable pace with clear articulation.
 
 </details>
 
@@ -321,10 +333,11 @@ a salesperson in a shop), provided people communicate very slowly and very clear
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand some expressions used when people are discussing topics such as family, school, hobbies, or surroundings, as long as the delivery of the conversation is slow and clear. They can comprehend and grasp the meaning of certain expressions or phrases related to these familiar topics.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand words, signs, and short sentences in a simple conversation, such as one between a customer and a salesperson in a shop. They can comprehend and understand the basic communication exchanged, provided that people communicate very slowly and clearly.
+
+Overall, their language comprehension skills enable them to understand some expressions used in conversations about family, school, hobbies, or surroundings, given that the delivery is slow and clear. They can also comprehend words, signs, and short sentences in simple conversations, particularly when people communicate at a slow and deliberate pace with clear articulation.
 
 </details>
 
@@ -343,10 +356,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -357,9 +367,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

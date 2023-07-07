@@ -11,10 +11,7 @@
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 
@@ -29,10 +26,7 @@
 
   <summary>Detailed explanation</summary>
 
-Can follow specialised lectures and presentations employing colloquialism, regional usage or unfamiliar 
-terminology.
-Can make appropriate inferences when links or implications are not made explicit.
-Can get the point of jokes or allusions in a presentation.
+...
 
 
 </details>
@@ -69,10 +63,11 @@ Can get the point of jokes or allusions in a presentation.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to follow most lectures, discussions, and debates with relative ease. They can comprehend and understand the content presented in these academic or conversational contexts without significant difficulty.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Specifically, they can effectively engage with the information and ideas presented in lectures, follow the flow of discussions, and comprehend the arguments and viewpoints expressed in debates. They possess the necessary language skills to grasp the main points, follow the logical progression of ideas, and comprehend the overall content being presented.
+
+Overall, their language comprehension skills enable them to comfortably follow and understand most lectures, discussions, and debates. They can effectively engage with the content, follow the flow of information, and comprehend the key ideas and perspectives being conveyed in these contexts.
 
 </details>
 
@@ -114,10 +109,11 @@ specialised field, provided the talk is delivered in standard language or a fami
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to follow the main points and essential information presented in lectures, talks, reports, and other forms of academic or professional presentations, even when they are propositionally and linguistically complex. They can comprehend and understand the overall content and key ideas being conveyed in these complex presentations.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand the point of view expressed on topics that are of current interest or that relate to their specialized field, as long as the presentation is delivered in standard language or a familiar variety. They can grasp and comprehend the perspective, opinions, or arguments being expressed by the speaker or presenter.
+
+Overall, their language comprehension skills enable them to follow and understand the main points and essential information in complex academic or professional presentations. They can also comprehend the point of view expressed on topics relevant to their specialized field or of current interest, as long as the presentation is delivered in standard language or a familiar variety.
 
 </details>
 
@@ -161,10 +157,13 @@ Can recognise the point of view expressed and distinguish this from facts being 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to follow complex lines of argument in a clearly articulated lecture, particularly when the topic being discussed is reasonably familiar to them. They can comprehend and understand the logical progression and intricate reasoning presented in the lecture.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can distinguish the main themes or central ideas from asides or secondary points in the lecture or talk, as long as it is delivered in standard language or a familiar variety. They can identify the key concepts or overarching themes being emphasized, even amidst additional information or tangents.
+
+Furthermore, they can recognize the point of view expressed by the speaker and distinguish it from the facts being reported. They can discern between subjective opinions or perspectives and objective information or factual statements presented in the lecture.
+
+Overall, their language comprehension skills enable them to follow complex lines of argument, distinguish main themes from asides, and recognize the point of view expressed in lectures or talks. They can understand the logical progression of ideas, identify key concepts, and differentiate subjective perspectives from factual information, particularly when the language used is standard or familiar to them.
 
 </details>
 
@@ -205,10 +204,11 @@ provided these are delivered in clearly articulated standard language or a famil
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to follow a lecture or talk within their own field of expertise when the subject matter is familiar to them and the presentation is straightforward and clearly structured. They can comprehend and understand the content being presented, as long as it aligns with their area of knowledge and the delivery is clear and organized.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can distinguish between the main ideas and supporting details in standard lectures on familiar subjects. When these lectures are delivered in clearly articulated standard language or a familiar variety, they can identify the key concepts and understand the relevant supporting information that enhances their comprehension.
+
+Overall, their language comprehension skills enable them to follow lectures or talks within their field when the subject matter is familiar and the presentation is straightforward. They can distinguish between the main ideas and supporting details in standard lectures on familiar subjects, particularly when the language used is clear and the information is organized in a structured manner.
 
 </details>
 
@@ -249,10 +249,13 @@ provided the delivery is clear and relatively slow.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to follow the basic outline and main ideas of straightforward short talks on familiar topics, as long as they are delivered in clearly articulated standard language or a familiar variety. They can comprehend and understand the general content being presented.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can follow a straightforward conference presentation or demonstration within their field when visual support, such as slides or handouts, is provided. They can understand the explanations given and grasp the main points of the topic or product being discussed.
+
+Furthermore, they can understand the main points of what is said in a straightforward monologue, such as a guided tour, as long as the delivery is clear and relatively slow. They can comprehend and follow the key information being shared.
+
+Overall, their language comprehension skills enable them to follow the basic outline and main ideas of short talks on familiar topics. They can understand straightforward conference presentations or demonstrations within their field, especially when visual aids are provided. Moreover, they can understand the main points of a straightforward monologue, such as a guided tour, as long as the delivery is clear and at a relatively slow pace.
 
 </details>
 
@@ -289,10 +292,11 @@ handouts).
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to follow the general outline of a demonstration or presentation on a familiar or predictable topic. They can comprehend and understand the overall structure and main points of the message when it is expressed slowly and clearly in simple language. Visual support, such as slides or handouts, further enhances their understanding.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Specifically, they can grasp the main ideas and flow of the demonstration or presentation, as well as understand the key points being communicated. The use of simple language and visual aids allows them to follow and comprehend the content more effectively.
+
+Overall, their language comprehension skills enable them to follow the general outline of a demonstration or presentation on familiar or predictable topics. They can understand the main ideas and points of the message when it is expressed in a slow and clear manner using simple language. The presence of visual support, such as slides or handouts, further enhances their understanding of the topic.
 
 </details>
 
@@ -329,10 +333,13 @@ Can understand the outline of simple information given in a predictable situatio
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to follow a very simple and well-structured presentation or demonstration, as long as it is accompanied by slides, concrete examples, or diagrams. They can understand and comprehend the content being presented when it is delivered slowly and clearly, with repetition if necessary. Additionally, the topic being discussed should be familiar to them.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Specifically, they can grasp the main points and ideas conveyed through the visual aids, examples, or diagrams used in the presentation or demonstration. The slow and clear delivery, along with repetition, enhances their understanding of the content.
+
+Furthermore, they can understand the basic outline of simple information provided in predictable situations, such as on a guided tour. For instance, they can comprehend statements like "This is where the President lives" and understand the general context being described.
+
+Overall, their language comprehension skills enable them to follow and understand very simple and well-structured presentations or demonstrations when accompanied by visual aids, delivered slowly and clearly, and based on familiar topics. They can also grasp the basic outline of simple information presented in predictable situations, such as on a guided tour.
 
 </details>
 
@@ -367,9 +374,11 @@ tour, provided the delivery is very slow and clear and that there are long pause
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand the basic outline of very simple information being explained in a predictable situation, such as during a guided tour. They can comprehend and grasp the general idea of the information when it is delivered very slowly and clearly. Additionally, the delivery should include long pauses from time to time to aid their understanding.
 
-1. Can communicate very basic information about personal details in a simple way.
+Specifically, they can follow and understand the main points or overarching information being explained, even though the details or finer aspects may be less clear. The slow and clear delivery, along with periodic pauses, allows them to process and comprehend the basic outline of the information being shared.
+
+Overall, their language comprehension skills enable them to understand the general outline of very simple information presented in predictable situations, like a guided tour. They can grasp the main points and overarching ideas when the information is delivered at a very slow pace and with clear articulation, while the inclusion of long pauses helps facilitate their understanding.
 
 </details>
 
@@ -387,10 +396,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -401,9 +407,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

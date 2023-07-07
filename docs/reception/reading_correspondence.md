@@ -29,7 +29,11 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+The person has the ability to understand specialised and formal correspondence on a complex topic. They can comprehend and grasp the content, ideas, and information conveyed in written communication that is specific to a particular field or topic and follows formal conventions.
+
+Specifically, they possess the language comprehension skills necessary to understand the specialized terminology, technical details, and complex concepts discussed in formal correspondence. They can effectively process and comprehend the information presented in written documents related to a specific field or topic.
+
+Overall, their language comprehension skills enable them to understand specialised, formal correspondence on a complex topic. They can comprehend the content and meaning conveyed in written communication that is specific to a particular field or topic, incorporating specialized terminology and complex concepts.
 
 </details>
 
@@ -70,10 +74,13 @@ Can understand slang, idiomatic expressions and jokes in private correspondence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand any correspondence, with occasional use of a dictionary if needed. They can comprehend and grasp the content and meaning of written communication, even if it requires occasional reference to a dictionary for unfamiliar words or phrases.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand the implicit attitudes, emotions, and opinions expressed in various forms of written communication, such as e-mails, discussion forums, vlogs, and blogs. They can interpret and comprehend the underlying meanings and intentions, especially when they have opportunities to reread and access reference tools.
+
+Furthermore, they can understand slang, idiomatic expressions, and jokes in private correspondence. They can comprehend and appreciate the informal and playful language used in personal communication, including slang, idiomatic expressions, and humor.
+
+Overall, their language comprehension skills enable them to understand any correspondence, with occasional use of a dictionary if needed. They can comprehend the explicit and implicit content, including attitudes, emotions, and opinions expressed in written communication, especially when they have the opportunity to reread and access reference tools. Moreover, they can understand slang, idiomatic expressions, and jokes in private correspondence, appreciating the informal and playful language used in personal communication.
 
 </details>
 
@@ -111,10 +118,11 @@ Can understand what is said in a personal e-mail or posting even where some coll
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to read correspondence relating to their field of interest and readily grasp the essential meaning. They can comprehend and understand the main ideas and key points presented in written communication that is specific to their area of interest or expertise.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand what is said in a personal e-mail or posting, even when some colloquial language is used. They can comprehend the content and meaning conveyed in informal written communication, including the use of colloquial language or informal expressions.
+
+Overall, their reading comprehension skills enable them to readily grasp the essential meaning in correspondence related to their field of interest. They can understand the main ideas and key points presented in written communication specific to their area of expertise. Moreover, they can understand the content and meaning of personal e-mails or postings, even when colloquial language or informal expressions are used.
 
 </details>
 
@@ -154,10 +162,11 @@ else.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand formal correspondence on less familiar subjects well enough to redirect it to someone else. They can comprehend and understand the content and purpose of formal written communication, even when the subject matter is less familiar to them. This understanding enables them to redirect or pass on the correspondence to the appropriate recipient.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Specifically, they possess the reading comprehension skills necessary to grasp the main ideas, key points, and intentions conveyed in formal correspondence. They can understand the content well enough to determine the appropriate recipient or identify who should address the subject matter in the communication.
+
+Overall, their reading comprehension skills enable them to understand formal correspondence on less familiar subjects, allowing them to redirect the correspondence to someone else. They can comprehend the content and purpose of the communication, even when the subject matter is not entirely familiar to them. This understanding allows them to appropriately handle and redirect formal correspondence as needed.
 
 </details>
 
@@ -196,10 +205,13 @@ Can understand standard formal correspondence and online postings in their area 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand the description of events, feelings, and wishes in personal letters well enough to correspond regularly with a pen friend. They can comprehend and understand the content and meaning conveyed in personal correspondence, allowing them to engage in regular correspondence with a pen friend.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand straightforward personal letters, e-mails, or postings that provide relatively detailed accounts of events and experiences. They can grasp and comprehend the information shared in personal written communication that provides a clear and detailed description of various events or experiences.
+
+Furthermore, they can understand standard formal correspondence and online postings in their area of professional interest. They have the ability to comprehend and grasp the content and meaning conveyed in formal written communication and online postings that relate to their specific professional field or area of interest.
+
+Overall, their reading comprehension skills enable them to understand the description of events, feelings, and wishes in personal letters for regular correspondence. They can also comprehend straightforward personal letters, e-mails, or postings that provide detailed accounts of events and experiences. Moreover, they can understand standard formal correspondence and online postings in their area of professional interest, allowing them to engage with written communication related to their professional field.
 
 </details>
 
@@ -237,10 +249,11 @@ Can understand basic types of standard routine letters and faxes (enquiries, ord
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand a simple personal letter, e-mail, or post in which the writer discusses familiar subjects such as friends or family, or asks questions related to these subjects. They can comprehend and understand the content and meaning conveyed in personal written communication that revolves around familiar topics.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand basic types of standard routine letters and faxes, such as inquiries, orders, letters of confirmation, and so on, when they are related to familiar topics. They can comprehend and grasp the essential information and purpose of these standard routine letters.
+
+Overall, their reading comprehension skills enable them to understand simple personal letters, e-mails, or posts that discuss familiar subjects or ask questions on these subjects. They can comprehend the content and meaning of the communication, particularly when it pertains to familiar topics. Furthermore, they can understand basic types of standard routine letters and faxes when they are related to familiar subjects, allowing them to grasp the essential information and purpose of the correspondence.
 
 </details>
 
@@ -275,10 +288,11 @@ Can understand very simple formal e-mails and letters (e.g. confirmation of a bo
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand short and simple personal letters. They can comprehend and grasp the content and meaning conveyed in brief personal written communication.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand very simple formal e-mails and letters, such as confirmations of bookings or online purchases. They can comprehend and understand the basic information and purpose of these formal written communications, even when they are straightforward and concise.
+
+Overall, their reading comprehension skills enable them to understand short and simple personal letters. They can comprehend the content and meaning conveyed in these brief written communications. Moreover, they can understand very simple formal e-mails and letters, particularly those related to confirmations of bookings or online purchases. They can grasp the basic information and purpose of these formal written communications, even when they are concise and straightforward.
 
 </details>
 
@@ -314,9 +328,11 @@ Can understand short, simple messages sent via social media or e-mail (e.g. prop
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand short and simple messages on postcards. They can comprehend and grasp the content and meaning conveyed in brief written messages typically found on postcards.
 
-1. Can communicate very basic information about personal details in a simple way.
+Additionally, they can understand short and simple messages sent via social media or e-mail, such as proposals for activities, suggestions for meeting times and locations, and other similar communication. They can comprehend and understand the basic information and intentions conveyed in these written messages.
+
+Overall, their reading comprehension skills enable them to understand short and simple messages on postcards. They can comprehend the content and meaning conveyed in these brief written messages. Moreover, they can understand short and simple messages sent via social media or e-mail, particularly those that propose activities or suggest meeting times and locations. They can grasp the basic information and intentions conveyed in these written messages.
 
 </details>
 
@@ -351,9 +367,11 @@ Can recognise times and places in very simple notes and text messages from frien
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand, from a letter, card, or e-mail, the event to which they are being invited, as well as the information provided about the day, time, and location of the event. They can comprehend and grasp the essential details related to the invitation.
 
-1. Can communicate very basic information about personal details in a simple way.
+Additionally, they can recognize times and places in very simple notes and text messages from friends or colleagues. For example, they can understand messages such as "Back at 4 o'clock" or "In the meeting room" when there are no abbreviations used. They can comprehend and understand the information related to specific times and locations as conveyed in these messages.
+
+Overall, their reading comprehension skills enable them to understand the event details and the information provided about the day, time, and location in letters, cards, or e-mails. They can comprehend and grasp the essential details related to invitations. Furthermore, they can recognize and understand times and places in simple notes and text messages when there are no abbreviations used. They can comprehend and understand the specific time and location information as conveyed in these messages.
 
 </details>
 

@@ -9,10 +9,7 @@
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 
@@ -26,8 +23,7 @@
 <details>
 
   <summary>Detailed explanation</summary>
-
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+...
 
 </details>
 
@@ -67,10 +63,11 @@ Can understand complex technical information, such as operating instructions or 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to extract specific information from poor quality or distorted public announcements, such as those heard in a station or sports stadium, or from old recordings. Despite the audio or visual distortions, they can still identify and understand the key details and information being conveyed.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can comprehend complex technical information, such as operating instructions or specifications, for familiar products and services. They have the capability to understand and process intricate details and technical language related to these products and services.
+
+Overall, their language comprehension skills enable them to extract specific information from distorted or poor-quality public announcements, even when the audio or visual clarity is compromised. They can also understand complex technical information, allowing them to comprehend operating instructions and specifications for familiar products and services.
 
 </details>
 
@@ -112,10 +109,11 @@ Can understand detailed instructions well enough to be able to follow them succe
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand announcements and messages on both concrete and abstract topics when they are delivered in standard language or a familiar variety at a normal speed. They can comprehend the information and meaning conveyed in these announcements and messages.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand detailed instructions well enough to successfully follow them. They have the capability to comprehend and grasp the specific steps or guidelines provided in instructions, allowing them to carry out tasks or actions successfully.
+
+Overall, their language comprehension skills enable them to understand announcements and messages, whether they are related to concrete or abstract topics. They can comprehend the content when it is delivered in standard language or a familiar variety at a normal pace. Furthermore, they can understand detailed instructions well enough to follow them successfully, demonstrating their ability to comprehend and carry out tasks effectively based on the instructions given.
 
 </details>
 
@@ -158,10 +156,13 @@ Can understand public announcements at airports, stations and on planes, buses a
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand simple technical information, such as operating instructions for everyday equipment. They can comprehend and follow the instructions provided for using common devices or equipment.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can follow detailed directions, meaning they can understand and carry out specific instructions that provide step-by-step guidance or guidance with specific details.
+
+Furthermore, they can understand public announcements made at airports, stations, and on planes, buses, and trains, as long as the announcements are clearly articulated and there is minimal interference from auditory or visual background noise. They can grasp the information and messages conveyed in these public announcements.
+
+Overall, their language comprehension skills enable them to understand and follow simple technical information, navigate detailed directions, and comprehend public announcements in transportation settings, as long as the announcements are clearly presented and any background noise does not hinder understanding.
 
 </details>
 
@@ -199,10 +200,11 @@ Can understand straightforward announcements (e.g. of a cinema programme or spor
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand and follow a series of instructions for familiar everyday activities, such as sports or cooking. They can comprehend and successfully carry out a sequence of instructions for these activities as long as the instructions are delivered slowly and clearly.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand straightforward announcements, such as those regarding a cinema program or a sports event, or notifications of train delays. They can grasp the information conveyed in these announcements when the delivery is slow and clear.
+
+Overall, their language comprehension skills enable them to understand and follow a series of instructions for familiar activities, provided the instructions are delivered slowly and clearly. They can also comprehend straightforward announcements, including updates or notifications, when they are presented at a slower pace and with clear articulation.
 
 </details>
 
@@ -237,11 +239,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to track and understand changes of topic in factual TV news items. They can follow the transitions between different subjects or themes within the news segment and form an understanding of the main content being presented.
 
-1. Can catch the main point in short, clear, simple messages and announcements.
-Can understand simple directions on how to get from X to Y, by foot or public transport.
-Can understand basic instructions on times, dates and numbers, etc., and on routine tasks and assignments to be carried out.
+Specifically, they can comprehend the shifts in topic within the news item and grasp the main points and ideas associated with each topic. This enables them to have a general idea of the overall content and subject matter being covered in the news segment.
+
+Overall, their language comprehension skills allow them to follow the changes of topic in factual TV news items. They can comprehend the main content and ideas associated with each topic, providing them with a comprehensive understanding of the news segment as a whole.
 
 
 </details>
@@ -280,9 +282,13 @@ at a railway station or in a shop.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand instructions when they are carefully and slowly addressed to them. They can comprehend and follow short and simple directions given to them.
 
-1. Can communicate very basic information about personal details in a simple way.
+Additionally, they can understand when someone tells them slowly and clearly where something is, as long as the object is in their immediate environment. They can grasp the information provided and understand the location being described.
+
+Furthermore, they can understand figures, prices, and times given slowly and clearly in announcements made through a loudspeaker, such as at a railway station or in a shop. They can comprehend the numerical information being conveyed, allowing them to understand details related to figures, prices, or schedules.
+
+Overall, their language comprehension skills enable them to understand and follow instructions when addressed to them carefully and slowly. They can comprehend directions, understand descriptions of object locations in their immediate environment, and grasp figures, prices, and times given in announcements, as long as the delivery is slow and clear.
 
 </details>
 
@@ -316,9 +322,11 @@ delivered slowly face-to-face, accompanied by pictures or manual gestures and re
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand short and simple instructions for actions, such as "Stop" or "Close the door." They can comprehend these instructions when they are delivered slowly, face-to-face, and accompanied by pictures or manual gestures. If needed, they may require repetitions of the instructions to ensure understanding.
 
-1. Can communicate very basic information about personal details in a simple way.
+Specifically, they can grasp the meaning of straightforward instructions when they are delivered at a slow pace and accompanied by visual aids, such as pictures or manual gestures. These additional cues and repetitions, if necessary, enhance their understanding of the instructions.
+
+Overall, their language comprehension skills allow them to understand and follow short, simple instructions for actions. When these instructions are delivered slowly and face-to-face, accompanied by pictures or manual gestures, they can comprehend and carry out the requested actions.
 
 </details>
 
