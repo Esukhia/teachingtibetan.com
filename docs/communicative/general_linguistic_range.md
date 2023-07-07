@@ -21,10 +21,15 @@
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person has:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+A comprehensive and reliable mastery of a very wide range of language: They possess an extensive understanding and control of a broad variety of vocabulary, grammar, and language structures.
+The ability to formulate thoughts precisely: They can express their ideas or thoughts accurately and clearly.
+The capability to give emphasis: They can emphasize specific points or aspects of their communication effectively.
+The skill to differentiate: They can make distinctions or highlight differences between various elements.
+The capability to eliminate ambiguity: They can express their thoughts in a way that leaves no room for confusion or ambiguity.
+No signs of having to restrict what they want to say: They are not limited or constrained in expressing their intended message or meaning.
+In summary, this descriptor suggests that the individual has an extensive and reliable command of language. They can express their thoughts with precision, give emphasis when necessary, differentiate between different elements, and eliminate any ambiguity in their communication. They are not restricted in their ability to express what they want to say.
 
 </details>
 
@@ -56,10 +61,18 @@ Can select an appropriate formulation from a broad range of language to express 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person is capable of:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Using a wide variety of complex grammatical structures: They can employ a diverse set of advanced language patterns and sentence structures.
+Using these structures appropriately: They can use the grammatical structures in a correct and suitable manner according to the context.
+Demonstrating considerable flexibility: They can adapt and apply these complex structures in different ways to convey their intended meaning effectively.
+"Can select an appropriate formulation from a broad range of language to express themselves clearly, without having to restrict what they want to say."
+This means that the person is capable of:
+
+Selecting an appropriate formulation: They can choose the right words, phrases, and expressions from a broad range of language options.
+Expressing themselves clearly: They can convey their thoughts, ideas, and opinions in a manner that is easily understood by others.
+Not having to restrict what they want to say: They are not limited or constrained in expressing their intended message or meaning.
+In summary, these descriptors suggest that the individual has a wide repertoire of complex grammatical structures at their disposal. They can use these structures appropriately and with flexibility. They are also able to select the most suitable language formulations to express themselves clearly without having to hold back or limit their ideas.
 
 </details>
 
@@ -90,10 +103,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person is capable of:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Expressing themselves clearly: They can communicate their thoughts, ideas, and opinions in a way that is easily understood by others.
+Not showing much sign of having to restrict what they want to say: They do not encounter significant limitations or difficulties in expressing their intended message or meaning. They can freely and effectively express what they want to say without feeling constrained or restricted.
+In summary, this descriptor suggests that the individual has the ability to clearly communicate their thoughts and ideas without facing substantial restrictions or limitations. They can express themselves freely and effectively, allowing their intended message or meaning to be conveyed without significant hindrances.
 
 </details>
 
@@ -124,10 +138,15 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Has a sufficient range of language: They possess an adequate vocabulary and knowledge of language.
+Can give clear descriptions: They are capable of providing detailed and understandable explanations or depictions of people, things, or events.
+Can express viewpoints: They can articulate their personal opinions or perspectives on various topics.
+Can develop arguments: They can construct and present logical reasoning or justifications to support a particular viewpoint or claim.
+Does not engage in much conspicuous searching for words/signs: They do not exhibit significant or noticeable difficulty in finding the right words or signs to express themselves.
+Uses some complex sentence forms: They employ more advanced sentence structures to communicate their ideas, including complex sentence forms that involve multiple clauses or intricate syntax.
+In summary, this descriptor suggests that the individual has a sufficient range of language to provide clear descriptions, express viewpoints, and develop arguments. They can do so without significant difficulties in finding the right words or signs. They also use some complex sentence forms to express themselves effectively.
 
 </details>
 
@@ -157,10 +176,14 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Has a sufficient range of language: They possess an adequate vocabulary and knowledge of language.
+Can describe unpredictable situations: They are capable of providing explanations or descriptions of situations that are not easily predictable or known in advance.
+Can explain the main points in an idea or problem with reasonable precision: They can articulate the key concepts or essential elements related to a specific idea or problem in a reasonably accurate and clear manner.
+Can express thoughts on abstract or cultural topics: They are able to communicate their ideas and opinions on topics that are conceptual, theoretical, or related to art, culture, and creativity.
+Examples include music and film: They can discuss and express their thoughts about topics such as music and film, engaging in discussions about artistic or cultural subjects.
+In summary, this descriptor suggests that the individual has a sufficient range of language to effectively describe unpredictable situations, explain main points in ideas or problems with reasonable precision, and express thoughts on abstract or cultural topics, including areas like music and film. They possess the necessary vocabulary and knowledge to engage in discussions or express opinions on a variety of subjects in a reasonably accurate and comprehensible manner.
 
 </details>
 
@@ -191,10 +214,14 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Has enough language to get by: They possess a basic level of language proficiency that allows them to communicate and function in everyday situations.
+Has sufficient vocabulary: They have an adequate range of words and phrases at their disposal.
+Can express themselves with some hesitation and circumlocutions: They may experience some hesitation or struggle to find the right words, resulting in using alternative expressions or going around the topic to convey their intended meaning.
+Can discuss various topics: They are capable of talking about subjects like family, hobbies and interests, work, travel, and current events, albeit with some difficulty.
+Lexical limitations cause repetition and formulation difficulties: Due to limitations in their vocabulary, they may find themselves repeating words or phrases, and at times, they may have difficulty formulating their thoughts or ideas precisely.
+In summary, this descriptor suggests that the individual has enough language proficiency to manage everyday situations. They possess sufficient vocabulary to express themselves, although they may hesitate or resort to circumlocutions to convey their meaning. While they can discuss topics like family, hobbies, work, travel, and current events, their limited vocabulary may lead to repetition and occasional difficulty in finding the right words or formulating their thoughts accurately.
 
 </details>
 <!-- panels:end -->
@@ -223,10 +250,14 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Has a repertoire of basic language: They possess a basic set of language skills and vocabulary.
+Can deal with everyday situations: They are capable of handling common and routine situations that occur in daily life.
+Involving predictable content: These situations typically involve familiar and expected topics or scenarios.
+Will generally have to compromise the message: They may need to make compromises in the clarity or precision of their message due to their limited language skills.
+May need to search for words/signs: They may experience difficulties in finding the right words or signs to express themselves, requiring some effort to recall or locate the appropriate vocabulary.
+In summary, this descriptor suggests that the individual has a basic level of language proficiency that allows them to manage everyday situations with predictable content. However, they may need to compromise their message and search for words or signs to effectively communicate. While they can handle routine interactions, their language skills may be limited, requiring some effort to express themselves clearly and accurately.
 
 </details>
 
@@ -262,10 +293,27 @@ Has a limited repertoire of short, memorised phrases covering predictable surviv
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+"Can produce brief, everyday expressions in order to satisfy simple needs of a concrete type (e.g., personal details, daily routines, wants and needs, requests for information)."
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+This means that the person is capable of:
+
+Producing brief, everyday expressions: They can generate short and simple sentences or phrases.
+Satisfying simple needs of a concrete type: They can effectively communicate their basic personal details, daily routines, desires and requirements, and requests for information related to practical and immediate situations.
+
+"Can use basic sentence patterns and communicate with memorized phrases, groups of a few words/signs and formulae about themselves and other people, what they do, places, possessions, etc."
+
+This means that the person can:
+
+Use basic sentence patterns: They can construct sentences using simple grammatical structures.
+Communicate with memorized phrases, groups of a few words/signs, and formulae: They can rely on learned and memorized expressions, as well as short groups of words or signs, to communicate about themselves, other people, their activities, places, possessions, and similar topics.
+"Has a limited repertoire of short, memorized phrases covering predictable survival situations; frequent breakdowns and misunderstandings occur in non-routine situations."
+This means that the person:
+
+Has a limited repertoire of short, memorized phrases: They possess a small set of pre-learned and memorized phrases.
+Covers predictable survival situations: These phrases are typically related to predictable and essential survival situations.
+Experiences frequent breakdowns and misunderstandings in non-routine situations: When confronted with unfamiliar or non-routine situations, they often encounter difficulties, breakdowns in communication, or misunderstandings due to their limited language skills.
+
+In summary, these descriptors suggest that the individual can produce brief, everyday expressions to fulfill simple concrete needs. They can use basic sentence patterns and communicate using memorized phrases, groups of words or signs, and formulae. However, their repertoire is limited, primarily focused on predictable survival situations. They may face challenges and misunderstandings when confronted with non-routine or unfamiliar situations.
 
 </details>
 
@@ -300,10 +348,22 @@ Can use some basic structures in one-clause sentences with some omission or redu
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+"Has a very basic range of simple expressions about personal details and needs of a concrete type."
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+This means that the person:
+
+Has a very basic range: They possess a limited set of simple expressions.
+Can express personal details: They are able to communicate basic information about themselves, such as their name, age, or nationality.
+Can express needs of a concrete type: They can communicate basic, practical needs related to everyday situations, such as requesting food or asking for directions.
+
+"Can use some basic structures in one-clause sentences with some omission or reduction of elements."
+
+This means that the person:
+
+Can use basic structures: They are capable of constructing simple sentences using basic grammatical patterns.
+In one-clause sentences: Their sentences typically consist of one main clause.
+With some omission or reduction of elements: They may occasionally omit or reduce certain elements of the sentence, such as articles or pronouns, while still conveying a basic meaning.
+In summary, these descriptors suggest that the individual has a very basic level of language proficiency. They can express simple personal details and concrete needs. Their sentences typically consist of one clause, and while they may occasionally omit or reduce certain elements, they can still convey a basic meaning.
 
 </details>
 
@@ -335,10 +395,12 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can use isolated words/signs: They are capable of using individual words or signs to communicate.
+Can use basic expressions: They can string together simple phrases or sentences to convey basic information.
+Gives simple information about themselves: They can provide straightforward details about themselves, such as their name, age, nationality, or other basic personal information.
+In summary, this descriptor suggests that the individual has a basic level of language proficiency. They can use individual words or signs, as well as basic expressions, to communicate and provide simple information about themselves. Their ability is focused on conveying basic personal details rather than engaging in complex or extensive communication.
 
 </details>
 

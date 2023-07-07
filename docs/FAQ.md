@@ -3,7 +3,7 @@
 <!-- panels:start -->
 
 
-> Q. What is CEFR full form?
+>What is CEFR full form?
 
 <details>
 
@@ -21,7 +21,7 @@ The full form of CEFR is the Common European Framework of Reference for Language
 <!-- panels:start -->
 
 
-> Q. Why CEFR ?
+> Why CEFR ?
 
 <details>
 

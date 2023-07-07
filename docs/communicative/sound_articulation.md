@@ -25,7 +25,12 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+This means that the person:
+
+Can articulate virtually all the sounds: They have the ability to produce nearly all the individual sounds present in the target language accurately.</br>
+With clarity and precision: They can pronounce the sounds clearly and precisely, ensuring that their speech is easily understandable and accurate.
+
+In summary, this descriptor suggests that the individual has excellent control over their pronunciation skills. They can accurately produce nearly all the sounds of the target language with clarity and precision, resulting in clear and intelligible speech.
 
 </details>
 
@@ -59,10 +64,13 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can articulate virtually all the sounds: They have the ability to produce nearly all the individual sounds present in the target language accurately.</br>
+With a high degree of control: They have excellent control over their pronunciation skills, allowing them to manipulate their articulatory organs to produce sounds accurately.</br>
+Can self-correct noticeable mispronunciations: They are able to recognize and correct themselves when they make noticeable errors in pronunciation, demonstrating an awareness of correct pronunciation patterns.
+
+In summary, this descriptor suggests that the individual has advanced proficiency in pronunciation. They can accurately articulate nearly all the sounds of the target language with a high level of control. Additionally, they have the ability to self-correct when they make noticeable mispronunciations, indicating their awareness of correct pronunciation and their ability to adjust their speech accordingly.
 
 </details>
 
@@ -100,10 +108,12 @@ Can generalise from their repertoire to predict the phonological features of mos
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can articulate a high proportion of sounds clearly: They have the ability to pronounce a significant number of sounds in the target language accurately and with clarity, particularly during extended speech.</br>
+Is intelligible throughout, despite some systematic mispronunciations: While they may have a few persistent mispronunciations, their overall speech remains understandable and comprehensible to others.</br>
+Can generalize phonological features: They can draw upon their existing knowledge and language repertoire to predict and apply phonological features, such as word stress, to most unfamiliar words. This ability allows them to make reasonable predictions and guesses about pronunciation, especially when encountering new words in written texts.
+In summary, this descriptor suggests that the individual has a strong command of pronunciation. They can articulate a significant number of sounds clearly during extended speech, maintaining intelligibility despite a few consistent mispronunciations. They can also apply their knowledge of phonological features to make reasonable predictions about unfamiliar words, particularly in written contexts.
 
 </details>
 
@@ -134,10 +144,12 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Is generally intelligible: Overall, their speech is understandable and comprehensible to others.</br>
+Regularly mispronounces individual sounds and unfamiliar words: They consistently make pronunciation errors with specific sounds and words, particularly those that are less familiar to them.
+
+In summary, this descriptor suggests that while the person's speech may contain regular mispronunciations of certain sounds and unfamiliar words, they are generally still intelligible. Their pronunciation errors may be noticeable, but they do not significantly hinder overall understanding.
 
 </details>
 
@@ -170,10 +182,14 @@ Systematic mispronunciation of phonemes does not hinder intelligibility, provide
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Pronunciation is generally intelligible: Overall, the person's speech is understandable and comprehensible in simple everyday situations.</br>
+Intelligibility depends on the interlocutor's effort: The listener plays a role in understanding the speaker's pronunciation. If the listener actively makes an effort to understand specific sounds, the person's speech remains intelligible.</br>
+Systematic mispronunciation of phonemes: The person consistently mispronounces specific phonemes, which are the individual sounds of the language.</br>
+Intelligibility is not hindered by systematic mispronunciation: Despite the systematic mispronunciations, the person's speech remains intelligible as long as the listener is willing to recognize and adjust to the influence of the speaker's language background on their pronunciation.
+
+In summary, this descriptor suggests that the person's pronunciation is generally understandable in simple everyday situations. However, the intelligibility of their speech may depend on the listener's effort to understand specific sounds. Although the person may have systematic mispronunciations of certain phonemes, it does not significantly hinder intelligibility as long as the listener is accommodating and adjusts to the speaker's language background.
 
 </details>
 
@@ -208,10 +224,13 @@ Can articulate a limited number of sounds, so that speech is only intelligible i
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can reproduce sounds with guidance: The person is able to imitate or produce sounds in the target language if they receive careful guidance or instruction.</br>
+Limited articulation of sounds: They have a limited ability to articulate or produce a small number of sounds in the target language.</br>
+Intelligibility depends on interlocutor support: The person's speech is only understandable if the listener provides support and assistance. This support may include repeating correctly pronounced sounds or eliciting the person to repeat new sounds.
+
+In summary, this descriptor suggests that the person requires guidance and support to reproduce sounds in the target language. Their ability to articulate sounds is limited, and their speech is only intelligible when the listener provides assistance and support by correctly repeating sounds and helping them practice new sounds.
 
 </details>
 

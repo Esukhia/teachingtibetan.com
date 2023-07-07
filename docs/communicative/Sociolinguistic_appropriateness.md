@@ -31,7 +31,14 @@ Can effectively employ, both orally and in writing, a wide variety of sophistica
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+This means that the person:
+
+Can mediate effectively and naturally: They have the ability to facilitate effective communication and understanding between individuals from different language communities, considering sociocultural and sociolinguistic differences.</br>
+Has a good command of idiomatic expressions and colloquialisms: They are proficient in using idiomatic expressions and informal language that are specific to a particular language or community, and they understand the connotations and implied meanings behind them.</br>
+Appreciates sociolinguistic and sociocultural implications: They have a deep understanding of how language is influenced by social and cultural factors, and they can interpret and respond appropriately to the language used by proficient speakers of the target language.</br>
+Can employ a wide variety of sophisticated language: They can effectively use advanced language skills to command attention, argue persuasively, dissuade, negotiate, and provide counsel, both in oral and written forms.
+
+In summary, this descriptor suggests that the individual is highly skilled in mediating between users of different languages and cultural backgrounds. They have a strong command of idiomatic expressions and colloquialisms, understanding their nuanced meanings. They appreciate the sociolinguistic and sociocultural implications of language and can adapt their communication accordingly. Additionally, they can effectively employ sophisticated language skills to command attention, persuade, negotiate, and provide counsel, demonstrating a high level of proficiency in both oral and written forms of communication.
 
 </details>
 
@@ -77,10 +84,17 @@ Can frame critical remarks or express strong disagreement diplomatically.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can recognize idiomatic expressions and colloquialisms: They have the ability to identify and understand a wide range of language expressions that are specific to a particular language or community, including appreciating register shifts (variations in formality or style).</br>
+May need to confirm occasional details: They may occasionally require clarification or confirmation of specific details, particularly if they are not familiar with the accent or dialect being used.</br>
+Can understand humour, irony, and cultural references: They can comprehend and appreciate comedic elements, irony, implicit cultural references, and pick up on nuanced meanings.</br>
+Can follow films with slang and idiomatic usage: They are able to understand movies or media content that heavily employ slang, idiomatic expressions, and colloquial language.</br>
+Can use language flexibly and effectively for social purposes: They have the ability to adapt their language use to different social situations, including expressing emotions, using allusions, and engaging in joking or playful language.</br>
+Can adjust level of formality and maintain consistent register: They can appropriately adjust their language register, style, and level of formality to suit different social contexts while maintaining a consistent overall language level.</br>
+Can express critical remarks or strong disagreement diplomatically: They have the skill to frame critical remarks or express disagreement in a tactful and diplomatic manner.
+
+In summary, this descriptor suggests that the individual has advanced language skills. They can recognize and understand idiomatic expressions, colloquialisms, and register shifts. They can appreciate humour, irony, and cultural references, even picking up on subtle meanings. They are capable of following movies or media with slang and idiomatic usage. Moreover, they can use language flexibly and effectively in social contexts, adjusting their level of formality and maintaining consistency. They can express critical remarks or strong disagreement diplomatically, demonstrating a high level of language proficiency and social competence.
 
 </details>
 
@@ -121,10 +135,14 @@ Can express themselves confidently, clearly and politely in a formal or informal
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can keep up with and contribute to group discussions: They are able to actively participate in group conversations, even when the speech is fast-paced and colloquial. Although some effort may be required, they can engage in the discussion effectively.</br>
+Can recognize and interpret sociocultural/sociolinguistic cues: They have the ability to identify and understand the cues related to social and cultural context, as well as sociolinguistic nuances in communication.</br>
+Can modify linguistic forms of expression: They can consciously adjust their language use, adapting their expressions and style to match the situation and effectively convey their intended meaning.</br>
+Can express themselves confidently, clearly, and politely: They are capable of communicating their thoughts and ideas with confidence, clarity, and politeness. They can use appropriate language registers, both formal and informal, depending on the specific situation and the individuals involved.
+
+In summary, this descriptor suggests that the individual can actively participate in group discussions, even when the conversation is fast-paced and colloquial, although some effort may be required. They have an understanding of sociocultural and sociolinguistic cues, allowing them to modify their language use appropriately in different situations. Furthermore, they can express themselves with confidence, clarity, and politeness, adapting their language register to suit the specific context and individuals involved.
 
 </details>
 
@@ -165,10 +183,14 @@ Can express themselves appropriately in situations and avoid crass errors of for
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can adjust their expression between formal and informal registers: They have the ability to differentiate their language use to some extent, adapting between formal and informal registers.</br>
+May not always do so appropriately: However, they may occasionally make mistakes or misjudgments in selecting the appropriate register for a given situation.</br>
+Can sustain relationships without unintended amusement or irritation: They can maintain relationships with native speakers or proficient users of the target language without unintentionally causing amusement, annoyance, or requiring others to treat them differently.</br>
+Can express themselves appropriately and avoid crass errors: They can effectively communicate in different situations, choosing appropriate language forms and avoiding gross or insensitive mistakes in their language formulation.
+
+In summary, this descriptor suggests that the individual has the ability to adjust their language expression to some degree between formal and informal registers. However, they may not always do so with complete accuracy. They are capable of maintaining relationships with native speakers or proficient users of the target language without unintentionally causing amusement, irritation, or requiring special treatment. Additionally, they can express themselves appropriately in various situations and avoid major errors in their language formulation.
 
 </details>
 
@@ -213,10 +235,15 @@ Is aware of, and looks out for signs of, the most significant differences betwee
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can adjust expression between formal and informal registers: They have the ability to differentiate their language use to some extent between formal and informal registers.</br>
+May not always do so appropriately: However, they may occasionally make mistakes or misjudgments in selecting the appropriate register for a given situation.</br>
+Can perform and respond to a wide range of language functions: They can effectively engage in various language functions, using common expressions and language patterns associated with those functions, particularly in a neutral register.</br>
+Is aware of salient politeness conventions: They have knowledge of important politeness conventions or norms in the target language community and can act appropriately based on those conventions.</br>
+Is aware of differences in customs, usages, attitudes, values, and beliefs: They recognize and pay attention to significant differences between their own community and the target language community regarding customs, usages, attitudes, values, and beliefs.
+
+In summary, this descriptor suggests that the individual has some ability to adjust their language expression between formal and informal registers, although they may not always do so accurately. They can perform and respond to a wide range of language functions, using common expressions associated with those functions in a neutral register. They are aware of important politeness conventions and can act appropriately in social interactions. Additionally, they recognize and actively look for significant differences between their own community and the target language community in terms of customs, usages, attitudes, values, and beliefs, demonstrating cultural awareness and sensitivity.
 
 </details>
 
@@ -252,10 +279,13 @@ Can socialise simply but effectively using the simplest common expressions and f
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can perform and respond to basic language functions: They have the ability to engage in fundamental language functions such as exchanging information, making requests, and expressing simple opinions and attitudes.
+Can express opinions and attitudes in a simple way: They are capable of conveying their thoughts, opinions, and attitudes using straightforward and uncomplicated language.</br>
+Can socialize simply but effectively: They can engage in social interactions using basic expressions and following common routines. They are able to communicate in a simple but effective manner to engage in social activities and conversations.
+
+In summary, this descriptor suggests that the individual can perform and respond to basic language functions such as exchanging information, making requests, and expressing simple opinions and attitudes. They can engage in social interactions using simple expressions and follow common routines. While their language use may be limited to the simplest common expressions, they are able to communicate effectively within these basic language functions and social contexts.
 
 </details>
 
@@ -292,10 +322,13 @@ Can make and respond to invitations, suggestions, apologies, etc.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can handle very short social exchanges: They have the ability to engage in brief social interactions or conversations.</br>
+Uses everyday polite forms of greeting and address: They are familiar with and can appropriately use common polite expressions for greetings and addressing others in everyday social situations.</br>
+Can make and respond to invitations, suggestions, apologies, etc.: They can extend invitations, make suggestions, offer apologies, and respond to similar social situations.
+
+In summary, this descriptor suggests that the individual can effectively manage very short social exchanges. They are able to use everyday polite forms of greeting and address in social interactions. They can also initiate and respond to various social situations such as invitations, suggestions, and apologies. While their proficiency may be limited to these specific social scenarios, they can navigate them with ease and appropriate language use.
 
 </details>
 
@@ -328,10 +361,13 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can establish basic social contact: They have the ability to initiate and engage in initial social interactions with others.</br>
+Uses the simplest everyday polite forms: They are familiar with and can use basic polite expressions such as greetings, farewells, introductions, and common phrases like "please," "thank you," and "sorry."</br>
+Can employ these forms appropriately: They can use these polite expressions in a manner that is suitable and appropriate for different social situations.
+
+In summary, this descriptor suggests that the individual can effectively establish basic social contact with others. They are capable of using simple polite forms of greetings, farewells, introductions, and expressions such as "please," "thank you," and "sorry." While their proficiency may be limited to these basic social interactions, they can navigate them successfully and employ these expressions appropriately to establish initial social connections.
 
 </details>
 
@@ -348,10 +384,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -362,9 +395,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

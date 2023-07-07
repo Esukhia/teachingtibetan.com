@@ -27,7 +27,13 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+This means that the person:
+
+Can express themselves at length: They have the ability to communicate their thoughts or ideas in a comprehensive manner, without limitations on the length of their expression.</br>
+Natural, effortless, unhesitating flow: Their speech or writing flows smoothly and effortlessly, without any noticeable pauses or hesitations.</br>
+Pauses to reflect on precise expression or find examples/explanations: They may pause briefly in order to carefully consider and choose the most appropriate words, expressions, examples, or explanations to accurately convey their thoughts.
+
+In summary, this descriptor suggests that the individual is capable of expressing themselves in a lengthy and detailed manner. Their communication flows naturally and effortlessly, without any significant pauses or hesitations. However, they may pause momentarily to reflect on the precise wording or to find suitable examples or explanations to enhance the clarity and precision of their expression.
 
 </details>
 
@@ -61,10 +67,13 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can express themselves fluently and spontaneously: They have the ability to communicate smoothly and effortlessly, without any significant interruptions or difficulties in their speech or writing.</br>
+Almost effortlessly: Their language production requires minimal effort or strain, indicating a high level of fluency.</br>
+Conceptually difficult subjects can hinder natural flow: When encountering complex or conceptually challenging topics, their natural and smooth flow of language may be temporarily interrupted or hindered.
+
+In summary, this descriptor suggests that the individual possesses the ability to express themselves with fluency and spontaneity. They can communicate effortlessly, demonstrating a natural and smooth flow of language. However, when faced with conceptually difficult subjects, they may experience some temporary interruptions or challenges in maintaining the same level of natural flow. Overall, their fluency and ease of expression are evident in most situations.
 
 </details>
 
@@ -99,10 +108,13 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can communicate spontaneously: They are able to engage in conversation or express their thoughts without prior planning or preparation. They can respond and interact in real-time, without relying on premeditated language.</br>
+Shows remarkable fluency and ease of expression: Their communication skills are characterized by a high level of fluency, indicating smooth and uninterrupted speech or writing. They can express themselves effortlessly and with confidence.</br>
+Even in longer complex stretches of language: Their fluency and ease of expression extend to longer and more complex language structures or discourse. They can effectively convey their message and maintain coherence even in extended and intricate language use.
+
+In summary, this descriptor suggests that the individual has the ability to communicate spontaneously, demonstrating exceptional fluency and ease of expression. They can engage in conversation effortlessly and respond in real-time. Furthermore, their fluency extends to longer and more complex language stretches, showcasing their capacity to express themselves confidently and coherently.
 
 </details>
 
@@ -138,10 +150,15 @@ Can interact with a degree of fluency and spontaneity that makes regular interac
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can produce stretches of language with a fairly even tempo: They can maintain a relatively steady pace when speaking or writing, without significant fluctuations in speed.</br>
+Can be hesitant as they search for patterns and expressions: They may experience moments of hesitation as they search for the right language patterns or expressions. This can result in occasional pauses or delays.</br>
+Few noticeably long pauses: While they may hesitate at times, these pauses are not significantly long or disruptive to the flow of communication.</br>
+Can interact with a degree of fluency and spontaneity: They can engage in conversation or communication with a certain level of fluency and naturalness. They can respond and interact spontaneously, without relying heavily on preplanned language.</br>
+Regular interaction with users of the target language is quite possible without imposing strain: They can engage in regular conversations with others who speak the target language, without causing undue difficulty or strain for either party.
+
+In summary, this descriptor suggests that the individual is capable of producing stretches of language with a fairly consistent tempo, though they may experience some hesitations as they search for the right words or expressions. However, these pauses are not significantly long or disruptive. They can interact with a degree of fluency and spontaneity, enabling regular and meaningful conversations with others who speak the target language without imposing strain on either party.
 
 </details>
 
@@ -174,10 +191,13 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can express themselves with relative ease: They have a certain level of comfort and ease when communicating their thoughts or ideas.</br>
+Some problems with formulation resulting in pauses and "cul-de-sacs": They may encounter difficulties in formulating their thoughts or finding the right words, which can lead to pauses or moments of uncertainty in their speech.</br>
+Able to keep going effectively without help: Despite these formulation challenges, they are able to continue their communication effectively without requiring assistance or intervention from others.
+
+In summary, this descriptor suggests that the individual is able to express themselves with relative ease, demonstrating a certain level of comfort in their communication. However, they may experience occasional difficulties in formulating their thoughts or finding the right words, resulting in pauses or moments of uncertainty. Nevertheless, they are able to navigate through these challenges and continue their communication effectively without needing assistance or support from others.
 
 </details>
 
@@ -209,10 +229,13 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can keep going comprehensibly: They are able to maintain comprehensibility in their communication, meaning that others can understand what they are trying to express.</br>
+Pausing for grammatical and lexical planning and repair is very evident: They often pause during their speech to plan and repair their grammar and vocabulary choices. These pauses indicate their active cognitive processes involved in language production.</br>
+Especially in longer stretches of free production: The pausing for grammatical and lexical planning and repair is more noticeable when they engage in longer stretches of spontaneous or free speech.
+
+In summary, this descriptor suggests that the individual can continue communicating in a way that is understandable to others, despite evident pauses for grammatical and lexical planning and repair. They take moments to consider the appropriate grammar and vocabulary choices during their speech, especially in longer periods of spontaneous expression. These pauses reflect their cognitive effort in maintaining accuracy and clarity in their language use.
 
 </details>
 
@@ -245,10 +268,12 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can make themselves understood: They are able to convey their intended message in short contributions, allowing others to understand what they are trying to communicate.</br>
+Pauses, false starts, and reformulation are very evident: During their speech, they may experience noticeable pauses, interruptions, or changes in their expression as they navigate through their thoughts. They may need to correct or rephrase their words or ideas as they go along.
+
+In summary, this descriptor suggests that the individual is capable of being understood in short contributions, despite the presence of pauses, false starts, and reformulation. They may encounter moments of hesitation, make corrections or adjustments to their speech, or experience interruptions in their expression. However, they are still able to convey their intended message effectively and make themselves understood to others.
 
 </details>
 
@@ -279,10 +304,13 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can construct phrases on familiar topics: They have the ability to form meaningful phrases related to familiar subjects or topics.</br>
+Sufficient ease to handle short exchanges: They can manage brief interactions or conversations using these constructed phrases.
+Noticeable hesitation and false starts: However, their speech may exhibit noticeable pauses, hesitations, or instances where they start and then correct themselves.
+
+In summary, this descriptor suggests that the individual can put together phrases on familiar topics and engage in short exchanges or conversations. Despite their ability to do so, there may be clear indications of hesitation, pauses, or instances where they need to make corrections or restart their utterances. Nonetheless, they can still manage to communicate effectively in these shorter interactions.
 
 </details>
 
@@ -315,11 +343,15 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can manage very short, isolated utterances: They are able to handle brief and self-contained statements or expressions.</br>
+Mainly pre-packaged utterances: Their language use primarily consists of learned or memorized phrases and expressions.</br>
+Much pausing to search for expressions: They frequently pause to search for the right words or phrases to use.</br>
+Articulate less familiar words/signs: They may struggle with pronouncing or articulating words or signs that are less familiar to them.</br>
+Repair communication: They may need to make adjustments or corrections in order to clarify or improve their communication.
 
+In summary, this descriptor suggests that the individual can handle very short and self-contained utterances, often relying on pre-packaged phrases or expressions. However, they frequently pause as they search for the appropriate language to use. They may also struggle with pronouncing less familiar words or signs. Additionally, they may need to make repairs or adjustments to ensure effective communication. Overall, their ability to manage these short utterances reflects their developing language skills, although they may encounter challenges along the way.
 </details>
 
 <!-- panels:end -->
@@ -350,10 +382,14 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can manage very short, isolated utterances: They are able to handle brief and self-contained statements or expressions.
+Rehearsed utterances: Their language use is primarily based on rehearsed or practiced phrases and expressions.</br>
+Use of gesture: They may supplement their speech with gestures or non-verbal cues to enhance understanding or convey their message.</br>
+Signalled requests for help: They have the ability to indicate or signal when they need assistance or clarification during communication.
+
+In summary, this descriptor suggests that the individual can handle very short and rehearsed utterances. They rely on practiced phrases and expressions. Additionally, they may use gestures or non-verbal cues to aid in communication. When necessary, they can signal or indicate their need for help or clarification. This enables them to effectively manage their communication in these brief and isolated situations.
 
 </details>
 

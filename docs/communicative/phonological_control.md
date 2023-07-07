@@ -24,7 +24,14 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+This means that the person:
+
+Can employ the full range of phonological features: They have a comprehensive understanding and command of all the sound features and patterns in the target language.</br>
+Demonstrates a high level of control: They can accurately produce and manipulate the various sounds, including prosodic features such as word and sentence stress, rhythm, and intonation.</br>
+Ensures clarity and precision: They use these phonological features effectively to communicate their message with clarity and precision, allowing for the finer details to be conveyed accurately.</br>
+Accent from other language(s) does not affect intelligibility or meaning: Even if they retain some features of accent from their native language or other languages they speak, it does not hinder the intelligibility or the effective conveyance and enhancement of their intended meaning in the target language.
+
+In summary, this descriptor suggests that the individual has a high level of control over the phonological features of the target language. They can accurately use aspects such as stress, rhythm, and intonation to ensure that their message is clear and precise. The presence of an accent from another language does not impact their intelligibility or the effective communication of meaning.
 
 </details>
 
@@ -55,10 +62,15 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can employ the full range of phonological features: They have the ability to utilize all the different sound patterns and features present in the target language.</br>
+Sufficient control to ensure intelligibility throughout: They have enough control over these phonological features to ensure that their speech is clear and understandable.</br>
+Can articulate virtually all the sounds of the target language: They are able to pronounce almost all the sounds that exist in the target language accurately.</br>
+Some features of accent(s) retained from other language(s) may be noticeable: They may still retain certain aspects of their accent from their native language or other languages they speak, which might be noticeable.</br>
+Features of accent(s) do not affect intelligibility: However, these accent features do not hinder the overall intelligibility of their speech. Others can still understand what they are saying despite the presence of these accent features.
+
+In summary, this descriptor suggests that the individual can effectively use the full range of phonological features in the target language, ensuring intelligibility in their speech. While they may retain some features of their accent from other languages they speak, these features do not hinder understanding. The person can articulate most of the sounds in the target language, allowing for effective communication and comprehension.
 
 </details>
 
@@ -92,10 +104,15 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can generally use appropriate intonation: They have a good understanding of how to use intonation patterns to convey meaning effectively.</br>
+Place stress correctly: They can correctly emphasize or place stress on the appropriate syllables or words in their speech.
+Articulate individual sounds clearly: They can pronounce individual sounds accurately and clearly.</br>
+Accent tends to be influenced by other language(s) they speak: Their accent may be influenced by the sounds and patterns of their native language or other languages they speak.</br>
+Accent has little or no effect on intelligibility: Despite their accent being influenced by other languages, it does not significantly hinder the intelligibility of their speech. Others can still understand them well.
+
+In summary, this descriptor suggests that the individual can use appropriate intonation, stress, and clear articulation of individual sounds. While their accent may be influenced by other languages they speak, it does not have a significant impact on the intelligibility of their speech. Overall, they can effectively convey meaning through their speech, with their accent not posing a significant barrier to understanding.
 
 </details>
 
@@ -126,10 +143,13 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Pronunciation is generally intelligible: The person's pronunciation is typically clear and understandable to others.
+Intonation and stress at both utterance and word levels do not prevent understanding: Their use of intonation and stress patterns, both at the level of entire utterances and individual words, does not hinder the listener's comprehension of the intended message.</br>
+Accent is usually influenced by other language(s) they speak: Their accent may be influenced by the sounds, patterns, or rhythms of their native language or other languages they speak.
+
+In summary, this descriptor suggests that the individual's pronunciation is generally clear and intelligible. They use intonation and stress in a way that does not impede understanding. However, their accent is typically influenced by other languages they speak. Despite the influence of their accent, their pronunciation, intonation, and stress patterns do not pose significant barriers to understanding their message.
 
 </details>
 
@@ -160,10 +180,15 @@ y.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Pronunciation is generally clear enough to be understood: The person's pronunciation is generally clear and can be understood by others.</br>
+Conversational partners may need to ask for repetition: However, there may be occasions where the listener needs to ask for repetition or clarification due to difficulties in understanding.</br>
+Strong influence from other language(s) on stress, rhythm, and intonation: The person's stress patterns, rhythm, and intonation may be strongly influenced by their native language or other languages they speak.</br>
+Influence may affect intelligibility, requiring collaboration from interlocutors: This influence on stress, rhythm, and intonation may impact the intelligibility of their speech, necessitating active participation and cooperation from the listener to understand the message.</br>
+Pronunciation of familiar words is clear: Despite the challenges related to stress, rhythm, and intonation, when pronouncing familiar words, the person's clarity is maintained.
+
+In summary, this descriptor suggests that the person's pronunciation is generally clear enough to be understood, although occasional repetitions or clarifications may be necessary. The strong influence from their native language or other languages they speak on stress, rhythm, and intonation may affect intelligibility and require active collaboration from the listener. However, when pronouncing familiar words, their clarity is maintained.
 
 </details>
 
@@ -196,10 +221,14 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Pronunciation of a very limited repertoire of learned words and phrases: The person's ability to pronounce words and phrases is limited to a small set of learned vocabulary.</br>
+Can be understood with some effort by interlocutors used to dealing with speakers of the language group: Listeners who are familiar with speakers of the same language group can understand the person's pronunciation, but some effort may be required.
+Can reproduce correctly a limited range of sounds: They are able to accurately produce only a small range of sounds in the target language.</br>
+Can reproduce stress for simple, familiar words and phrases: They can correctly emphasize or place stress on simple and familiar words and phrases.
+
+In summary, this descriptor suggests that the person's pronunciation is limited to a small repertoire of learned words and phrases. While their pronunciation can be understood by listeners accustomed to speakers of the same language group, some effort may be required for comprehension. They have the ability to accurately reproduce a limited range of sounds and correctly stress simple and familiar words and phrases.
 
 </details>
 

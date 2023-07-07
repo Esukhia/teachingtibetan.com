@@ -25,7 +25,20 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+This descriptor refers to the ability to consistently and accurately use vocabulary in a correct and suitable manner in various language contexts.
+
+Consistently correct use of vocabulary means consistently using words and phrases accurately, without making frequent errors or mistakes in their meaning, form, or usage. It involves employing the correct vocabulary based on its meaning, context, and grammatical rules.
+
+Appropriate use of vocabulary means using words and phrases that are suitable for the specific situation, topic, or audience. It involves selecting vocabulary that effectively communicates your intended meaning and aligns with the social or professional context. This includes using formal or informal language appropriately, understanding the nuances of different words, and using specialized terminology when appropriate.
+
+To demonstrate consistently correct and appropriate use of vocabulary, you would need to:
+
+Use words accurately without making significant errors in their meaning or form.</br>
+Select words and phrases that are suitable for the specific context, topic, and audience.</br>
+Demonstrate a good understanding of the nuances and appropriate usage of different vocabulary items.</br>
+Use specialized or technical vocabulary correctly in relevant domains or fields.
+
+In summary, this CEFR descriptor emphasizes the ability to consistently and accurately use vocabulary in a correct and appropriate manner. It involves using words accurately, selecting vocabulary suitable for the context, and demonstrating a good understanding of word meanings and usage.
 
 </details>
 
@@ -60,10 +73,13 @@ Occasional minor slips, but no significant vocabulary errors.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor refers to the ability to use less common vocabulary in a natural and appropriate manner. It indicates the skill of incorporating uncommon words or phrases into your language use, while still maintaining idiomatic and appropriate expression.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Uses less common vocabulary idiomatically and appropriately means using words or phrases that are not commonly encountered but are still used correctly and effectively. It involves incorporating these less common vocabulary items seamlessly into your speech or writing, demonstrating a good command of their meaning and usage.
+
+Occasional minor slips, but no significant vocabulary errors suggest that while there might be occasional small mistakes or slips in your use of vocabulary, they do not significantly impact the overall accuracy or understanding. These errors are minor and do not hinder effective communication.
+
+In summary, this CEFR descriptor highlights the ability to use less common vocabulary in an idiomatic and appropriate manner. It involves employing uncommon words or phrases correctly and seamlessly, while allowing for occasional minor errors that do not significantly affect comprehension.
 
 </details>
 
@@ -98,10 +114,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+When it comes to using words and vocabulary correctly, the person's accuracy is generally very good. They usually choose the right words and signs to express themselves. However, sometimes they may get a little confused or make mistakes in selecting the right words or signs. Despite these occasional errors, their ability to communicate effectively is not affected or hindered.
 
 </details>
 
@@ -135,10 +148,7 @@ Uses a wide range of simple vocabulary appropriately when discussing familiar to
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+The person has a good command of basic words and vocabulary. They can use them correctly in everyday situations and when talking about familiar topics. However, when it comes to expressing more complex thoughts or dealing with unfamiliar subjects, they still make significant mistakes. These errors might occur due to a lack of understanding or difficulty in using appropriate vocabulary for those situations. Overall, their vocabulary is diverse and suitable for simple discussions, but they struggle with more advanced language usage.
 
 </details>
 
@@ -170,10 +180,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+The person has a limited range of language skills and can only effectively communicate about basic, everyday needs. They are able to handle simple, practical situations and express themselves in concrete terms. However, their language abilities may be restricted when it comes to discussing more abstract or complex topics. Their repertoire, or range of language knowledge, is narrow and primarily focused on immediate, practical needs in daily life.
 
 </details>
 
@@ -192,10 +199,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -205,10 +209,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+...
 
 </details>
 
@@ -226,10 +227,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -239,10 +237,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+...
 
 </details>
 

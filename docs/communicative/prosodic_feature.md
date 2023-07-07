@@ -24,7 +24,14 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+This means that the person:
+
+Can exploit prosodic features: They have the ability to use and manipulate aspects of speech such as stress (emphasis on certain syllables), rhythm (pattern and timing of speech), and intonation (melody and pitch of speech).</br>
+Appropriately and effectively: They can use these prosodic features in a suitable and effective manner.</br>
+Convey finer shades of meaning: They can use prosody to express subtle nuances or distinctions in meaning.</br>
+Differentiate and emphasize: They can use prosody to distinguish or highlight specific elements, emphasizing important points or differentiating between ideas.
+
+In summary, this descriptor suggests that the individual can skillfully use prosodic features such as stress, rhythm, and intonation to convey more nuanced meaning in their speech. They are able to use these features appropriately and effectively, employing them to differentiate and emphasize certain elements of their message. This allows them to express subtle shades of meaning and effectively convey their intended emphasis or distinction in their communication.
 
 </details>
 
@@ -58,10 +65,15 @@ Can vary intonation and place stress correctly in order to express precisely wha
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can produce smooth, intelligible spoken discourse: They are able to speak fluently and clearly, resulting in discourse that is easily understood by others.</br>
+Occasional lapses in control of stress, rhythm, and/or intonation: While generally proficient, they may occasionally make errors or exhibit minor issues with the control of stress, rhythm, or intonation in their speech.</br>
+Lapses do not affect intelligibility or effectiveness: Despite these occasional lapses, their speech remains comprehensible and effective in conveying their message.</br>
+Can vary intonation and place stress correctly: They have the ability to use intonation (melody and pitch) and stress (emphasis on certain words or syllables) in a way that accurately reflects their intended meaning.</br>
+Express precisely what they mean to say: They can use intonation and stress effectively to convey their intended message with precision and clarity.
+
+In summary, this descriptor suggests that the individual can produce spoken discourse that is smooth, intelligible, and effective. While there may be occasional lapses in their control of stress, rhythm, or intonation, these do not hinder understanding or communication. They have the ability to vary intonation and place stress correctly to express their intended meaning accurately, allowing them to communicate precisely and effectively.
 
 </details>
 
