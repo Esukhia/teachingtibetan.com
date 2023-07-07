@@ -10,10 +10,7 @@
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 
@@ -28,7 +25,7 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+...
 
 </details>
 
@@ -66,10 +63,9 @@ anticipate what will come next.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person is proficient in using context, grammar, and vocabulary cues to understand the attitude, mood, and intentions of the speaker or writer. They are also skilled at predicting what will come next in the conversation or text based on these cues.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, they have the ability to interpret and make inferences about the emotions, attitudes, and intentions of others by paying attention to the surrounding context and using their knowledge of language. They can also anticipate the direction of the conversation or text based on these cues.
 
 </details>
 
@@ -107,10 +103,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person is proficient in employing various strategies to enhance their understanding of the text or conversation. They actively identify the main points and employ contextual clues to confirm their comprehension.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, they possess effective comprehension strategies and utilize techniques such as identifying key information and relying on context to ensure their understanding of the material.
 
 </details>
 
@@ -156,10 +151,9 @@ Can extrapolate the meaning of occasional unknown words/signs from the context a
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person is skilled at using different types of connectors (numerical, temporal, logical) and recognizing the significance of key paragraphs to comprehend the argumentation in a text. They can infer the meaning of a section by considering the entire text. They can also deduce the meaning of unfamiliar words/signs in topics related to their field and interests from the context. Additionally, they can extrapolate the meaning of occasional unknown words/signs from the context and understand sentence meaning, particularly when the discussed topic is familiar to them.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, they effectively use connectors and paragraph structure to understand the overall argument of a text, deduce the meaning of unfamiliar words/signs from context, and extrapolate meaning based on familiar topics and sentence context.
 
 </details>
 
@@ -202,10 +196,9 @@ Can deduce the probable meaning of unknown words/signs in a text by identifying 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person can make basic inferences or predictions about the content of a text based on headings, titles, or headlines. They can also watch or listen to a short narrative and anticipate what will happen next. They can follow the logical flow of an argument or the sequence of events in a story by paying attention to common connectors such as "however" and "because," as well as temporal connectors like "after that" and "beforehand." Additionally, they can deduce the likely meaning of unknown words/signs in a text by identifying their constituent parts, such as roots, lexical elements, suffixes, and prefixes.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, they can make predictions and inferences based on headings and titles, anticipate events in a narrative, follow logical and temporal connectors, and deduce the meaning of unknown words/signs by analyzing their components.
 
 </details>
 
@@ -243,10 +236,9 @@ Can exploit their recognition of known words/signs to deduce the meaning of unfa
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person can use their understanding of the overall meaning of short texts and utterances on everyday concrete topics to infer the likely meaning of unknown words or signs based on the context. They can also utilize their familiarity with known words or signs to deduce the meaning of unfamiliar words or signs in short expressions used in everyday routines.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, they can use the context of short texts and utterances to guess the meaning of unknown words or signs, and they can rely on their knowledge of familiar words or signs to understand unfamiliar ones in routine everyday contexts.
 
 </details>
 
@@ -290,11 +282,9 @@ at the beginning or end of a letter).
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person can use the format, appearance, and typographic features of a text to determine its type, such as a news story, promotional text, article, textbook, chat, or forum. They can also utilize numbers, dates, names, proper nouns, and other cues to identify the topic of a text. Additionally, they can infer the meaning and purpose of unknown formulaic expressions based on their position in a text, such as expressions found at the beginning or end of a letter.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
-
+In summary, they can use the visual cues and textual elements to recognize the type of text, identify its topic based on specific details, and understand the meaning and function of formulaic expressions based on their placement within the text.
 </details>
 
 <!-- panels:end -->
@@ -331,9 +321,9 @@ normally use.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person can infer the meaning of an unknown word or sign related to a concrete action or object, as long as the surrounding text is very simple and the subject is familiar in everyday life. They can also make educated guesses about the probable meaning of an unknown word or sign if it resembles a word in their native language or a language they are familiar with.
 
-1. Can communicate very basic information about personal details in a simple way.
+In summary, they can use context and similarities to familiar words to deduce the meaning of unknown words or signs in simple and familiar contexts.
 
 </details>
 
@@ -365,9 +355,9 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person can deduce the meaning of a word or sign by looking at an accompanying picture or icon. By associating the visual representation with the word or sign, they can understand its meaning without relying solely on written or spoken language.
 
-1. Can communicate very basic information about personal details in a simple way.
+In summary, they can use visual cues, such as pictures or icons, to understand the meaning of words or signs. This skill allows them to comprehend information even when they may not be familiar with the written or spoken language.
 
 </details>
 

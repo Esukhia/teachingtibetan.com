@@ -10,10 +10,7 @@
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 
@@ -28,7 +25,7 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+...
 
 </details>
 
@@ -47,10 +44,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -64,10 +58,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+...
 
 </details>
 
@@ -106,10 +97,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to quickly scan multiple sources, such as articles, reports, websites, books, and more, in both their own field of expertise and related fields. They can simultaneously review and assess the relevance and usefulness of particular sections or parts of these sources for the specific task they are working on.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Specifically, they possess the skill of efficiently scanning through various written materials, identifying key sections or portions that are most relevant and useful for their current task. This ability allows them to quickly evaluate the content and determine which sections contain the information they need.
+
+Overall, their scanning and evaluation skills enable them to efficiently review multiple sources of information, whether in their own field or related fields. They can swiftly identify the relevance and usefulness of specific sections or parts within these sources, allowing them to select the most pertinent information for their current task or objective.
 
 </details>
 
@@ -150,10 +142,11 @@ Can quickly identify the content and relevance of news items, articles and repor
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to scan quickly through long and complex texts, effectively locating relevant details. They can efficiently navigate through lengthy and intricate written materials, identifying specific information that is pertinent to their needs or interests.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can quickly identify the content and relevance of news items, articles, and reports on a wide range of professional topics. They have the skill to assess the content and importance of written materials related to their professional field, swiftly deciding whether further study or closer examination is worthwhile.
+
+Overall, their scanning and evaluation skills enable them to swiftly navigate through extensive and complex texts, effectively identifying relevant details. They can efficiently locate specific information within lengthy written materials. Furthermore, they can quickly assess the content and relevance of news items, articles, and reports in various professional domains, making informed decisions about the need for further study or closer examination.
 
 </details>
 
@@ -195,10 +188,11 @@ Can scan through straightforward, factual texts in magazines, brochures or on th
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to scan longer texts effectively in order to locate desired information. They can navigate through extensive written materials, gathering information from different sections or multiple texts to fulfill a specific task or objective.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can scan through straightforward and factual texts found in magazines, brochures, or on the web. They can quickly identify the subject matter and main content of these texts, allowing them to determine whether the information contained within them may be of practical use.
+
+Overall, their scanning skills enable them to efficiently navigate through longer texts, locating the specific information they are seeking. They can gather relevant information from different parts of a text or multiple texts to fulfill a specific task. Furthermore, they can quickly identify the subject matter and main content of straightforward and factual texts, determining whether the information within them is likely to be practically useful.
 
 </details>
 
@@ -240,10 +234,15 @@ Can understand the important information in simple, clearly drafted adverts in n
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to find and understand relevant information in everyday materials, such as letters, brochures, and short official documents. They can effectively locate and comprehend the pertinent information contained within these types of written materials.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can pick out important information about preparation and usage from labels on foodstuff and medicine. They have the skill to identify and understand the essential information provided on product labels, ensuring they grasp important details related to usage and preparation.
+
+Furthermore, they can assess whether an article, report, or review is on the required topic. They possess the ability to evaluate written content and determine its relevance to the specific topic or subject they are interested in.
+
+Moreover, they can understand the important information presented in simple and clearly drafted advertisements in newspapers or magazines, as long as there aren't an excessive number of abbreviations. They can comprehend and grasp the essential details and messages conveyed in these advertisements.
+
+Overall, their reading comprehension skills enable them to find and understand relevant information in everyday materials, identify important details from product labels, assess the topic relevance of articles or reports, and understand the crucial information presented in simple advertisements, provided there aren't too many abbreviations.
 
 </details>
 
@@ -281,10 +280,11 @@ Can understand the main information in short and simple descriptions of goods in
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to find specific information in practical, concrete, and predictable texts, such as travel guidebooks and recipes, as long as they are written in simple language. They can effectively locate and extract the specific information they are seeking from these types of texts.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand the main information presented in short and simple descriptions of goods found in brochures and websites, such as portable digital devices or cameras. They have the capability to comprehend and grasp the essential information provided in these descriptions.
+
+Overall, their reading comprehension skills enable them to find specific information in practical and concrete texts, such as travel guidebooks and recipes, as long as they are written in simple language. They can effectively locate and extract the information they need from these texts. Moreover, they can understand the main information presented in short and simple descriptions of goods found in brochures and websites, allowing them to comprehend the essential details related to various products or devices.
 
 </details>
 
@@ -322,10 +322,13 @@ Can understand everyday signs and notices, etc. in public places, such as street
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to find specific and predictable information in simple everyday materials such as advertisements, prospectuses, menus, reference lists, and timetables. They can effectively locate and extract the specific information they are looking for from these types of written materials.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can locate specific information in lists and isolate the required information. For example, they can use the Yellow Pages to find a specific service or tradesman by navigating through the list and identifying the relevant details.
+
+Furthermore, they can understand everyday signs and notices in public places, such as streets, restaurants, and railway stations, as well as in workplaces. They can comprehend and interpret directions, instructions, and hazard warnings found in these signs and notices.
+
+Overall, their reading comprehension skills enable them to find specific and predictable information in simple everyday materials, extract the necessary details, and understand the main messages conveyed. Moreover, they can effectively navigate through lists to locate specific information and interpret everyday signs and notices in various public and workplace settings.
 
 </details>
 
@@ -366,9 +369,15 @@ Can find and understand simple, important information in advertisements, program
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to recognize familiar names, words/signs, and very basic phrases on simple notices in common everyday situations. They can identify and understand the essential information presented on these notices.
 
-1. Can communicate very basic information about personal details in a simple way.
+Additionally, they can understand store guides, which provide information on the floor locations of departments, and directions, indicating where to find lifts or other specific areas within a facility. They have the capability to comprehend and follow the guidance provided.
+
+Furthermore, they can understand basic hotel information, such as the times when meals are served. They can grasp and comprehend the essential details related to hotel services.
+
+Moreover, they can find and understand simple yet important information in advertisements, programs for special events, leaflets, and brochures. They can comprehend the proposed activities, costs, date and place of the event, and departure times, among other key details.
+
+Overall, their reading comprehension skills enable them to recognize familiar names, words/signs, and basic phrases on simple notices, understand store guides and directions, comprehend basic hotel information, and find and understand the important information presented in advertisements, programs, leaflets, and brochures.
 
 </details>
 
@@ -401,10 +410,12 @@ Can find information about places, times and prices on posters, flyers and notic
 <details>
 
   <summary>Detailed explanation</summary>
+  
+The person has the ability to understand simple everyday signs commonly encountered, such as "Parking," "Station," "Dining room," "No smoking," and others. They can comprehend the meaning and purpose conveyed by these signs.
 
-Let me break it down into simpler parts:
+Additionally, they can find information about places, times, and prices on posters, flyers, and notices. They have the capability to locate and extract relevant details related to locations, schedules, and pricing from these types of visual materials.
 
-1. Can communicate very basic information about personal details in a simple way.
+Overall, their reading comprehension skills enable them to understand and interpret simple everyday signs, allowing them to comprehend the intended message and purpose. Moreover, they can find and understand information about places, times, and prices on posters, flyers, and notices, enabling them to gather the necessary details related to various events, offerings, or services.
 
 </details>
 

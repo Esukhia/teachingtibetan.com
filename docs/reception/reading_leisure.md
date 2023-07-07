@@ -28,7 +28,9 @@ different genres, appreciating subtle distinctions of style and implicit as well
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+The person has the ability to read and comprehend virtually all forms of texts, including both classical and colloquial literary and non-literary texts in various genres. They possess the capability to appreciate subtle distinctions of style and understand both explicit and implicit meanings conveyed within the texts.
+
+Overall, their reading proficiency enables them to engage with a wide range of texts, encompassing both literary and non-literary works. They can recognize and appreciate the nuances of different writing styles and grasp the implicit as well as explicit meanings conveyed within the texts.
 
 </details>
 
@@ -69,10 +71,11 @@ Can read contemporary literary texts and non-fiction produced in the standard fo
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to read and appreciate a variety of literary texts. They can engage with both contemporary literary works and non-fiction written in the standard form of the language or a familiar variety. They can understand these texts with little difficulty and demonstrate an appreciation for the implicit meanings and ideas conveyed within them.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they may benefit from the option to reread certain sections of the texts and have access to reference tools if needed, which further enhances their understanding and appreciation.
+
+Overall, their reading skills allow them to effectively comprehend and enjoy a range of literary texts, both contemporary works and non-fiction. They can grasp the implicit meanings and ideas presented within the texts, and if necessary, they can reread specific sections and utilize reference tools to deepen their understanding.
 
 </details>
 
@@ -113,10 +116,11 @@ Can read novels with a strong, narrative plot and that use straightforward, unel
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to read for pleasure independently, adapting their reading style and speed to different types of texts. They can enjoy a wide range of materials such as magazines, straightforward novels, history books, biographies, travelogues, guides, lyrics, and poems. They are also able to use appropriate reference sources selectively to enhance their reading experience.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Furthermore, they can engage with novels that have a strong narrative plot and utilize straightforward, uncomplicated language. They can fully enjoy these novels as long as they have sufficient time and the option to use a dictionary for any unfamiliar words or phrases.
+
+Overall, their reading skills allow them to immerse themselves in various texts for pleasure. They can adapt their reading approach based on the type of material and use reference sources effectively. They can also enjoy novels with engaging plots and clear language, given enough time and the availability of a dictionary for assistance.
 
 </details>
 
@@ -158,10 +162,11 @@ Can understand simple poems and song lyrics provided these employ straightforwar
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to read newspaper and magazine accounts of films, books, concerts, and other cultural events intended for a broader audience. They can comprehend the main points conveyed in these accounts and understand the general information provided.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand simple poems and song lyrics as long as they employ straightforward language and style. They can grasp the meaning and appreciate the content of these texts without significant difficulty.
+
+Overall, their reading skills enable them to engage with newspaper and magazine accounts of various cultural events and comprehend the main points presented. They can also understand simple poems and song lyrics that use clear and uncomplicated language.
 
 </details>
 
@@ -201,10 +206,13 @@ everyday language, given regular use of a dictionary.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand descriptions of places, events, explicitly expressed feelings, and perspectives in narratives, guides, and magazine articles that use common everyday language. They can comprehend these texts that employ high-frequency vocabulary and relate to various topics.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Furthermore, they can understand a travel diary that primarily focuses on recounting the events of a journey, as well as the experiences and discoveries of the writer.
+
+Additionally, they can follow the plot of stories, simple novels, and comics that have a clear linear storyline and use everyday language. While they may occasionally need to use a dictionary for unfamiliar words or phrases, they can still grasp the overall narrative.
+
+Overall, their reading skills enable them to comprehend descriptions of places, events, emotions, and viewpoints presented in narratives, guides, and magazine articles that use common everyday language. They can also engage with travel diaries and follow the plot of stories, simple novels, and comics, even with occasional assistance from a dictionary.
 
 </details>
 
@@ -245,10 +253,11 @@ everyday topics (e.g. hobbies, sports, leisure activities, animals).
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand short and simple stories, as well as comic strips, that depict familiar and concrete situations. These stories and comic strips use everyday language with high-frequency vocabulary.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can comprehend the main points conveyed in short magazine reports or guide entries that discuss concrete everyday topics. These topics can range from hobbies, sports, leisure activities, to animals. They are able to grasp the essential information presented in these texts.
+
+Overall, their reading skills allow them to engage with short and simple stories, as well as comic strips, that depict familiar situations using everyday language. They can also understand the main points discussed in short magazine reports or guide entries related to concrete everyday topics.
 
 </details>
 
@@ -287,10 +296,15 @@ the Oscars), provided it is composed clearly in simple language.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand short narratives and descriptions of someone's life that are written in simple language. They can comprehend the content and follow the storyline of these texts.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Furthermore, they can understand the events and characters depicted in a photo story, such as those found in lifestyle magazines. They can form an impression of the characters and understand the narrative conveyed through the images.
+
+Additionally, they can understand a significant amount of information provided in a short description of a person, including celebrities. They can grasp the main points and key details presented in these descriptions.
+
+Moreover, they can understand the main point of a short article that reports an event following a predictable pattern, such as the Oscars. As long as the article is composed clearly in simple language, they can comprehend the central message and essential information conveyed.
+
+Overall, their reading skills enable them to understand short narratives, descriptions of someone's life, photo stories, and short articles that discuss predictable events. They can comprehend the content, form impressions, and grasp the main points presented in these texts, provided they are written in simple and clear language.
 
 </details>
 
@@ -327,9 +341,11 @@ of the content.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand short illustrated narratives that depict everyday activities and are described using simple words. They can comprehend the storyline and content of these narratives, aided by the accompanying illustrations.
 
-1. Can communicate very basic information about personal details in a simple way.
+Furthermore, they can understand the basic outline and main points of short texts within illustrated stories. The presence of images assists them in inferring and guessing the content, allowing them to grasp the overall meaning of the texts.
+
+Overall, their reading skills enable them to understand short narratives about everyday activities, described in simple words and accompanied by illustrations. They can also follow the outline and main points of short texts within illustrated stories, leveraging the visual cues to enhance their understanding.
 
 </details>
 
@@ -347,10 +363,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -360,10 +373,7 @@ Let me break it down into simpler parts:
 <details>
 
   <summary>Detailed explanation</summary>
-
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

@@ -9,11 +9,7 @@
 
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
-
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 
@@ -28,7 +24,7 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+..
 
 </details>
 
@@ -67,10 +63,9 @@ instructions relate to their own area of speciality, provided they can reread di
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand lengthy and complex instructions related to a new machine or procedure, regardless of whether it pertains to their own area of expertise. They can comprehend the instructions in detail, even if certain sections are challenging, by utilizing the option to reread difficult parts.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Overall, their reading comprehension skills enable them to understand complex instructions, whether they are related to their own field or not. They can comprehend the instructions in detail, and they have the ability to revisit and reread difficult sections to enhance their understanding.
 
 </details>
 
@@ -108,10 +103,9 @@ provided they can reread difficult sections.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand lengthy and complex instructions within their field of expertise. They can comprehend the detailed instructions, including information on conditions and warnings. If they encounter challenging sections, they can utilize the option to reread those parts to enhance their understanding.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Overall, their reading comprehension skills enable them to understand complex instructions in their specific field. They can comprehend the detailed content, including conditions and warnings, and they have the ability to revisit and reread difficult sections to ensure full comprehension.
 
 </details>
 
@@ -151,10 +145,9 @@ provided they are familiar with the type of process or product concerned.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand instructions and procedures presented as continuous texts, such as those found in manuals. They can comprehend these texts effectively, especially when they are familiar with the type of process or product being described.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Overall, their reading comprehension skills enable them to understand instructions and procedures presented in a continuous text format, such as manuals. They can grasp the information and guidance provided, particularly when they have prior familiarity with the specific process or product being discussed.
 
 </details>
 
@@ -194,10 +187,13 @@ Can understand most short safety instructions, (e.g. on public transport or in m
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand clearly expressed and straightforward instructions for a piece of equipment. They can comprehend the instructions provided, enabling them to effectively operate and use the equipment.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can follow simple instructions given on packaging, such as cooking instructions. They possess the capability to understand and follow the instructions provided, allowing them to carry out the necessary tasks.
+
+Furthermore, they can understand most short safety instructions, such as those found on public transport or in manuals for the use of electrical equipment. They have the ability to comprehend the essential safety information conveyed in these instructions.
+
+Overall, their reading comprehension skills enable them to understand and follow instructions for equipment operation, comprehend simple instructions on packaging, and understand short safety instructions related to public transport and the use of electrical equipment.
 
 </details>
 
@@ -236,10 +232,11 @@ Can understand short instructions illustrated step by step (e.g. for installing 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand regulations, particularly safety regulations, when they are expressed in simple language. They can comprehend the rules and guidelines outlined in these regulations, enabling them to adhere to the necessary safety measures.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand short instructions that are illustrated step by step, such as those for installing new technology. They possess the capability to comprehend the sequential instructions provided, supported by visual cues or diagrams.
+
+Overall, their reading comprehension skills enable them to understand regulations, especially safety regulations, when presented in simple language. They can grasp the instructions outlined in these regulations and follow the necessary procedures. They can also comprehend short, step-by-step instructions, particularly when accompanied by visual aids, for tasks such as installing new technology.
 
 </details>
 
@@ -278,10 +275,15 @@ Can follow a simple recipe, especially if there are pictures to illustrate the m
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand simple instructions on equipment encountered in everyday life, such as a public telephone. They can comprehend the basic instructions provided, enabling them to operate the equipment effectively.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand simple and brief instructions, especially when they are illustrated and not presented in continuous text. They possess the capability to comprehend these concise instructions, particularly when visual cues or diagrams are included.
+
+Furthermore, they can understand instructions on medicine labels expressed as simple commands, such as "Take before meals" or "Do not take if driving." They have the ability to comprehend these straightforward instructions, ensuring they follow the appropriate actions.
+
+Moreover, they can follow a simple recipe, especially when there are pictures to illustrate the most important steps. They possess the skill to comprehend the instructions and carry out the necessary cooking tasks, particularly when visual aids are available.
+
+Overall, their reading comprehension skills enable them to understand simple instructions on everyday equipment, follow brief and illustrated instructions, comprehend medication instructions expressed as simple commands, and follow simple recipes with the assistance of visual aids.
 
 </details>
 
@@ -315,9 +317,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to follow short and simple directions, such as instructions to go from one location (X) to another (Y). They can comprehend the directions provided and navigate their way accordingly.
 
-1. Can communicate very basic information about personal details in a simple way.
+Overall, their ability to understand and follow short and straightforward directions enables them to navigate from one location to another effectively.
 
 </details>
 
@@ -349,9 +351,9 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand very short and simple instructions commonly used in familiar everyday contexts. Examples include instructions like "No parking" or "No food or drink." They can comprehend these instructions, particularly when supported by illustrations or visual cues.
 
-1. Can communicate very basic information about personal details in a simple way.
+Overall, their reading comprehension skills enable them to understand and follow very short and straightforward instructions encountered in familiar everyday situations. They can grasp the meaning conveyed by instructions such as "No parking" or "No food or drink," especially when accompanied by visual representations.
 
 </details>
 

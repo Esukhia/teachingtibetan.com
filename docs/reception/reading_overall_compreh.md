@@ -32,7 +32,9 @@ implicit as well as explicit meaning.
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+The person has the ability to understand virtually all types of texts, including abstract, structurally complex, and highly colloquial literary and non-literary writings. They can comprehend a wide range of long and complex texts, appreciating not only the explicit meaning but also the subtle distinctions of style and implicit messages conveyed.
+
+Overall, their reading skills are highly advanced, allowing them to understand and appreciate texts of various genres and complexities. They can grasp both the explicit and implicit meanings, demonstrating a comprehensive understanding of the written material.
 
 </details>
 
@@ -75,10 +77,9 @@ Can understand a wide variety of texts including literary writings, newspaper or
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand lengthy and complex texts in detail, even if they are outside their area of expertise. They can comprehend a wide variety of texts, including literary writings, newspaper or magazine articles, and specialized academic or professional publications. However, they may need to reread difficult sections to ensure full understanding.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Overall, their reading skills enable them to tackle extensive and complex texts, regardless of the subject matter. They can navigate various types of written materials, utilizing opportunities for rereading and access to reference tools to enhance their comprehension.
 
 </details>
 
@@ -118,10 +119,9 @@ may experience some difficulty with low-frequency idioms.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person can read independently and adjust their reading style and speed according to different texts and purposes. They have a wide range of vocabulary knowledge when it comes to reading actively. However, they may encounter some challenges with less common idiomatic expressions.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Overall, they have developed a strong sense of autonomy in their reading abilities. They are adept at adapting their reading approach based on the specific text and purpose. While they possess a broad active reading vocabulary, they may face occasional difficulties with uncommon idioms.
 
 </details>
 
@@ -160,11 +160,9 @@ of comprehension.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person can read factual texts related to their field of interest with a satisfactory level of comprehension. They are able to understand straightforward information and concepts in texts that are directly relevant to their area of expertise.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
-
+In summary, they have the ability to effectively read and comprehend factual texts that pertain to their specific field of interest. They can grasp the essential information and ideas presented in these texts.
 </details>
 
 <!-- panels:end -->
@@ -199,10 +197,9 @@ everyday or job-related language.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person can understand short and simple texts that discuss familiar topics in a concrete manner. These texts primarily use common everyday language or language related to their job or profession.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, they have the ability to comprehend straightforward texts that cover familiar subjects using common, everyday language or job-related terminology.
 
 </details>
 
@@ -238,10 +235,9 @@ shared international vocabulary items.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person can understand short and simple texts that contain the most commonly used words, including some words that are shared internationally.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, they have the ability to comprehend texts that use the most frequently used vocabulary, including words that are widely recognized and used across different languages.
 
 </details>
 
@@ -276,9 +272,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person can understand very short and simple texts by focusing on one phrase at a time. They are able to recognize familiar names, words, and basic phrases. They may need to reread the text as necessary to fully understand it.
 
-1. Can communicate very basic information about personal details in a simple way.
+In summary, they have the ability to comprehend very brief texts by processing them phrase by phrase, recognizing familiar elements, and revisiting the text as needed for better understanding.
 
 </details>
 
@@ -311,9 +307,9 @@ illustrated with photos or a picture book using familiar vocabulary.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person can identify familiar words or signs when they are accompanied by pictures or illustrations. For example, they can understand a fast-food restaurant menu that includes photos or a picture book that uses familiar vocabulary.
 
-1. Can communicate very basic information about personal details in a simple way.
+In summary, they have the ability to recognize and understand words or signs when they are presented alongside visual aids or images, making it easier for them to comprehend the information.
 
 </details>
 

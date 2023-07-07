@@ -29,7 +29,9 @@ specialisation.
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+The person has the ability to understand the finer points and implications of a complex report or article, even when it falls outside their area of specialization. They possess the capacity to comprehend and grasp the intricate details and deeper meanings presented in such complex written materials, even when the subject matter is unfamiliar to them.
+
+Overall, their reading comprehension skills enable them to go beyond the surface-level understanding and delve into the nuances and implications of complex reports or articles, even if they are not directly related to their area of expertise. They can effectively analyze and comprehend the intricate details and deeper meanings conveyed in these written materials, showcasing their ability to comprehend complex content outside their specialized field.
 
 </details>
 
@@ -68,10 +70,9 @@ stated opinions.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand lengthy and complex texts encountered in social, professional, or academic life in great detail. They possess the capacity to identify and comprehend finer points of detail, including attitudes and both stated and implied opinions expressed within the texts.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Overall, their reading comprehension skills enable them to thoroughly understand and analyze a wide range of lengthy and complex texts encountered in various aspects of life. They can delve into the intricate details, identifying attitudes and opinions that are explicitly stated as well as those that are implied. Their ability to comprehend complex content in detail allows them to grasp the nuanced aspects and deeper meanings conveyed within the texts.
 
 </details>
 
@@ -112,10 +113,11 @@ confirm their interpretation of terminology.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to obtain information, ideas, and opinions from highly specialized sources within their field of expertise. They can effectively understand and extract valuable insights from technical and specialized materials related to their specific area of knowledge.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand specialized articles that fall outside their field of expertise, as long as they can occasionally use a dictionary to confirm their interpretation of specialized terminology. They possess the skill to navigate through technical content from diverse disciplines and comprehend the main ideas and concepts, ensuring accurate understanding by consulting a dictionary when needed.
+
+Overall, their reading comprehension skills enable them to obtain valuable information, ideas, and opinions from highly specialized sources within their field. Furthermore, they can extend their understanding to specialized articles outside their area of expertise by using a dictionary to confirm the meaning of specific terminology. Their ability to comprehend technical content across different domains allows them to gain insights beyond their own field of specialization.
 
 </details>
 
@@ -158,10 +160,13 @@ Can recognise different structures in discursive text: contrasting arguments, pr
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand articles and reports that discuss contemporary problems and present particular stances or viewpoints. They can effectively comprehend and interpret the content of these texts, understanding the arguments and perspectives put forth.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can recognize when a text provides factual information and when it seeks to persuade or convince readers of a particular viewpoint or argument. They possess the skill to distinguish between objective, informational content and persuasive elements within a text.
+
+Furthermore, they can identify different structures commonly found in discursive texts. They can recognize contrasting arguments, problem-solution presentations, and cause-effect relationships within the text's structure. They have the ability to discern and understand the organization and relationships between ideas in these types of texts.
+
+Overall, their reading comprehension skills enable them to understand articles and reports that address contemporary problems and adopt specific viewpoints. They can differentiate between factual information and persuasive elements within a text. Moreover, they can recognize different structures in discursive texts, such as contrasting arguments, problem-solution presentations, and cause-effect relationships, allowing for a deeper understanding of the text's content and structure.
 
 </details>
 
@@ -206,10 +211,15 @@ Can recognise the line of argument in the treatment of the issue presented, thou
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand straightforward and factual texts that pertain to their interests or studies. They can comprehend the content of these texts, which present information in a clear and direct manner.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand short texts on familiar or current topics, where individuals express their points of view. They possess the skill to grasp the opinions and perspectives shared in these texts, such as critical contributions to an online discussion forum or readers' letters to the editor.
+
+Furthermore, they can identify the main conclusions in clearly signaled argumentative texts. They have the ability to recognize the key points and overarching conclusions presented in texts that aim to persuade or present an argument.
+
+Moreover, they can recognize the overall line of argument in the treatment of an issue presented in a text, although not necessarily in great detail. They possess the capability to understand the general flow of reasoning and the main points in texts that discuss and analyze a particular topic.
+
+Overall, their reading comprehension skills enable them to understand straightforward, factual texts related to their interests or studies, as well as short texts where people express their opinions. They can identify the main conclusions in argumentative texts and recognize the overall line of argument in texts discussing a particular issue, even if not in intricate detail.
 
 </details>
 
@@ -250,10 +260,13 @@ Can understand the main points in descriptive notes such as those on museum exhi
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to recognize significant points in straightforward news articles that cover familiar subjects. They can identify and understand the key information presented in these articles.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand most factual information they encounter on familiar subjects of interest, as long as they have sufficient time for rereading. They possess the capability to comprehend and grasp the main points and details in such texts when given the opportunity to review them.
+
+Furthermore, they can understand the main points in descriptive notes found on museum exhibits and explanatory boards in exhibitions. They have the ability to comprehend the essential information and messages conveyed in these written materials.
+
+Overall, their reading comprehension skills enable them to recognize significant points in straightforward news articles, understand factual information on familiar subjects of interest, and comprehend the main points in descriptive notes found in museum exhibits and exhibitions.
 
 </details>
 
@@ -296,11 +309,15 @@ weather).
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to identify specific information in simpler materials they encounter, such as letters, brochures, and short news articles describing events. They can locate and extract the desired information from these texts.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can follow the general outline of a news report on a familiar type of event, provided the content is familiar and predictable. They possess the capability to understand the overall structure and main points of such news reports.
 
+Furthermore, they can pick out the main information in short news reports or simple articles where figures, names, illustrations, and titles play a prominent role and support the meaning of the text. They have the skill to grasp the essential information presented in these texts, utilizing visual elements to aid comprehension.
+
+Moreover, they can understand the main points of short texts that deal with everyday topics such as lifestyle, hobbies, sports, and weather. They can comprehend the key ideas and main information conveyed in these texts related to common daily subjects.
+
+Overall, their reading comprehension skills enable them to identify specific information, follow the general outline of news reports, extract main information from texts with visual support, and understand the main points of short texts on everyday topics.
 </details>
 
 <!-- panels:end -->
@@ -340,10 +357,17 @@ Can understand most of what people say about themselves in a personal ad or post
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to understand texts that describe people, places, everyday life, and culture, as long as simple language is used. They can comprehend the content and meaning conveyed in these texts.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can understand information presented in illustrated brochures and maps, such as the key attractions of a city. They possess the capability to grasp the main points and details provided in these visual materials.
+
+Furthermore, they can understand the main points in short news items that cover subjects of personal interest, such as sports or celebrities. They have the ability to comprehend the essential information and key highlights presented in these news items.
+
+Moreover, they can understand a short factual description or report within their own field, as long as simple language is used and the content does not contain unpredictable details. They possess the skill to comprehend the main information and key points in texts related to their area of expertise, provided the language is straightforward and the content is manageable.
+
+Furthermore, they can understand most of what people say about themselves in personal ads or posts, as well as what they express as their preferences in other people. They have the ability to comprehend the self-descriptions and stated preferences shared by individuals in personal advertisements or online posts.
+
+Overall, their reading comprehension skills enable them to understand texts describing people, places, everyday life, and culture, as well as information presented in illustrated brochures and maps. They can comprehend the main points in short news items, understand short factual descriptions within their field of expertise, and understand personal ads and posts, including people's self-descriptions and preferences.
 
 </details>
 
@@ -380,9 +404,11 @@ Can understand short texts on subjects of personal interest (e.g. news flashes a
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+The person has the ability to get an idea of the content in simpler informational materials and short, simple descriptions, especially when visual support is provided. They can grasp the overall meaning and basic information presented in these texts.
 
-1. Can communicate very basic information about personal details in a simple way.
+Additionally, they can understand short texts on subjects of personal interest, such as news flashes about sports, music, travel, or stories. They possess the capability to comprehend these texts when they are composed in very simple language and supported by illustrations and pictures.
+
+Overall, their reading comprehension skills enable them to obtain a general understanding of the content in simpler informational materials and short descriptions, particularly when visual support is available. They can also comprehend short texts on personal interest topics, such as sports, music, travel, or stories, when they are presented in straightforward language and accompanied by illustrations and pictures.
 
 </details>
 
@@ -416,10 +442,10 @@ photos or an illustrated story formulated in very simple everyday words/signs.
 <details>
 
   <summary>Detailed explanation</summary>
+  
+The person has the ability to understand the simplest informational material, such as a fast-food restaurant menu that is illustrated with photos or an illustrated story presented in very simple everyday words/signs. They can comprehend the basic information and messages conveyed in these materials, utilizing visual cues and simple language to aid their understanding.
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+Overall, their reading comprehension skills enable them to understand straightforward and basic informational materials, such as illustrated menus or stories formulated in simple everyday language. They can grasp the essential information and meaning conveyed in these materials, particularly when supported by visuals.
 
 </details>
 
