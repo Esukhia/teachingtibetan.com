@@ -2,7 +2,8 @@
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> འགྲེལ་བཤད་གསལ་ཁ་མི་འདུག C1 ལ་གཟིགས་རོགས་གནང་།
+>མཐུད་མཚམས་དང་གཏན་འབེབས་རྣམས་གསལ་མེད་པ་དང།(སྐད་ཡིག་དང་པོ་) སྤྱི་ཚོགས་རིག་གཞུང་གི་བརྡ་སྟོན་བྱེད་ཀྱི་སྒྲོམ་གཞིའི་ཐོག་གཏན་འབེབས་བྱེད་དེ་(སྐད་ཡིག་གཉིས་པའི་ཐོག་)འགྲེལ་བཤད་རྒྱག་ཐུབ། (དཔེར་ན། འཁྱོག་བཤད་དང། ཟུར་ཟ། ཚིག་རྩུབ།)
+
 
 
 <details>
@@ -17,7 +18,8 @@
 
 <!-- div:right-panel -->
 
-> No descriptors available; see C1
+> Can explain (in Language B) inferences when links or implications are not made explicit (in Language A), and point out the sociocultural implications of the form of expression (e.g. understatement, irony, sarcasm).
+
 
 
 
@@ -38,11 +40,12 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->  རོགས་པའམ་ཚོགས་པ་དང་མཉམ་དུ་བྱ་བའི་བརྒྱུད་རིམ་ཐོག་གྲོས་བསྡུར་གྱི་སྒྲོམ་གཞི་ཐག་གཅོད་ཐུབ་ཅིང། གཞན་གྱིས་གང་ཞིག་ཟེར་མིན་ཐོ་འགོད་དང། ལྟ་ཚུལ་འདྲ་མིན་རྣམས་སྙིང་བསྡུས་དང་འགྲེལ་བཤད། ལྗིད་ཁོག་ཀྱང་འདེགས་ཐུབ་ཀྱི་ཡོད།
-
-ལམ་སྟོན་རྒྱས་བཤད་བྱེད་པ་ཇི་བཞིན་ཧ་གོ་ཐུབ།
-གཞན་པ་སྐད་འབོད་བྱེད་དེ་བསམ་ཚུལ་གང་ཡོད་སོགས་དྲིས་ཤིང། ལས་ཀ་མདུན་སྐྱོད་ཆེད་དུ་རོགས་པ་བྱེད་ཐུབ།
-དཀའ་ངལ་ལམ་གནད་དོན་རྣམས་གསལ་པོ་བཀོད་ཅིང། རྒྱུ་འབྲས་གང་ཡིན་བསམ་ཞིབ་དང། ཐབས་ལམ་གཞན་བཀོལ་སྤྱོད་བྱེད་ན་ཕན་ཐོགས་ཡོང་མིན་ལྗིད་ཁོག་འདེགས་ཏེ་ཟུར་འདོན་བྱེད་ཐུབ་ཀྱི་ཡོད།
+>(སྐད་ཡིག་དང་པོའི་)དགོས་མཁོའི་བརྩམས་ཆོས་རིང་པོ་རྣམས་(སྐད་ཡོག་གཉིས་པའི་) ཐོག་མདོར་བསྡུས་བཟོ་ཐུབ། 
+(སྐད་ཡིག་དང་པོའི་)ཤེས་ཡོན་དང་ལས་ཀའི་འགྲན་རྩོད་ཐོག་ཕྲད་པའི་དཀའ་ངལ་དང། བསམ་ཚུལ་འདྲ་མིན་ཡང་ལྕི་འདེགས་ཤིང་རྒྱས་བཤད་དང། དོན་ཚན་གལ་གནད་ཕལ་ཆེ་བ་ངོས་འཛིན་བྱེད་དེ་(སྐད་ཡིག་གཉིས་པའི་)ཐོག་མདོར་བསྡུས་བཟོ་ཐུབ། 
+(སྐད་ཡིག་དང་པོའི་)ཐོག་ཡོད་པའི་མགོ་རྙོག་ཅན་གྱི་བརྩམས་ཆོས་ཁག་གི་རང་ལས་གཞན་པའི་ཁྱབ་ཁོངས་བྱེ་བྲག་ནས་གནད་འགག་དོན་ཚན་དང། དེར་ཆེད་ལས་ལྟ་སྟངས་མཚམས་རེར་ཡོད་པ་ཞིག་ (སྐད་ཡིག་གཉིས་པའི་) སྐད་ཡིག་གི་སྒྲོམ་གཞི་སྤུས་ལེགས་ཤིག་དང་གསལ་ཁ་དོད་པོའི་སྒོ་ནས་མདོར་བསྡུས་བཟོ་ཐུབ། 
+(སྐད་ཡིག་དང་པོའི་) སྤྱར་བསྟར་དུ་དོན་དངོས་དང་རྩོད་གླེང་གི་ཁྱད་ཆོས་ཕྲ་མོ་རྣམས་(སྐད་ཡིག་གཉིས་པའི་)ཐོག་འགྲེལ་བཤད་རྒྱག་ཐུབ། 
+(སྐད་ཡིག་དང་པོའི་) བརྩམས་ཆོས་མགོ་རྙོག་ལས་བཀོལ་སྤྱོད་བྱེད་པའི་རྩོད་གླེང་དང་གནས་ཚུལ་རྣམས་ལ་(སྐད་ཡིག་གཉིས་པའི་) བརྗོད་གཞིར་གྲོས་བསྡུར་གྱིས་དོན་དང་ལྡན་པའི་མཆན་བཀོད་ཅིང་བསམ་ཚུལ་སོགས་འཕར་མ་རྒྱག་ཐུབ། 
+(སྐད་ཡིག་དང་པོའི་) བརྗོད་གཞི་བྱེ་བྲག་ཅན་དང། ཡིག་ཁུངས་ཨ་མའི་དུམ་མཚམས་བྱེ་བྲག་པ་དེར་ཁོ་ཚོས་རྗེས་དཔག་ལ་རྒྱབ་སྐྱོར་བྱེད་དེ་(སྐད་ཡིག་གཉིས་པའི་)ཐོག་བརྩམས་ཆོས་མ་ཁུངས་ཀྱི་རང་གཤིས་དང་ལྟ་སྟངས་རྣམས་འགྲེལ་བཤད་རྒྱག་ནུས། 
 
 
 
@@ -59,7 +62,12 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
 <!-- div:right-panel -->
 
->Can frame a discussion to decide on a course of action with a partner or group, reporting on what others have said, and summarising, elaborating and weighing up multiple points of view.
+>Can summarise (in Language B) long, demanding texts (in Language A).
+Can summarise (in Language B) discussion (in Language A) on matters within their academic or professional competence, elaborating and weighing up different points of view and identifying the most significant points.
+Can summarise clearly in well-structured language (in Language B) the main points made in complex texts (in Language A) in fields of specialisation other than their own, although they may occasionally check particular technical concepts.
+Can explain (in Language B) subtle distinctions in the presentation of facts and arguments (in Language A).
+Can exploit information and arguments from a complex text (in Language A) to discuss a topic (in Language B), glossing with evaluative comments, adding their opinion, etc.
+Can explain (in Language B) the attitude or opinion expressed in a source text (in Language A) on a specialised topic, supporting inferences they make with reference to specific passages in the original.
 
 
 
@@ -82,13 +90,13 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 
 
-### B1+
+### B2+
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> གལ་ཏེ་གྲོས་བསྡུར་མགྱོགས་པོ་དང་དུས་ཚོད་རིང་པོར་ནར་བ་ན། མཚམས་རེར་བསྐྱར་ཟློས་དང་གསལ་ཁ་བཟོ་རོགས་ཞེས་ལབ་དགོས་པ་བྱུང་ཡང། གང་ལབ་པ་དེ་བཞིན་རྗེས་མཐུད་བྱེད་ཐུབ་ཀྱི་ཡོད། 
-དཀའ་ངལ་གང་ཞིག་ཡིན་མིན་དང། རྗེས་ལ་གང་ཞིག་བྱེད་དགོས་མིན། ཐབས་ལམ་གཞན་མཚུངས་བསྡུར་བྱེད་དེ་འགྲེལ་བཤད་རྒྱག་ཐུབ་ཀྱི་ཡོད།
-གཞན་གྱི་བསམ་ཚུལ་ལ་མཆན་སྙིང་བསྡུས་རེ་རྒྱག་ནུས།
+>(སྐད་ཡིག་དང་པོའི)བརྩམས་ཆོས་མཁྲེགས་པོའི་ནང་གི་གནས་ཚུལ་དང་རྩོད་གླེང་རྣམས་སོ་སོའི་ཁྱབ་ཁོངས་སུ་ཡོད་པའི་དོ་དབྱིངས་ཅན་དང་དམིགས་བསལ་བརྗོད་གཞིའི་ཐོག་(སྐད་ཡིག་གཉིས་པའི་) སྐད་ཡིག་སྒྲོམ་གཞི་ལྡན་པའི་སྒོ་ནས་ཁ་གསལ་ངང་སྙིང་བསྡུས་འབྲི་ཐུབ། 
+(སྐད་ཡིག་དང་པོའི་) གྲོས་བསྡུར་མགོ་རྙོག་ཅན་གྱི་དོན་ཚན་གལ་ཆེ་རྣམས་ལ་ལྟ་ཚུལ་འདྲ་མིན་སྟོན་པ་དེར་(སྐད་ཡིག་གཉིས་པའི་)སྙིང་བསྡུས་བཟོ་ནུས། 
+
 
 
 
@@ -104,11 +112,111 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can follow what is said, though they may occasionally have to ask for repetition or clarification if the discussion is rapid or extended.
-Can explain why something is a problem, discuss what to do next, and compare and contrast alternatives.
-Can give brief comments on the views of others.
+> Can summarise clearly in well-structured language (in Language B) the information and arguments contained in complex texts (in Language A) on a wide range of subjects related to their fields of interest and specialisation.
+Can summarise (in Language B) the main points of complex discussions (in Language A), weighing up the different points of view presented
 
 
+
+
+<details>
+
+  <summary>Detailed explanation</summary>
+
+Let me break it down into simpler parts:
+
+1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
+Example: "The sky is blue today" is a clear and simple sentence.
+
+</details>
+
+<!-- panels:end -->
+
+
+
+
+
+
+
+### B2
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+> (སྐད་ཡིག་དང་པོའི)རྒྱུ་ཆ་འདྲ་མིན་བས་གནས་ཚུལ་དང་རྩོད་གླེང་རྣམས་(སྐད་ཡིག་གཉིས་པའི་)སྙན་ཐོ་དང་ཕྱོགས་བསྡུས་བཟོ་ནུས། 
+(སྐད་ཡིག་དང་པོའི་)དོན་དངོས་ཀྱི་གནས་ཚུལ་མང་པོ་དང་འཆར་ཡན་གྱི་བརྩམས་ཆོས་ཀྱི་བརྗོད་གཞིའི་ཐོག་གྲོས་བསྡུར་སྐབས་ཀྱི་འགལ་བ་ཅན་གྱི་མཆན་དང་དོན་ཚན་རྣམས་(སྐད་ཡིག་གཉིས་པའི་)སྙིང་བསྡུས་བཟོ་ནུས། 
+(སྐད་ཡིག་དང་པོའི་)བརྩམས་ཆོས་མཁྲེགས་པོ་དང་རིང་པོའི་ནང་ཁྱབ་ཁོངས་སུ་ཡོད་པའི་དམིགས་བསལ་དོ་དབྱིངས་ཡོད་བསྡད་པའི་བརྗོད་གཞིའི་ཐོག་དོན་ཚན་གལ་གནད་རྣམས་(སྐད་ཡིག་གཉིས་པའི་)སྙིང་བསྡུས་བཟོ་ནུས།
+(སྐད་ཡིག་དང་པོའི་)བརྩམས་ཆོས་ཀྱི་ཀློག་པ་པོ་ངོས་འཛིན་གྱིས་(སྐད་ཡིག་གཉིས་པའི་)དོ་དབྱིངས་ཅན་གྱི་བརྗོད་གཞི་དང། རྩོམ་པ་པོའི་དམིགས་ཡུལ་དང། རང་གཤིས། བསམ་ཚུལ་རྣམས་འགྲེལ་བཤད་རྒྱག་ནུས།
+(སྐད་ཡིག་དང་པོའི)གནས་ཚུལ་དང། བཅར་འདྲི། དངོས་བྱུང་གི་སྙན་ཐོར་བསམ་ཚུལ་དང་རྩོད་གླེང། གྲོས་བསྡུར་རྣམས་ཀྱི་སྙིང་བསྡུས་ཤིག་ (སྐད་ཡིག་གཉིས་པའི་)འདོན་ཐུབ། 
+(སྐད་ཡིག་དང་པོའི་) གློག་བརྙན་དང་འཁྲབ་སྟོན་གྱི་བྱུང་རིམ་བང་རིམ་བཞིན་(སྐད་ཡིག་གཉིས་པའི་) སྙིང་བསྡུས་བཟོ་ནུས། 
+
+
+
+
+
+
+<details>
+  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
+
+བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
+
+1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
+དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+</details>
+
+<!-- div:right-panel -->
+
+> Can synthesise and report (in Language B) information and arguments from a number of sources (in Language A).
+Can summarise (in Language B) a wide range of factual and imaginative texts (in Language A), commenting on and discussing contrasting points of view and the main themes.
+Can summarise (in Language B) the important points made in longer, complex texts (in Language A) on subjects of current interest, including their fields of special interest.
+Can recognise the intended audience of a text (in Language A) on a topic of interest and explain (in Language B) the purpose, attitudes and opinion of the author.
+Can summarise (in Language B) extracts from news items, interviews or documentaries containing opinions, arguments and discussions (in Language A).
+Can summarise (in Language B) the plot and sequence of events in a film or play (in Language A).
+
+
+
+
+<details>
+
+  <summary>Detailed explanation</summary>
+
+Let me break it down into simpler parts:
+
+1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
+Example: "The sky is blue today" is a clear and simple sentence.
+
+</details>
+
+<!-- panels:end -->
+
+
+
+
+
+
+
+### B1+
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+> (སྐད་ཡིག་དང་པོའི་)བརྩམས་ཆོས་རིང་པོའི་ཁྱབ་ཁོངས་སུ་ཡོད་པའི་དོ་དབྱིངས་ཅན་གྱི་བརྗོད་གཞིའི་དོན་ཚན་གལ་གནད་རྣམས་ (སྐད་ཡིག་གཉིས་པའི་)སྙིང་བསྡུས་སུ་བཀོད་དེ། བརྡ་སྟོན་གྱི་དོན་དག་རྣམས་བལྟ་ཐུབ་པ་ཞིག་སྐྲུན་ཐུབ།
+(སྐད་ཡིག་དང་པོའི་) ངག་རྒྱུན་ཐུང་ཐུང་དང། སྙན་རྩོམ། གཏམ་བཤད། བགྲོ་གླེང་། བཅར་འདྲི། དངོས་བྱུང་གི་སྙན་ཐོ་རྣམས་(སྐད་ཡིག་གཉིས་པའི་)སྙིང་བསྡུས་སུ་བཀོད་ཅིང། དྲི་བར་ལན་འདེབས་རྒྱས་པ་ཞིག་རྒྱག་ཐུབ། 
+(སྐད་ཡིག་དང་པོའི་) རྒྱུ་ཆ་འདྲ་མིན་ནས་གནས་ཚུལ་ཆུང་ཚགས་འགའ་རེར་གཞན་ཞིག་གི་ཆེད་དུ་གཤིབ་བསྡུར་བྱེད་དེ་སྙིང་བསྡུས་ཤིག་(སྐད་ཡིག་གཉིས་པ་)བཀོད་ཐུབ། 
+
+
+
+<details>
+  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
+
+བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
+
+1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
+དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+</details>
+
+<!-- div:right-panel -->
+
+> Can summarise (in Language B) the main points made in long texts (in Language A) on topics in their fields of interest, provided they can check the meaning of certain expressions.
+Can summarise (in Language B) a short narrative or article, talk, discussion, interview or documentary (in Language A) and answer further questions about details.
+Can collate short pieces of information from several sources (in Language A) and summarise them (in Language B) for somebody else
 
 
 
@@ -131,10 +239,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> གང་ཞིག་ལབ་པ་ལྟར་རྗེས་མཐུད་དང། དགོས་མཁོ་བྱུང་བ་ན་གཞན་གྱིས་གང་ཞིག་ལབ་ན་གཉིས་མོས་བསམ་ཤེས་ཀྱི་ཆེད་དུ་བསྐྱར་ཟློས་བྱེད་ཐུབ་ཀྱི་ཡོད།
-རྗེས་ལ་གང་ཞིག་བྱེད་དགོས་མིན་དྲི་ལན་རྟོགས་ཆེད་དུ་བསམ་ཚུལ་དང་ཡ་ལན་སྤྲོད་ཐུབ་ཅིང། རྒྱུ་མཚན་དང་འགྲེལ་བཤད་མདོར་བསྡུས་ཤིག་ཀྱང་རྒྱག་ཐུབ།
-གང་འདྲས་བྱེད་དགོས་མིན་ཐོག་གཞན་གྱི་ལྟ་ཚུལ་གང་ཡོད་ཅེས་སྐད་བཏང་སྟེ་དྲིས་ཐུབ་ཀྱི་ཡོད། 
- 
+> (སྐད་ཡིག་དང་པོའི་) རྒྱུས་མངའ་ཡོད་པའི་བརྗོད་གཞི་དོ་དབྱིངས་ཅན་ལ་དག་ཡིག་ཚད་འགག་གི་རྐྱེན་པས་དུས་ཚོད་དུ་ཆགས་རིམ་ལ་དཀའ་ངལ་བཟོ་ཡང། བརྩམས་ཆོས་ནང་གི་དོན་ཚན་གལ་གནད་རྣམས་གསལ་པོ་དང་སྒྲོམ་གཞི་ལྡན་པའི་སྒོ་ནས་(སྐད་ཡིག་གཉིས་པའི་) ནང་སྙིང་བསྡུས་སུ་བཀོད་ཐུབ། 
+རྒྱུས་མངའ་ཡོད་པའི་བརྗོད་གཞིའི་ཐོག་(སྐད་ཡིག་དང་པོའི་)བརྩམས་ཆོས་ཀྱི་གནས་ཚུལ་ཁ་རུ་ཁ་ཐུག་དང་གནས་ཚུལ་གལ་གནད་རྣམས་(སྐད་ཡིག་གཉིས་པ་)ལས་སླ་པོའི་སྒོ་ནས་སྙིང་བསྡུས་སུ་བཀོད་ཐུབ། (དཔེར་ན། བཅར་འདྲིའི་སྙན་ཐོ་ཐུང་ཐུང་དང། དུས་དེབ་ཀྱི་རྩོམ་ཡིག འགྲུལ་པའི་ངོ་སྤྲོད་དེབ་ཆུང་)
+སྒེར་གྱི་བརྗོད་གཞི་དང་ད་ལྟའི་དོ་དབྱིངས་ཡོད་པའི་ཐོག་(སྐད་ཡིག་དང་པོའི་)གླེང་མོལ་བྱེད་སྐབས་གལ་གནད་ཅན་གྱི་དོན་ཚན་རྣམས་(སྐད་ཡིག་གཉིས་པ་)སྙིང་བསྡུས་དང་མི་ལ་ཁ་གསལ་དོན་གསལ་ངང་ལན་སྤྲོད་བྱེད་ཐུབ། 
+(སྐད་ཡིག་དང་པོའི་) ངག་ཐོག་ཏུ་ཡོད་པའི་བརྩམས་ཆོས་རིང་པོའི་བརྗོད་གཞི་དོ་དབྱིངས་ནང་གི་གལ་གནད་ཅན་གྱི་དོན་ཚན་ཐོག་རྣམས་(སྐད་ཡིག་གཉིས་པའི་)སྙིང་བསྡུས་དང་ཐེངས་མང་ཉན་ལྟ་ཐུབ་པ་ཞིག་བསྐྲུན་ཐུབ། 
+(སྐད་ཡིག་དང་པོའི་) བརྙན་འཕྲིན་གྱི་ལས་ཚན་གལ་ཆེའི་དོན་ཚན་དང་བརྙན་ཐུང་རྣམས་(སྐད་ཡིག་གཉིས་པའི་)སྙིང་བསྡུས་སུ་བཀོད་ཅིང། ཐེངས་མང་ལྟ་ཐུབ་པ་ཞིག་སྐྲུན་ཐུབ། 
 
 
 
@@ -149,10 +258,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can generally follow what is said and, when necessary, repeat back part of what someone has said to confirm mutual understanding.
-Can make their opinions and reactions understood as regards possible solutions or the question of what to do next, giving brief reasons and explanations.
-Can invite others to give their views on how to proceed.
-
+> Can summarise (in Language B) the main points made in clear, well-structured texts (in Language A) on subjects that are familiar or of personal interest, although lexical limitations cause difficulty with formulation at times.
+Can summarise simply (in Language B) the main information content of straightforward texts (in Language A) on familiar subjects (e.g. a short record of an interview, magazine article, travel brochure).
+Can summarise (in Language B) the main points made during a conversation (in Language A) on a subject of personal or current interest, provided people articulated clearly.
+Can summarise (in Language B) the main points made in long texts delivered orally (in Language A) on topics in their fields of interest, provided they can listen or view several times.
+Can summarise (in Language B) the main points or events in TV programmes and video clips (in Language A), provided they can view them several times.
 
 
 
@@ -169,6 +279,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 </details>
 
 <!-- panels:end -->
+
 
 
 
@@ -176,49 +287,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> དཀའ་ལས་རྒྱག་མི་དགོས་པའི་རྒྱུན་གཏན་གྱི་བྱེད་སྒོ་ལས་སླ་པོ་གང་ཙམ་ཤེས་ཤིང། ཧ་མ་གོ་བ་ན་ལས་སླ་པོ་སྒོ་ནས་བསྐྱར་ཟློས་བྱེད་རོགས་ཞེས་ལབ་ཐུབ་ཀྱི་ཡོད།
-རྗེས་ལ་གང་ཞིག་བྱེད་དགོས་མིན། བསམ་ཚུལ་བཟོ་བ་དང་ཡ་ལན། ཁ་ཕྱོགས་དྲིས་པ་དང་གཞན་ལ་ལམ་སྟོན་བྱེད་པ་བཅས་ཤེས་ཀྱི་ཡོད། 
-
-
-
-<details>
-  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
-
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
-</details>
-
-<!-- div:right-panel -->
-
-> Can understand enough to manage simple, routine tasks without undue effort, asking very simply for repetition when they do not understand.
-Can discuss what to do next, making and responding to suggestions, and asking for and giving directions.
-
-
-
-
-<details>
-
-  <summary>Detailed explanation</summary>
-
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
-
-</details>
-
-<!-- panels:end -->
-
-
-
-### A2
-<!-- panels:start -->
-<!-- div:left-panel -->
-
-> བགྲོ་གླེང་བྱེད་པོར་དཀའ་ངལ་ཡོད་པ་ན། གང་ཞིག་གལ་གནད་ཡིན་མིན་ཤེས་བཅུག་པ་དང། ཁོ་ཚོས་ཉམས་ལེན་བྱེད་མིན་བརྡ་སྟོན་ཐུབ།
-ཅ་དངོས་ཚུར་དགོས་ཕར་སྤྲོད་ཀྱི་རྒྱུན་གཏན་བྱེད་སྒོ་རྣམས་ལས་སླ་པོ་དང་ཚིག་དུམ་སྟབས་བདེ་བེད་སྤྱོད་བྱེད་ཅིང།  གནས་ཚུལ་ལས་སླ་པོ་དང་རྗེས་མར་གྲོས་བསྡུར་གང་ཞིག་བྱེད་རྒྱུ་ཡིན་མིན་འབྲེལ་མཐུད་བྱེད་ཐུབ།
+> (སྐད་ཡིག་དང་པོ་) བརྙན་འཕྲིན་དང་རླུང་འཕྲིན་ལས་ཚན་གྱི་དོན་ཚན་གལ་གནད་དཔེར་ན། ལས་རིམ་སྙན་སྒྲོན། རྩེད་འགྲན། དོན་རྐྱེན་ལ་སོགས་པ་རྣམས་(སྐད་ཡིག་གཉིས་པའི་) བརྗོད་གཞིའི་ཐོག་སྙན་ཐོ་བསྐྲུན་ཐུབ།  
+(སྐད་ཡིག་དང་པོའི་) བརྩམས་ཆོས་ཐུང་ཐུང་དང། སྒྲོམ་གཞི་ཁ་གསལ་པོའི་ནང་རྒྱས་བཤད་དང་རིའུ་མིག་བཀོད་པའི་གནས་ཚུལ་རྣམས་(སྐད་ཡིག་གཉིས་པའི་)ཚིག་སྒྲུབ་ལས་སླ་པོ་བེད་སྤྱོད་ཀྱིས་སྙན་ཐོ་བཟོ་ཐུབ། 
+(སྐད་ཡིག་དང་པོ་) རྒྱུས་མངའ་ཡོད་པའི་བརྗོད་གཞིའི་ཐོག་གནས་ཚུལ་ལྡན་པའི་བརྩམས་ཆོས་ཆུང་ཆུང་དང། ལས་སླ་པོའི་དོན་ཚན་གལ་གནད་རྣམས་(སྐད་ཡིག་གཉིས་པའི་) སྙིང་བསྡུས་བཟོ་ཐུབ། 
 
   
 
@@ -234,8 +305,54 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can indicate when they are following and can be made to understand what is necessary, if the interlocutor takes the trouble.
-Can communicate in simple and routine tasks using simple phrases to ask for and provide things, to get simple information and to discuss what to do next.
+> Can report (in Language B) the main points made in simple TV or radio news items (in Language A) reporting events, sports, accidents, etc., provided the topics concerned are familiar and the delivery is slow and clear
+Can report in simple sentences (in Language B) the information contained in clearly structured, short, simple texts (in Language A) that have illustrations or tables.
+Can summarise (in Language B) the main point(s) in simple, short informational texts (in Language A) on familiar topics.
+
+
+
+
+
+<details>
+
+  <summary>Detailed explanation</summary>
+
+Let me break it down into simpler parts:
+
+1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
+Example: "The sky is blue today" is a clear and simple sentence.
+
+</details>
+
+<!-- panels:end -->
+
+
+
+
+
+
+
+### A2
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+> (སྐད་ཡིག་དང་པོའི་) བརྩམས་ཆོས་སུ་སྒྲོམ་གཞི་ཁ་གསལ་ལྡན་ཞིང། ལས་སླ་པོའི་དོན་ཚན་གལ་གནད་རྣམས་ཁོ་ཚོར་ཚད་ངེས་ཅན་ལས་མ་ཤེས་པའི་དོན་དག་གཞན་རྣམས་བྱེད་ཆེད་དུ་ཚབ་བེད་སྤྱོད་ཀྱིས་(སྐད་ཡིག་གཉིས་པའི་) བརྡ་ལན་སྤྲོད་ཐུབ། (དཔེར་ན། སྐད་ཡིག་གཞན་པའི་ཐོག་ལག་བརྡ། རི་མོ། ཚིག་གམ་རྟགས)
+
+  
+
+
+<details>
+  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
+
+བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
+
+1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
+དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+</details>
+
+<!-- div:right-panel -->
+
+> Can convey (in Language B) the main point(s) contained in clearly structured, short, simple texts (in Language A), supplementing their limited repertoire with other means (e.g. gestures, drawings, words/signs from other languages) in order to do so.
 
 
 
@@ -260,11 +377,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->ཁོ་ཚོར་དྲི་བ་དང་ལམ་སྟོན་རྣམས་དལ་པོ་དང་གཟབ་གཟབ་བྱས་ནས་བཤད་ན་ཧ་གོ་ཐུབ་ལ། ཁ་ཕྱོགས་ལས་སླ་པོ་དང་ཐུང་ཐུང་རྣམས་ཀྱང་གོ་ཐུབ། 
-དུས་ཚོད་དང། ས་གནས། ཨང་གྲགས་སོགས་ཡོད་པའི་གཞི་རྩའི་ལམ་སྟོན་རྣམས་བྱེད་ཐུབ། 
-མི་གཞན་པར་ཅ་དངོས་ཕར་སྤྲད་ཚུར་ལེན་བྱེད་པར་སྐད་ཆ་ཤོད་ཐུབ་ཀྱི་ཡོད། 
+>(སྐད་ཡིག་དང་པོ་) གནས་ཚུལ་ངེས་ཅན་དང་ལས་སླ་པོ། མདོར་བསྡུས་སུ་བཀོད་པ། བརྡ་དང་བྱ་ར་ཧ་ཅང་ལས་སླ་པོ། སྦྱར་ཡིག ལས་ཚན་རྣམས་(སྐད་ཡིག་གཉིས་པའི་) ལན་སྤྲོད་བྱེད་ནུས། 
 
- 
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
@@ -276,9 +390,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can understand questions and instructions addressed carefully and slowly to them and follow short, simple directions.
-Can act on basic instructions that involve times, locations, numbers, etc.
-Can ask people for things, and give people things.
+> Can convey (in Language B) simple, predictable information given in short, very simple signs and notices, posters and programmes (in Language A)
+
 
 <details>
 

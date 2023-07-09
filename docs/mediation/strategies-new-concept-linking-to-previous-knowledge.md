@@ -2,7 +2,7 @@
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> འགྲེལ་བཤད་གསལ་ཁ་མི་འདུག C1 ལ་གཟིགས་རོགས་གནང་།
+>ཚོད་དཔག་བྱེད་ཐུབ་པའི་ཤེས་བྱ་སྔ་མ་དག་གི་འགྲེལ་བཤད་དང་གོ་དོན་རྒྱ་ཆེན་དག་མཁོ་འདོན་བྱས་ནས་ཚན་རིག་གི་བལྟ་ཚུལ་ལྟ་བུའི་རྙོག་འཛིངས་ཆེ་བའི་ལྟ་ཚུལ་དག་ངོ་སྤྲོད་བྱེད་ཐུབ།
 
 
 <details>
@@ -17,7 +17,10 @@
 
 <!-- div:right-panel -->
 
-> No descriptors available; see C1
+> Can introduce complex concepts (e.g. scientific notions) by providing extended definitions and explanations that draw on previous knowledge that can be assumed.
+
+
+
 
 
 
@@ -38,11 +41,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->  རོགས་པའམ་ཚོགས་པ་དང་མཉམ་དུ་བྱ་བའི་བརྒྱུད་རིམ་ཐོག་གྲོས་བསྡུར་གྱི་སྒྲོམ་གཞི་ཐག་གཅོད་ཐུབ་ཅིང། གཞན་གྱིས་གང་ཞིག་ཟེར་མིན་ཐོ་འགོད་དང། ལྟ་ཚུལ་འདྲ་མིན་རྣམས་སྙིང་བསྡུས་དང་འགྲེལ་བཤད། ལྗིད་ཁོག་ཀྱང་འདེགས་ཐུབ་ཀྱི་ཡོད།
-
-ལམ་སྟོན་རྒྱས་བཤད་བྱེད་པ་ཇི་བཞིན་ཧ་གོ་ཐུབ།
-གཞན་པ་སྐད་འབོད་བྱེད་དེ་བསམ་ཚུལ་གང་ཡོད་སོགས་དྲིས་ཤིང། ལས་ཀ་མདུན་སྐྱོད་ཆེད་དུ་རོགས་པ་བྱེད་ཐུབ།
-དཀའ་ངལ་ལམ་གནད་དོན་རྣམས་གསལ་པོ་བཀོད་ཅིང། རྒྱུ་འབྲས་གང་ཡིན་བསམ་ཞིབ་དང། ཐབས་ལམ་གཞན་བཀོལ་སྤྱོད་བྱེད་ན་ཕན་ཐོགས་ཡོང་མིན་ལྗིད་ཁོག་འདེགས་ཏེ་ཟུར་འདོན་བྱེད་ཐུབ་ཀྱི་ཡོད།
+> སྤྱི་ཡོངས་ཀྱི་གནད་དོན་ཞིག་གི་སྐོར་གྱི་ཁོང་ཚོའི་ཤེས་བྱ་སྔ་མ་དག་ལ་བསམ་གཞིགས་བྱེད་པ་དང། ཅི་ཞིག་འགྲེལ་བཤད་རྒྱག་འཆར་ཡོད་པར་དྲ་ཐག་ཅིག་བཟོ་བར་རོགས་པ་བྱེད་པ་བཅས་ལ་སེམས་ཤུགས་སྤར་བར་དྲི་བ་མང་པོ་ཞིག་ངམ་ངམ་ཤུགས་ཤུགས་ཀྱིས་འདྲི་ཐུབ་ཀྱི་ཡོད།
 
 
 
@@ -59,7 +58,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
 <!-- div:right-panel -->
 
->Can frame a discussion to decide on a course of action with a partner or group, reporting on what others have said, and summarising, elaborating and weighing up multiple points of view.
+>Can spontaneously pose a series of questions to encourage people to think about their prior knowledge of an abstract issue and to help them establish a link to what is going to be explained.
 
 
 
@@ -82,13 +81,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 
 
-### B1+
+### B2+
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> གལ་ཏེ་གྲོས་བསྡུར་མགྱོགས་པོ་དང་དུས་ཚོད་རིང་པོར་ནར་བ་ན། མཚམས་རེར་བསྐྱར་ཟློས་དང་གསལ་ཁ་བཟོ་རོགས་ཞེས་ལབ་དགོས་པ་བྱུང་ཡང། གང་ལབ་པ་དེ་བཞིན་རྗེས་མཐུད་བྱེད་ཐུབ་ཀྱི་ཡོད། 
-དཀའ་ངལ་གང་ཞིག་ཡིན་མིན་དང། རྗེས་ལ་གང་ཞིག་བྱེད་དགོས་མིན། ཐབས་ལམ་གཞན་མཚུངས་བསྡུར་བྱེད་དེ་འགྲེལ་བཤད་རྒྱག་ཐུབ་ཀྱི་ཡོད།
-གཞན་གྱི་བསམ་ཚུལ་ལ་མཆན་སྙིང་བསྡུས་རེ་རྒྱག་ནུས།
+>འཛུལ་བཞུགས་པ་དག་གི་ཉམས་མྱོང་དང་སྒེར་རམ་ཆེད་ལས་ཀྱི་སློབ་སྦྱོང་།ཚོགས་ཐུན་གྱི་དམིགས་ཡུལ་བཅས་དབར་གྱི་འབྲེལ་བ་དེ་ཁ་གསལ་པོའི་ངང་ནས་འགྲེལ་བཤད་རྒྱག་ཐུབ། 
 
 
 
@@ -104,11 +101,98 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can follow what is said, though they may occasionally have to ask for repetition or clarification if the discussion is rapid or extended.
-Can explain why something is a problem, discuss what to do next, and compare and contrast alternatives.
-Can give brief comments on the views of others.
+> Can clearly explain the connections between the goals of the session and the personal or professional interests and experiences of the participant(s).
 
 
+
+
+<details>
+
+  <summary>Detailed explanation</summary>
+
+Let me break it down into simpler parts:
+
+1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
+Example: "The sky is blue today" is a clear and simple sentence.
+
+</details>
+
+<!-- panels:end -->
+
+
+
+
+
+
+
+### B2
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+> ཤེས་བྱ་སྔ་མ་དང་ཉམས་མྱོང་དབར་ལ་མཚམས་སྦྱོར་ཆེད་མི་རྣམས་ལ་སེམས་ཤུགས་སྤར་བར་བསམ་ཚུལ་འདོན་པ་དང། དྲི་བ་འདྲི་ཐུབ།
+བལྟ་ཚུལ་ལམ་བྱ་རིམ་གསར་པ་ཞིག་མི་ཚོས་དེ་སྔོན་ནས་རྒྱུས་མངའ་ཡོད་པའི་བལྟ་ཚུལ་ཞིག་དང་བསྡུར་བའམ་ཁྱད་པར་འབྱེད་པ་བརྒྱུད་དེ་འགྲེལ་བཤད་རྒྱག་ཐུབ།
+
+
+
+
+
+
+<details>
+  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
+
+བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
+
+1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
+དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+</details>
+
+<!-- div:right-panel -->
+
+> Can formulate questions and give feedback to encourage people to make connections to previous knowledge and experiences.
+Can explain a new concept or procedure by comparing and contrasting it to one that people are already familiar with.
+
+
+
+
+<details>
+
+  <summary>Detailed explanation</summary>
+
+Let me break it down into simpler parts:
+
+1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
+Example: "The sky is blue today" is a clear and simple sentence.
+
+</details>
+
+<!-- panels:end -->
+
+
+
+
+
+
+
+### B1+
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+> མི་ཚོའི་ཉིན་རེའི་འཚོ་བའི་ཁྲོད་ཀྱི་ཉམས་མྱོང་ལས་དཔེ་མཚོན་བསྟན་ནས་ཅི་ཞིག་གིས་ལས་ཀ་ཇི་ལྟར་བྱེད་པ་འགྲེལ་བཤད་རྒྱག་ཐུབ།
+
+
+
+<details>
+  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
+
+བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
+
+1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
+དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+</details>
+
+<!-- div:right-panel -->
+
+> Can explain how something works by providing examples that draw on people’s everyday experiences.
 
 
 
@@ -131,10 +215,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> གང་ཞིག་ལབ་པ་ལྟར་རྗེས་མཐུད་དང། དགོས་མཁོ་བྱུང་བ་ན་གཞན་གྱིས་གང་ཞིག་ལབ་ན་གཉིས་མོས་བསམ་ཤེས་ཀྱི་ཆེད་དུ་བསྐྱར་ཟློས་བྱེད་ཐུབ་ཀྱི་ཡོད།
-རྗེས་ལ་གང་ཞིག་བྱེད་དགོས་མིན་དྲི་ལན་རྟོགས་ཆེད་དུ་བསམ་ཚུལ་དང་ཡ་ལན་སྤྲོད་ཐུབ་ཅིང། རྒྱུ་མཚན་དང་འགྲེལ་བཤད་མདོར་བསྡུས་ཤིག་ཀྱང་རྒྱག་ཐུབ།
-གང་འདྲས་བྱེད་དགོས་མིན་ཐོག་གཞན་གྱི་ལྟ་ཚུལ་གང་ཡོད་ཅེས་སྐད་བཏང་སྟེ་དྲིས་ཐུབ་ཀྱི་ཡོད། 
- 
+> དྲི་བ་ལས་སླ་པོ་འདྲི་བ་བརྒྱུད་དེ་མི་དག་གིས་ཅི་ཞིག་ཤེས་ཀྱི་ཡོད་པ་དང་གནས་ཚུལ་གསར་པ་དེ་ཇི་ལྟར་འབྲེལ་བ་ཡོད་མེད་སྟོན་ཐུབ།
+
 
 
 
@@ -149,10 +231,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can generally follow what is said and, when necessary, repeat back part of what someone has said to confirm mutual understanding.
-Can make their opinions and reactions understood as regards possible solutions or the question of what to do next, giving brief reasons and explanations.
-Can invite others to give their views on how to proceed.
-
+> Can show how new information is related to what people are familiar with by asking simple questions.
 
 
 
@@ -171,45 +250,6 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:end -->
 
 
-
-### A2+
-<!-- panels:start -->
-<!-- div:left-panel -->
-
-> དཀའ་ལས་རྒྱག་མི་དགོས་པའི་རྒྱུན་གཏན་གྱི་བྱེད་སྒོ་ལས་སླ་པོ་གང་ཙམ་ཤེས་ཤིང། ཧ་མ་གོ་བ་ན་ལས་སླ་པོ་སྒོ་ནས་བསྐྱར་ཟློས་བྱེད་རོགས་ཞེས་ལབ་ཐུབ་ཀྱི་ཡོད།
-རྗེས་ལ་གང་ཞིག་བྱེད་དགོས་མིན། བསམ་ཚུལ་བཟོ་བ་དང་ཡ་ལན། ཁ་ཕྱོགས་དྲིས་པ་དང་གཞན་ལ་ལམ་སྟོན་བྱེད་པ་བཅས་ཤེས་ཀྱི་ཡོད། 
-
-
-
-<details>
-  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
-
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
-</details>
-
-<!-- div:right-panel -->
-
-> Can understand enough to manage simple, routine tasks without undue effort, asking very simply for repetition when they do not understand.
-Can discuss what to do next, making and responding to suggestions, and asking for and giving directions.
-
-
-
-
-<details>
-
-  <summary>Detailed explanation</summary>
-
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
-
-</details>
-
-<!-- panels:end -->
 
 
 
@@ -217,9 +257,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> བགྲོ་གླེང་བྱེད་པོར་དཀའ་ངལ་ཡོད་པ་ན། གང་ཞིག་གལ་གནད་ཡིན་མིན་ཤེས་བཅུག་པ་དང། ཁོ་ཚོས་ཉམས་ལེན་བྱེད་མིན་བརྡ་སྟོན་ཐུབ།
-ཅ་དངོས་ཚུར་དགོས་ཕར་སྤྲོད་ཀྱི་རྒྱུན་གཏན་བྱེད་སྒོ་རྣམས་ལས་སླ་པོ་དང་ཚིག་དུམ་སྟབས་བདེ་བེད་སྤྱོད་བྱེད་ཅིང།  གནས་ཚུལ་ལས་སླ་པོ་དང་རྗེས་མར་གྲོས་བསྡུར་གང་ཞིག་བྱེད་རྒྱུ་ཡིན་མིན་འབྲེལ་མཐུད་བྱེད་ཐུབ།
-
+> བྱེད་ནུས་མེད།
   
 
 
@@ -234,8 +272,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can indicate when they are following and can be made to understand what is necessary, if the interlocutor takes the trouble.
-Can communicate in simple and routine tasks using simple phrases to ask for and provide things, to get simple information and to discuss what to do next.
+> No descriptors available
 
 
 
@@ -260,10 +297,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->ཁོ་ཚོར་དྲི་བ་དང་ལམ་སྟོན་རྣམས་དལ་པོ་དང་གཟབ་གཟབ་བྱས་ནས་བཤད་ན་ཧ་གོ་ཐུབ་ལ། ཁ་ཕྱོགས་ལས་སླ་པོ་དང་ཐུང་ཐུང་རྣམས་ཀྱང་གོ་ཐུབ། 
-དུས་ཚོད་དང། ས་གནས། ཨང་གྲགས་སོགས་ཡོད་པའི་གཞི་རྩའི་ལམ་སྟོན་རྣམས་བྱེད་ཐུབ། 
-མི་གཞན་པར་ཅ་དངོས་ཕར་སྤྲད་ཚུར་ལེན་བྱེད་པར་སྐད་ཆ་ཤོད་ཐུབ་ཀྱི་ཡོད། 
-
+>བྱེད་ནུས་མེད།
  
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
@@ -276,9 +310,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can understand questions and instructions addressed carefully and slowly to them and follow short, simple directions.
-Can act on basic instructions that involve times, locations, numbers, etc.
-Can ask people for things, and give people things.
+> No descriptors available
 
 <details>
 

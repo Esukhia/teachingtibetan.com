@@ -2,7 +2,8 @@
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> འགྲེལ་བཤད་གསལ་ཁ་མི་འདུག C1 ལ་གཟིགས་རོགས་གནང་།
+>རང་ཉིད་སྒེར་དང་ཤེས་ཡོན། ཆེད་ལས་ཀྱི་དགའ་ཕྱོགས་ཐོག་གི་བརྗོད་གཞི་སྣ་ཚོགས་པའི་སྐོར་གྱི་སྤྱི་མཚན་དུ་གྱུར་བའི་ཡི་གེའི་ནང་གི་(སྐད་ཡིག་དང་པོའི་ཐོག་བྲིས་པ་ Language A) ཚོད་གཞག་གི་རྣམ་པ་དང་། རྩོད་པ་ཁག དེ་བཞིན་དེ་དང་འབྲེལ་བའི་ཞིབ་ཕྲའི་ཁྱད་པར་དང་གོ་དོན་ཁག་བཅས་ཚུད་པའི་བརྡ་ལན་རྣམས་བདེ་བླག་ངང་སྐྱེལ་བའི་སྒོ་ནས། སྤྱི་མཚན་དུ་གྱུར་བའི་ཡི་གེ་(སྐད་ཡིག་དང་པོའི་ཐོག་བྲིས་པ་ Language A)རྣམས་ཀྱི་ཁ་སྐད་ཀྱི་སྒྱུར་ (སྐད་ཡིག་གཉིས་པའི་ཐོག་ནས་ Language B)ཆུ་རྒྱུག་ཆུ་རྒྱུག་མཁོ་སྤྲོད་བྱེད་ཐུབ།
+
 
 
 <details>
@@ -17,7 +18,7 @@
 
 <!-- div:right-panel -->
 
-> No descriptors available; see C1
+> Can provide fluent oral translation (into Language B) of abstract texts (written in Language A) on a wide range of subjects of personal, academic and professional interest, successfully conveying evaluative aspects and arguments, including the nuances and implications associated with them.
 
 
 
@@ -38,12 +39,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->  རོགས་པའམ་ཚོགས་པ་དང་མཉམ་དུ་བྱ་བའི་བརྒྱུད་རིམ་ཐོག་གྲོས་བསྡུར་གྱི་སྒྲོམ་གཞི་ཐག་གཅོད་ཐུབ་ཅིང། གཞན་གྱིས་གང་ཞིག་ཟེར་མིན་ཐོ་འགོད་དང། ལྟ་ཚུལ་འདྲ་མིན་རྣམས་སྙིང་བསྡུས་དང་འགྲེལ་བཤད། ལྗིད་ཁོག་ཀྱང་འདེགས་ཐུབ་ཀྱི་ཡོད།
-
-ལམ་སྟོན་རྒྱས་བཤད་བྱེད་པ་ཇི་བཞིན་ཧ་གོ་ཐུབ།
-གཞན་པ་སྐད་འབོད་བྱེད་དེ་བསམ་ཚུལ་གང་ཡོད་སོགས་དྲིས་ཤིང། ལས་ཀ་མདུན་སྐྱོད་ཆེད་དུ་རོགས་པ་བྱེད་ཐུབ།
-དཀའ་ངལ་ལམ་གནད་དོན་རྣམས་གསལ་པོ་བཀོད་ཅིང། རྒྱུ་འབྲས་གང་ཡིན་བསམ་ཞིབ་དང། ཐབས་ལམ་གཞན་བཀོལ་སྤྱོད་བྱེད་ན་ཕན་ཐོགས་ཡོང་མིན་ལྗིད་ཁོག་འདེགས་ཏེ་ཟུར་འདོན་བྱེད་ཐུབ་ཀྱི་ཡོད།
-
+> སྤྱིར་བཏང་དང་དམིགས་བསལ་གྱི་བརྗོད་གཞི་སྣ་ཚོགས་པའི་སྐོར་གྱི་རྙོག་འཛིང་ཆེ་བའི་ཡི་གེ་(སྐད་ཡིག་དང་པོའི་ཐོག་བྲིས་པ་ Language A) རྣམས་ཀྱི་ནང་ཞིབ་ཕྲའི་ཁྱད་པར་ཕལ་མོ་ཆེ་སྟོན་པའི་ཁ་སྐད་ཀྱི་སྒྱུར་(སྐད་ཡིག་གཉིས་པའི་ཐོག་ནས་ Language B)མཁོ་སྤྲོད་བྱེད་ཐུབ།
 
 
 
@@ -59,7 +55,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
 <!-- div:right-panel -->
 
->Can frame a discussion to decide on a course of action with a partner or group, reporting on what others have said, and summarising, elaborating and weighing up multiple points of view.
+>Can provide fluent oral translation (into Language B) of complex texts (written in Language A) on a wide range of general and specialised topics, capturing most nuances.
 
 
 
@@ -82,13 +78,12 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 
 
-### B1+
+### B2+
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> གལ་ཏེ་གྲོས་བསྡུར་མགྱོགས་པོ་དང་དུས་ཚོད་རིང་པོར་ནར་བ་ན། མཚམས་རེར་བསྐྱར་ཟློས་དང་གསལ་ཁ་བཟོ་རོགས་ཞེས་ལབ་དགོས་པ་བྱུང་ཡང། གང་ལབ་པ་དེ་བཞིན་རྗེས་མཐུད་བྱེད་ཐུབ་ཀྱི་ཡོད། 
-དཀའ་ངལ་གང་ཞིག་ཡིན་མིན་དང། རྗེས་ལ་གང་ཞིག་བྱེད་དགོས་མིན། ཐབས་ལམ་གཞན་མཚུངས་བསྡུར་བྱེད་དེ་འགྲེལ་བཤད་རྒྱག་ཐུབ་ཀྱི་ཡོད།
-གཞན་གྱི་བསམ་ཚུལ་ལ་མཆན་སྙིང་བསྡུས་རེ་རྒྱག་ནུས།
+>ཁོ་ཚོའི་ཆེད་ལས་ཀྱི་ལས་ཀ་དང་། ཤེས་ཡོན། རང་ཉིད་སྒེར་གྱི་དོ་སྣང་བྱ་ཡུལ་གྱི་ཁྱབ་ཁོངས་སུ་གཏོགས་པའི་བརྗོད་གཞིའི་ཐོག་གསར་གནས་དང་རྩོད་གླེང་གི་གནས་ཚུལ་ལྡན་པའི་རྙོག་འཛིང་ཆེ་བའི་ཡི་གེ་(སྐད་ཡིག་དང་པོའི་ཐོག་བྲིས་པ་ Language A)རྣམས་ཀྱི་ཁ་སྐད་ཀྱི་སྒྱུར་(སྐད་ཡིག་གཉིས་པའི་ཐོག་ནས་ Language B)མཁོ་སྤྲོད་བྱེད་ཐུབ། 
+
 
 
 
@@ -104,11 +99,92 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can follow what is said, though they may occasionally have to ask for repetition or clarification if the discussion is rapid or extended.
-Can explain why something is a problem, discuss what to do next, and compare and contrast alternatives.
-Can give brief comments on the views of others.
+> Can provide oral translation (into Language B) of complex texts (written in Language A) containing information and arguments on subjects within their fields of professional, academic and personal interest.
 
 
+
+
+<details>
+
+  <summary>Detailed explanation</summary>
+
+Let me break it down into simpler parts:
+
+1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
+Example: "The sky is blue today" is a clear and simple sentence.
+
+</details>
+
+<!-- panels:end -->
+
+
+
+
+
+
+
+### B2
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+> མགོ་རྙོག་པོ་མེད་པ་དང་སྤྱི་སྐད་ཐོག་ནས་བྲིས་ཡོད་པའི་ཁོ་ཚོའི་ཆེད་ལས་ཀྱི་ལས་ཀ་དང་། ཤེས་ཡོན། རང་ཉིད་སྒེར་གྱི་དོ་སྣང་བྱ་ཡུལ་གྱི་ཁྱབ་ཁོངས་སུ་གཏོགས་པའི་བརྗོད་གཞིའི་ཐོག་གསར་གནས་དང་རྩོད་གླེང་གི་གནས་ཚུལ་ལྡན་པའི་ཡི་གེ་(སྐད་ཡིག་དང་པོའི་ཐོག་བྲིས་པ་ Language A)རྣམས་ཀྱི་ཁ་སྐད་ཀྱི་སྒྱུར་(སྐད་ཡིག་གཉིས་པའི་ཐོག་ནས་ Language B)མཁོ་སྤྲོད་བྱེད་ཐུབ། 
+
+
+
+
+<details>
+  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
+
+བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
+
+1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
+དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+</details>
+
+<!-- div:right-panel -->
+
+> Can provide oral translation (into Language B) of texts (written in Language A) containing information and arguments on subjects within their fields of professional, academic and personal interest, provided they are written in uncomplicated, standard language.
+
+
+
+
+<details>
+
+  <summary>Detailed explanation</summary>
+
+Let me break it down into simpler parts:
+
+1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
+Example: "The sky is blue today" is a clear and simple sentence.
+
+</details>
+
+<!-- panels:end -->
+
+
+
+
+
+### B1+
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+> ཁོ་ཚོའི་རྒྱུས་མངའ་ཡོད་པའམ། ཡང་ན་སྒེར་གྱི་དགའ་ཕྱོགས་སྐོར་གྱི་བརྗོད་གཞི་ཞིག་ཁ་གསལ་ཞིང་གོ་རིམ་ལེགས་པའི་སྒོ་ནས་བྲིས་པའི་གནས་ཚུལ་བརྗོད་པའི་ཡི་གེ་(སྐད་ཡིག་དང་པོའི་ཐོག་བྲིས་པ་ Language A)རྣམས་ཀྱི་ཁ་སྐད་ཀྱི་སྒྱུར་(སྐད་ཡིག་གཉིས་པའི་ཐོག་ Language B)ཧ་ལམ་གཅིག་མཚུངས་ཤིག་མཁོ་སྤྲོད་བྱེད་ཐུབ། ཡིན་ན་ཡང་ཐ་སྙད་ཀྱི་འདང་ཚད་ཀྱི་རྐྱེན་གྱིས་འཚམས་འཚམས་བཟོ་སྒྲིག་བྱེད་པར་དཀའ་ངལ་འཕྲད་སྲིད།
+
+
+
+<details>
+  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
+
+བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
+
+1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
+དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+</details>
+
+<!-- div:right-panel -->
+
+> Can provide an approximate oral translation (into Language B) of clear, well-structured informational texts (written in Language A) on subjects that are familiar or of personal interest, although lexical limitations cause difficulty with formulation at times.
 
 
 
@@ -131,10 +207,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> གང་ཞིག་ལབ་པ་ལྟར་རྗེས་མཐུད་དང། དགོས་མཁོ་བྱུང་བ་ན་གཞན་གྱིས་གང་ཞིག་ལབ་ན་གཉིས་མོས་བསམ་ཤེས་ཀྱི་ཆེད་དུ་བསྐྱར་ཟློས་བྱེད་ཐུབ་ཀྱི་ཡོད།
-རྗེས་ལ་གང་ཞིག་བྱེད་དགོས་མིན་དྲི་ལན་རྟོགས་ཆེད་དུ་བསམ་ཚུལ་དང་ཡ་ལན་སྤྲོད་ཐུབ་ཅིང། རྒྱུ་མཚན་དང་འགྲེལ་བཤད་མདོར་བསྡུས་ཤིག་ཀྱང་རྒྱག་ཐུབ།
-གང་འདྲས་བྱེད་དགོས་མིན་ཐོག་གཞན་གྱི་ལྟ་ཚུལ་གང་ཡོད་ཅེས་སྐད་བཏང་སྟེ་དྲིས་ཐུབ་ཀྱི་ཡོད། 
- 
+> ཁོ་ཚོའི་རྒྱུས་མངའ་ཡོད་པའམ། ཡང་ན་སྒེར་གྱི་དགའ་ཕྱོགས་སྐོར་གྱི་བརྗོད་གཞི་ཞིག་ཁ་གསལ་ཞིང་གོ་རིམ་ལེགས་པའི་སྒོ་ནས་བྲིས་པའི་གནས་ཚུལ་བརྗོད་པའི་ཡི་གེ་(སྐད་ཡིག་དང་པོའི་ཐོག་བྲིས་པ་ Language A)རྣམས་ཀྱི་ཁ་སྐད་ཀྱི་སྒྱུར་(སྐད་ཡིག་གཉིས་པའི་ཐོག་ Language B)ཧ་ལམ་གཅིག་མཚུངས་ཤིག་མཁོ་སྤྲོད་བྱེད་ཐུབ། ཡིན་ན་ཡང་ཐ་སྙད་ཀྱི་འདང་ཚད་ཀྱི་རྐྱེན་གྱིས་འཚམས་འཚམས་བཟོ་སྒྲིག་བྱེད་པར་དཀའ་ངལ་འཕྲད་སྲིད།
+
 
 
 
@@ -149,10 +223,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can generally follow what is said and, when necessary, repeat back part of what someone has said to confirm mutual understanding.
-Can make their opinions and reactions understood as regards possible solutions or the question of what to do next, giving brief reasons and explanations.
-Can invite others to give their views on how to proceed.
-
+> Can provide an approximate oral translation (into Language B) of clear, well-structured informational texts (written in Language A) on subjects that are familiar or of personal interest, although lexical limitations cause difficulty with formulation at times.
 
 
 
@@ -171,45 +242,6 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:end -->
 
 
-
-### A2+
-<!-- panels:start -->
-<!-- div:left-panel -->
-
-> དཀའ་ལས་རྒྱག་མི་དགོས་པའི་རྒྱུན་གཏན་གྱི་བྱེད་སྒོ་ལས་སླ་པོ་གང་ཙམ་ཤེས་ཤིང། ཧ་མ་གོ་བ་ན་ལས་སླ་པོ་སྒོ་ནས་བསྐྱར་ཟློས་བྱེད་རོགས་ཞེས་ལབ་ཐུབ་ཀྱི་ཡོད།
-རྗེས་ལ་གང་ཞིག་བྱེད་དགོས་མིན། བསམ་ཚུལ་བཟོ་བ་དང་ཡ་ལན། ཁ་ཕྱོགས་དྲིས་པ་དང་གཞན་ལ་ལམ་སྟོན་བྱེད་པ་བཅས་ཤེས་ཀྱི་ཡོད། 
-
-
-
-<details>
-  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
-
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
-</details>
-
-<!-- div:right-panel -->
-
-> Can understand enough to manage simple, routine tasks without undue effort, asking very simply for repetition when they do not understand.
-Can discuss what to do next, making and responding to suggestions, and asking for and giving directions.
-
-
-
-
-<details>
-
-  <summary>Detailed explanation</summary>
-
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
-
-</details>
-
-<!-- panels:end -->
 
 
 
@@ -217,10 +249,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> བགྲོ་གླེང་བྱེད་པོར་དཀའ་ངལ་ཡོད་པ་ན། གང་ཞིག་གལ་གནད་ཡིན་མིན་ཤེས་བཅུག་པ་དང། ཁོ་ཚོས་ཉམས་ལེན་བྱེད་མིན་བརྡ་སྟོན་ཐུབ།
-ཅ་དངོས་ཚུར་དགོས་ཕར་སྤྲོད་ཀྱི་རྒྱུན་གཏན་བྱེད་སྒོ་རྣམས་ལས་སླ་པོ་དང་ཚིག་དུམ་སྟབས་བདེ་བེད་སྤྱོད་བྱེད་ཅིང།  གནས་ཚུལ་ལས་སླ་པོ་དང་རྗེས་མར་གྲོས་བསྡུར་གང་ཞིག་བྱེད་རྒྱུ་ཡིན་མིན་འབྲེལ་མཐུད་བྱེད་ཐུབ།
+> (སྐད་ཡིག་དང་པོའི་ཐོག་བྲིས་པའི་ Language A)སྟབས་བདེ་ཞིང་ཐུང་བའི་ཡི་གེ་(དཔེར་ན། རྒྱུས་མངའ་ཡོད་པའི་བརྗོད་གཞིའི་ཐོག་བྲིས་པའི་གསལ་བསྒྲགས་)ཡི་དོན་དག་གལ་ཆེ་ཤོས་དེ་བཟུང་བའི་ཁ་སྐད་ཀྱི་སྒྱུར་(སྐད་ཡིག་གཉིས་པའི་ཐོག་ Language B)སྟབས་བདེ་དང་རོབ་ཚོད་ཅིག་མཁོ་སྤྲོད་བྱེད་ཐུབ།
+སྟབས་བདེའི་བརྗོད་པ་ཐོག་བྲིས་པའི་(སྐད་ཡིག་དང་པོའི་ཐོག་བྲིས་པ་ Language A)རྒྱུས་མངའ་ཡོད་པའི་ནམ་རྒྱུན་གྱི་བརྗོད་གཞི་(དཔེར་ན། སྒེ་གྱི་གསར་འགྱུར། གཏམ་རྒྱུད་ཐུང་ཐུང་། ལམ་ཕྱོགས། གསལ་བསྒྲགས་ཡང་ན་ལམ་སྟོན་)ཡི་རྒྱུན་ལྡན་གནས་ཚུལ་གྱི་ཁ་སྐད་ཀྱི་སྒྱུར་(སྐད་ཡིག་གཉིས་པའི་ཐོག་ Language B)སྟབས་བདེ་ཞིང་རོབ་ཚོད་ཅིག་མཁོ་སྤྲོད་བྱེད་ཐུབ། 
 
-  
 
 
 <details>
@@ -234,8 +265,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can indicate when they are following and can be made to understand what is necessary, if the interlocutor takes the trouble.
-Can communicate in simple and routine tasks using simple phrases to ask for and provide things, to get simple information and to discuss what to do next.
+> Can provide a simple, rough oral translation (into Language B) of short, simple texts (e.g. notices on familiar subjects) (written in Language A), capturing the most essential point.
+Can provide a simple, rough oral translation (into Language B) of routine information on familiar everyday subjects that is written in simple sentences (in Language A) (e.g. personal news, short narratives, directions, notices or instructions).
 
 
 
@@ -260,9 +291,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->ཁོ་ཚོར་དྲི་བ་དང་ལམ་སྟོན་རྣམས་དལ་པོ་དང་གཟབ་གཟབ་བྱས་ནས་བཤད་ན་ཧ་གོ་ཐུབ་ལ། ཁ་ཕྱོགས་ལས་སླ་པོ་དང་ཐུང་ཐུང་རྣམས་ཀྱང་གོ་ཐུབ། 
-དུས་ཚོད་དང། ས་གནས། ཨང་གྲགས་སོགས་ཡོད་པའི་གཞི་རྩའི་ལམ་སྟོན་རྣམས་བྱེད་ཐུབ། 
-མི་གཞན་པར་ཅ་དངོས་ཕར་སྤྲད་ཚུར་ལེན་བྱེད་པར་སྐད་ཆ་ཤོད་ཐུབ་ཀྱི་ཡོད། 
+>མཚོན་རྟགས་དང་གསལ་བསྒྲགས། སྦྱར་ཡིག བྱེད་སྒོའི་ལས་རིམ།། འགྲེམས་ཤོག་སོགས་ཀྱི་སྟེང་དུ་འཕྲད་པའི་སྟབས་བདེ་བའི་རྒྱུན་ལྡན་གྱི་ཚིག་ཡང་ན་མཚོན་རྟགས་དང་། ཚིག་སྒྲུབ་(སྐད་ཡིག་དང་པོའི་ཐོག་བྲིས་པ་ Language A)ཀྱི་ཁ་སྐད་ཀྱི་སྒྱུར་སྟབས་བདེ་ཞིང་རོབ་ཚོད་ཅིག་མཁོ་སྤྲོད་བྱེད་ཐུབ།
 
  
 <details>
@@ -276,9 +305,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can understand questions and instructions addressed carefully and slowly to them and follow short, simple directions.
-Can act on basic instructions that involve times, locations, numbers, etc.
-Can ask people for things, and give people things.
+> Can provide a simple, rough oral translation (into Language B) of simple everyday words/signs and phrases (written in Language A) that are encountered on signs and notices, posters, programmes, leaflets, etc.
+
 
 <details>
 

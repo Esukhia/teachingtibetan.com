@@ -2,7 +2,9 @@
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> འགྲེལ་བཤད་གསལ་ཁ་མི་འདུག C1 ལ་གཟིགས་རོགས་གནང་།
+>ཚོགས་བཅར་བ་མགོ་རྙོག་ལ་ནུས་པ་ལྡན་པའི་སྒོ་ནས་འབྲེལ་མཐུད་ཐུབ་ཅིང། གནས་སྟངས་དང་སྤྱི་ཚོགས་ཀྱི་ལྟ་སྟངས་ལ་གཞིགས་ནས་ཐབས་བྱུས་ཅན་གྱི་འབྲེལ་ལམ་དེར་འགྲེལ་བརྗོད་ཀྱིས་སྒྲོམ་གཞི་ཞིག་བཟོ་ཐུབ།
+རང་ཚུགས་བརྟན་པོའི་སྒོ་ནས་དམིགས་ཡུལ་ལ་དཀའ་ངལ་འཕྲད་པ་དེར་ཐབས་བྱུས་ཅན་འཁྱེར་བཟོ་བྱེད་པའི་ཐོག་གཞན་གྱི་བསམ་ཚུལ་ལ་བརྩི་བཀུར་ཡོད་པ་སྟོན་ཐུབ། 
+
 
 
 <details>
@@ -17,7 +19,14 @@
 
 <!-- div:right-panel -->
 
-> No descriptors available; see C1
+> Can give a critical appraisal of work of different periods and genres (e.g. novels, poems and plays), appreciating subtle distinctions of style and implicit as well as explicit meaning.
+Can recognise the finer subtleties of nuanced language, rhetorical effect and stylistic language use (e.g. metaphors, abnormal syntax, ambiguity), interpreting and “unpacking” meanings and connotations.
+Can critically evaluate the way in which structure, language and rhetorical devices are exploited in a work for a particular purpose and give a reasoned argument concerning their appropriateness and effectiveness.
+Can give a critical appreciation of deliberate breaches of linguistic conventions in a piece of writing.
+
+
+
+
 
 
 
@@ -38,12 +47,9 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->  རོགས་པའམ་ཚོགས་པ་དང་མཉམ་དུ་བྱ་བའི་བརྒྱུད་རིམ་ཐོག་གྲོས་བསྡུར་གྱི་སྒྲོམ་གཞི་ཐག་གཅོད་ཐུབ་ཅིང། གཞན་གྱིས་གང་ཞིག་ཟེར་མིན་ཐོ་འགོད་དང། ལྟ་ཚུལ་འདྲ་མིན་རྣམས་སྙིང་བསྡུས་དང་འགྲེལ་བཤད། ལྗིད་ཁོག་ཀྱང་འདེགས་ཐུབ་ཀྱི་ཡོད།
-
-ལམ་སྟོན་རྒྱས་བཤད་བྱེད་པ་ཇི་བཞིན་ཧ་གོ་ཐུབ།
-གཞན་པ་སྐད་འབོད་བྱེད་དེ་བསམ་ཚུལ་གང་ཡོད་སོགས་དྲིས་ཤིང། ལས་ཀ་མདུན་སྐྱོད་ཆེད་དུ་རོགས་པ་བྱེད་ཐུབ།
-དཀའ་ངལ་ལམ་གནད་དོན་རྣམས་གསལ་པོ་བཀོད་ཅིང། རྒྱུ་འབྲས་གང་ཡིན་བསམ་ཞིབ་དང། ཐབས་ལམ་གཞན་བཀོལ་སྤྱོད་བྱེད་ན་ཕན་ཐོགས་ཡོང་མིན་ལྗིད་ཁོག་འདེགས་ཏེ་ཟུར་འདོན་བྱེད་ཐུབ་ཀྱི་ཡོད།
-
+> ཚོགས་པ་རེ་རེའི་གྲོས་འཆར་ལ་མཁོ་བའི་ཤེས་རྟོགས་རྣམས་ལ་ཚིག་འགྲེལ་རྒྱས་པ་དང་བསྐྱར་ཟློས་བྱེད་དེ། བསམ་ཚུལ་འདྲ་མིན་རྣམས་ཚོར་བ་རྣོན་པོའི་ཐོག་གསལ་བཤད་བྱེད་ནུས། 
+ཕྱོགས་གཉིས་ཀའི་མ་འདོད་པ་དེར་ཐབས་བྱུས་ཤིག་བསྒྲིགས་ཏེ། ཁོ་ཚོའི་གནས་བབས་ལྟེ་བ་གང་ཡིན་པ་དེར་ཐག་གཅོད་བྱེད་པ་དང། གནས་སྟངས་དེར་གཞིགས་ནས་གང་ཞིག་བློ་གཏོང་བྱེད་སྲིད་མིན་རྟོགས་ཐུབ།
+ཚོགས་པའི་མ་འདོད་པ་དེར་གནས་བབས་གསར་པ་ཞིག་ལ་སྤོས་ཆེད་དུ་ནན་སྐུལ་གྱི་སྐད་ཡིག་བེད་སྤྱོད་ཀྱིས་བརྒྱུད་སྐུལ་བྱེད་ནུས།
 
 
 
@@ -59,7 +65,9 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
 <!-- div:right-panel -->
 
->Can frame a discussion to decide on a course of action with a partner or group, reporting on what others have said, and summarising, elaborating and weighing up multiple points of view.
+> Can critically appraise a wide variety of texts including literary works of different periods and genres.
+Can evaluate the extent to which a work follows the conventions of its genre.
+Can describe and comment on ways in which the work engages the audience (e.g. by building up and subverting expectations).
 
 
 
@@ -82,13 +90,16 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 
 
-### B1+
+
+### B2
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> གལ་ཏེ་གྲོས་བསྡུར་མགྱོགས་པོ་དང་དུས་ཚོད་རིང་པོར་ནར་བ་ན། མཚམས་རེར་བསྐྱར་ཟློས་དང་གསལ་ཁ་བཟོ་རོགས་ཞེས་ལབ་དགོས་པ་བྱུང་ཡང། གང་ལབ་པ་དེ་བཞིན་རྗེས་མཐུད་བྱེད་ཐུབ་ཀྱི་ཡོད། 
-དཀའ་ངལ་གང་ཞིག་ཡིན་མིན་དང། རྗེས་ལ་གང་ཞིག་བྱེད་དགོས་མིན། ཐབས་ལམ་གཞན་མཚུངས་བསྡུར་བྱེད་དེ་འགྲེལ་བཤད་རྒྱག་ཐུབ་ཀྱི་ཡོད།
-གཞན་གྱི་བསམ་ཚུལ་ལ་མཆན་སྙིང་བསྡུས་རེ་རྒྱག་ནུས།
+> འདོད་པ་གཅིག་པ་ཡིན་པ་དེར་ངོས་འཛིན་དང། ཡོང་ངེས་པའི་ཐབས་ལམ་གཙོ་འདོན་མཐུན་སྦྱོར་ཆེད་དྲི་བའི་ལམ་ནས་བཀོད་ཐུབ།
+འབྲེལ་ཡོད་ཀྱི་ཚོགས་པར་གནས་བབས་ངོ་སྤྲོད་དང། མི་འདོད་པའི་དོན་ཚན་གནད་འགག་དེར་རྒྱུ་མཚན་རན་པ་ཞིག་བཀོད་ཐུབ།
+ཕྱོགས་གཉིས་ཀྱི་བསྒྲགས་གཏམ་སྙིང་བསྡུས་བཟོ་སྟེ་གྲོས་མཐུན་དེར་མཐུན་ཕྱོགས་དང་དཀའ་ངལ་རྣམས་གཙོ་འདོན་བྱེད་ནུས། 
+
+
 
 
 
@@ -104,10 +115,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can follow what is said, though they may occasionally have to ask for repetition or clarification if the discussion is rapid or extended.
-Can explain why something is a problem, discuss what to do next, and compare and contrast alternatives.
-Can give brief comments on the views of others.
-
+> Can compare two works, considering themes, characters and scenes, exploring similarities and contrasts and explaining the relevance of the connections between them.
+Can give a reasoned opinion of a work, showing awareness of the thematic, structural and formal features and referring to the opinions and arguments of others.
+Can evaluate the way the work encourages identification with characters, giving examples.
+Can describe the way in which different works differ in their treatment of the same theme.
 
 
 
@@ -124,6 +135,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 </details>
 
 <!-- panels:end -->
+
 
 
 
@@ -131,10 +143,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> གང་ཞིག་ལབ་པ་ལྟར་རྗེས་མཐུད་དང། དགོས་མཁོ་བྱུང་བ་ན་གཞན་གྱིས་གང་ཞིག་ལབ་ན་གཉིས་མོས་བསམ་ཤེས་ཀྱི་ཆེད་དུ་བསྐྱར་ཟློས་བྱེད་ཐུབ་ཀྱི་ཡོད།
-རྗེས་ལ་གང་ཞིག་བྱེད་དགོས་མིན་དྲི་ལན་རྟོགས་ཆེད་དུ་བསམ་ཚུལ་དང་ཡ་ལན་སྤྲོད་ཐུབ་ཅིང། རྒྱུ་མཚན་དང་འགྲེལ་བཤད་མདོར་བསྡུས་ཤིག་ཀྱང་རྒྱག་ཐུབ།
-གང་འདྲས་བྱེད་དགོས་མིན་ཐོག་གཞན་གྱི་ལྟ་ཚུལ་གང་ཡོད་ཅེས་སྐད་བཏང་སྟེ་དྲིས་ཐུབ་ཀྱི་ཡོད། 
- 
+> ཁོ་ཚོར་རྒྱུས་མངའ་ཡོད་པའི་བརྗོད་གཞིའི་ཐོག་འདོད་པ་མ་ཁེངས་པའི་གནད་དོན་དངོས་དེ་ཤེས་རྟོགས་ཀྱིས། གཏན་འཁེལ་དང་ཁ་གསལ་ཡོང་བར་རེ་སྐུལ་ཐུང་ཐུང་རེ་བྱེད་ནུས།
 
 
 
@@ -149,11 +158,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can generally follow what is said and, when necessary, repeat back part of what someone has said to confirm mutual understanding.
-Can make their opinions and reactions understood as regards possible solutions or the question of what to do next, giving brief reasons and explanations.
-Can invite others to give their views on how to proceed.
-
-
+> Can point out the most important episodes and events in a clearly structured narrative in everyday language and explain the significance of events and the connections between them.
+Can describe the key themes and characters in short narratives involving familiar situations that contain only high frequency everyday language.
 
 
 
@@ -171,45 +177,6 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:end -->
 
 
-
-### A2+
-<!-- panels:start -->
-<!-- div:left-panel -->
-
-> དཀའ་ལས་རྒྱག་མི་དགོས་པའི་རྒྱུན་གཏན་གྱི་བྱེད་སྒོ་ལས་སླ་པོ་གང་ཙམ་ཤེས་ཤིང། ཧ་མ་གོ་བ་ན་ལས་སླ་པོ་སྒོ་ནས་བསྐྱར་ཟློས་བྱེད་རོགས་ཞེས་ལབ་ཐུབ་ཀྱི་ཡོད།
-རྗེས་ལ་གང་ཞིག་བྱེད་དགོས་མིན། བསམ་ཚུལ་བཟོ་བ་དང་ཡ་ལན། ཁ་ཕྱོགས་དྲིས་པ་དང་གཞན་ལ་ལམ་སྟོན་བྱེད་པ་བཅས་ཤེས་ཀྱི་ཡོད། 
-
-
-
-<details>
-  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
-
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
-</details>
-
-<!-- div:right-panel -->
-
-> Can understand enough to manage simple, routine tasks without undue effort, asking very simply for repetition when they do not understand.
-Can discuss what to do next, making and responding to suggestions, and asking for and giving directions.
-
-
-
-
-<details>
-
-  <summary>Detailed explanation</summary>
-
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
-
-</details>
-
-<!-- panels:end -->
 
 
 
@@ -217,8 +184,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> བགྲོ་གླེང་བྱེད་པོར་དཀའ་ངལ་ཡོད་པ་ན། གང་ཞིག་གལ་གནད་ཡིན་མིན་ཤེས་བཅུག་པ་དང། ཁོ་ཚོས་ཉམས་ལེན་བྱེད་མིན་བརྡ་སྟོན་ཐུབ།
-ཅ་དངོས་ཚུར་དགོས་ཕར་སྤྲོད་ཀྱི་རྒྱུན་གཏན་བྱེད་སྒོ་རྣམས་ལས་སླ་པོ་དང་ཚིག་དུམ་སྟབས་བདེ་བེད་སྤྱོད་བྱེད་ཅིང།  གནས་ཚུལ་ལས་སླ་པོ་དང་རྗེས་མར་གྲོས་བསྡུར་གང་ཞིག་བྱེད་རྒྱུ་ཡིན་མིན་འབྲེལ་མཐུད་བྱེད་ཐུབ།
+> གྲོས་མོལ་སྐབས་མི་གཞན་པར་མི་འདོད་པ་ཡང་ན་དཀའ་ངལ་བྱུང་བ་རྣམས་ཤེས་རྟོགས་ཐུབ་ལ། གཏན་འཁེལ་དང་བར་འདུམ་ཡོང་ཆེད་དུ་བློར་ཡོད་པའི་ཚིག་དུམ་ལས་སླ་པོ་རྣམས་བེད་སྤྱོད་བྱེད་ནུས།་
 
   
 
@@ -234,8 +200,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can indicate when they are following and can be made to understand what is necessary, if the interlocutor takes the trouble.
-Can communicate in simple and routine tasks using simple phrases to ask for and provide things, to get simple information and to discuss what to do next.
+> Can identify and briefly describe, in basic formulaic language, the key themes and characters in short, simple narratives involving familiar situations that contain only high frequency everyday language.
 
 
 
@@ -260,10 +225,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->ཁོ་ཚོར་དྲི་བ་དང་ལམ་སྟོན་རྣམས་དལ་པོ་དང་གཟབ་གཟབ་བྱས་ནས་བཤད་ན་ཧ་གོ་ཐུབ་ལ། ཁ་ཕྱོགས་ལས་སླ་པོ་དང་ཐུང་ཐུང་རྣམས་ཀྱང་གོ་ཐུབ། 
-དུས་ཚོད་དང། ས་གནས། ཨང་གྲགས་སོགས་ཡོད་པའི་གཞི་རྩའི་ལམ་སྟོན་རྣམས་བྱེད་ཐུབ། 
-མི་གཞན་པར་ཅ་དངོས་ཕར་སྤྲད་ཚུར་ལེན་བྱེད་པར་སྐད་ཆ་ཤོད་ཐུབ་ཀྱི་ཡོད། 
-
+>བྱེད་ནུས་མེད།
  
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
@@ -276,9 +238,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can understand questions and instructions addressed carefully and slowly to them and follow short, simple directions.
-Can act on basic instructions that involve times, locations, numbers, etc.
-Can ask people for things, and give people things.
+> No descriptors available
 
 <details>
 

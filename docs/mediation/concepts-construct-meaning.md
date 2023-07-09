@@ -2,9 +2,8 @@
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->སྐད་ཡིག་དང་པོའི་ནང་ཡོད་པའི་བརྩམས་ཆོས་ཀྱི་དོན་དངོས་དང་རྩོད་གླེང། དམིགས་བསལ་གྱིས་མི་ཞིག་གི་གནས་བབ་གླེང་བ་ཡང་ན།དོ་སྣང་འདྲེན་ཆེད་འཁྱོག་བཤད་བྱེད་པ། སྐྱོན་ཆ་དང་ཟུར་ཟ། ཚིག་རྩུབ་བཅས་བཀབ་པ་སོགས་སྐད་ཡིག་གཉིས་པའི་ཐོག་ལ་རྒྱས་པ་འབྲི་ཐུབ་ཀྱི་ཡོད།
-འབྱུང་ཁུངས་འདྲ་མིན་ནས་གནས་ཚུལ་སྙིང་བསྡུས་བཟོ་ཐུབ་པ་དང། སྤྱི་ཡོངས་ཀྱི་གྲུབ་འབྲས་མཉམ་སྦྱར་བྱེད་སྐབས་རྩོད་གླེང་དང་རྩིས་ཐོ་བསྐྱར་སྒྲིག་བྱེད་ཐུབ་ཀྱི་ཡོད།
-
+> དཀའ་ངལ་གཅིག་སེལ་ཐབས་སམ་མདུན་བསྐྱོད་བྱེད་སྟངས་ནི། གནས་ཚུལ་ཕྱོགས་བསྡུས་བྱེད་པ་དང། རིན་ཐང་། བསམ་ཚུལ་བཅས་བསྡུ་རུབ་བྱེད་ཐུབ། 
+ཐབས་ལམ་ལམ་མདུན་སྐྱོད་ཀྱི་ཐད་ལ་མཐུན་རྐྱེན་སྦྱོར་ཆེད་ལེགས་སྐྱེས་འདྲ་མིན་ཞིག་ཚད་མཐོ་རུ་གཏོང་བ་དང་སྙིང་བསྡུས་བཟོ་ཐུབ།
 
 
 <details>
@@ -19,9 +18,7 @@
 
 <!-- div:right-panel -->
 
-> Can explain in writing (in Language B) the way that facts and arguments are presented in a text (in Language A), particularly when someone else’s position is being reported, drawing attention to the use of understatement, veiled criticism, irony and sarcasm.
-Can summarise information from different sources, reconstructing arguments and accounts in a coherent presentation of the overall result.
-
+> Can summarise, evaluate and link the various contributions in order to facilitate agreement on a solution or a way forward.
 
 
 
@@ -43,8 +40,12 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->སྐད་ཡིག་དང་པོའི་ནང་ཡོད་པའི་བརྩམས་ཆོས་རིང་པོ་དང་མཁྲེགས་པོ་དེ་ཚོའི་བརྗོད་བྱ་བསྟན་དོན་འདི་འགྲེལ་བཤད་འཚམ་པོ་ཡོད་པའི་ཐོག་སྐད་ཡིག་གཉིས་པའི་ནང་སྙིང་བསྡུས་གཅིག་འབྲི་ཐུབ་ཀྱི་ཡོད། དེའི་ནང་དོན་ཏགཏག་བསྡད་མིན་བལྟ་ཐུབ་ཀྱི་ཡོད།  གལ་སྲིད་མཚམས་མཚམས་སུ་རྒྱུན་གཏན་མིན་པའི་ཐ་སྙད་དང་ཆེད་ལས་ཐ་སྙད་དག་གི་གོ་བ་ཏག་ཏག་དེར་ཞིབ་བཤེར་བྱེད་ཆོག་ན། སྐད་ཡིག་དང་པོའི་ནང་ཡོད་པའི་བརྩམས་ཆོས་རིང་ལ་མཁྲེགས་པ་དེ་ཚོའི་ནང་དོན་དེ་རན་པོའི་ངང་ནས་འགྲེལ་བཤད་བྱས་ནས་སྐད་ཡིག་གཉིས་པའི་ནང་སྙིང་བསྡུས་ཤིག་འབྲི་ཐུབ། 
-མི་མང་ལ་དམིགས་པ་དང། མ་དཔེ་དང་གཅིག་མཚུངས་བྲིས་ཡོད་ན། སྐད་ཡིག་དང་པོའི་ཐོག་ནས་བརྩམ་ཆོས་རིང་པོ་དང་མགོ་རྙོག་པོ་རྣམས་སྙིང་བསྡུས་བཟོ་ཐུབ་ཀྱི་ཡོད།(དཔེར་ན། སློབ་ཚན་གྱི་རྩོམ་དང་ཆབ་སྲིད་ཐོག་གི་དཔྱད་རྩོམ། སྒྲུང། གསར་འགོད་ཕྱོགས་སྒྱིག་པའི་འབྲི་རྩོམ། འབྲི་ཀློག་བསྐྱར་ཞིབ། སྙན་ཐོ། དེབ་གང་རུང་ཞིག་ནས་ནང་དོན་སྙིང་བསྡུས།)
+>  མཉམ་སྡེབ་བྱེད་མཁན་ནམ་ཚོགས་པ་དང་མཉམ་དུ་བྱ་སྤྱོད་ཀྱི་བརྒྱུད་རིམ་ཐག་གཅོད་བྱེད་པར་གྲོས་བསྡུར་བྱེད་ཐུབ་པ་དང། མི་གཞན་གྱི་བསམ་ཚུལ་སྟོན་པ་བཞིན་སྡོམ་རྒྱག་པ་དང། ཞིབ་ཕྲར་འགོད་པ། བསམ་ཚུལ་དང་ལྟ་ཚུལ་མང་པོ་ཞིག་ལ་ཉན་འཇོག་ཐུབ་ཀྱི་ཡོད། སྡེ་ཚན་ནམ་རོགས་པ་དང་མཉམ་དུ་བྱ་སྤྱོད་ཀྱི་རྒྱུད་རིམ་ཞིག་ཐད་གཅོད་བྱེད་པར་གྲོས་སྡུར་ཞིག་འཆར་འགོད་བྱེད་ཐུབ་པར་མ་ཟད། གཞན་གྱིས་ཅི་ཞིག་བཤད་པ་རྣམས་ཐོ་འགོད་དང་། ལྟ་ཚུལ་སྣ་མང་ཞིག་མདོར་བསྡུས་བཟོ་བ་དང་རྒྱས་བཤད་བྱེད་པ་ལེགས་ཉེས་དཔྱོད་པ་བཅས་བྱེད་ཐུབ།
+དཀའ་ངལ་དང། འགྲན་བསྡུར། གྲོས་གཞི་བཅས་ལ་གྲོས་བསྡུར་བྱས་ནས་མདུན་སྐྱོད་ཀྱི་བགྲོད་ལམ་ཐག་གཅོད་བྱེད་ཐུབ་ཀྱི་ཡོད།
+མདུན་སྐྱོད་ཀྱི་གོམ་སྟབས་དེ་ཐག་གཅོད་བྱེད་པར་མཉམ་འདུས་ཀྱི་གོ་བསྡུར་ཞིག་གི་ནང་དུ་གྲོས་འཆར་དང་། འགྲན་བསྡུར། དཀའ་ངལ་བཅས་ལ་དཔྱད་ཞིབ་བྱེད་ཐུབ།
+
+བསམ་ཚུལ་གཅིག་མཐུན་ཡོང་ཆེད་མི་གཞན་གྱི་བསམ་ཚུལ་ལ་འགྲན་སློང་བྱེད་པ་དང། བསམ་ཚུལ་འགལ་བ་དག་ལ་གསལ་ཁ་བཏོན་ཐུབ་ཀྱི་ཡོད། བསམ་གཞིག་ཁྲོད་ཀྱི་མི་རྟག་པའི་རང་བཞིན་དག་ལ་གསལ་ཁ་འདོན་ཐུབ་ལ། བསམ་ཚུལ་གཅིག་མཐུན་ཞིག་ཏུ་སླེབས་ཐབས་བྱེད་པའི་རྒྱུད་རིམ་ནང་གི་གཞན་གྱི་ལྟ་ཚུལ་དག་ལ་ཁ་གཏད་གཅོག་ཐུབ།
+
 
 
 
@@ -61,8 +62,10 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
 <!-- div:right-panel -->
 
->Can summarise in writing (in Language B) long, complex texts (in Language A), interpreting the content appropriately, provided they can occasionally check the precise meaning of unusual, technical terms.
-Can summarise in writing a long and complex text (in Language A) (e.g. an academic article, article providing political analysis, novel extract, editorial, literary review, report or extract from a scientific book) for a specific audience, respecting the style and register of the original.
+>Can frame a discussion to decide on a course of action with a partner or group, reporting on what others have said, summarising, elaborating and weighing up multiple points of view.
+Can evaluate problems, challenges and proposals in a collaborative discussion in order to decide on the way forward.
+Can highlight inconsistencies in thinking, and challenge others’ ideas in the process of trying to reach a consensus.
+
 
 
 
@@ -79,8 +82,6 @@ Example: "The sky is blue today" is a clear and simple sentence.
 </details>
 
 <!-- panels:end -->
-
-
 
 
 
@@ -89,9 +90,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->བརྗོད་གཞི་ཁོང་ཚོའི་ཤེས་ཡོན་དང། སློབ་ཚན། སྒེར་གྱི་དགའ་ཕྱོགས་དང་འབྲེལ་ཡོད་ཡིན་ན། སྐད་ཡིག་དང་པོའི་ཐོག་ནང་དོན་སྒྲོམ་གཞི་ལེགས་པོ་དང་མགོ་རྙོག་པོ་ཡོད་ཀྱང། སྐད་ཡིག་གཉིས་པའི་ཐོག་སྙིང་བསྡུས་བཟོས་ཐུབ་ཀྱི་ཡོད།
-བརྗོད་གཞི་ཁོ་ཚོའི་དམིགས་བསལ་གྱི་དང་ཞེན་ཆེ་བ་ཞིག་ཡིན་ན། སྐད་ཡིག་གཉིས་པའི་ཐོག་སློབ་ཚན་དང་ཆེད་ལས་ཀྱི་བརྡ་ལན་དང། ལྟ་སྟངས་སོགས་སྐད་ཡིག་གཉིས་པའི་ཐོག་ཞིབ་བསྡུར་དང། བསྡུར་བ་བཅས་བྱེད་ཐུབ།
-སྐད་ཡིག་དང་པོའི་ནང་གསལ་བའི་རྙོག་འཛིང་ཆེ་བའི་ཡི་གེ་ནང་དུ་མ་ཡིག་ནང་དུ་ཡོད་པའི་བརྡ་ལན་རྣམས་སྐད་ཡིག་གཉིས་པའི་ནང་འགྲེལ་བཤད་རྒྱག་ཐུབ།
+> མགོ་རྙོག་ཆེ་བའི་བྱ་བ་ཞིག་གི་ནང་དུ་སེལ་ཐབས་ཡོད་པའི་གནད་དོན་དང་། གལ་ཆེ་བའི་གནད་དོན་དག་ལ་གསལ་ཁ་བཏོན་ཐུབ་ཀྱི་ཡོད།   རྙོག་འཛིངས་ཆེ་བའི་ལས་དོན་ཞིག་གི་ནང་དུ་ཐག་གཅོད་བྱེད་དགོས་པའི་གནད་དོན་གཙོ་བོ་དེ་དང་། བསམ་གཞིག་བྱེད་དགོས་པའི་གལ་ཆེའི་ལྟ་ཚུལ་དག་ལ་གསལ་ཁ་འདོན་ཐུབ།
+མཉམ་ལས་ཀྱི་ཐག་གཅོད་དང། དཀའ་ངལ་སེལ་ཐབས། བསམ་འཆར་འདོན་པ། ལྟ་ཚུལ་ཡར་རྒྱས་གཏོང་བ། ཞིབ་ཕྲའི་གནས་ཚུལ་གསལ་བཤད་བྱེད་པ། མ་འོངས་པའི་བྱ་སྤྱོད་ལ་གྲོས་འགོ་འདོན་པ་བཅས་ལ་ཞལ་འདེབས་རྒྱག་ཐུབ།
+མི་གཞན་གྱི་བཤད་པའི་སྐད་ཆ་སྙན་སེང་ཞུས་ནས་ཚོགས་ཆུང་ཞིག་ལ་བགྲོ་གླེང་བྱེད་རྒྱུའི་གྲ་སྒྲིག་བྱེད་པར་རོགས་པ་བྱེད་པ་དང། བསམ་ཚུལ་ལ་སྡོམ་རྒྱག་པ། ཞིབ་ཕྲར་འགོད་པ། བསམ་ཚུལ་འདྲ་མིན་ལ་བལྟ་ཉན་སོགས་བྱེད་ཐུབ་ཀྱི་ཡོད། གཞན་གྱིས་གང་བཤད་པ་རྣམས་ཐོ་འགོད་བྱེད་པ་དང་། ལྟ་ཚུལ་མི་འདྲ་བ་རྣམས་མདོར་བསྡུས་བཟོ་བ་དང་རྒྱས་བཤད་བྱེད་པ་ལེགས་ཉེས་དཔྱོད་པ་བཅས་བྱས་ནས་སྡེ་ཚན་ནང་གི་བགྲོ་གླེང་དེ་གོ་སྒྲིག་བྱེད་པར་རོགས་བྱེད་ཐུབ།
 
 
 
@@ -107,9 +108,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can summarise in writing (in Language B) the main content of well-structured but propositionally complex texts (in Language A) on subjects within their fields of professional, academic and personal interest.
-Can compare, contrast and synthesise in writing (in Language B) the information and viewpoints contained in academic and professional publications (in Language A) in their fields of special interest.
-Can explain in writing (in Language B) the viewpoint articulated in a complex text (in Language A), supporting inferences they make with reference to specific information in the original.
+> Can highlight the main issue that needs to be resolved in a complex task and the important aspects that need to be taken into account.
+Can contribute to collaborative decision making and problem solving, expressing and co-developing ideas, explaining details and making suggestions for future action.
+Can help organise the discussion in a group by reporting what others have said, summarising, elaborating and weighing up different points of view.
+
+
 
 
 
@@ -126,8 +129,6 @@ Example: "The sky is blue today" is a clear and simple sentence.
 </details>
 
 <!-- panels:end -->
-
-
 
 
 
@@ -137,9 +138,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> བརྗོད་གཞི་ཁོང་ཚོའི་དགའ་ཕྱོགས་སམ་ཆེད་ལས་ཐོག་ཡིན་ན། སྐད་ཡིག་དང་པོའི་ནང་ཡོད་པའི་བརྩམས་ཆོས་མགོ་རྙོག་པོ་རྣམས་སྐད་ཡིག་གཉིས་པའི་ཐོག་ནས་ནང་དོན་སྙིང་བསྡུས་འབྲི་ཐུབ་ཀྱི་ཡོད།    
-
-
+> མི་གཞན་གྱི་བསམ་བློ་དང་བསམ་འཆར་ལ་སྔར་ལས་ལྷག་པའི་འཕེལ་རྒྱས་གཏོང་ཐུབ་ཀྱི་ཡོད། 
+ཁོ་ཚོའི་བསམ་ཚུལ་དེ་ཚོགས་ཆུང་ནང་དུ་བཏོན་པ་དང།ཚོགས་ཚུང་གཞན་པའི་ཚོགས་མི་ཚོར་ལྟ་ཚུལ་གང་ཡོད་མེད་དྲི་བ་དྲིས་ཐུབ་ཀྱི་ཡོད།  ཁོང་ཚོའི་བསམ་ཚུལ་སྡེ་ཚན་ནང་དུ་སྤུང་ཐུབ་པར་མ་ཟད། སྡེ་ཚན་གཞན་པའི་མིའི་ལྟ་སྟངས་ཐད་ནས་ཡ་ལན་ཡོང་བར་དྲི་བ་འདོན་ཐུབ།
+གནད་དོན་ཞིག་གི་ཕྱོགས་མི་འདྲ་བ་གཉིས་ལ་བསམ་བློ་བཏང་ནས། ཁོ་ཚོ་ལ་འགག་ཕྱོགས་དང་སྒྲུབ་ཕྱོགས་གཉིས་ཐོག་རྩོད་བཅུག་པ་དང། ཐབས་ལམ་འཚོལ་བའམ་ནང་འགྲིག་བྱེད་འཇུག་ཐུབ་ཀྱི་ཡོད།
+འགག་ཕྱོགས་དང་སྒྲུབ་ཕྱོགས་གཉིས་ཀའི་ཐོག་ནས་གནད་དོན་ཞིག་གི་ཕྱོགས་མི་འདྲ་བ་གཉིས་ཀར་བསམ་གཞིག་བྱས་ནས་ཐབས་ལམ་མམ་འདུམ་འགྲིག་ཅིག་གྲོས་འགོ་འདོན་ཐུབ། 
 
 
 
@@ -155,7 +157,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can summarise in writing (in Language B) the main content of complex texts (in Language A) on subjects related to their fields of interest and specialisation.
+> Can further develop other people’s ideas and opinions.
+Can present their ideas in a group and pose questions that invite reactions from other group members’ perspectives.
+Can consider two different sides of an issue, giving arguments for and against, and propose a solution or compromise.
+
+
 
 
 
@@ -172,7 +178,6 @@ Example: "The sky is blue today" is a clear and simple sentence.
 </details>
 
 <!-- panels:end -->
-
 
 
 
@@ -183,7 +188,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> བརྗོད་གཞི་སྒེར་དང་སྤྱིར་བཏང་འབྲེལ་ཡོད་ཡིན་ན། སྐད་ཡིག་དང་པོའི་ནང་ཡོད་པའི་རྩོད་གླེང་དང་གནས་ཚུལ་དེ་སྐད་ཡིག་གཉིས་པའི་ཐོག་ནས་སྙིང་བསྡུས་འབྲི་ཐུབ་ཀྱི་ཡོད།
+> དམིགས་ཡུལ་དེ་བརྗོད་པ་དང་། སེལ་ཐབས་བྱེད་དགོས་པའི་གནད་དོན་གཙོ་བོ་དེ་སྟབས་བདེ་པོའི་ཚུལ་གྱིས་འགྲེལ་བཤད་བྱེད་པ་བརྒྱུད་དེ་ལས་ཀ་དེ་ཁ་རེ་ཁ་ཐུག་གི་མཉམ་ལས་ཞིག་ཏུ་གོ་སྒྲིག་བྱེད་ཐུབ། 
+བགྲོ་གླེང་གི་ཐད་ལ་དོ་སྣང་རྒྱུན་སྲིང་བའི་ཆེད་དྲི་བ་འདྲི་བ་དང་། མཆན་འགོད་པ། སྟབས་བདེའི་བཅོས་སྒྲིག་བཅས་བྱེད་ཐུབ་ཀྱི་ཡོད།
+
 
 
 
@@ -198,7 +205,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can summarise in writing (in Language B) the information and arguments contained in texts (in Language A) on subjects of general or personal interest.
+> Can organise the work in a straightforward collaborative task by stating the aim and explaining in a simple manner the main issue that needs to be resolved.
+Can use questions, comments and simple reformulations to maintain the focus of a discussion.
+
+
+
 
 
 
@@ -221,8 +232,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> བརྗོད་གཞི་རྣམས་སྒེར་དང། དགའ་ཞེན་ཡོད་པ། ངག་རྒྱུན་ནས་གྲུབ་པའི་ཡི་གེ་རྣམས་གསལ་ཁ་དོད་པོ་ཡོད་ན། སྐད་ཡིག་དང་པོའི་ནང་ཚིག་གནད་འགག་ཆེ་བ་རྣམས་དོན་ཚན་ནང་བཟོས་པ་དང། རྩོམ་རྣམས་སྐད་ཡིག་གཉིས་པའི་ཐོག་ནས་མདོར་བསྡུས་བཟོས་ཐུབ་ཀྱི་ཡོད།   ངག་ཐོག་ཡི་གེ་རྣམས་ཁ་གསལ་ཞིང་གྲལ་སྒྲིག་པོ་ཡོད་ན། སྒེར་རམ་ད་ལྟའི་དགའ་ཕྱོགས་སྐོར་གྱི་བརྗོད་གཞིའི་ཐོག་སྐད་ཡིག་དང་པོའི་ལམ་ནས་ནང་དོན་གཙོ་བོ་དག་ཁ་རེ་ཁ་ཐུག་གིས་བྲིས་པ་དག་སྐད་ཡིག་གཉིས་པའི་ཐོག་ནས་སྙིང་བསྡུས་འབྲི་ཐུབ།
-མ་ཡིག་གི་ཡི་གེ་དང་གོ་རིམ་སྒྲིག་སྟངས་བེད་སྤྱོད་བྱས་ནས་དུམ་མཚམས་ཐུང་ངུ་དག་ལ་འགྲེལ་བཤད་རྒྱག་ཐུབ་ཀྱི་ཡོད།
+> ཚོགས་ཆུང་གི་ཚོགས་མི་རྣམས་ལ་རང་རང་གི་བསམ་འཆར་ལ་རྒྱུ་མཚན་ཤོད་དུ་འཇུག་ཐུབ་ཀྱི་ཡོད། ཚོགས་ཆུང་གི་ཚོགས་མི་རྣམས་ལ་རང་རང་གི་བསམ་འཆར་ལ་རྒྱུ་མཚན་ཤོད་པར་སྐད་ཆ་འདྲི་ཐུབ་ཀྱི་ཡོད།
+མི་ཞིག་གིས་བཤད་པའི་སྐད་ཆ་ཁག་ཅིག་བསྐྱར་ཟློས་བྱས་ནས་ཕན་ཚུལ་བསམ་ཤེས་བྱེད་པར་ཕན་ཐོགས་ཡོད་མེད་བལྟ་བ་དང། བསམ་བློར་འགྱུར་བ་ཐེབས་པའི་རོགས་པ་བྱེད་ཐུབ། ཕན་ཚུན་བསམ་ཤེས་ཡོང་ཐབས་བྱེད་པར་གཞན་གྱིས་བཤད་པའི་སྐད་ཆའི་ཆ་ཤས་ཤིག་བསྐྱར་ཟློས་བྱས་ནས། ཁ་ཕྱོགས་དེའི་སྐོར་གྱི་ལྟ་ཚུལ་གོང་འཕེལ་ཡོང་བར་རོགས་བྱེད་ཐུབ།
+
 
 
 
@@ -237,8 +249,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can summarise in writing (in Language B) the main points made in straightforward, informational texts (in Language A) on subjects that are of personal or current interest, provided oral texts are clearly articulated.
-Can paraphrase short passages in a simple fashion, using the original text wording and ordering.
+> Can ask a group member to give the reason(s) for their views.
+Can repeat part of what someone has said to confirm mutual understanding and help keep the development of ideas on course.
+
+
 
 
 
@@ -258,15 +272,52 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 
 
-
-
 ### A2+
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> རྒྱུས་མངའ་ཡོད་པའི་བརྗོད་གཞི་དང། ཉིན་ལྟར་བེད་སྤྱོད་བྱེད་བཞིན་པའི་སྐད་ཡིན་ན། སྐད་ཡིག་དང་པོའི་ནང་ལས་སླ་བའི་བརྩམས་ཆོས་ནང་གསལ་བའི་གནས་ཚུལ་རྣམས་སྐད་ཡིག་གཉིས་པའི་ཐོག་དགོས་གལ་ཆེ་བའི་གནད་དོན་མང་པོ་བཏོན་ཐུབ་ཀྱི་ཡོད།
-སྦྱོང་མཁན་གྱི་ཚད་ཡོད་ནུས་པ་དང་ཉམས་མྱོང་ཕྲོད་བརྩམས་ཆོས་ཐུང་ངུའི་ནང་ནས་གནད་འགག་ཆེ་བ་དང་ཚིག་ཚོགས། ཚིག་སྒྲུབ་ཐུང་ངུ་སོགས་ཡང་བསྐྱར་བྲིས་ཐུབ་ཀྱི་ཡོད།
+> ཁོ་ཚོས་འབོད་པའི་མི་དེས་འོས་འཚམས་ཀྱི་དྲི་བ་དེ་འདྲ་འདྲི་དགོས་པའི་དགོས་པ་ཤེས་ཀྱི་ཡོད་པ་ཁག་ཐེག་བྱེད་ཐུབ་ཀྱི་ཡོད། 
 
+
+
+
+<details>
+  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
+
+བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
+
+1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
+དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+</details>
+
+<!-- div:right-panel -->
+
+> Can ensure that the person they are addressing understands what they mean by asking appropriate questions.
+
+
+
+
+<details>
+
+  <summary>Detailed explanation</summary>
+
+Let me break it down into simpler parts:
+
+1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
+Example: "The sky is blue today" is a clear and simple sentence.
+
+</details>
+
+<!-- panels:end -->
+
+
+
+### A2
+<!-- panels:start -->
+<!-- div:left-panel -->
+
+>  ཁོ་ཚོས་མཉམ་བཞུགས་བྱེད་ཀྱི་ཡོད་མེད་བརྟག་ཆེད་དུ་འགྲེལ་བརྗོད་བྱེད་པ་དང་དྲི་བ་འདྲི་བ་བཅས་བྱེད་ཐུབ།
+སྟབས་བདེ་པོའི་ངང་ནས་གྲོས་འགོ་འདོན་ཐུབ་ཀྱི་ཡོད།
   
 
 
@@ -281,52 +332,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can list as a series of bullet points (in Language B) the relevant information contained in short simple texts (in Language A), provided the texts concern concrete, familiar subjects and contain only simple everyday language.
-Can pick out and reproduce key words and phrases or short sentences from a short text within the learner’s limited competence and experience.
+> Can make simple remarks and pose occasional questions to indicate that they are following.
+Can make suggestions in a simple way.
 
-
-
-
-
-<details>
-
-  <summary>Detailed explanation</summary>
-
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
-
-</details>
-
-<!-- panels:end -->
-
-
-
-
-
-
-### A2
-<!-- panels:start -->
-<!-- div:left-panel -->
-
-> སྐད་ཡིག་དང་པོའི་ཐོག་ཉིན་ལྟར་བེད་སྤྱོད་བྱེད་བཞིན་པའི་ཐ་སྙད་ཕྱུག་ཤོས་དང་། ཡིག་ནོར། བརྩམས་ཆོས་རྟོགས་རྒྱུ་སོགས་ཕལ་སྐད་བེད་སྤྱོད་བྱས་ནས་སྐད་ཡིག་གཉིས་པའི་ཐོག་ལ་བྲིས་ཐུབ་ཀྱི་ཡོད།
-གསལ་ཁ་དོད་པའི་ངང་འབྲི་བཞག་པའམ། པར་ཤུས་བརྒྱབ་པའི་བརྩམས་ཚོས་ཐུང་ངུ་རྣམས་དཔེ་ཤུ་ཐུབ་ཀྱི་ཡོད།
-
-
-<details>
-  <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
-
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
-</details>
-
-<!-- div:right-panel -->
-
-> Can use simple language to convey (in Language B) the main point(s) contained in very short texts (in Language A) on familiar and everyday themes that contain the highest frequency vocabulary; despite errors, the text remains comprehensible.
-Can copy out short texts in printed or clearly handwritten format.
 
 
 
@@ -350,8 +358,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->སྐད་ཡིག་དང་པོའི་ནང་ཉིན་ལྟར་བེད་སྤྱོད་བྱེད་བཞིན་པ་དང་རྒྱུས་མངའ་ཡོད་པའི་ཚིག་ཚོགས་ལས་སླ་པོའི་དོན་རྣམས་ཚིག་མཛོད་བེད་སྤྱོད་བྱེད་ནས་སྐད་ཡིག་གཉིས་པའི་ནང་འབྲི་ཐུབ་ཀྱི་ཡོད།
-སྒྲོམ་གཞི་ཚད་ལྡན་ཞིག་གི་ནང་ཡོད་པའི་བརྩམས་ཆོས་ཐུང་ངུ་དང། ཚིག་གཅིག་དག་དཔེ་བཤུ་ཐུབ་ཀྱི་ཡོད།
+>སྔོན་ནས་གྲ་སྒྲིག་ཡོད་པའི་ཐོག་ཚིག་གམ་རྟགས་ལས་སླ་པོ་བདེ་སྤྱོད་ཀྱིས་གཞན་གྱིས་གང་ཞིག་དྲན་མིན་དང་། དེར་བསམ་ཚུལ་འདོན་ཐུབ། གལ་སྲིད་སྔོན་ནས་གྲ་སྒྲིག་བྱེད་ཆོག་ན། ཚིག་འགྲོས་དང་། ཚིག མཚོན་རྟགས་ཤིན་ཏུ་ལས་སླ་པོ་དེ་འདྲ་བེད་སྤྱོད་བྱས་ཏེ་ལྟ་ཚུལ་ཞིག་བཤད་ནས་གཞན་གྱིས་ཅི་ཞིག་བསམ་གྱིན་ཡོད་མེད་སྐད་ཆ་འདྲི་ཐུབ། 
+
 
  
 <details>
@@ -365,9 +373,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can, with the help of a dictionary, convey (in Language B) the meaning of simple phrases (in Language A) on familiar and everyday themes.
-Can copy out single words and short texts presented in standard printed format.
-
+> Can express an idea and ask what others think, using very simple words/signs and phrases, provided they can prepare in advance.
 
 <details>
 
