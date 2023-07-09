@@ -2,10 +2,8 @@
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> རང་ཉིད་ཀྱི་རྙོག་འཛིང་ཆེ་བའི་གནད་དོན་ཞིག་ལ་རྒྱུན་སྲོལ་བགྲོ་གླེང་བྱས་ནས་གསལ་བཤད་དང། ནན་སྐུལ་བྱས་ཏེ་མཉམ་ཞུགས་པ་གཞན་ཚོར་གནོད་སྤུ་ཙམ་ཡང་མི་སྐྱེལ་བ་བཟོས་ཐུབ་ཀྱི་ཡོད།
-ཁོ་ཚོར་དགོས་ངེས་ཀྱི་ཤེས་ཡོན་ཡོད་ན། རྙོག་འཛིང་ཆེ་ཞིང། གལ་ཆེན་པོ། འཁྲུག་དད་ཅན་གྱི་གནད་དོན་ཐད་ལ་བཅུན་ཐུབ་པ་འམ་གྲོས་བསྡུར་བྱེད་ཐུབ།
-ཧ་ཅང་མཁྲེགས་པའི་དྲི་རྩད་ལ་ཡིད་ཆེས་ཕེར་བའི་སྒོ་ནས་ལན་འཇལ་ཐུབ་པ་དང། དཀྱོགས་མཚམས་རྒྱུན་འཁྱོངས་སམ། ཕྱི་འབྲེལ་མི་སྣའི་ཐོག་ནས་དགག་ལན་སློག་ཐུབ།
-
+> མཉམ་ལས་བྱེད་སྐབས་བྱུང་བའི་བསམ་འཆར་ཕྱོགས་འགལ་དང་། གོ་ནོར་ཐེབས་པ་རྣམས་ནུས་པ་ཐོན་པའི་སྒོ་ནས་ཐག་གཅོད་བྱེད་ཐུབ་ཀྱི་ཡོད།
+མཉམ་ལས་ཀྱི་ལས་དོན་སྐབས་སུ་བསྐྱར་དུ་བླུགས་པ་དང། རྩོམ་སྒྲིག་བྱེད་དུས་ལམ་སྟོན་འོས་འཚམས་ཞིག་བྱེད་ཐུབ་ཀྱི་ཡོད།
 
 
 
@@ -21,12 +19,8 @@
 
 <!-- div:right-panel -->
 
-> Can hold their own in formal discussion of complex issues, putting an articulate and persuasive argument, 
-at no disadvantage to other participants.
-Can advise on/handle complex, delicate or contentious issues, provided they have the necessary 
-specialised knowledge.
-Can deal with hostile questioning confidently, hold on to the turn and diplomatically rebut 
-counter-arguments.
+> Can resolve misunderstandings and deal effectively with frictions that arise during the collaborative process.
+Can provide guidance and add precision to the work of a group at the redrafting and editing stages of collaborative work.
 
 
 
@@ -48,11 +42,13 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->  བརྗོད་གཞི་རྒྱུས་མངའ་མེད་པ་དང་། རྙོག་འཛིང་ཆེ་བ་ཞིག་ཡིན་རུང་རྩོད་གླེང་ཐོག་ལས་སླ་པོའི་ངང་ཞུགས་ཐུབ་ཀྱི་ཡོད།
+>  མཉམ་ལས་ཀྱི་ལས་ཀ་དེ་མཐའ་སྐྱེལ་བྱུང་ཆེད། བཀོད་བྱུས་ཞིབ་ཕྲ་རྣམས་བསྐྱར་བཅོས་བྱེད་པ་དང། ཚོགས་མི་རྣམས་ནས་བསམ་འཆར་བསྡུ་བ། གནས་ཚུལ་ཁ་གསལ་པོ་བཟོས་པ་བཅས་བྱས་ནས་དྲ་ཐོག་གི་ལས་འཆར་སྡེ་ཚན་ལ་འབྲེལ་བ་བྱེད་ཐུབ་ཀྱི་ཡོད།
+ཞབས་ཞུའི་ནུས་པ་ལྡན་པའི་ངང་རྙོག་འཛིང་ཆེ་བའི་དྲ་ཐོག་ཉོོ་ཚོང་ཐག་གཅོང་བྱེད་པ་དང། གྲོས་གླེང་དང་གྲོས་བསྡུར་ལེགས་སྒྲུབ་བྱུང་ཆེད་སྐད་ཆ་བཤད་མཁས་པོའི་ངང་བཤད་ཐུབ་ཀྱི་ཡོད། (དཔེར་ན། རྙོག་འཛིང་ཆེ་བ་དང་དགོས་མཁོ་ཆེ་བའི་འབོད་སྐུལ།)
+དམིགས་ཡུལ་སྒྲུབ་རྒྱུའི་ཆེད་དུ་ལས་འཆར་གྱི་བརྗོད་གཞི་མཁྲེགས་པོ་དང་མཉམ་ལས་ཀྱི་ཡི་གེ་འབྲི་དགོས་པ་དང། བླུགས་དགོས་པ། དེ་བཞིན་དྲ་ཐོག་མཉམ་སྦྲེལ་བཅས་ཁོ་ཚོའི་ལམ་སྟོན་བཞིན་ཏག་ཏག་གྲུབ་ཆེད་མཉམ་ཞུགས་ཐུབ་ཀྱི་ཡོད།
+བརྒྱུད་ལམ་བརྒྱུད་ནས་དཔེ་མཚོན་བསྒྱུར་བཅོས་དང། གསལ་བཤད། འདོན་སྤྲོད་བཅས་བྱས་པར་བརྟེན་དྲ་ཐོག་མཉམ་ལས་སམ་ཉོ་ཚོང་བརྗེ་རེས་བྱེད་རིང་བྱུང་བའི་འབྲེལ་བཏུག་དཀའ་ངལ་དང་གནད་དོན་རྣམས་ནུས་པ་ཐོན་པའི་ཐོག་ནས་ཐག་བཅོད་བྱེད་ཐུབ། (བརྙན། སྒྲ། བྲིས་བཀོད།)
 
-མཉམ་ཞུགས་བྱེད་མཁན་གཞན་དག་གི་སློབ་སྦྱོང་ངམ་ཆེད་ལས་ཀྱི་ནུས་པ་ལ་བསྐྱར་གསོ་འམ། གདེང་འཇོག། འགྲན་སློང་བཅས་བྱེད་ཐུབ་ཀྱི་ཡོད།
-ཕྱི་འབྲེལ་མི་སྣའི་བྱེད་སྟངས་ལ་སྐྱོན་བརྗོད་ཀྱི་གཏམ་སྤེལ་བའམ་མི་འདོད་པའི་བསམ་འཆར་ཤོད་ཐུབ།
-ཞིབ་ཕྲའི་གནས་ཚུལ་ལ་ཚོད་ལྟ་བྱས་ནས་དྲི་བ་དྲིས་པ་དང། གལ་སྲིད་གོ་བ་ལོག་སྒྲུབ་བྱུང་ཡོད་ན་དྲི་བ་ཡང་བསྐྱར་དྲིས་ཐུབ་ཀྱི་ཡོད།
+
+
 
 
 
@@ -67,14 +63,14 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
 <!-- div:right-panel -->
 
->Can easily keep up with the debate, even on abstract, complex, unfamiliar topics.
-Can argue a formal position convincingly, responding to questions and comments and answering complex 
-lines of counter-argument fluently, spontaneously and appropriately.
-Can restate, evaluate and challenge contributions from other participants about matters within their 
-academic or professional competence.
-Can make critical remarks or express disagreement diplomatically.
-Can follow up questions by probing for more detail and can reformulate questions if these are 
-misunderstood.
+>Can co-ordinate a group that is working on a project online, formulating and revising detailed instructions, evaluating proposals from team members, and providing larifications in order to accomplish the shared tasks.
+Can deal with complex online transactions in a service role (e.g. applications with complicated requirements), adjusting language flexibly to manage discussions and negotiations.
+Can participate in complex projects requiring collaborative writing and redrafting as well as other forms of online collaboration, following and relaying instructions with precision in order to reach the goal.
+Can deal effectively with communication problems and cultural issues that arise in an online collaborative or transactional exchange by reformulating, clarifying and providing examples through media (visual, audio, graphic).
+
+
+
+
 
 
 <details>
@@ -97,9 +93,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> བགྲོ་གླེང་གི་རྗེས་ཟིན་ཐུབ་པ་དང། རྩོད་གླེང་གྱི་རྒྱབ་བསྐྱོར་དང་འགལ་ཟླར་གྱུར་པའི་ལྟ་ཕྱོགས་གཉིས་ངོས་བཟུང་ཐུབ་ཀྱི་ཡོད།
+> ཁོ་ཚོའི་མཁས་རྩལ་གྱི་མཉམ་ལས་ལས་ཀར་འགན་འཁུར་བ་གཙོ་བོ་དེ་བྱེད་ཐུབ་པ་དང། སྡེ་ཚན་མི་ཚོགས་མི་ཚོར་སོ་སོའི་ལས་ཀ། ལས་འགན། ལས་ཀའི་དམིགས་ཡུལ་གྱི་དུས་བཀག་སོགས་དྲན་སྐུལ་བྱེད་ཐུབ།
+གྲོས་མོལ་བྱ་དགོས་པའི་ཆ་རྐྱེན་དང་རྙོག་འཛིང་ཆེ་བའི་ཅ་དངསོ་སྐོར། དམིགས་བསལ་གྱི་དགོས་མཁོ་ལ་འགྲེལ་བཤད་རྒྱག་དགོས་པའི་ཆེད་ལས་བརྒྱུད་དྲ་ཐོག་མཉམ་ལས་སམ་ཡང་ན། དྲ་ཐོག་ཉཔ་ཚོང་སྤེལ་བྱེད་ཐུབ་ཀྱི་ཡོད།
+དྲ་ཐོག་ཉོ་ཚོང་བརྒྱུད་བྱུང་བའི་གོ་ནོར་ཐེབས་པའམ་བསམ་ཡལ་ལས་འདས་པའི་དཀའ་ངལ་དག་ལ་གུས་ཞབས་ཆེན་པོས་ལན་འབུལ་བ་དང། གནད་དོན་དེ་སེལ་ཐབས་བྱེད་དུ་ཐབས་ལམ་འོས་འཚམས་ཤིག་འཚོལ་ཐུབ་ཀྱི་ཡོད།
 
-གནད་་འཁེལ་བའི་སྒོ་ནས་རང་ཉིད་ཀྱི་བསམ་ཚུལ་དང་ལྟ་ཚུལ་ཤོད་ཐུབ་པ་མ་ཟད། རྙོག་འཛིང་ཆེ་བའི་རྩོད་གླེང་གི་གནད་དོན་རྣམས་བློ་འགུག་གི་ནུས་པ་ལྡན་པའི་ངང་ནས་འགྲེལ་བཤད་རྒྱག་ཐུབ་ཀྱི་ཡོད།
 
 
 
@@ -116,12 +113,14 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can keep up with an animated discussion, identifying accurately arguments supporting and opposing 
-points of view.
-Can use appropriate technical terminology when discussing their area of specialisation with other 
-specialists.
-Can express their ideas and opinions with precision, and present and respond to complex lines of 
-argument convincingly.
+> Can take a lead role in online collaborative work within their area(s) of expertise, keeping the group on task 
+by reminding it of roles, responsibilities and deadlines in order to achieve established goals.
+Can engage in online collaborative or transactional exchanges within their area(s) of expertise that require 
+negotiation of conditions and explanation of complicated details and special requirements.
+Can deal with misunderstandings and unexpected problems that arise in online collaborative or 
+transactional exchanges by responding politely and appropriately in order to help resolve the issue.
+
+
 
 
 
@@ -145,9 +144,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> འཆར་ཅན་དང་འཆར་ཅན་མིན་པའི་རྒྱུན་སྲོལ་བགྲོ་གླེང་ལ་ཧུར་ཐག་ངང་འཛུལ་ཞུགས་བྱེད་ཐུབ་ཀྱི་ཡོད།
-ཁོ་ཚོའི་འདོད་མོས་ཀྱི་བརྗོད་གཞི་ཞིག་གི་ཐོག་ལ་བགྲོ་གླེང་བྱེད་པ་དེ་གོ་ཐུབ་པ་དང། གལ་འགངས་ཆེ་བའི་གནད་དོན་རྣམས་ཞིབ་ཕྲའི་ངང་གོ་འཚོས་ཐུབ་ཀྱི་ཡོད།
-སོ་སོའི་བསམ་ཚུལ་གནས་ཆེད་དུ་གྲོས་འཆར་གཞན་ཞིག་ཚོད་དཔག་བྱས་ནས་དོག་པ་རྣམས་ལ་ལན་འདེབས་བྱེད་ཐུབ་ཀྱི་ཡོད།
+> ལས་འཆར་གཅིག་གི་སྟེང་ལ་ལས་ཀ་བྱེད་བཞིན་པའི་སྡེ་ཚན་ཅིག་གིས་བསམ་འཆར་ལ་ཉན་པ་དང། གནས་ཚིལ་ཁ་གསལ་པོ་བཟོས་པ། མཉམ་ལས་ཀྱི་ལས་ཀར་ལེགས་པར་སྒྲུབ་པའི་རྒྱབ་བསྐྱོར་བྱེད་ན་དྲ་རྒྱ་བརྒྱུས་ནས་མཉམ་ལས་བྱེད་ཐུབ་ཀྱི་ཡོད།
 
 
 
@@ -163,11 +160,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can participate actively in routine and non-routine formal discussion.
-Can follow the discussion on matters related to their field, understand in detail the points given 
-prominence.
-Can contribute, account for and sustain their opinion, evaluate alternative proposals and make and 
-respond to hypotheses.
+> Can collaborate online with a group that is working on a project, justifying proposals, seeking clarification and playing a supportive role in order to accomplish shared tasks.
+
+
 
 
 
@@ -193,8 +188,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> གླེང་མོལ་བྱེད་པོས་གཏམ་དཔེ་རྣམས་སྐྱུར་བ་དང། ཁ་གསལ་པོས་བཤད་ན། ཁོའི་འདོད་མོས་བརྗོད་གཞི་ཐོག་གང་བཤད་མིན་གང་མཚམ་གོ་ཐུབ་ཀྱི་ཡོད།
-རང་ཉིད་ཀྱི་བསམ་ཚུལ་གསལ་ཁ་དོད་པོས་བཤད་ཐུབ་ཀྱང། རྩོད་གླེང་བྱེད་པར་ཁག་པོ་ཡོད།
+> རྙོག་འཛིང་ཆེ་བའི་སྐད་ཆ་དག་ལས་གཡོལ་ཆེད་དང། དགོས་མཁོ་ཡོད་དུས་བསྐྱར་ཟློས་བྱེད་ན། དུས་འགྱངས་ངང་ཅ་དངོས་བརྗེ་རེས་ཀྱི་བརྡ་ལན་དྲ་རྒྱ་ཉོ་ཚོང་བརྒྱུད་བྱེད་ཐུབ་ཀྱི་ཡོད།
+ཁ་རུ་ཁ་ཐུག་དང་། ཁ་གསལ་པོ། འགན་ཆ་ཚང་མཉམ་དུ་ཡོད་པའི་མཉམ་ལས་ཀྱི་ལས་འཆར་ལ་དྲ་ཐོག་བརྒྱུད་ནས་འབྲེལ་བ་བྱེད་ཐུབ་ཀྱི་ཡོད།
 
 
 
@@ -209,10 +204,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can follow much of what is said that is related to their field, provided interlocutors avoid very idiomatic 
-usage and articulate clearly.
-Can put over a point of view clearly, but has difficulty engaging in debate.
-
+> Can engage in online transactions that require an extended exchange of information, provided the interlocutor(s) avoid complex language and are willing to repeat and reformulate when necessary.
+Can interact online with a group that is working on a project, following straightforward instructions, seeking clarification and helping to accomplish the shared tasks.
 
 
 
@@ -236,8 +229,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> བརྗོད་གཞི་གསལ་ཁ་དོད་ཅིང་ཚད་ལྡན་དང་རྒྱུས་མངའ་ཡོད་པ་ཞིག་གམ། དངོས་ཡོད་བརྡ་ལན་བརྗེ་རེས་དང། བཀོད་བྱུས་ཤེས་ཐབས། ཡང་ན། དངོས་ཡོད་དཀའ་ངལ་སེལ་ཐབས་བཅས་ཀྱི་ཐོག་ལ་གྲོས་བསྡུར་བྱེད་རྒྱུ་བཅས་ཀྱི་རྒྱུབ་སྲོལ་བགྲོ་གླེང་ལ་ཆ་ཤས་ལེན་ཐུབ།  
-གནད་དོན་རྣམས་སྐད་ཕལ་པ་དང་བསྐྱར་ཟློས། གསལ་ཁ་དོད་པོ་བཏོན་ཡོད་ན། རྒྱུས་མངའ་འམ་ཚོད་དཔག་བྱེད་ཐུབ་པའི་བརྗོད་གཞི་ཐོག་རྩོད་གླེང་དང་གྲོས་བསྡུར་བྱེད་པ་རྣམས་གོ་འཚོས་ཐཱུབ་ཀྱི་ཡོད།
+> སློབ་ཚན། འགྲིམ་འགྲུལ། དོན་རྐྱེན་སོགས་ལ་ཐོ་འགོད་བྱེད་པའམ་ཚོགས་མིའི་གོ་གནས་ལ་ཞུ་འབུལ་བྱེད་ཆེད། དྲ་རྒྱ་ཉོ་ཚོང་བརྒྱུད་ནས་འམ་དེར་མཉམ་ལས་བྱེེད་ཐུབ་ཀྱི་ཡོད།
+རྙོག་འཛིང་ཆེ་བའི་བརྗོད་གཞི་ཞིག་གི་ཐོག་ལ་ལས་སླ་པོ་ཡོང་ཆེད་པར་རིས་དང། རྣམ་གྲངས་སོགས་བསྟན་ཡོད་ན། དྲ་རྒྱ་བརྒྱུད་རོགས་པ་དང་ལས་འཆར་ཆུང་སར་ལས་ཀ་བྱེད་མཁན་གྱི་ཚོགས་ཆུང་དང་མཉམ་དུ་གླེང་ཐུབ་ཀྱི་ཡོད།
+དྲ་ཐོག་ནས་ཐུབ་མོང་གི་ལས་འགན་འགྲུབ་ཆེད་བཀོད་བྱུས་དང་ལེན་བྱས་ཆོག་པ་མ་ཟད་དྲི་བ་དྲིས་པའམ་གསལ་བཤད་བྱེད་ཐུབ་ཀྱི་ཡོད།
  
 
 
@@ -253,11 +247,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can take part in routine formal discussion of familiar subjects which is clearly articulated in the standard 
-form of the language or a familiar variety and which involves the exchange of factual information, receiving 
-instructions or the discussion of solutions to practical problems.
-Can follow argumentation and discussion on a familiar or predictable topic, provided the points are made 
-in relatively simple language and/or repeated, and opportunity is given for clarification.
+> Can engage in online collaborative or transactional exchanges that require simple clarification or explanation of relevant details, such as registering for a course, tour or event, or applying for membership.
+Can interact online with a partner or small group working on a project, provided there are visual aids such as images, statistics and graphs to clarify more complex concepts.
+Can respond to instructions and ask questions or request clarifications in order to accomplish a shared task online.
+
 
 
 
@@ -282,8 +275,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> ཁོ་ཚོ་དང་འབྲེལ་བའི་བརྗོད་གཞི་ཞིག་གི་ཐོག་ལ་དལ་པོ་དང་ཁ་གསལ་པོའི་ངང་ཚོགས་འདུ་ཚོགས་ན། བརྗོད་གཞི་ལ་འགྱུར་བ་ཇི་ལྟར་ཐེབས་པ་རྟོགས་ཐུབ་ཀྱི་ཡོད།
-གལ་སྲིད་དགོས་མཁོ་ཡོད་དུས་དོན་གནད་ཆེ་བ་རྣམས་བསྐྱར་ཟློས་བྱེད་ན། ཁོ་ཚོས་དཀའ་ངལ་ཐད་ཀར་དྲིས་པ་རྣམས་ལ་རང་ཉིད་ཀྱི་བསམ་ཚུལ་བཤད་པའམ་ལན་འོས་འཚམས་ཞིག་སྤྲོད་ཐུབ་ཀྱི་ཡོད།
+> སྤྱིར་བཏང་གི་སྐད་ཆ་སྤྱད་དེ་དྲ་ཐོག་ནས་ཉོ་ཚོང་ཁྲོད་བྱུང་བའི་རྒྱུན་ལྡན་གྱི་གནད་དོན་ལ་ལན་འདེབས་ཐུབ་ཀྱི་ཡོད། (ཅ་ལག་དེའི་ཕན་ནུས་ལ་བསམ་པ་དང། དམིགས་བསལ་གོང་ཚད་འབེབས་པ། ཅ་ལག་འབྱོར་དུས། ཁ་བྱང།)
+མིག་གི་མཐོང་རྒྱུ་ཡོད་པ་དཔེར་ན། པར་རིས་དང། རྣྻམ་གྲངས་སོག་བརྟེན་ནས་གནས་ཚུལ་ཁ་གསལ་པོ་ཡོད་ན། རྒྱབ་བསྐྱོར་ཆེ་བའི་རོགས་པ་དང་ལྷན་མཉམ་ལས་བྱེད་དུས། སྤྱིར་བཏང་བའི་བཀོད་བྱུས་ལ་ལན་འདེབས་པ་དང། སེལ་ཁ་འདོན་པ་བཅས་བྱེད་ཐུབ་ཀྱི་ཡོད།
+
+
   
 
 
@@ -298,10 +293,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can generally follow changes of topic in formal discussion related to their field which is conducted slowly 
-and clearly.
-Can exchange relevant information and give their opinion on practical problems when asked directly, 
-provided they receive some help with formulation and can ask for repetition of key points if necessary.
+> Can use formulaic language to respond to routine problems arising in online transactions (e.g. concerning availability of models and special offers, delivery dates, addresses).
+Can interact online with a supportive partner in a simple collaborative task, responding to basic instructions and seeking clarification, provided there are visual aids such as images, statistics or graphs to clarify the concepts involved.
 
 
 
@@ -325,7 +318,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> གལ་འགང་ཆེ་བའི་གནད་དོན་རྣམས་བསྐྱར་ཟློས་བྱེད་ན། རྒྱུན་སྲོལ་གྱི་ཚོགས་འདུ་སོགས་ལ་ཁོ་ཚོས་གང་ཚོར་མིན་ཤེས་ཐུབ་ཀྱི་ཡོད།
+> སྒེར་གྱི་གནས་ཚུལ་དང། ཅ་ལག་གང་དགོས་དེར་ཁས་ལེན། ཞབས་ཞུ་ཕར་མ་རྣམས་ལ་མི་དགོས་ཚུལ་སོགས་བརྗོད་བཞིན་དྲ་ཐོག་ནས་དྲི་བ་དྲིས་པ་རྣམས་བརྒྱུད་དྲ་ཐོག་ནས་ཉོ་ཚོང་ལས་སླ་པོ་རྣམས་བྱེད་ཐུབ་ཀྱི་ཡོད།
+ཅ་ལག་གཅིག་གི་སྤུས་ཚད་དང་ཕན་ནུས་ལ་སོགས་པའི་སྤྱིར་བཏང་བའི་དྲི་བ་རྣམས་དྲིས་ཐུབ་ཀྱི་ཡོད།
+སྟབས་བདེའི་བཀོད་བྱུས་ལ་ལན་འདེབས་ཐུབ་པ་དང། གླེང་མོལ་བྱེད་མཁན་གྱི་རོགས་བསྐྱོར་འོག་དྲ་ཐོག་ནས་ཉོ་ཚོང་བྱེད་ཐཱུབ་ཀྱི་ཡོད།
+
   
 
 
@@ -340,8 +336,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> Can express what they think about things when addressed directly in a formal meeting, provided they can 
-ask for repetition of key points if necessary.
+> Can make simple online transactions (e.g. ordering goods or enrolling in a course) by filling in an online form or questionnaire, providing personal details and confirming acceptance of terms and conditions, declining extra services, etc.
+Can ask basic questions about the availability of a product or feature.
+Can respond to simple instructions and ask simple questions in order to accomplish a shared task online with the help of a supportive interlocutor.
 
 
 
@@ -366,7 +363,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->འགྲེལ་བཤད་གསལ་ཁ་མི་འདུག
+>སྒེར་གྱི་སྤྱིར་བཏང་བའི་གནས་ཚུལ་རྣམས་སྤྲོད་དེ་དྲ་ཐོག་ནས་ཉོ་ཚོང་ལས་སླ་པོ་བྱེད་ཐུབ་ཀྱི་ཡོད། (དཔེར་ན། མིང། གློག་འཕྲིན་ཁ བྱང། ཁ་པར་ཨང་གྲངས།)
+
 
  
 <details>
@@ -380,7 +378,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
 <!-- div:right-panel -->
 
-> No descriptors available
+> Can complete a very simple online purchase or application, providing basic personal information (e.g. name, e-mail or telephone number).
+
+
 
 <details>
 
@@ -401,7 +401,7 @@ Let me break it down into simpler parts:
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-> འགྲེལ་བཤད་གསལ་ཁ་མི་འདུག
+> དཔར་རིས་སོགས་བལྟ་རྒྱུ་ཡོད་ན་དྲ་ཐོག་ནས་དངུལ་སྤྲད་དེ་འདམ་ཀ་ལས་སླ་མོ་རྣམས་བྱེད་ཐུབ་ཀྱི་ཡོད། (དཔེར་ན། ཅ་ལག་འདེམས་རྒྱུ་དང། གཤོང་ཚད། མཚོན་མདོག)
 
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
@@ -414,7 +414,7 @@ Let me break it down into simpler parts:
 
 <!-- div:right-panel -->
 
-> No descriptors available
+> Can make selections (e.g. choosing a product, size, colour) in a simple online purchase or application form, provided there is visual support.
 
 <details>
 
