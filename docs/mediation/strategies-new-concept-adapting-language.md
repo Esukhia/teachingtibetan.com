@@ -26,7 +26,17 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+It highlights an individual's ability to adapt the language of various texts to match the needs and expectations of the intended audience. Here's an explanation of the key elements:
+
+Adapting language: The individual can modify their language use to suit different types of texts. They have the skill to adjust the register, tone, and style of their language to ensure it is appropriate for the specific audience they are addressing.
+
+Presenting main content: The individual can effectively convey the main ideas and information of a text. They are able to prioritize and articulate the essential content, ensuring that it is accurately and clearly presented.
+
+Register and degree of sophistication: The individual can select an appropriate register and level of formality for the specific audience. They can adapt their language to match the desired level of sophistication, taking into account factors such as the audience's knowledge, expectations, and cultural context.
+
+Detail and level of information: The individual can adjust the level of detail and information provided in the text. They have the ability to provide the necessary information to meet the audience's needs, whether it requires a concise summary or a more comprehensive explanation.
+
+Overall, this descriptor indicates that the individual possesses advanced language skills and can effectively adapt their language use across a wide range of texts. They have the ability to tailor their communication to suit the intended audience, presenting the main content in an appropriate register and degree of sophistication while considering the level of detail and information required.
 
 </details>
 
@@ -72,10 +82,15 @@ Can paraphrase and interpret complex, technical texts, using suitably non-techni
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It describes an individual's ability to communicate complex technical information to non-experts within their own field of expertise. Here's a simplified explanation:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Explaining technical terminology and difficult concepts: The individual can clarify and simplify complex technical terms and concepts when communicating with people who are not experts in the subject. They have the skill to break down complicated information into more understandable terms.
+
+Adapting language for non-experts: The individual can adjust their language, including syntax (sentence structure), idiomatic expressions, and jargon, to make a complex specialist topic accessible to recipients who may not have in-depth knowledge of the subject. They can convey the information in a way that is understandable and relatable to non-experts.
+
+Paraphrasing and interpreting complex texts: The individual can rephrase and interpret complex technical texts, using language that is suitable for someone who lacks specialist knowledge. They can summarize and explain the main ideas without using overly technical language.
+
+In summary, this descriptor indicates that the individual has the ability to explain technical concepts and terminology to non-experts in their field. They can adapt their language to make complex topics understandable, paraphrase complex texts into simpler language, and effectively communicate with individuals who may not have specialized knowledge in the subject area.
 
 </details>
 
@@ -118,10 +133,15 @@ Can make a specific, complex piece of information in their field clearer and mor
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It highlights the individual's ability to explain technical topics within their field to individuals who do not have specialized knowledge. Here's a simplified explanation:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Explaining technical topics: The individual can effectively communicate technical subjects related to their field to people who may not have expertise in that area. They have the skill to convey complex information in a way that is understandable and accessible to non-specialists.
+
+Using non-technical language: The individual can use language that is appropriate and free from technical jargon when explaining technical topics to non-experts. They can express ideas and concepts in a clear and concise manner, avoiding unnecessary technical terms that might confuse the recipient.
+
+Paraphrasing complex information: The individual can take a specific, intricate piece of information within their field and rephrase it using simpler language. This allows them to make the information clearer and more explicit for others who may have difficulty understanding complex technical content.
+
+In summary, this descriptor indicates that the individual has the ability to explain technical topics within their field using non-technical language. They can make complex information more accessible by paraphrasing it in simpler terms, helping others understand the subject matter more easily.
 
 </details>
 
@@ -165,10 +185,13 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+ It focuses on the individual's ability to make the main content of a text, such as an essay, forum discussion, or presentation, accessible to others by paraphrasing it in simpler language. Here's a simplified explanation:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+The individual can take a text that contains complex or specialized information on a subject of interest and rephrase it using simpler language. By doing so, they make the main content of the text more easily understandable for others who may have difficulty comprehending the original text.
+
+The goal is to remove any unnecessary complexity, technical jargon, or complicated language that might hinder comprehension. The individual's ability to paraphrase the text and present it in simpler language enables them to bridge the gap between the original content and the intended audience.
+
+In summary, this descriptor highlights the individual's skill in simplifying the main content of a text by using more accessible language. They can make information easier to understand and ensure that others can grasp the key points and ideas of the subject matter.
 
 </details>
 
@@ -211,10 +234,13 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It focuses on the individual's ability to paraphrase the main points of short and straightforward texts on familiar subjects, such as magazine articles or interviews, to make the content more accessible for others. Here's a simplified explanation:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+The individual can take a short text that presents main points or ideas on a familiar subject and rephrase them using simpler language. By doing so, they make the content easier to understand for others who may have difficulty with the original wording or terminology.
+
+The goal is to convey the key information in a clear and concise manner, removing any unnecessary complexity or language barriers that might hinder comprehension. The individual's ability to paraphrase the text and present it in simpler terms helps make the content more accessible and easier to grasp for a wider audience.
+
+In summary, this descriptor highlights the individual's skill in simplifying and rephrasing the main points of short, straightforward texts on familiar subjects. Their ability to paraphrase the content allows them to make the information more understandable and accessible for others who may not be familiar with the original text.
 
 </details>
 
@@ -251,10 +277,13 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor refers to the individual's ability to paraphrase short passages in a simple manner while maintaining the original order of the text. Here's a simplified explanation:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+The individual is able to rephrase or restate short passages of text using simpler language and structure, while keeping the original sequence and order of the information intact. This skill allows them to convey the main ideas or content of the original text in a more accessible way.
+
+By paraphrasing the text, the individual can make it easier for others to understand the information without changing the overall meaning or organization of the original passage. They have the ability to simplify complex language, rephrase sentences, and use more straightforward wording to express the same ideas.
+
+In summary, this descriptor highlights the individual's capacity to rephrase short passages of text using simpler language and maintain the original order of the information. Their skill in paraphrasing allows them to present the main ideas in a more accessible manner while staying true to the structure of the original text.
 
 </details>
 
@@ -293,10 +322,13 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor refers to the individual's ability to repeat the main point of a simple message on an everyday subject using different formulations in order to help someone else understand it. Here's a simplified explanation:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+The individual is capable of restating or rephrasing the main idea or point of a simple message on a common topic. They have the ability to express the same concept using different wording or formulations in order to assist someone else in comprehending it.
+
+By repeating the main point using various formulations, the individual can provide alternative explanations or perspectives that may resonate better with the listener. This skill allows them to adapt their language and delivery to enhance understanding and make the message clearer for others.
+
+In summary, this descriptor highlights the individual's proficiency in reiterating the primary message of a straightforward communication using different phrasings. Their ability to vary their formulations helps facilitate comprehension and assists others in grasping the intended meaning.
 
 </details>
 
@@ -314,10 +346,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -328,9 +357,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 
@@ -348,10 +375,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -362,9 +386,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

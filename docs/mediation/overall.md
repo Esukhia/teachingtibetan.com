@@ -8,10 +8,7 @@
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 
@@ -25,7 +22,7 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+...
 
 </details>
 
@@ -68,10 +65,15 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It describes the ability of an individual to initiate and guide a discussion to determine a course of action in collaboration with a partner or group. Here's a breakdown of its components:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Framing a discussion: The individual can set the context and purpose of the discussion, establishing the topic or problem to be addressed and the goal to be achieved.
+
+Reporting on what others have said: They can accurately convey the ideas, opinions, or information shared by other participants in the discussion. This involves summarizing and paraphrasing the contributions of others to ensure a clear understanding of different viewpoints.
+
+Summarising, elaborating, and weighing up multiple points of view: The individual can provide concise summaries of the main points discussed, expanding upon them if needed. They can also analyze and evaluate different perspectives or arguments presented by participants, considering their strengths and weaknesses to make an informed decision or reach a consensus.
+
+By demonstrating these skills, the individual can effectively lead and facilitate discussions, ensuring that all relevant viewpoints are considered, and ultimately contribute to the collaborative decision-making process.
 
 </details>
 
@@ -116,10 +118,19 @@ Can give brief comments on the views of others.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It highlights the individual's ability to understand and actively participate in discussions. Here's an explanation of the various components:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Following what is said: The individual can comprehend the spoken information in a conversation, although they may need occasional repetition or clarification, especially if the discussion is fast-paced or lengthy.
+
+Explaining why something is a problem: They can articulate the reasons or underlying factors that make a situation or issue problematic. This involves providing a clear and concise explanation of the challenges or difficulties involved.
+
+Discussing what to do next: The individual can engage in a conversation about potential courses of action or next steps. They can contribute their ideas, consider alternatives, and participate in the decision-making process.
+
+Comparing and contrasting alternatives: They are capable of analyzing different options, highlighting their similarities and differences. This allows them to evaluate the merits and drawbacks of each alternative.
+
+Giving brief comments on the views of others: The individual can provide concise and relevant feedback or comments on the opinions or perspectives shared by others in the discussion. This demonstrates their ability to actively engage with the ideas and viewpoints of their interlocutors.
+
+By possessing these skills, the individual can actively participate in discussions, contribute to problem-solving, and provide valuable input in evaluating and considering various options.
 
 </details>
 
@@ -161,10 +172,15 @@ Can invite others to give their views on how to proceed.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It describes the ability of an individual to actively participate in discussions, express their opinions and reactions, and facilitate the involvement of others. Here's a breakdown of the different components:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Following what is said: The individual can generally understand the spoken information in a conversation. If needed, they can repeat back part of what someone has said to confirm their understanding and ensure mutual comprehension.
+
+Making opinions and reactions understood: They are able to express their own opinions and reactions in response to possible solutions or the question of what to do next. They can provide brief reasons and explanations to support their viewpoints.
+
+Inviting others to give their views: The individual can encourage and invite others in the discussion to share their perspectives and opinions on how to proceed. This demonstrates their ability to facilitate the involvement and contribution of others in the decision-making process.
+
+By possessing these skills, the individual can actively engage in discussions, share their thoughts and reactions, and promote the participation of others. They can effectively communicate their opinions, seek mutual understanding, and encourage collaborative decision-making.
 
 </details>
 
@@ -202,10 +218,17 @@ Can discuss what to do next, making and responding to suggestions, and asking fo
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It describes the ability of an individual to understand and participate in simple and routine tasks. Here's a breakdown of the different components:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Understanding simple, routine tasks: The individual can understand enough to manage basic and familiar tasks without encountering significant difficulty. They can comprehend instructions and information related to these tasks.
+
+Asking for repetition: When faced with a lack of understanding, the individual can ask for repetition in a simple and straightforward manner. This allows them to seek clarification and ensure that they grasp the necessary information.
+
+Discussing what to do next: The individual can engage in discussions about what steps or actions to take next. They are capable of making suggestions, responding to suggestions made by others, and participating in the decision-making process.
+
+Asking for and giving directions: The individual can request directions or instructions when needed, and they can also provide directions or instructions to others. This demonstrates their ability to communicate and navigate simple directions effectively.
+
+Overall, this descriptor indicates that the individual has the language skills necessary to understand and carry out basic tasks, engage in discussions about future actions, and seek or provide guidance when needed.
 
 </details>
 
@@ -244,10 +267,15 @@ Can communicate in simple and routine tasks using simple phrases to ask for and 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It focuses on an individual's ability to indicate their understanding and engage in simple and routine tasks. Here's a breakdown of the key elements:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Indicating comprehension: The individual can express or signal that they are following the conversation or task at hand. They can demonstrate their understanding through verbal or non-verbal cues, indicating their comprehension of the information or instructions provided.
+
+Understanding what is necessary: When the interlocutor makes the effort to clarify or explain, the individual can be made to understand what is required or expected of them. They are receptive to the additional explanation or clarification provided by the interlocutor.
+
+Communication in simple and routine tasks: The individual can effectively communicate in basic and familiar situations. They can use simple phrases to ask for and provide things, such as requesting or offering objects or assistance. They can also seek and provide simple information related to the task at hand. Additionally, they are able to engage in discussions about what steps or actions should be taken next.
+
+Overall, this descriptor indicates that the individual is capable of following and indicating their understanding, participating in simple tasks, and communicating effectively in routine situations. They can ask for and provide basic information, make simple requests or offers, and engage in discussions about next steps or actions.
 
 </details>
 
@@ -284,9 +312,17 @@ Can ask people for things, and give people things.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It focuses on an individual's ability to understand and follow instructions, as well as engage in basic interactions. Here's an explanation of the key elements:
 
-1. Can communicate very basic information about personal details in a simple way.
+Understanding questions and instructions: The individual can comprehend questions and instructions when they are presented in a careful and slow manner. They have the ability to process and understand the meaning behind these questions and instructions.
+
+Following short, simple directions: The individual can successfully follow short and straightforward directions. They can understand and carry out basic instructions that may involve concepts such as times, locations, numbers, and other fundamental elements.
+
+Acting on basic instructions: The individual is capable of taking action based on basic instructions they receive. This may involve completing simple tasks or carrying out actions that are clearly communicated to them.
+
+Requesting and giving items: The individual can ask other people for things they need or want, using simple language or gestures. Additionally, they are able to provide or give things to others when requested.
+
+Overall, this descriptor indicates that the individual has a functional level of language proficiency. They can understand and respond appropriately to questions and instructions when presented in a careful manner. They are capable of following basic directions, acting on instructions, and engaging in simple interactions involving the exchange of items or requests.
 
 </details>
 
@@ -304,10 +340,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -318,9 +351,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

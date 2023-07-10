@@ -8,10 +8,7 @@
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+..
 </details>
 
 
@@ -24,9 +21,7 @@
 <details>
 
   <summary>Detailed explanation</summary>
-
-Can deal tactfully with a disruptive participant, framing any remarks diplomatically in relation to the situation and cultural perceptions.
-Can confidently take a firm but diplomatic stance over an issue of principle, while showing respect for the viewpoints of others.
+..
 
 
 </details>
@@ -73,10 +68,12 @@ Can use persuasive language to suggest that parties in disagreement shift toward
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor highlights the ability to demonstrate sensitivity to different viewpoints and effectively navigate disagreements. It includes skills such as:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Using repetition and paraphrase to show a detailed understanding of each party's requirements in order to reach an agreement.
+Formulating diplomatic requests to each side involved in a disagreement to identify their core positions and potential areas of compromise.
+Employing persuasive language to suggest a shift in the parties' positions towards a new resolution.
+These abilities allow individuals to engage in constructive dialogue, understand differing perspectives, and work towards finding common ground or negotiating a resolution.
 
 </details>
 
@@ -121,10 +118,12 @@ Can formulate a clear and accurate summary of what has been agreed and what is e
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor focuses on the ability to facilitate consensus-building and understanding among parties in a disagreement. It includes skills such as:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Eliciting possible solutions from the parties involved in order to help them reach a consensus. This involves formulating open-ended and neutral questions to minimize embarrassment or offense.</br>
+Assisting the parties in better understanding each other by restating and reframing their positions, clarifying needs and goals, and prioritizing them.</br>
+Summarizing the agreed-upon points accurately and clearly, ensuring that each party understands what is expected from them.
+These skills help to create a constructive and productive environment for resolving conflicts and reaching mutually beneficial outcomes.
 
 </details>
 
@@ -169,10 +168,12 @@ Can summarise the statements made by the two sides, highlighting areas of agreem
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor highlights the ability to facilitate dialogue and understanding between parties in a disagreement. It includes skills such as:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Identifying areas of common ground and inviting each side to highlight possible solutions through questioning.</br>
+Outlining the main points of the disagreement with reasonable precision and providing an explanation of the positions held by each party involved.</br>
+Summarizing the statements made by both sides, emphasizing areas of agreement and identifying obstacles that hinder reaching a consensus.</br>
+These skills help to foster productive discussions, identify areas of agreement, and navigate the challenges in finding a resolution.
 
 </details>
 
@@ -214,10 +215,12 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor focuses on the ability to engage parties in a disagreement by asking them to explain their perspectives. It includes skills such as:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Asking parties in a disagreement to clarify and elaborate on their point of view.</br>
+Responding briefly to their explanations, demonstrating understanding and engagement.</br>
+Being able to participate effectively in such discussions when the topic is familiar and the parties express themselves clearly.
+These skills contribute to the overall process of understanding different viewpoints, fostering constructive dialogue, and potentially finding common ground.
 
 </details>
 
@@ -257,10 +260,12 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor highlights the ability to understand the key issues in a disagreement on a familiar topic. It includes skills such as:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Demonstrating understanding of the main points and arguments presented in a disagreement.</br>
+Making simple requests for confirmation or clarification to ensure accurate comprehension of the discussion.</br>
+Engaging in a dialogue by actively participating and seeking clarification when needed.</br>
+These skills allow individuals to effectively navigate disagreements, clarify information, and contribute to the overall understanding of the topic being discussed.
 
 </details>
 
@@ -300,10 +305,12 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor highlights the ability to recognize when disagreements or difficulties arise in interactions and adapt memorized, simple phrases to seek compromise and agreement. It includes skills such as:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Recognizing signs of disagreement or difficulties during conversations or interactions.</br>
+Utilizing memorized phrases to address the disagreement and seek common ground or compromise.</br>
+Adapting language and expressions to promote understanding and reach agreement.</br>
+These skills allow individuals to navigate challenging situations, find common ground, and work towards resolving disagreements or difficulties in communication.
 
 </details>
 
@@ -338,10 +345,12 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor highlights the ability to recognize when people disagree or when someone has a problem and use memorized, simple expressions to indicate sympathy. It includes skills such as:
 
-1. Can communicate very basic information about personal details in a simple way.
-
+Recognizing signs of disagreement or when someone is facing a problem during interactions.</br>
+Using memorized expressions to show understanding and empathy, such as saying "I understand" or asking "Are you okay?"</br>
+Demonstrating sympathy and support through verbal cues and gestures.</br>
+These skills help create a supportive and understanding atmosphere in conversations, allowing individuals to acknowledge and address disagreements or problems with empathy.
 </details>
 
 <!-- panels:end -->
@@ -358,10 +367,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -372,9 +378,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

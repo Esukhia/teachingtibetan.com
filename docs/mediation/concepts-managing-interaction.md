@@ -8,10 +8,7 @@
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 
@@ -25,7 +22,7 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+...
 
 </details>
 
@@ -68,10 +65,15 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor focuses on the ability to frame a discussion and facilitate decision-making within a partner or group setting. Here's what it entails:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Framing a discussion: Individuals with this proficiency can initiate and structure a discussion to decide on a course of action. They can set the context, provide relevant information, and establish the purpose or objectives of the discussion.
+
+Reporting on what others have said: They can accurately report and summarize the ideas, opinions, or contributions made by others in the group. This may involve paraphrasing, restating, or summarizing the key points expressed by different individuals.
+
+Elaborating and weighing up multiple points of view: They can expand on the various perspectives presented in the discussion and explore their implications. They are able to provide additional information, insights, or arguments to enrich the discussion. They can also evaluate and consider the merits or drawbacks of different viewpoints, facilitating a comprehensive assessment of the options or alternatives.
+
+By framing the discussion, reporting on others' contributions, and elaborating on multiple points of view, individuals with this proficiency help the group make informed decisions and navigate through complex topics or situations.
 
 </details>
 
@@ -116,10 +118,17 @@ Can give brief comments on the views of others.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor focuses on the ability to actively follow a discussion, express opinions, and engage in problem-solving. Here's what it entails:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Following the discussion: Individuals with this proficiency can understand the main points and ideas expressed in a discussion, even if it is rapid or lengthy. While they may occasionally need to ask for repetition or clarification, they can generally keep up with the conversation and comprehend the overall context.
+
+Explaining problems and discussing solutions: They can articulate why something is a problem or challenge, providing a clear explanation or rationale. They can also engage in discussions about potential solutions or courses of action, actively participating in problem-solving activities.
+
+Comparing and contrasting alternatives: They can analyze and evaluate different options or alternatives, highlighting similarities and differences. They can discuss the pros and cons of each choice and provide reasoned arguments to support their comparisons.
+
+Giving brief comments on others' views: They can contribute to the discussion by sharing their opinions and offering concise comments or feedback on the perspectives shared by others. This may involve expressing agreement, disagreement, or providing additional insights.
+
+By actively participating in discussions, explaining problems, discussing solutions, comparing alternatives, and giving comments on others' views, individuals with this proficiency contribute to the collaborative process and help reach conclusions or make informed decisions.
 
 </details>
 
@@ -161,10 +170,15 @@ Can invite others to give their views on how to proceed.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor focuses on the ability to actively engage in a discussion, confirm understanding, express opinions, and seek input from others. Here's what it entails:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Following the conversation: Individuals with this proficiency can generally understand what is being said in a discussion. If needed, they can repeat back part of what someone has said to confirm mutual understanding. This helps ensure that everyone is on the same page and facilitates effective communication.
+
+Expressing opinions and reactions: They can share their opinions and reactions in relation to possible solutions or the question of what to do next. They can provide brief reasons and explanations to support their viewpoints, allowing others to understand their perspective.
+
+Inviting others to give their views: They can actively engage others in the discussion by inviting them to share their opinions and viewpoints on how to proceed. This inclusive approach encourages participation from others and fosters a collaborative environment.
+
+By actively following the conversation, confirming understanding, expressing opinions with brief reasons, and inviting others to contribute their views, individuals with this proficiency contribute to effective communication and promote collaborative decision-making.
 
 </details>
 
@@ -202,11 +216,15 @@ Can discuss what to do next, making and responding to suggestions, and asking fo
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor highlights the ability to understand and manage simple, routine tasks and engage in discussions about what to do next. Here's what it entails:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Understanding simple, routine tasks: Individuals with this proficiency can understand enough to handle basic, everyday tasks without significant difficulty. They may ask for repetition in a simple manner when they do not understand something, ensuring that they can fully grasp the information.
 
+Discussing what to do next: They can actively participate in discussions about the next steps or actions to take. This may involve making suggestions, responding to others' suggestions, and providing input on possible directions. By actively engaging in these discussions, they contribute to the decision-making process and help move tasks forward.
+
+Asking for and giving directions: They are able to ask for directions or guidance when needed, using simple and clear language. Additionally, they can provide directions or instructions to others, enabling effective communication and task completion.
+
+By understanding simple, routine tasks, participating in discussions about next steps, and effectively asking for and giving directions, individuals with this proficiency can navigate everyday situations and collaborate with others.
 </details>
 
 <!-- panels:end -->
@@ -244,10 +262,13 @@ Can communicate in simple and routine tasks using simple phrases to ask for and 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor focuses on the ability to indicate understanding and communicate in simple and routine tasks. Here's what it entails:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Indicating understanding: Individuals with this proficiency can effectively convey that they are following the conversation or instructions. They may use non-verbal cues, simple phrases, or gestures to indicate their comprehension. By doing so, they ensure that the interlocutor is aware of their understanding.
+
+Communicating in simple and routine tasks: They can use simple phrases to ask for and provide things, such as requesting items or assistance and offering help or information. They are also able to obtain simple information by asking straightforward questions. Additionally, they can engage in discussions about what to do next, expressing their thoughts and considering different options.
+
+By indicating their understanding and effectively communicating in simple and routine tasks, individuals with this proficiency can participate in basic interactions and carry out common tasks.
 
 </details>
 
@@ -284,9 +305,15 @@ Can ask people for things, and give people things.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor refers to the ability of an individual to indicate their understanding and engage in basic communication in simple and routine tasks. Let's break it down:
 
-1. Can communicate very basic information about personal details in a simple way.
+Indicating understanding and following along: The individual can demonstrate that they are following the conversation or instructions by using non-verbal cues or simple verbal responses. They may nod, make appropriate gestures, or provide brief acknowledgments to show their comprehension.
+
+Making an effort to understand: The descriptor highlights that if the interlocutor (the person they are communicating with) takes the time and effort to explain or clarify something, the individual can grasp the necessary information. This indicates their willingness and ability to understand the message if it is presented clearly.
+
+Communicating in simple and routine tasks: The individual can effectively engage in basic communication related to everyday situations. They can use simple phrases to ask for and provide things, such as requesting an item or offering assistance. They can also seek and obtain simple information, like asking for directions or inquiring about basic details. Additionally, they are able to discuss what needs to be done next in a straightforward manner.
+
+Overall, this descriptor emphasizes the individual's ability to indicate their understanding, communicate in simple and routine tasks, and actively participate in basic exchanges to meet their needs or navigate everyday situations.
 
 </details>
 
@@ -304,10 +331,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -318,9 +342,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

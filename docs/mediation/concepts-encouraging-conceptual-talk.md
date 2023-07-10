@@ -29,7 +29,9 @@ Can ask a series of open questions that build on different contributions in orde
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+This descriptor focuses on the ability to effectively lead the development of ideas in a discussion of complex and abstract topics. It involves giving direction by targeting questions and encouraging others to elaborate on their reasoning.
+
+At this level, individuals can ask a series of open questions that build on different contributions, stimulating logical reasoning. They engage in activities such as hypothesising, inferring, analysing, justifying, and predicting. By guiding the conversation and asking thought-provoking questions, they facilitate deeper exploration of the topic and encourage others to provide detailed explanations and reasoning.
 
 </details>
 
@@ -72,10 +74,11 @@ Can encourage members of a group to build on one another’s information and ide
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor highlights the ability to encourage members of a group to describe and elaborate on their thinking. It involves creating an environment where individuals feel comfortable sharing their ideas and providing detailed explanations.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+At this level, individuals can also encourage group members to build on one another's information and ideas to come up with a concept or solution. They foster collaboration and facilitate the development of a collective understanding by promoting active participation and the exchange of diverse perspectives.
+
+By creating a supportive and inclusive atmosphere, individuals at this level help maximize the contributions of all group members and promote effective collaboration towards achieving a common goal.
 
 </details>
 
@@ -120,10 +123,13 @@ Can ask people to explain how an idea fits with the main topic under discussion.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+ This descriptor emphasizes the ability to formulate questions and feedback that encourage people to expand on their thinking and justify or clarify their opinions. It involves using effective questioning techniques to elicit deeper explanations and promote critical thinking.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+At this level, individuals can also build on people's ideas and link them into coherent lines of thinking. They can identify connections between different contributions and help shape the discussion by highlighting the relationships and implications of various ideas.
+
+Additionally, individuals at this level can ask people to explain how an idea fits with the main topic under discussion. They facilitate coherence and relevance by seeking clarification on the alignment of ideas with the broader context or theme.
+
+By employing these strategies, individuals facilitate deeper exploration and understanding of topics, fostering more robust discussions and collaborative problem-solving.
 
 </details>
 
@@ -170,10 +176,13 @@ Can ask questions to invite people to clarify their reasoning.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+ This descriptor highlights the ability to ask people to elaborate on specific points they made in their initial explanation. It involves seeking more detailed information or examples to gain a deeper understanding of their ideas or perspectives.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+At this level, individuals can also ask appropriate questions to check understanding of concepts that have been explained. They ensure that they have comprehended the information correctly and can seek clarification if needed.
+
+Additionally, individuals can ask questions to invite people to clarify their reasoning. By probing further into their thought process, individuals encourage others to provide more in-depth justifications or explanations for their opinions or arguments.
+
+These skills help facilitate meaningful discussions, encourage critical thinking, and foster a deeper exploration of ideas. By asking targeted questions, individuals can promote clarity, enhance understanding, and engage in more productive and insightful conversations.
 
 </details>
 
@@ -210,10 +219,13 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor emphasizes the ability to ask why someone thinks something or how they think something would work. By posing these types of questions, individuals aim to gain a deeper understanding of others' perspectives, reasoning, or proposed solutions.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Asking why someone thinks something allows individuals to explore the underlying beliefs, experiences, or evidence that contribute to a particular viewpoint. It encourages individuals to articulate their thought process and provides an opportunity for a more comprehensive discussion.
+
+Similarly, asking how someone thinks something would work prompts individuals to explain the mechanisms, strategies, or steps they envision for a particular idea or solution. This line of questioning encourages critical thinking and can lead to a more detailed exploration of the feasibility and practicality of proposed concepts.
+
+By asking these types of questions, individuals promote deeper engagement, thoughtful reflection, and the exchange of diverse perspectives. It fosters a more comprehensive and nuanced understanding of the topic under discussion.
 
 </details>
 
@@ -252,10 +264,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor highlights the ability to ask what somebody thinks of a certain idea. By posing this type of question, individuals seek to gather opinions, perspectives, or evaluations from others regarding a specific concept or proposal.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Asking what somebody thinks of a certain idea invites individuals to express their thoughts, reactions, or judgments about the idea being discussed. It encourages them to provide their viewpoint, share insights, and potentially offer constructive feedback or alternative perspectives.
+
+By asking this question, individuals can gain a better understanding of others' perspectives, promote dialogue and exchange of ideas, and foster a more comprehensive exploration of the topic at hand.
 
 </details>
 
@@ -290,9 +303,13 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor highlights the ability to show interest in an idea using simple isolated words/signs and non-verbal signals. When individuals are engaged in a conversation or discussion and want to express their interest in a particular idea, they can use various means to convey their engagement and enthusiasm.
 
-1. Can communicate very basic information about personal details in a simple way.
+Using simple isolated words or signs, individuals can express their agreement, approval, or positive reaction to an idea. These words or signs can be specific expressions like "Yes," "Great," "Interesting," or using gestures such as nodding or smiling to indicate agreement or engagement.
+
+Non-verbal signals such as maintaining eye contact, leaning forward attentively, nodding, or showing facial expressions of interest can also effectively communicate one's engagement and show that they are actively interested in the idea being discussed.
+
+By employing these simple isolated words/signs and non-verbal signals, individuals can demonstrate their active involvement in the conversation, encourage the speaker, and contribute to a positive and supportive communication environment.
 
 </details>
 
@@ -310,10 +327,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -324,9 +338,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

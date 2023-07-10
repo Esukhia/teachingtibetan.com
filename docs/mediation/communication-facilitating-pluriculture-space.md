@@ -29,7 +29,12 @@ Can guide a sensitive discussion effectively, identifying nuances and undercurre
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+This descriptor emphasizes the ability to mediate effectively and naturally between members of their own and other communities, while considering sociocultural and sociolinguistic differences. It includes skills such as:
+
+Acting as a mediator between individuals or groups from different communities, facilitating communication and understanding.</br>
+Taking into account sociocultural and sociolinguistic factors, such as cultural norms, values, and language use, to bridge gaps and foster mutual understanding.</br>
+Guiding sensitive discussions by identifying nuances and undercurrents, and managing conflicts or disagreements in a constructive manner.</br>
+These skills enable individuals to navigate diverse social and cultural contexts, promoting inclusivity, understanding, and effective communication between different groups.
 
 </details>
 
@@ -70,10 +75,14 @@ Can anticipate how people might misunderstand what has been said or written and 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor highlights the ability to act as a mediator in intercultural encounters, contributing to a shared communication culture and managing potential misunderstandings. Some key points include:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Managing ambiguity: Being able to navigate situations where cultural differences may lead to ambiguity or uncertainty in communication, and taking steps to clarify and resolve such issues.</br>
+Offering advice and support: Providing guidance and support to individuals from different cultural backgrounds, helping them navigate the communication process effectively and ensuring their needs are understood.</br>
+Heading off misunderstandings: Anticipating potential misunderstandings that may arise due to cultural differences and taking proactive measures to prevent or address them before they escalate.</br>
+Interpreting cultural perspectives: Recognizing and interpreting different cultural perspectives on an issue, and providing insights that help maintain positive interaction and promote understanding among individuals from diverse cultural backgrounds.
+
+By acting as a mediator, individuals can facilitate effective communication, bridge cultural gaps, and foster a more inclusive and harmonious environment in intercultural settings.
 
 </details>
 
@@ -113,15 +122,16 @@ Can clarify misunderstandings and misinterpretations during intercultural encoun
 
 
 
-
 <details>
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor emphasizes the ability to navigate sociocultural conventions and establish consensus in unfamiliar situations, demonstrate appreciation for different perspectives in intercultural encounters, and clarify misunderstandings. Here are some key points:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Establishing consensus: Using knowledge of sociocultural conventions, individuals can help facilitate agreement and consensus among individuals from different backgrounds, even in situations that are unfamiliar to everyone involved.</br>
+Appreciating different perspectives: Demonstrating an understanding and respect for diverse worldviews and cultural perspectives, individuals can effectively express themselves in a way that is appropriate and sensitive to the context of intercultural encounters.</br>
+Clarifying misunderstandings: Recognizing when misunderstandings or misinterpretations occur in intercultural encounters, individuals can intervene to provide clarification and suggest the intended meaning, helping to resolve conflicts and move the discussion forward.</br>
+By leveraging their sociocultural knowledge and skills, individuals can bridge cultural gaps, foster mutual understanding, and create a more inclusive and harmonious environment in intercultural interactions.
 
 </details>
 
@@ -165,10 +175,12 @@ Can, when collaborating with people from other cultures, adapt the way they work
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor focuses on the ability to encourage a shared communication culture, work collaboratively with individuals from different cultural orientations, and adapt one's approach to create shared procedures. Here are some key points:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Encouraging a shared communication culture: Individuals can foster a climate of open dialogue and mutual respect by expressing understanding and appreciation of different ideas, feelings, and viewpoints. They actively invite participants to contribute and react to each other's ideas, promoting a collaborative and inclusive environment.</br>
+Collaborating with diverse cultural orientations: Individuals can effectively work with people from diverse cultural backgrounds, engaging in discussions that explore both similarities and differences in views and perspectives. This requires cultural sensitivity and the ability to navigate potential cultural barriers to collaboration.</br>
+Adapting the way of working: When collaborating with individuals from other cultures, individuals can adapt their work approach to create shared procedures that accommodate diverse cultural norms and practices. This flexibility and adaptability contribute to smoother collaboration and effective teamwork.</br>
+By encouraging inclusivity, valuing diverse perspectives, and adapting to cultural differences, individuals can facilitate productive and harmonious collaboration across cultural boundaries.
 
 </details>
 
@@ -211,10 +223,13 @@ Can act in a supportive manner in intercultural encounters, recognising the feel
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor highlights the ability to support communication across cultures by initiating conversations, demonstrating interest and empathy, and acting in a supportive manner. Here are the key points:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Initiating conversation: Individuals can take the initiative to start conversations with people from different cultural backgrounds. They engage in small talk and initiate topics of discussion that are of interest to all participants, promoting interaction and building rapport.</br>
+Showing interest and empathy: Individuals demonstrate genuine interest in others by asking and answering simple questions about their background, experiences, and perspectives. They listen actively and show empathy, acknowledging and respecting the feelings and different worldviews of other group members.</br>
+Acting in a supportive manner: Individuals provide support and encouragement in intercultural encounters. They recognize the potential challenges and barriers that individuals from different cultures may face and offer assistance or guidance when needed. They create a safe and inclusive space for open communication and foster a sense of belonging for all participants.
+
+By initiating conversations, showing interest and empathy, and acting supportively, individuals can contribute to effective communication and understanding across cultures.
 
 </details>
 
@@ -255,10 +270,13 @@ Can help develop a shared communication culture, by exchanging information in a 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor emphasizes the ability to support an intercultural exchange by using a limited repertoire to introduce people from different cultural backgrounds, asking and answering questions, and showing awareness of potential cultural differences in perceptions. Here are the key points:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Introducing people from different cultural backgrounds: Individuals can use a limited range of expressions to introduce individuals from different cultures to each other. They can provide brief background information and highlight commonalities or connections between them.</br>
+Asking and answering questions: Individuals can engage in simple question-and-answer exchanges with individuals from different cultures. They ask relevant questions to learn more about the other person's culture, experiences, values, and perspectives. They also provide responses to questions asked by others, demonstrating cultural sensitivity.</br>
+Cultural awareness in questioning: Individuals are aware that certain questions may be perceived differently in different cultures. They exercise caution and sensitivity in their questioning, avoiding topics that may be considered sensitive or offensive in the cultures concerned.</br>
+Developing a shared communication culture: Individuals contribute to the development of a shared communication culture by exchanging information in a simple and respectful manner about values, attitudes, and norms related to language and culture. They foster understanding and appreciation for different cultural backgrounds.</br>
+By introducing people from different cultures, asking and answering questions, showing cultural awareness in questioning, and facilitating exchanges about language and culture, individuals can support intercultural exchanges and contribute to the development of a shared communication culture.
 
 </details>
 
@@ -296,10 +314,13 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor highlights the ability to contribute to an intercultural exchange by using simple words/signs to ask for explanations, seek clarification, express agreement, extend invitations, and show gratitude. Here are the key points:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Asking for explanations and seeking clarification: Individuals can use simple words/signs to ask people from different cultural backgrounds to explain things that they don't understand. They can seek clarification when the message is unclear or ambiguous, ensuring better comprehension and effective communication.</br>
+Expressing agreement: Individuals can use a limited repertoire of expressions to show agreement with the ideas, opinions, or viewpoints expressed by others from different cultures. They may use simple words/signs to indicate their alignment or support.</br>
+Extending invitations: Individuals can use simple words/signs to invite people from different cultures to participate in activities, events, or discussions. They extend a friendly invitation to engage in further interaction or collaboration.</br>
+Showing gratitude: Individuals can use simple words/signs to express thanks and appreciation to individuals from different cultures for their contributions, assistance, or insights. They acknowledge and value the efforts made by others.</br>
+By using simple words/signs to ask for explanations and seek clarification, expressing agreement, extending invitations, and showing gratitude, individuals can actively contribute to intercultural exchanges and foster effective communication and mutual understanding.
 
 </details>
 
@@ -332,9 +353,12 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This descriptor emphasizes the ability to facilitate an intercultural exchange by displaying a welcoming attitude, expressing interest, and using simple words/signs and non-verbal signals. Here are the key points:
 
-1. Can communicate very basic information about personal details in a simple way.
+Welcoming attitude and interest: Individuals can demonstrate a warm and inclusive approach towards others from different cultural backgrounds. They show genuine interest in engaging with them and creating a positive and open environment for communication and interaction.</br>
+Inviting others to contribute: Individuals actively encourage the participation of others in the intercultural exchange. They create opportunities for others to share their perspectives, ideas, and experiences, fostering a collaborative and inclusive environment.</br>
+Indicating understanding: When addressed directly, individuals use simple words/signs and non-verbal signals to convey their understanding. They may nod, smile, or provide verbal or non-verbal feedback to indicate comprehension and encourage further communication.</br>
+By showing a welcoming attitude and interest, inviting others to contribute, and indicating understanding, individuals can effectively facilitate an intercultural exchange, promoting meaningful dialogue, and building connections with people from different cultural backgrounds.
 
 </details>
 
@@ -352,10 +376,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -366,9 +387,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 
