@@ -10,10 +10,7 @@
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 
@@ -28,7 +25,7 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+...
 
 </details>
 
@@ -68,10 +65,11 @@ Can give instructions on carrying out a series of complex professional or academ
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person can communicate clear and detailed distinctions between ideas, concepts, and things that closely resemble one another. They have the ability to articulate subtle differences and effectively convey precise information.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Moreover, they can provide instructions on carrying out a series of complex professional or academic procedures. They possess the skills to explain step-by-step processes in a clear and understandable manner, ensuring that the instructions are accurately conveyed.
+
+In summary, this proficiency enables the person to effectively communicate detailed distinctions between ideas, concepts, and similar things. They can also provide instructions for complex professional or academic procedures, offering clear and comprehensive guidance.
 
 </details>
 
@@ -110,10 +108,9 @@ occupational role.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person can effectively communicate complex information and provide advice on a wide range of matters related to their occupational role. They have the ability to convey detailed and comprehensive information, offering insights, guidance, and recommendations within their professional domain.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this proficiency enables the person to effectively communicate complex information and provide comprehensive advice on various topics relevant to their occupational role. They possess the knowledge and expertise to convey detailed insights and recommendations within their professional domain.
 
 </details>
 
@@ -153,10 +150,11 @@ Can give a clear, detailed description of how to carry out a procedure.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person can reliably communicate detailed information. They have the ability to effectively convey information accurately and dependably.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Moreover, they can give a clear and detailed description of how to carry out a procedure. They possess the skills to explain step-by-step instructions in a coherent and comprehensible manner, ensuring that the procedure is clearly understood.
+
+In summary, this proficiency enables the person to communicate detailed information reliably. They can provide clear and detailed instructions on how to carry out procedures, ensuring clarity and understanding in their explanations.
 
 </details>
 
@@ -196,10 +194,11 @@ Can describe how to do something, giving detailed instructions.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person can explain the main points in an idea or problem with reasonable precision. They have the ability to convey the key concepts and main aspects of an idea or problem in a clear and understandable manner.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Moreover, they can describe how to do something and provide detailed instructions. They possess the skills to explain step-by-step processes or procedures, offering comprehensive guidance and ensuring that the instructions are clearly communicated.
+
+In summary, this proficiency enables the person to effectively explain the main points of an idea or problem with reasonable precision. They can also provide detailed instructions on how to do something, offering clear and comprehensive guidance.
 
 </details>
 
@@ -233,10 +232,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person can report straightforward factual information on a familiar topic. They have the ability to convey clear and concise information, such as indicating the nature of a problem or providing detailed directions. This proficiency is enhanced when they have the opportunity to prepare beforehand, allowing them to deliver the information effectively.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this proficiency enables the person to report straightforward factual information on familiar topics. They can provide clear and concise descriptions of problems or give detailed directions, especially when given the chance to prepare in advance.
 
 </details>
 
@@ -272,10 +270,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person can give simple directions on how to get from one location (X) to another (Y). They are able to use basic expressions such as "turn right" and "go straight," along with sequential connectors like "first," "then," and "next." This proficiency allows them to provide clear and straightforward instructions for navigating from one place to another.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this proficiency enables the person to give simple directions, using basic expressions and sequential connectors, to guide someone from one location to another. They can effectively communicate the necessary steps to follow, ensuring clarity and ease of navigation.
 
 </details>
 
@@ -310,9 +307,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person can name an object and indicate its shape and color while showing it to others. They are capable of using basic words, signs, phrases, and formulaic expressions to describe the object's characteristics. This proficiency allows them to effectively communicate the shape and color of an object, especially when they have the opportunity to prepare in advance.
 
-1. Can communicate very basic information about personal details in a simple way.
+In summary, this proficiency enables the person to name an object, indicate its shape and color, and describe it using basic words, signs, phrases, and formulaic expressions. They can convey the visual attributes of an object to others, ensuring clarity and understanding.
 
 </details>
 
@@ -330,10 +327,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -344,9 +338,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

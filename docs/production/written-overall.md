@@ -30,7 +30,7 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+It means the person can create complex texts that are clear, smoothly flowing, and effectively written in an appropriate style. They demonstrate the ability to establish a logical structure within their writing that aids the reader in identifying significant points. Their writing is coherent, allowing for a seamless flow of ideas, and they skillfully organize their content to enhance understanding and highlight important information.
 
 </details>
 
@@ -70,10 +70,10 @@ Can employ the structure and conventions of a variety of genres, varying the ton
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can create clear and well-structured texts on complex subjects. They are capable of highlighting the relevant and important issues, elaborating on different viewpoints with supporting arguments, subsidiary points, and relevant examples. They can effectively conclude their texts in an appropriate manner.
+
+Furthermore, they possess the ability to employ the structure and conventions of various genres, adjusting the tone, style, and register based on the intended audience, text type, and theme. This versatility allows them to adapt their writing to different contexts and effectively communicate their ideas.
 
 </details>
 
@@ -112,10 +112,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can generate clear and detailed texts on a wide range of subjects within their field of interest. They have the ability to gather information from multiple sources and skillfully synthesize and evaluate that information and different arguments. 
+
+They can present a comprehensive view by combining and analyzing various perspectives and sources. This skill allows them to produce well-informed and thorough texts that demonstrate their understanding and critical thinking in their area of expertise.
 
 </details>
 
@@ -154,10 +154,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can create coherent and connected texts on familiar subjects within their field of interest. They achieve this by linking together a series of shorter and discrete elements in a linear sequence. Their writing maintains a clear and logical flow, allowing the reader to follow the progression of ideas smoothly. While the texts may be straightforward, they effectively communicate the intended information and maintain coherence throughout.
 
 </details>
 
@@ -191,10 +189,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can generate a series of simple phrases and sentences, connecting them using basic connectors such as "and," "but," and "because." They are able to express ideas in a straightforward manner by using these simple connectors to link their thoughts together. This allows for clear and concise communication, enabling them to convey their message effectively.
 
 </details>
 
@@ -229,9 +224,7 @@ Can produce simple isolated phrases and sentences.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+It means the person can provide information about personal matters that are relevant to them, such as their likes and dislikes, family, or pets. They can do this using simple words, signs, and basic expressions. They are capable of generating simple isolated phrases and sentences to communicate their thoughts or share basic information. Although their language usage may be limited, they are still able to effectively convey personal details and express themselves in a straightforward manner.
 
 </details>
 
@@ -263,9 +256,8 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
 
-1. Can communicate very basic information about personal details in a simple way.
+It means the person can provide basic personal information, such as their name, address, and nationality. They may rely on the assistance of a dictionary or other resources to support their language proficiency. Despite the potential need for additional help, they can still effectively convey essential personal details when communicating with others.
 
 </details>
 

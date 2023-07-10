@@ -29,7 +29,7 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+It means the person has the ability to give clear, smoothly flowing, elaborate, and often memorable descriptions. They possess the skills to express their thoughts and ideas in a coherent and engaging manner, captivating the audience with vivid and detailed descriptions.
 
 </details>
 
@@ -70,10 +70,7 @@ rounding them off with an appropriate conclusion.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can give clear and detailed descriptions of complex subjects. They have the ability to provide elaborate descriptions and narratives, integrating sub-themes, developing specific points, and concluding them appropriately. This proficiency allows them to effectively communicate complex information in a comprehensive and engaging manner, ensuring that the audience gains a thorough understanding of the subject matter.
 
 </details>
 
@@ -116,10 +113,7 @@ Can describe the personal significance of events and experiences in detail.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can give clear and detailed descriptions on a wide range of subjects related to their field of interest. They have the ability to effectively communicate in-depth information and insights within their area of expertise. Additionally, they can describe the personal significance of events and experiences in detail, providing a rich and nuanced account that conveys the personal impact and relevance of those moments.
 
 </details>
 
@@ -159,10 +153,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can clearly express their feelings about something they have experienced. They have the ability to articulate their emotions and provide reasons to explain those feelings. This proficiency allows them to effectively convey their personal sentiments and rationalize the underlying motivations behind their emotions.
 
 </details>
 
@@ -213,10 +204,13 @@ Can narrate a story.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person can give straightforward descriptions on a variety of familiar subjects within their field of interest. They are able to convey information in a clear and concise manner. Additionally, they can reasonably fluently relate a straightforward narrative or description as a sequence of points.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Moreover, they have the ability to provide detailed accounts of experiences, including describing feelings and reactions. They can also relate the details of unpredictable occurrences, such as accidents. Furthermore, they can effectively relate the plot of a book or film and describe their reactions.
+
+In addition, they can describe dreams, hopes, and ambitions, as well as describe events, real or imagined. They are capable of narrating stories, presenting events or situations in a structured and engaging manner.
+
+In summary, this proficiency enables the person to provide straightforward descriptions on various familiar subjects within their field of interest. They can fluently relate narratives or descriptions, share detailed accounts of experiences, describe feelings and reactions, relate unpredictable occurrences, describe plots, express dreams and ambitions, describe events, and narrate stories effectively.
 
 </details>
 
@@ -262,10 +256,13 @@ Can explain what they like or dislike about something.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person can tell a story or describe something using a simple list of points. They can effectively convey information in a concise and organized manner. Additionally, they can describe everyday aspects of their environment, such as people, places, a job, or study experience.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Moreover, they have the ability to give short, basic descriptions of events and activities. They can describe plans and arrangements, habits and routines, past activities, and personal experiences. Furthermore, they can use simple descriptive language to make brief statements about and compare objects and possessions.
+
+In addition, they can explain what they like or dislike about something, expressing their preferences and opinions. They have the capability to convey their feelings and provide simple explanations for their preferences.
+
+In summary, this proficiency enables the person to effectively tell stories or describe things using a simple list of points. They can describe everyday aspects of their environment, give short descriptions of events and activities, describe plans and arrangements, use simple descriptive language for objects and possessions, and explain their likes and dislikes.
 
 </details>
 
@@ -304,10 +301,11 @@ Can briefly describe what they plan to do at the weekend or during the holidays.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person can describe various aspects of their life, including their family, living conditions, educational background, and their present or most recent job. They have the ability to provide simple descriptions of people, places, and possessions.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Moreover, they can express their skills and abilities, as well as areas where they may have limitations, such as in sports, games, skills, or academic subjects. Additionally, they can briefly describe their plans for the weekend or during holidays, providing a concise overview of their intended activities.
+
+In summary, this proficiency enables the person to effectively describe their family, living conditions, educational background, and job. They can also provide simple descriptions of people, places, and possessions. Furthermore, they can express their strengths and weaknesses in various areas and provide brief descriptions of their plans for the weekend or holidays.
 
 </details>
 
@@ -344,9 +342,9 @@ and basic phrases, provided they can prepare in advance.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person can describe themselves, including their identity, occupation, and place of residence. They have the ability to provide descriptions of simple aspects of their everyday life using a series of simple sentences. They are capable of using simple words, signs, and basic phrases to convey information, especially when they have the opportunity to prepare in advance.
 
-1. Can communicate very basic information about personal details in a simple way.
+In summary, this proficiency enables the person to effectively describe themselves, their activities, and their living situation. They can provide simple descriptions of their everyday life using basic language, especially when given the chance to prepare beforehand.
 
 </details>
 
@@ -383,9 +381,11 @@ language.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person can describe themselves, including their name, age, and family, using simple words, signs, and formulaic expressions. They are capable of expressing basic personal information, especially when given the opportunity to prepare in advance.
 
-1. Can communicate very basic information about personal details in a simple way.
+Moreover, they can express how they are feeling using simple adjectives like "happy" or "tired," accompanied by appropriate body language. They have the ability to communicate their emotions using simple language and nonverbal cues.
+
+In summary, this proficiency enables the person to effectively describe themselves, their personal information, and express their feelings using simple words, signs, and formulaic expressions. They can convey basic information about themselves and their emotions, supported by appropriate body language.
 
 </details>
 

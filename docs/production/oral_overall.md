@@ -28,7 +28,11 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+It means the person can produce clear, smoothly flowing, and well-structured discourse. They have the ability to convey information in a cohesive and organized manner, ensuring that the recipient can follow the logical structure of the message.
+
+Moreover, their discourse effectively highlights and emphasizes significant points, helping the recipient to notice and remember the key information. They have the skill to present information in a manner that is easily comprehensible and memorable.
+
+In summary, this proficiency enables the person to generate clear, smoothly flowing, and well-structured discourse. They can effectively communicate information with a logical structure that aids the recipient in identifying and retaining the essential points of the message.
 
 </details>
 
@@ -66,10 +70,9 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person can give clear and detailed descriptions and presentations on complex subjects. They have the ability to integrate sub-themes, develop specific points, and provide comprehensive information. Additionally, they can effectively conclude their descriptions or presentations, summarizing the main points and bringing the discussion to a suitable close.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this proficiency enables the person to deliver clear and detailed descriptions and presentations on complex subjects. They can structure their discourse effectively, incorporating sub-themes and developing key points, ultimately concluding with a concise and appropriate summary.
 
 </details>
 
@@ -109,10 +112,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person can give clear and systematically developed descriptions and presentations. They have the ability to effectively structure their discourse, ensuring that it is logically organized and easy to follow. Moreover, they are skilled at highlighting significant points and providing relevant supporting details, enhancing the clarity and impact of their descriptions and presentations.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this proficiency enables the person to deliver clear and systematically developed descriptions and presentations. They can effectively structure their discourse, emphasize key points, and provide supporting details that enhance the overall understanding and impact of their communication.
 
 </details>
 
@@ -150,10 +152,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person can give clear and detailed descriptions and presentations on a wide range of subjects related to their field of interest. They have the ability to expand upon and support their ideas with subsidiary points and relevant examples. This proficiency allows them to provide comprehensive and insightful discussions, ensuring that their audience gains a thorough understanding of the topics at hand.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this proficiency enables the person to deliver clear and detailed descriptions and presentations on various subjects within their field of interest. They can effectively develop their ideas, supplementing them with relevant supporting points and examples to provide a comprehensive and engaging communication.
 
 </details>
 
@@ -189,10 +190,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can effectively and smoothly provide a clear description of a subject they are interested in within their field. They can present their thoughts as a logical sequence of points, allowing for a coherent and organized presentation.
 
 </details>
 
@@ -226,10 +225,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can give a basic description or presentation of various topics such as people, living or working conditions, daily routines, likes, dislikes, and more. They can express their ideas using simple phrases and sentences that are connected together like a list.
 
 </details>
 
@@ -263,9 +259,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+It means the person can generate simple phrases that primarily focus on people and places. These phrases may not be extensively connected to each other or form complex sentences, but they allow for basic communication and convey information about individuals and locations.
 
 </details>
 
@@ -297,9 +291,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+It means the person can create brief phrases about themselves, providing fundamental personal details such as their name, address, family, and nationality. These phrases allow them to share basic information about themselves in a concise manner.
 
 </details>
 

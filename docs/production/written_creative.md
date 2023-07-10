@@ -31,7 +31,7 @@ Can exploit idiom and humour appropriately to enhance the impact of the text.
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+It means the person can narrate stories and describe experiences in a manner that is clear, coherent, and captivating. They can adapt their style of writing or speaking to suit the genre or format they choose. Additionally, they have the ability to effectively utilize idioms and humor in a way that enhances the impact of their text. This skill allows them to engage the audience and make their stories or descriptions more engaging and memorable.
 
 </details>
 
@@ -74,10 +74,8 @@ Can give a detailed critical review of cultural events (e.g. plays, films, conce
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can create clear, detailed, and well-structured descriptions and imaginative texts in a confident and natural style that is suitable for the intended reader. They have the ability to incorporate idioms and, when appropriate, humor to add depth and flair to their writing. Additionally, they can provide in-depth and critical reviews of cultural events such as plays, films, concerts, or literary works. This skill allows them to offer detailed assessments and evaluations of artistic or literary creations with a discerning eye.
 
 </details>
 
@@ -116,10 +114,7 @@ between ideas in clear connected text, and following established conventions of 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can provide clear and detailed descriptions of both real and imaginary events and experiences. They can effectively convey the connections and relationships between ideas in a coherent and connected manner, following the established conventions of the specific genre they are working with. Their writing or speaking style demonstrates the ability to present ideas in a well-organized and structured manner, ensuring clarity and comprehension for the reader or listener.
 
 </details>
 
@@ -158,10 +153,8 @@ Can give a review of a film, book or play.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can provide clear and detailed descriptions on a variety of subjects that are relevant to their field of interest. They have the ability to convey comprehensive information and insights in their descriptions. Additionally, they can offer a review of a film, book, or play, providing their assessment and evaluation of the work, including aspects such as plot, characters, themes, and overall quality. This skill allows them to effectively analyze and critique artistic or literary works within their area of interest.
 
 </details>
 
@@ -201,11 +194,7 @@ Can give a simple review of a film, book or TV programme using a limited range o
 <details>
 
   <summary>Detailed explanation</summary>
-
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can effectively indicate the chronological sequence in a narrative text, making it clear and easy to follow the timeline of events. They can provide a basic review of a film, book, or TV program using a limited range of language. Despite the limited vocabulary or expressions available to them, they can still share their thoughts and opinions about the work, albeit in a simpler manner.
 
 </details>
 
@@ -247,10 +236,7 @@ Can narrate a story.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can provide straightforward and detailed descriptions on various familiar subjects related to their field of interest. They can share accounts of personal experiences, describing their feelings and reactions in a simple and connected manner. They can give descriptions of events, whether real or imagined, and provide narratives of stories. This demonstrates their ability to effectively communicate detailed information, express emotions, and engage the listener or reader through descriptive and narrative writing.
 
 </details>
 
@@ -292,10 +278,7 @@ Can tell a simple story (e.g. about events on a holiday or about life in the dis
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can describe everyday aspects of their environment, such as people, places, or their job or study experience, using connected sentences. They are capable of providing very short and basic descriptions of past events, activities, and personal experiences. Furthermore, they can tell a simple story, whether it's about events during a holiday or envisioning life in the distant future. This showcases their ability to communicate using concise yet meaningful language to convey information and engage the listener or reader.
 
 </details>
 
@@ -337,10 +320,11 @@ references (e.g. tables of verb tenses in a course book).
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person can generate a series of simple phrases and sentences related to their family, living conditions, educational background, or current/most recent job. They are able to create short and simple imaginary biographies and poems about people. 
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+They can also write diary entries that describe activities, people, and places using basic and concrete vocabulary, as well as simple phrases and sentences with connectives like "and," "but," and "because." Additionally, they can compose an introduction to a story or continue a story, with the assistance of a dictionary and reference materials such as verb tense tables in a course book. 
+
+This demonstrates their ability to use basic language skills to express personal information, engage in creative writing, and communicate daily activities and experiences effectively.
 
 </details>
 
@@ -380,9 +364,12 @@ whether it is big or small).
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
 
-1. Can communicate very basic information about personal details in a simple way.
+It means the person can create simple phrases and sentences to talk about themselves and imaginary individuals, including aspects such as their residence and activities. 
+
+They can describe the appearance of a room using very basic language. Additionally, they are capable of using simple words, signs, and phrases to describe everyday objects, such as the color of a car or whether it is big or small.
+
+This showcases their ability to communicate basic information about themselves, their surroundings, and objects in a straightforward manner.
 
 </details>
 
@@ -400,10 +387,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -414,9 +398,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

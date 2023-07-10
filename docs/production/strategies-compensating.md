@@ -26,7 +26,8 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+
+It means the person can smoothly replace a word or sign they can't recall with an equivalent term. They do this so seamlessly that it is hardly noticeable to the listener.
 
 </details>
 
@@ -61,10 +62,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can creatively utilize their vocabulary options to employ circumlocution effectively in nearly all situations. Circumlocution refers to the ability to express oneself when encountering a word or concept that is not readily recalled by using alternative words or descriptions. They can do this readily and successfully, allowing them to communicate effectively even when specific terms may not be immediately accessible.
 
 </details>
 
@@ -101,10 +99,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can employ circumlocution and paraphrasing techniques to compensate for gaps in their vocabulary and sentence structure. When encountering a word or structure they are not familiar with, they can find alternative ways to express the same idea using different words or phrases. This enables them to communicate effectively despite any limitations in their vocabulary or grammatical knowledge.
 
 </details>
 
@@ -142,10 +138,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can effectively overcome most communication problems by utilizing circumlocution or by avoiding complex expressions. When encountering difficulties in conveying a particular idea or using specific words or phrases, they can find alternative ways to express themselves or opt for simpler language. This ability allows them to navigate and resolve communication challenges successfully.
 
 </details>
 
@@ -186,10 +179,7 @@ Can convey meaning by qualifying a word/sign meaning something similar (e.g. a t
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can describe the characteristics or features of a concrete object or concept when they cannot recall the specific word or sign for it. They can convey the intended meaning by providing qualifiers or descriptions that relate to something similar. For example, if they can't remember the word or sign for "bus," they may describe it as a "truck for people." This skill enables them to effectively communicate and compensate for any gaps in their vocabulary.
 
 </details>
 
@@ -225,11 +215,7 @@ Can “foreignise” word/signs in their first language and ask for confirmation
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
-
+It means the person can use a simple word or sign that represents a similar concept to what they want to convey, and then invite others to correct or clarify if needed. They can also use words or signs from their first language and ask for confirmation or verification. This strategy helps them communicate effectively by using approximate terms and seeking feedback to ensure accurate understanding.
 </details>
 
 <!-- panels:end -->
@@ -263,10 +249,8 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can use a word or sign from their limited repertoire that may not fully convey their intended meaning. However, they can supplement it with gestures or non-verbal cues to provide additional clarification and help the listener understand their intended message. This combination of verbal and non-verbal communication allows them to compensate for any inadequacy in their vocabulary or signs and enhance understanding.
 
 </details>
 
@@ -298,10 +282,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can indicate or identify what they mean by using gestures or pointing to the object or item they are referring to. For example, they can say "I'd like this, please" while pointing at the specific item they desire. This method of non-verbal communication helps them convey their intentions and preferences effectively, even when they may have difficulty finding the exact words or signs.
 
 </details>
 
@@ -336,9 +317,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+It means the person can utilize gestures to enhance the meaning of simple words or signs when expressing a need. They can combine verbal or signed expressions with appropriate hand gestures or body movements to reinforce their message and effectively convey their requirements. These gestures serve as additional support to aid in clear communication of their needs.
 
 </details>
 
@@ -371,9 +350,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+It means the person can use pointing as a way to indicate an object and ask for its identification. They can direct attention to something specific and inquire about its name or description by simply pointing to it. This allows them to seek clarification and expand their vocabulary by learning the names or terms associated with various objects or concepts.
 
 </details>
 

@@ -31,7 +31,11 @@ Can set out multiple perspectives on complex academic or professional topics, cl
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+It means the person can create clear and smoothly flowing reports, articles, or essays that delve into complex subjects. They can present a well-supported case or provide critical analysis and appreciation of proposals or literary works. 
+
+Their writing exhibits an appropriate and effective logical structure, allowing the reader to easily identify significant points. They are also capable of presenting multiple perspectives on intricate academic or professional topics, clearly distinguishing their own ideas and opinions from those found in the sources they reference. 
+
+This demonstrates their ability to engage with complex subject matter, employ critical thinking, and communicate their thoughts effectively in a professional or academic context.
 
 </details>
 
@@ -74,10 +78,11 @@ Can produce a suitable introduction and conclusion to a longer report, article o
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person can create clear and well-structured expositions of complex subjects, emphasizing the relevant and significant issues. They have the ability to elaborate on their viewpoints by providing supporting points, reasons, and relevant examples in a detailed manner. 
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Furthermore, they can produce a fitting introduction and conclusion for longer reports, articles, or dissertations on complex academic or professional topics, given that the topic is within their field of interest and they have the opportunity for redrafting and revision. 
+
+This showcases their proficiency in effectively presenting and organizing information, as well as their capacity to engage with complex subject matter and produce comprehensive written pieces.
 
 </details>
 
@@ -121,10 +126,11 @@ Can evaluate different ideas or solutions to a problem.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person can create an essay or report that systematically develops an argument, effectively highlighting significant points and providing relevant supporting details. 
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+They are capable of presenting a well-structured and coherent argument, considering various perspectives and offering supporting evidence. Additionally, they can produce a detailed description of a complex process, effectively breaking it down and explaining its intricacies. 
+
+Furthermore, they can evaluate different ideas or solutions to a problem, assessing their strengths, weaknesses, and potential outcomes. This demonstrates their ability to engage critically, analyze complex topics, and present well-reasoned arguments or evaluations.
 
 </details>
 
@@ -164,10 +170,9 @@ Can synthesise information and arguments from a number of sources.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can create an essay or report that effectively develops an argument, providing reasons to support or counter a particular point of view. </br>
+They can explain the advantages and disadvantages of different options related to the topic at hand. Additionally, they possess the ability to synthesize information and arguments from multiple sources, effectively integrating and presenting a cohesive perspective. </br>
+This skill allows them to analyze various viewpoints, draw meaningful connections, and present a well-rounded and informed argument or report.
 
 </details>
 
@@ -210,10 +215,9 @@ Can summarise, report and give their opinion about accumulated factual informati
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can create short and straightforward essays on topics that interest them. They are capable of producing a text on a subject of personal interest, utilizing simple language to list advantages and disadvantages, and provide and justify their opinion. </br>
+Additionally, they can summarize, report, and express their opinion about factual information related to familiar routine and non-routine matters within their field of expertise with a certain level of confidence. This showcases their ability to communicate effectively, express opinions, and summarize information in a concise manner.
 
 </details>
 
@@ -252,10 +256,7 @@ Can present a topic in a short report or poster, using photographs and short blo
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can create very brief reports following a standard, conventional format. These reports primarily convey routine factual information and provide reasons for actions taken. They can effectively present a topic using a short report or a poster format, incorporating photographs and concise blocks of text to support the presentation. This skill allows them to convey information efficiently and effectively in a visually appealing manner.
 
 </details>
 
@@ -292,10 +293,10 @@ Can give their impressions and opinions about topics of personal interest (e.g. 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person can create simple texts on familiar subjects that interest them. They can connect sentences using basic connectors such as "and," "because," or "then." </br>
+They are also capable of expressing their impressions and opinions about topics of personal interest, such as lifestyles, culture, or stories, using basic everyday vocabulary and expressions. </br>
+This enables them to communicate their thoughts and share personal viewpoints using simple language and commonly used phrases.
 
 </details>
 
@@ -313,10 +314,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -328,9 +326,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 
@@ -348,10 +344,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -361,10 +354,7 @@ Let me break it down into simpler parts:
 <details>
 
   <summary>Detailed explanation</summary>
-
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 
