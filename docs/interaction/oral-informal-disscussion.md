@@ -26,7 +26,9 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+This means that the person is able to offer advice or participate in discussions regarding sensitive topics without feeling awkward or uncomfortable. They have an understanding of colloquial references, allowing them to grasp informal or cultural allusions. Additionally, they can navigate disagreements and criticism with tact and diplomacy.
+
+To simplify, this descriptor describes someone who can confidently provide advice or engage in discussions on sensitive issues without feeling awkward. They possess the ability to comprehend colloquial references and address disagreements and criticism in a diplomatic manner.
 
 </details>
 
@@ -64,10 +66,9 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person can easily follow and actively contribute to complex interactions that occur between other individuals in a group discussion. These interactions can involve abstract, complex, or unfamiliar topics. They have the ability to understand the dynamics of the conversation and actively engage with the ideas being discussed.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor describes someone who can effortlessly comprehend and actively participate in complex interactions that take place between other participants in a group discussion. They can follow and contribute to conversations on abstract, complex, or unfamiliar topics without difficulty.
 
 </details>
 
@@ -107,10 +108,13 @@ Can express their ideas and opinions with precision, and present and respond to 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can keep up with an animated discussion between proficient users of the target language:</br> This means the person can actively follow and understand a lively and dynamic discussion among individuals who are highly skilled in the target language. They are able to keep pace with the flow of the conversation, even when it becomes animated or intense.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can express ideas and opinions with precision:</br> They have the ability to articulate their thoughts and opinions with accuracy and clarity. They can effectively convey their ideas in a precise and concise manner.
+
+Can present and respond to complex lines of argument convincingly:</br> They are capable of presenting complex lines of argument in a compelling and convincing manner. They can construct logical and well-reasoned arguments. Furthermore, they can respond to others' arguments with equally sophisticated reasoning and persuasive responses.
+
+To simplify, this descriptor describes someone who can actively engage in and understand a lively discussion among proficient speakers of the target language. They can express their ideas and opinions with precision and clarity. Moreover, they can present complex lines of argument convincingly and respond effectively to the arguments put forth by others.
 
 </details>
 
@@ -153,10 +157,13 @@ Can account for and sustain their opinions in discussion by providing relevant e
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can actively participate in informal discussions in familiar contexts:</br> This means the person can engage actively in informal discussions within familiar settings. They can comment, express their point of view clearly, evaluate alternative proposals, and generate and respond to hypotheses.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can understand much of what is said around them in discussion with some effort:</br> They have the ability to comprehend a significant portion of the discussion happening around them, although it may require some effort on their part. However, they may find it challenging to effectively participate in discussions with multiple users of the target language who do not modify their language in any way.
+
+Can provide relevant explanations, arguments, and comments to account for and sustain their opinions:</br> They are capable of supporting their opinions in discussions by providing relevant explanations, arguments, and comments. They can justify their viewpoints and actively contribute to the conversation.
+
+To simplify, this descriptor describes someone who can actively participate in informal discussions within familiar contexts. They can express their opinions, evaluate alternatives, and generate hypotheses. They can understand a significant portion of the discussion happening around them, although it may require some effort. However, they may struggle to effectively participate in discussions with multiple users of the target language who do not modify their language. They can support their opinions by providing relevant explanations, arguments, and comments.
 
 </details>
 
@@ -205,10 +212,17 @@ Can compare and contrast alternatives, discussing what to do, where to go, who o
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can understand much of what is said on general topics, provided idiomatic usage is avoided and the speakers articulate clearly:</br> This means the person can comprehend a significant portion of conversations or discussions on general topics. They are able to understand the content as long as the speakers avoid highly idiomatic language and articulate their ideas clearly.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can express their thoughts about abstract or cultural topics such as music or films:</br> They have the ability to articulate their thoughts and opinions on abstract or cultural subjects, such as music or films. They can effectively convey their ideas on these topics.
+
+Can explain why something is a problem:</br> They can provide explanations for why something is considered a problem. They can elaborate on the issues and provide reasons or justifications.
+
+Can give brief comments on the views of others:</br> They are capable of offering concise comments or remarks on the opinions expressed by others during a conversation or discussion.
+
+Can compare and contrast alternatives and discuss various choices or options:</br> They have the ability to compare and contrast different alternatives or options. They can engage in discussions about what to do, where to go, who or what to choose, and similar topics that involve making choices or decisions.
+
+To simplify, this descriptor describes someone who can understand a significant portion of conversations on general topics, as long as idiomatic language is avoided and the speakers articulate clearly. They can express their thoughts on abstract or cultural subjects, explain problems, provide brief comments on others' views, and engage in discussions involving comparisons and choices.
 
 </details>
 
@@ -252,10 +266,15 @@ Can express beliefs, opinions and agreement and disagreement politely.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can generally follow the main points in an informal discussion with friends, given clear articulation in standard language or a familiar variety:</br> This means the person can understand the key ideas and main points discussed in informal conversations with friends. They can comprehend the conversation when it is presented clearly in standard language or a familiar dialect.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can give or seek personal views and opinions on topics of interest:</br> They have the ability to express their own views and opinions on subjects that interest them. They can actively participate in discussions by sharing their perspectives. Additionally, they can inquire about the views and opinions of others.
+
+Can make their opinions and reactions understood regarding solutions to problems or practical questions:</br> They can effectively communicate their opinions and reactions when discussing solutions to problems or practical matters, such as deciding where to go, what to do, or how to organize an event (e.g., an outing).
+
+Can express beliefs, opinions, agreement, and disagreement politely:</br> They have the skill to express their beliefs, opinions, and agreement or disagreement with others in a polite and respectful manner. They can engage in conversations without causing offense or disrespect.
+
+To simplify, this descriptor describes someone who can generally understand the main points in informal discussions with friends, especially when the conversation is presented clearly in standard language or a familiar dialect. They can actively share their personal views and opinions, as well as seek the perspectives of others. They can effectively communicate their opinions and reactions when discussing solutions to problems or practical questions. Moreover, they can express their beliefs, opinions, agreement, and disagreement politely and respectfully.
 
 </details>
 
@@ -299,10 +318,17 @@ Can agree and disagree with others.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can generally identify the topic of discussion when it is conducted slowly and clearly:</br> This means the person can generally understand the subject or topic being discussed when it is presented at a slow pace and with clear articulation.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can exchange opinions and compare things and people using simple language:</br> They have the ability to express their opinions, as well as compare and contrast different things or people, using simple and straightforward language.
+
+Can discuss plans for the evening or weekend:</br> They can engage in discussions about what activities or plans to pursue during the evening or weekend.
+
+Can make and respond to suggestions:</br> They can offer their own suggestions or ideas, as well as respond to suggestions made by others.
+
+Can express agreement and disagreement with others:</br> They have the capability to convey their agreement or disagreement with the opinions or viewpoints of others.
+
+To simplify, this descriptor describes someone who can generally grasp the topic of discussion when it is presented slowly and clearly. They can exchange opinions, compare things or people, and discuss plans for the evening or weekend. They can make and respond to suggestions, as well as express agreement or disagreement with others.
 
 </details>
 
@@ -342,10 +368,13 @@ Can express opinions in a limited way.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can discuss everyday practical issues in a simple way when addressed clearly, slowly, and directly:</br> This means the person is capable of engaging in conversations about everyday practical matters. They can participate in discussions when the communication is clear, slow-paced, and direct.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can discuss what to do, where to go, and make arrangements to meet:</br> They have the ability to engage in discussions about deciding what actions to take, determining places to visit, and making plans to meet up with others.
+
+Can express opinions in a limited way: They can share their opinions, although it may be limited in terms of vocabulary or depth of expression.
+
+To simplify, this descriptor describes someone who can discuss everyday practical issues in a simple manner when the communication is clear, slow, and direct. They can engage in conversations about deciding on activities, determining locations, and making arrangements to meet with others. Although their expression of opinions may be limited, they can still convey their thoughts on a basic level.
 
 </details>
 
@@ -380,9 +409,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person is able to communicate their preferences and dislikes regarding sports, foods, and similar topics. They can express their likes and dislikes using a limited set of phrases or expressions. However, this ability relies on clear, slow, and direct communication from the interlocutor.
 
-1. Can communicate very basic information about personal details in a simple way.
+To simplify, this descriptor describes someone who can express their preferences and dislikes related to sports, foods, and other topics. They can convey their likes and dislikes using a limited range of expressions, but this ability requires clear and direct communication delivered at a slow pace.
 
 </details>
 
@@ -400,10 +429,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -413,10 +439,7 @@ Let me break it down into simpler parts:
 <details>
 
   <summary>Detailed explanation</summary>
-
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

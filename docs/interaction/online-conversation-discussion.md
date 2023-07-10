@@ -31,7 +31,15 @@ Can easily and quickly adapt their register and style to suit different online e
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+Can express themselves clearly and accurately in online discussions: This means that the person is able to communicate their thoughts and ideas effectively in real-time online conversations.
+
+Can adjust their language appropriately to the situation: They have the ability to use language in a flexible and sensitive manner based on the context of the discussion. This includes understanding and using emotional expressions, indirect references, and jokes when appropriate.
+
+Can anticipate and handle misunderstandings: They are skilled at recognizing and addressing potential misunderstandings that may arise during online discussions, including those related to different cultures. They are also able to resolve communication issues and manage emotional reactions effectively.
+
+Can adapt their language style to different online environments: They can easily and quickly change their way of speaking or writing to match the specific online platform, purpose of communication, and the type of speech or action they are engaging in.
+
+In summary, this descriptor describes someone who can communicate clearly and accurately in real-time online discussions, adapt their language appropriately to different contexts and situations, effectively handle misunderstandings and emotional reactions, and adjust their style to suit various online environments and communication purposes.
 
 </details>
 
@@ -77,10 +85,15 @@ Can evaluate, restate and challenge arguments in professional or academic live o
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can participate in online discussions with multiple participants: </br> This means the person can engage in real-time exchanges with several people in an online setting. They are able to understand the intentions behind the messages and the cultural implications of the contributions made by different participants.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can effectively participate in professional or academic discussions online: </br> They have the ability to actively take part in live, online discussions that are related to professional or academic topics. They can ask for further clarification on complex and abstract issues and provide clarification when needed.
+
+Can adjust their language to suit the online interaction: </br> They can adapt their way of speaking or writing (register) based on the specific context of the online interaction. This includes switching between different levels of formality or tone within the same conversation if necessary.
+
+Can evaluate, restate, and challenge arguments in professional or academic online discussions: </br> They are capable of analyzing and assessing arguments put forth in professional or academic live online chats and discussions. They can restate and articulate their own viewpoints effectively and also question or challenge the arguments presented by others.
+
+In summary, this descriptor describes someone who can actively participate in real-time online discussions involving multiple participants. They understand the intentions and cultural implications behind different contributions, can engage effectively in professional or academic discussions, adjust their language according to the context, and evaluate, restate, and challenge arguments in a professional or academic setting.
 
 </details>
 
@@ -119,10 +132,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person has the ability to participate in online discussions by connecting their own contributions to the previous messages in the conversation thread. They understand the cultural implications and context of the discussion and can respond appropriately based on that understanding.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To put it simply, this descriptor describes someone who can effectively join online conversations by relating their comments to what has been previously discussed. They also possess an understanding of the cultural context and can respond appropriately to contribute to the ongoing discussion.
 
 </details>
 
@@ -164,10 +176,13 @@ Can recognise misunderstandings and disagreements that arise in an online intera
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can actively participate in online discussions: </br> This means the person can take an active role in online discussions by stating their own opinions on topics of interest. They are able to express their thoughts at some length, as long as the language used is not too unusual or complex. They can also respond to the opinions of others, given that enough time is provided for responses.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can engage in online exchanges with multiple participants: </br> They are capable of participating in online conversations involving several people. They can effectively connect their contributions to previous messages in the discussion thread, as long as there is a moderator to manage the conversation.
+
+Can recognize and address misunderstandings and disagreements: </br> They have the ability to identify when misunderstandings or disagreements arise in an online interaction. They are capable of dealing with these situations, but it is important that the other person(s) involved are willing to cooperate in resolving the issue.
+
+In simple terms, this descriptor describes someone who can actively take part in online discussions by sharing their opinions, responding to others, and participating in exchanges. They can connect their contributions to previous messages, but with the help of a moderator. They are also skilled at recognizing and handling misunderstandings and disagreements, as long as there is willingness from the other participant(s) to cooperate.
 
 </details>
 
@@ -209,10 +224,11 @@ Can post online accounts of social events, experiences and activities referring 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can engage in real-time online exchanges with multiple participants:</br> This means the person can participate in online conversations that happen in real-time with more than one other person. They can interact with each participant and understand their intentions to some extent, but they may require additional explanation to fully grasp the details or implications of the conversation.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can post online accounts of social events, experiences, and activities:</br> They are capable of sharing written descriptions of social events, personal experiences, and activities on online platforms. They can include embedded links and media (such as images or videos) in their posts, as well as express their personal feelings about the events or experiences.
+
+To simplify, this descriptor describes someone who can engage in live online conversations with multiple participants, understanding the general intentions of each contributor. However, they may need further explanation to fully understand the details or implications. Additionally, they can write online accounts of social events, experiences, and activities, incorporating links, media, and personal feelings into their posts.
 
 </details>
 
@@ -252,10 +268,11 @@ Can make personal online postings about experiences, feelings and events and res
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can post a comprehensible contribution in an online discussion on a familiar topic: </br> This means the person can share a meaningful and understandable contribution in an online discussion about a topic they are familiar with and interested in. They can prepare the text beforehand and use online tools to help them fill in any gaps in their language skills and check for accuracy.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can make personal online postings about experiences, feelings, and events:</br>  They are able to create online posts where they share their personal experiences, feelings, and events. They can also respond to comments from others in some detail. However, due to limitations in their vocabulary, they may sometimes repeat certain words or phrases and use inappropriate language.
+
+To simplify, this descriptor describes someone who can actively participate in online discussions by making clear contributions on topics they are familiar with. They can prepare their text in advance and use online tools to improve their language and accuracy. They can also create personal posts about their experiences, feelings, and events and respond to others' comments in some detail, although they may experience lexical limitations that lead to repetition and occasionally using inappropriate expressions.
 
 </details>
 
@@ -296,10 +313,13 @@ Can comment on other people’s online postings, provided they are written/signe
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can introduce themselves and engage in simple online exchanges:</br>  This means the person can provide an introduction about themselves and effectively participate in basic online conversations. They can ask and answer questions, as well as exchange ideas on predictable everyday topics. It is important to allow them enough time to formulate their responses, and they interact best with one person at a time.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can make short descriptive online postings: </br> They are capable of creating brief online posts that describe everyday matters, social activities, and personal feelings. These posts contain simple key details to convey their message.
+
+Can comment on other people's online postings:</br>  They have the ability to respond to the posts made by others. However, the posts they comment on need to be written or expressed in simple language. They can react to embedded media (such as images or videos) by expressing simple feelings of surprise, interest, or indifference.
+
+To simplify, this descriptor describes someone who can introduce themselves and engage in basic online conversations. They can make short descriptions of everyday matters and share their feelings. They can also comment on other people's posts, as long as the language used is simple. They can express simple reactions to embedded media. However, it is important to provide them with enough time to respond, and they interact best with one person at a time.
 
 </details>
 
@@ -339,10 +359,11 @@ Can make brief positive or negative comments online about embedded links and med
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can engage in basic social communication online:</br> This means the person can participate in simple social interactions online. For example, they can send a simple message on a virtual card for special occasions, share news, and make or confirm arrangements to meet with others.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can make brief positive or negative comments about embedded links and media:</br> They have the ability to provide short comments expressing positivity or negativity about online content that includes embedded links or media, such as images or videos. They use a repertoire of basic language to convey their opinions, but they may need to rely on online translation tools and other resources to aid their understanding.
+
+To simplify, this descriptor describes someone who can engage in basic social communication online, such as sending simple messages for special occasions, sharing news, and making arrangements to meet. They can also give brief positive or negative comments about online content that includes embedded links or media. However, they may need the assistance of online translation tools and other resources to fully understand the content.
 
 </details>
 
@@ -378,9 +399,11 @@ Can use formulaic expressions and combinations of simple words/signs to post sho
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can formulate very simple messages and personal online postings:</br> This means the person can create very basic messages and personal online posts consisting of short sentences. These messages may be about topics like hobbies, likes, dislikes, and other simple aspects of their life. They may rely on the assistance of a translation tool to aid their communication.
 
-1. Can communicate very basic information about personal details in a simple way.
+Can use formulaic expressions and simple combinations of words/signs:</br> They are capable of using pre-set or commonly used phrases and combining simple words or signs to express short positive or negative reactions to simple online posts, including the embedded links and media. They can also respond to further comments using standard expressions of thanks and apology.
+
+To simplify, this descriptor describes someone who can create very simple messages and personal online posts using short sentences. They may need the assistance of a translation tool to aid their communication. They can use common phrases and simple word combinations to express short positive or negative reactions to online content. Additionally, they can respond to further comments by using standard expressions of thanks and apology.
 
 </details>
 
@@ -414,9 +437,11 @@ Can post online short simple statements about themselves (e.g. relationship stat
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can post simple online greetings:</br> This means the person can share basic online greetings using common and pre-set expressions. They can also incorporate emoticons to add emotions or visual cues to their greetings.
 
-1. Can communicate very basic information about personal details in a simple way.
+Can post short, simple statements about themselves:</br> They are capable of sharing brief and straightforward statements about themselves, such as their relationship status, nationality, or occupation. They can do this by selecting the relevant options from a menu or referring to an online translation tool to help them communicate effectively.
+
+To simplify, this descriptor describes someone who can express simple online greetings using common expressions and emoticons. They can also share short and basic statements about themselves, relying on pre-set options or utilizing an online translation tool for assistance.
 
 </details>
 

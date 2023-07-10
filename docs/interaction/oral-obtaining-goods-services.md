@@ -8,10 +8,7 @@
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+..
 </details>
 
 
@@ -25,7 +22,7 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+..
 
 </details>
 
@@ -61,10 +58,9 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person has the ability to navigate and handle intricate or delicate transactions in various contexts, such as public interactions, professional settings, or academic environments. They possess the necessary skills and knowledge to manage these complex situations effectively.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor describes someone who can competently handle complicated or sensitive transactions in public, professional, or academic scenarios. They have the capability to navigate through challenging interactions and successfully complete the transactions in these contexts.
 
 </details>
 
@@ -107,10 +103,11 @@ Can outline a case for compensation, using persuasive language to demand satisfa
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can cope linguistically to negotiate a solution to a dispute like an undeserved traffic ticket, financial responsibility for damage in a flat, or blame regarding an accident:</br> This means the person has the linguistic ability to handle negotiations and resolve disputes related to situations like an unjust traffic ticket, financial liability for property damage, or assigning blame for an accident. They can engage in discussions and communicate effectively to find a solution.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can outline a case for compensation, using persuasive language to demand satisfaction and state clearly the limits to any concession they are prepared to make:</br> They have the skill to present a compelling argument for compensation, using persuasive language to assert their right to a satisfactory resolution. They can also clearly communicate the boundaries of any concessions they are willing to offer.
+
+To simplify, this descriptor describes someone who can linguistically manage negotiations to resolve disputes in situations such as an undeserved traffic ticket or property damage. They can outline a case for compensation, using persuasive language to demand a satisfactory outcome while clearly communicating the limits of any concessions they are prepared to make.
 
 </details>
 
@@ -154,10 +151,11 @@ make a concession.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can state requirements and ask detailed questions regarding more complex services, e.g., rental agreements:</br> This means the person has the ability to express their requirements and pose detailed questions when dealing with more intricate services, such as rental agreements. They can articulate their needs clearly and seek specific information to ensure a comprehensive understanding of the terms and conditions.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can explain a problem that has arisen and make it clear that the provider of the service/customer must make a concession:</br> They have the capability to effectively communicate a problem or issue that has occurred and emphasize that the provider of the service or the customer must make a concession. They can clearly express the need for a resolution or compromise in the situation.
+
+To simplify, this descriptor describes someone who can effectively state their requirements and ask detailed questions when dealing with complex services like rental agreements. They can also explain a problem that has arisen and assert the need for the service provider or customer to make a concession. Their communication enables them to address issues and seek appropriate resolutions.
 
 </details>
 
@@ -207,10 +205,17 @@ actually travelling, e.g. asking a passenger where to get off for an unfamiliar 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can deal with most transactions likely to arise while travelling, arranging travel or accommodation, or dealing with authorities during a foreign visit:</br> This means the person is capable of handling various transactions and interactions that commonly occur while travelling, making travel arrangements or accommodations, or dealing with authorities in a foreign country. They can effectively navigate these situations.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can ask in a shop for an explanation of the difference between two or more products serving the same purpose, in order to make a decision, posing follow-up questions as necessary:</br> They have the ability to inquire in a shop about the distinctions between two or more products that serve the same purpose. This enables them to make an informed decision, asking additional questions if needed.
+
+Can cope with less routine situations in shops, post offices, banks, e.g., returning an unsatisfactory purchase:</br> They can manage less typical scenarios that may arise in shops, post offices, banks, etc., such as returning an unsatisfactory purchase. They have the skills to handle these situations effectively.
+
+Can make a complaint:</br> They are capable of lodging a complaint, expressing dissatisfaction or discontent about a product or service in an appropriate manner.
+
+Can deal with most situations likely to arise when making travel arrangements through an agent or when actually travelling, e.g., asking a passenger where to get off for an unfamiliar destination:</br> They can handle various situations that commonly arise when making travel arrangements through an agent or while travelling. For example, they can ask fellow passengers for directions on where to disembark for an unfamiliar destination.
+
+To simplify, this descriptor describes someone who can confidently manage a wide range of transactions and interactions while travelling, arranging travel or accommodation, or dealing with authorities in a foreign country. They can inquire about product differences, handle less routine situations like returning items, make complaints when necessary, and effectively navigate various travel-related situations.
 
 </details>
 
@@ -251,10 +256,13 @@ Can get all the information needed from a tourist office, as long as it is of a 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can deal with common aspects of everyday living such as travel, lodging, eating, and shopping:</br> This means the person has the ability to handle various routine activities related to everyday living, including tasks like traveling, finding accommodation, dining, and shopping. They can navigate these situations effectively.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can interact in predictable everyday situations (e.g., post office, station, shop), using a wide range of simple expressions:</br> They can engage in communication within predictable everyday situations, such as at a post office, train station, or shop. They have a repertoire of simple expressions that allow them to interact and communicate effectively in these contexts.
+
+Can get all the information needed from a tourist office, as long as it is of a straightforward, non-specialized nature:</br> They are capable of obtaining all the necessary information from a tourist office, as long as the information is straightforward and does not require specialized knowledge. They can gather the required details and understand the provided information.
+
+To simplify, this descriptor describes someone who can manage common activities related to everyday living, such as travel, lodging, eating, and shopping. They can effectively interact in predictable everyday situations and communicate using a range of simple expressions. Additionally, they can obtain the required information from a tourist office as long as it is of a straightforward nature.
 
 </details>
 
@@ -309,10 +317,25 @@ problem to a health professional, perhaps using gestures and body language.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can ask for and provide everyday goods and services:</br> This means the person has the ability to ask for and obtain everyday goods and services, such as ordering food or purchasing items in a shop.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can get simple information about travel, use public transport (e.g., buses, trains, taxis), ask and give directions, and buy tickets:</br> They can obtain basic information about travel, navigate public transportation systems (like buses, trains, and taxis), inquire about directions, and purchase tickets for transportation.
+
+Can ask about things and make simple transactions in shops, post offices, or banks:</br> They can inquire about various items and engage in simple transactions in shops, post offices, or banks.
+
+Can give and receive information about quantities, numbers, prices, etc.:</br> They have the ability to exchange information related to quantities, numbers, prices, and similar concepts.
+
+Can make simple purchases by stating what is wanted and asking the price:</br> They can make straightforward purchases by expressing what they want and inquiring about the price.
+
+Can order a meal:</br> They have the capability to place an order for a meal at a restaurant or eatery.
+
+Can point out when something is wrong (e.g., "The food is cold" or "There is no light in my room"):</br> They can effectively communicate when something is not right, such as mentioning if the food is cold or if there is an issue with the room.
+
+Can ask (face-to-face) for a medical appointment and understand the reply:</br> They can request a medical appointment in person and comprehend the response.
+
+Can indicate the nature of a problem to a health professional, perhaps using gestures and body language:</br> They are able to convey the nature of a problem to a healthcare professional, potentially using gestures and body language to supplement their communication.
+
+To simplify, this descriptor describes someone who can ask for and provide everyday goods and services, gather basic information about travel and public transportation, make simple transactions in various establishments, engage in basic conversations about quantities, prices, etc., make simple purchases, order meals, express dissatisfaction or problems, request medical appointments in person, and communicate health-related issues to professionals using gestures and body language when necessary.
 
 </details>
 
@@ -350,9 +373,13 @@ Can handle numbers, quantities, cost and time.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can ask people for things and give people things:</br> This means the person has the ability to make requests or ask for items from others, as well as provide items or fulfill requests from others.
 
-1. Can communicate very basic information about personal details in a simple way.
+Can ask for food and drink using basic expressions:</br> They can use simple expressions to request food and beverages, such as ordering a meal or asking for a specific drink.
+
+Can handle numbers, quantities, cost, and time:</br> They have the capability to work with numbers, such as counting or using basic arithmetic. They can also handle quantities, understand pricing, and comprehend basic concepts of time, such as telling the time or understanding schedules.
+
+To simplify, this descriptor describes someone who can ask for and give items to others, make simple requests for food and drinks, and handle basic numerical concepts like numbers, quantities, cost, and time.
 
 </details>
 
@@ -385,9 +412,9 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to engage in simple transactions such as making purchases or ordering food and drinks. They can rely on gestures or pointing to supplement their verbal communication in order to effectively convey their requests.
 
-1. Can communicate very basic information about personal details in a simple way.
+To simplify, this descriptor describes someone who can make basic purchases or order food and drinks. They can use gestures or pointing to support their verbal communication, making it easier to convey their requests or preferences in these situations.
 
 </details>
 

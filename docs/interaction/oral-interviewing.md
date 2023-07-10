@@ -26,7 +26,10 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+
+This means that the person is capable of actively participating in a dialogue, whether they are taking the role of the interviewer or interviewee. They have a strong command of the conversation, structuring it effectively and interacting with others with ease and fluency. Their level of participation and communication skills are on par with the other participants, and they can engage confidently and authoritatively in the dialogue.
+
+To simplify, this descriptor describes someone who excels in dialogues, whether as the interviewer or interviewee. They can skillfully manage the conversation, displaying fluent and effortless communication. Their participation level is equal to that of other participants, demonstrating confidence and authority in their interactions.
 
 </details>
 
@@ -64,10 +67,9 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person has the ability to fully engage in an interview, regardless of whether they are conducting the interview or being interviewed. They can express themselves fluently and elaborately, going into further detail and expanding upon the points under discussion without needing additional support or assistance. Additionally, they can handle interjections or interruptions during the interview without difficulty.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor describes someone who can actively and proficiently participate in an interview as either the interviewer or interviewee. They can fluently delve deeper into the topic being discussed, without requiring help, and handle interruptions or interjections smoothly.
 
 </details>
 
@@ -106,10 +108,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person has the ability to conduct an interview effectively and confidently. They can depart from the prepared questions and adapt their line of questioning based on the responses they receive. They can skillfully follow up on interesting or relevant answers by asking additional probing questions to gather more information or explore the topic further.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor describes someone who can carry out interviews with proficiency. They are capable of deviating from scripted questions and adjusting their approach based on the interviewee's responses. They have the skill to ask insightful follow-up questions to delve deeper into the conversation and gather more valuable information.
 
 </details>
 
@@ -145,10 +146,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person has the ability to confidently lead and drive the interview. They can take the initiative in shaping the conversation and independently expand upon and develop ideas without relying heavily on the interviewer for assistance or guidance.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor describes someone who can take charge of an interview. They are able to initiate discussions, drive the conversation, and independently expand and develop ideas without relying on the interviewer for constant support or guidance.
 
 </details>
 
@@ -190,10 +190,11 @@ Can carry out a prepared interview, checking and confirming information, though 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can provide concrete information required in an interview/consultation (e.g., describe symptoms to a doctor) but with limited precision:</br> This means the person can offer specific details or information needed during an interview or consultation, such as describing symptoms to a doctor. However, their ability to express the information accurately may be somewhat limited.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can carry out a prepared interview, checking and confirming information, though they may occasionally have to ask for repetition if the other person's response is rapid or extended: They have the capability to conduct a planned interview, ensuring that the information is accurate and confirming details as needed. However, they may occasionally need to ask for the other person to repeat or clarify their response if it is delivered quickly or at length.
+
+To simplify, this descriptor describes someone who can provide concrete information required in an interview or consultation, even though their precision may be limited. They are also able to conduct a prepared interview, checking and confirming information, but may occasionally require repetition or clarification if the other person's response is rapid or extended.
 
 </details>
 
@@ -236,10 +237,13 @@ Can use a prepared questionnaire to carry out a structured interview, with some 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can take some initiative in an interview/consultation (e.g., bringing up a new subject) but is very dependent on the interviewer in the interaction:</br> This means the person can exhibit a limited level of initiative during an interview or consultation, such as introducing a new topic. However, they heavily rely on the interviewer to guide the interaction and maintain the flow of conversation.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can describe symptoms in a simple way and ask for advice when using health services, and can understand the answer, provided it is given clearly in everyday language:</br> They have the ability to describe symptoms in a straightforward manner and seek advice when seeking healthcare services. They can understand the response given that it is communicated clearly using everyday language.
+
+Can use a prepared questionnaire to carry out a structured interview, with some spontaneous follow-up questions:</br> They are capable of utilizing a prepared questionnaire to conduct a structured interview. They can follow the outlined questions but may also ask some unplanned follow-up questions during the conversation.
+
+To simplify, this descriptor describes someone who can take some initiative during an interview or consultation, although they rely heavily on the interviewer for guidance. They can describe symptoms and seek advice in a simple manner when using health services, understanding the response if it is communicated clearly in everyday language. Additionally, they can conduct a structured interview using a prepared questionnaire and include some spontaneous follow-up questions during the conversation.
 
 </details>
 
@@ -278,10 +282,11 @@ Can describe to a doctor very basic symptoms and ailments such as a cold or the 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can make themselves understood in an interview and communicate ideas and information on familiar topics, provided they can ask for clarification occasionally and are given some help to express what they want to:</br> This means the person can effectively convey their thoughts and information during an interview and engage in communication on familiar subjects. However, they may occasionally need to ask for clarification, and some assistance may be required to express themselves accurately.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can describe very basic symptoms and ailments such as a cold or the flu to a doctor: They have the ability to provide simple descriptions of common symptoms and illnesses, such as a cold or the flu, when speaking to a doctor.
+
+To simplify, this descriptor describes someone who can make themselves understood during an interview and effectively communicate ideas and information on familiar topics. They may require occasional clarification and some assistance to express themselves accurately. Additionally, they can describe very basic symptoms and ailments, like a cold or the flu, when speaking with a doctor.
 
 </details>
 
@@ -319,10 +324,11 @@ Can indicate in simple language the nature of a problem to a health professional
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can answer simple questions and respond to simple statements in an interview:</br> This means the person is able to provide answers to straightforward questions and effectively respond to simple statements during an interview.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can indicate in simple language the nature of a problem to a health professional, perhaps using gestures and body language: They have the ability to communicate, using simple language, the nature of a problem to a healthcare professional. They may also utilize gestures and body language to convey their message.
+
+To simplify, this descriptor describes someone who can effectively answer basic questions and respond to simple statements in an interview. They can also express the nature of a problem to a health professional using simple language, and they may use gestures and body language to enhance their communication.
 
 </details>
 
@@ -358,9 +364,11 @@ Can state in simple language the nature of a problem to a health professional an
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can reply in an interview to simple direct questions, put very slowly and clearly in direct, non-idiomatic language, about personal details:</br> This means the person can respond to simple and straightforward questions about personal information during an interview. The questions are presented at a slow pace and in clear, non-idiomatic language to aid understanding.
 
-1. Can communicate very basic information about personal details in a simple way.
+Can state in simple language the nature of a problem to a health professional and answer simple questions such as "Does that hurt?" even though they have to rely on gestures and body language to reinforce the message:</br> They are capable of describing the nature of a problem to a healthcare professional using simple language. Additionally, they can respond to basic questions such as asking if something hurts, although they may use gestures and body language to support their message.
+
+To simplify, this descriptor describes someone who can effectively reply to simple direct questions about personal details during an interview. The questions are presented slowly and clearly in non-idiomatic language. They can also communicate the nature of a problem to a healthcare professional using simple language, although they may rely on gestures and body language to reinforce their message.
 
 </details>
 
@@ -378,10 +386,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+..
 </details>
 
 <!-- div:right-panel -->
@@ -392,9 +397,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+..
 
 </details>
 

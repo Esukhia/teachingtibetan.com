@@ -8,10 +8,7 @@
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 
@@ -25,7 +22,7 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+...
 
 </details>
 
@@ -68,10 +65,9 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person has the ability to start and lead a discussion with a partner or a group with the goal of reaching a decision. They can effectively communicate the viewpoints expressed by others, summarize the main ideas, and provide additional information or elaboration when necessary. Furthermore, they can critically analyze and weigh the various points of view presented during the discussion.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor describes someone who can take the initiative in framing a discussion to decide on a course of action. They can report on the contributions of others, summarize the main points, elaborate on details, and carefully evaluate multiple perspectives in order to guide the decision-making process.
 
 </details>
 
@@ -116,10 +112,13 @@ Can give brief comments on the views of others.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can follow the discussion, occasionally asking for repetition or clarification:</br> This means the person can generally understand what is being said during a discussion. However, if the discussion becomes rapid or lengthy, they may occasionally need to ask for repetition or clarification to ensure full comprehension.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can explain why something is a problem, discuss next steps, and compare and contrast alternatives:</br> They have the ability to provide explanations regarding why something is a problem, engage in discussions about potential actions to take next, and compare and contrast different alternatives or options.
+
+Can give brief comments on the views of others: They are capable of providing concise comments or remarks regarding the opinions or viewpoints expressed by others during the discussion.
+
+To simplify, this descriptor describes someone who can generally follow a discussion, but may occasionally require repetition or clarification. They can explain the reasons behind a problem, participate in discussions about the next steps to take, and compare and contrast different options. Additionally, they can provide brief comments on the views expressed by others.
 
 </details>
 
@@ -161,10 +160,13 @@ Can invite others to give their views on how to proceed.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can generally follow what is said and confirm mutual understanding:</br> This means the person can generally understand the content of a conversation or discussion. When necessary, they can repeat back part of what someone has said to confirm mutual understanding and ensure clarity in communication.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can express their opinions and reactions on possible solutions or the next steps:</br> They have the ability to effectively communicate their opinions and reactions regarding potential solutions or the question of what to do next. They can provide brief reasons and explanations to support their viewpoints.
+
+Can invite others to share their views on how to proceed:</br> They can actively engage others in the discussion by inviting them to express their opinions and perspectives on how to move forward.
+
+To simplify, this descriptor describes someone who can generally understand and follow a conversation. They can confirm mutual understanding by repeating back information when needed. They can express their opinions and reactions, providing brief reasons and explanations. Additionally, they can encourage others to share their views on how to proceed.
 
 </details>
 
@@ -202,10 +204,11 @@ Can discuss what to do next, making and responding to suggestions, and asking fo
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can understand enough to manage simple, routine tasks:</br> This means the person can comprehend enough information to handle straightforward and repetitive tasks without excessive effort. If there is a lack of understanding, they can ask for a simple repetition to clarify the information.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can discuss what to do next, make and respond to suggestions, and ask for and give directions:</br> They have the ability to engage in discussions about determining the next steps to take. They can actively contribute by making suggestions and responding to suggestions from others. They are also capable of asking for and providing directions or instructions.
+
+To simplify, this descriptor describes someone who can understand enough information to handle simple and routine tasks. If there is any confusion, they can ask for a basic repetition to ensure comprehension. They can engage in discussions about determining the next course of action, make and respond to suggestions, and ask for or provide directions or instructions as needed.
 
 </details>
 
@@ -244,10 +247,11 @@ Can communicate in simple and routine tasks using simple phrases to ask for and 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can indicate when they are following and understand when necessary:</br> This means the person can express or signal that they are following the conversation or instructions. They can indicate their comprehension of the information being conveyed if the interlocutor makes an effort to ensure understanding.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can communicate in simple and routine tasks using simple phrases:</br> They have the ability to engage in basic communication during simple and routine tasks. They can use simple phrases to ask for and provide things, gather basic information, and discuss what steps to take next.
+
+To simplify, this descriptor describes someone who can indicate their understanding during a conversation if the interlocutor takes the necessary steps to ensure comprehension. They can effectively communicate using simple phrases in simple and routine tasks. This includes asking for and providing things, obtaining basic information, and discussing the next course of action.
 
 </details>
 
@@ -284,9 +288,13 @@ Can ask people for things, and give people things.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can understand carefully and slowly addressed questions and instructions:</br> This means the person can comprehend questions and instructions when they are delivered in a careful and slow manner. They can follow short and simple directions provided to them.
 
-1. Can communicate very basic information about personal details in a simple way.
+Can act on basic instructions related to times, locations, numbers, etc.:</br> They have the ability to carry out basic instructions that involve elements such as specific times, locations, numbers, and other similar details.
+
+Can ask people for things and give people things:</br> They can effectively communicate their needs or requests to ask people for things. They are also capable of providing things to others as requested or required.
+
+To simplify, this descriptor describes someone who can understand questions and instructions when they are delivered slowly and carefully. They can follow short and simple directions and act upon basic instructions related to times, locations, numbers, etc. Additionally, they can ask people for things and provide items or assistance to others as needed.
 
 </details>
 
@@ -304,10 +312,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -318,9 +323,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

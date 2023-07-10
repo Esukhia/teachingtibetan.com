@@ -35,7 +35,13 @@ counter-arguments.
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+Can actively participate in formal discussions of complex issues:</br> This means the person can confidently engage in formal discussions that involve complex topics. They are able to articulate and present persuasive arguments without being at a disadvantage compared to other participants.
+
+Can advise on and handle complex, delicate, or contentious issues:</br> They have the ability to provide guidance and effectively manage complex, sensitive, or controversial topics. They possess the necessary specialized knowledge to offer insights and navigate through these matters.
+
+Can handle hostile questioning with confidence:</br> They are capable of responding confidently to challenging or hostile questioning. They can maintain their turn to speak and diplomatically rebut counter-arguments, effectively defending their position.
+
+To simplify, this descriptor describes someone who can actively participate in formal discussions on complex issues, presenting articulate and persuasive arguments. They can offer advice and handle intricate or contentious matters using their specialized knowledge. Additionally, they can confidently respond to hostile questioning, maintain their speaking turn, and diplomatically counter opposing arguments.
 
 </details>
 
@@ -81,10 +87,17 @@ misunderstood.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can actively follow and engage in debates on abstract, complex, and unfamiliar topics:</br> This means the person can easily keep up with discussions and debates on abstract and intricate subjects, even if they are unfamiliar to them. They can understand and follow the arguments and points being made by others.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can convincingly argue a formal position:</br> They have the ability to present a formal position in a compelling manner. They can respond to questions and comments, and fluently address complex lines of counter-arguments, providing spontaneous and appropriate responses.
+
+Can analyze, evaluate, and challenge contributions from other participants within their expertise:</br> They can assess and analyze the contributions made by other participants on topics within their academic or professional competence. They can restate, evaluate, and even challenge these contributions effectively.
+
+Can express critical remarks or disagreements diplomatically:</br> They are skilled at expressing critical remarks or disagreement in a diplomatic manner, maintaining a respectful tone and fostering constructive dialogue.
+
+Can ask probing questions and reformulate questions when necessary:</br> They can ask follow-up questions to seek more detailed information. If a question is misunderstood, they have the ability to reformulate it to ensure better clarity.
+
+To simplify, this descriptor describes someone who can actively participate in debates on abstract and complex topics, even if they are unfamiliar. They can present formal positions convincingly, respond fluently to questions and counter-arguments, and evaluate and challenge contributions within their expertise. They can express disagreement diplomatically, ask probing questions, and reformulate questions as needed to ensure understanding.
 
 </details>
 
@@ -129,10 +142,13 @@ argument convincingly.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can actively participate in animated discussions:</br> This means the person can effectively engage in lively and energetic discussions. They can keep up with the conversation and accurately identify the arguments that support and oppose different points of view.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can use technical terminology appropriately within their area of specialization:</br> They have the ability to employ the relevant technical terminology when discussing topics within their specific field of expertise. This allows them to effectively communicate with other specialists in the same field.
+
+Can express ideas and opinions precisely:</br> They can articulate their ideas and opinions with clarity and precision. They have the ability to present and respond to complex lines of argument convincingly, offering well-reasoned and compelling explanations.
+
+To simplify, this descriptor describes someone who can actively participate in dynamic discussions, accurately identifying arguments from various perspectives. They can utilize appropriate technical terminology when discussing topics within their area of specialization with other specialists. Additionally, they can express their ideas and opinions with precision, and effectively present and respond to complex lines of argument in a convincing manner.
 
 </details>
 
@@ -175,10 +191,13 @@ respond to hypotheses.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can actively participate in routine and non-routine formal discussions:</br> This means the person can actively engage in both regular and unexpected formal discussions. They are comfortable and confident in participating in such conversations.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can understand and follow discussions related to their field in detail:</br> They have the ability to comprehend and closely follow discussions that pertain to their area of expertise. They can grasp the key points that are emphasized during these discussions.
+
+Can contribute, account for, and sustain their opinion:</br> They can actively contribute to the discussion by providing their own opinions and viewpoints. They are able to explain and support their opinions in a detailed and coherent manner. They can also evaluate alternative proposals and generate and respond to hypotheses.
+
+To simplify, this descriptor describes someone who can actively participate in both routine and non-routine formal discussions. They can understand and closely follow discussions related to their field, and contribute their own opinions while providing detailed explanations and justifications. Additionally, they can evaluate alternative proposals and actively engage in generating and responding to hypotheses.
 
 </details>
 
@@ -221,10 +240,13 @@ Can put over a point of view clearly, but has difficulty engaging in debate.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can understand much of what is said related to their field:</br> This means the person can comprehend a significant portion of the discussions or conversations that are relevant to their field of expertise. However, it is important that the speakers avoid using very idiomatic expressions and articulate their ideas clearly.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can express their point of view clearly:</br> They have the ability to effectively communicate and convey their own perspective or opinion on a topic. They can express their thoughts clearly and understandably.
+
+Has difficulty engaging in debate: However, they may find it challenging to actively participate in debates or engage in extensive discussions that involve differing viewpoints. They may struggle to contribute to back-and-forth exchanges of ideas or arguments.
+
+To simplify, this descriptor describes someone who can understand a significant portion of discussions related to their field, as long as the speakers use clear language and avoid highly idiomatic expressions. They can express their own point of view clearly, but they may face difficulties when it comes to actively engaging in debates or extended discussions.
 
 </details>
 
@@ -267,10 +289,11 @@ in relatively simple language and/or repeated, and opportunity is given for clar
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can participate in routine formal discussions on familiar subjects:</br> This means the person can actively engage in formal discussions that cover familiar topics. The discussions are typically clearly articulated in the standard form of the language or a familiar variety. These discussions may involve exchanging factual information, receiving instructions, or discussing practical problem-solving.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can follow argumentation and discussion on familiar or predictable topics:</br> They have the ability to understand and follow arguments and discussions on topics that are familiar or predictable to them. They can grasp the points being made as long as the language used is relatively simple and/or repeated. It is also helpful when there is an opportunity for clarification if needed.
+
+To simplify, this descriptor describes someone who can actively participate in routine formal discussions on familiar subjects. They can understand and engage in conversations that involve exchanging factual information, receiving instructions, or discussing practical problem-solving. They can also follow and comprehend arguments and discussions on familiar or predictable topics, as long as the language used is simple and/or repeated, and there is an opportunity for clarification if necessary.
 
 </details>
 
@@ -310,10 +333,11 @@ provided they receive some help with formulation and can ask for repetition of k
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can generally follow changes of topic in formal discussions related to their field:</br> This means the person can generally keep up with the shifts in subject during formal discussions that pertain to their area of expertise. The discussions are conducted at a slow pace and with clear articulation to aid understanding.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can exchange relevant information and give their opinion on practical problems when directly asked:</br> They have the ability to share relevant information and express their opinions on practical issues when directly prompted or questioned. However, they may require some assistance with formulating their thoughts and may ask for key points to be repeated if needed.
+
+To simplify, this descriptor describes someone who can generally understand the changes of topic in formal discussions related to their field, especially when the discussions are conducted slowly and clearly. They can provide relevant information and offer their opinions on practical problems when directly asked, although they may need help with formulating their responses and may request repetitions of key points when necessary.
 
 </details>
 
@@ -350,10 +374,9 @@ ask for repetition of key points if necessary.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means that the person is capable of sharing their thoughts or opinions when directly addressed in a formal meeting. However, they may require the key points or questions to be repeated if they need clarification or a better understanding of the topic being discussed.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To put it simply, this descriptor describes someone who can express their thoughts or opinions during a formal meeting if they are directly addressed. They have the ability to contribute to the discussion, but they may need certain points to be repeated for better comprehension.
 
 </details>
 
@@ -372,10 +395,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -386,9 +406,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 
@@ -406,10 +424,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -420,9 +435,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

@@ -9,10 +9,7 @@
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 
@@ -25,8 +22,7 @@
 <details>
 
   <summary>Detailed explanation</summary>
-
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+...
 
 </details>
 
@@ -46,10 +42,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -62,10 +55,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+...
 
 </details>
 
@@ -107,10 +97,13 @@ Can pass on detailed information reliably.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can understand and exchange complex information and advice related to their occupational role:</br> This means the person has the ability to comprehend and communicate complex information and provide advice on various topics related to their profession or occupation.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can use appropriate technical terminology when discussing their area of specialization with other specialists:</br> They have the capability to utilize the appropriate technical language or jargon when engaging in discussions or exchanging information with other specialists in their field of expertise.
+
+Can reliably convey detailed information:</br> They can effectively transmit detailed information to others in a trustworthy and accurate manner.
+
+To simplify, this descriptor describes someone who can understand and exchange complex information and advice relevant to their occupational role. They can utilize appropriate technical terminology when communicating with other specialists in their field. Additionally, they have the ability to reliably convey detailed information to others.
 
 </details>
 
@@ -154,10 +147,11 @@ Can summarise and give their opinion about a short story, article, talk, discuss
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can exchange, check, and confirm factual information on familiar routine and non-routine matters within their field with confidence:</br> This means the person can effectively communicate and verify factual information on topics that are familiar to them in both routine and non-routine situations. They have confidence in their ability to exchange and confirm information within their area of expertise.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can summarize and provide their opinion about various forms of media content:</br> They have the capability to condense and present the main points of a short story, article, talk, discussion, interview, or documentary. Additionally, they can express their personal opinion or viewpoint about the content. Furthermore, they can answer detailed questions related to the content.
+
+To simplify, this descriptor describes someone who can confidently exchange, verify, and confirm factual information within their field, whether it's a routine or non-routine matter. They can summarize and share their opinion on various forms of media content, such as stories, articles, talks, interviews, etc. Moreover, they can provide detailed answers to questions regarding the content discussed.
 
 </details>
 
@@ -200,10 +194,15 @@ Can offer advice on simple matters within their field of experience.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can find out and pass on straightforward factual information:</br> This means the person has the ability to research and gather simple factual information and effectively communicate it to others.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can ask for and follow detailed directions:</br> They have the capability to request and comprehend detailed directions or instructions provided by others.
+
+Can obtain more detailed information:</br> They can actively seek out additional or more in-depth information when needed.
+
+Can offer advice on simple matters within their field of experience:</br> They have the competence to provide guidance or advice on straightforward matters within their area of expertise or personal experience.
+
+To simplify, this descriptor describes someone who can independently find and share basic factual information, as well as effectively communicate it to others. They can ask for and understand detailed directions, actively seek out more detailed information, and offer advice on simple matters within their field of experience.
 
 </details>
 
@@ -251,10 +250,19 @@ Can give and follow simple directions and instructions, e.g. explain how to get 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can understand enough to manage simple, routine exchanges without undue effort:</br> This means the person can comprehend and handle straightforward and repetitive interactions or conversations without experiencing significant difficulty or effort.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can deal with practical everyday demands: finding out and passing on straightforward factual information:</br> They have the ability to handle everyday practical tasks, such as obtaining and sharing basic factual information.
+
+Can ask and answer questions about habits and routines:</br> They can actively inquire about and respond to questions related to personal habits and routines.
+
+Can ask and answer questions about pastimes and past activities:</br> They have the capability to ask and answer questions about hobbies, interests, and past activities.
+
+Can ask and answer questions about plans and intentions: </br>They can engage in conversations by asking and responding to questions regarding future plans and intentions.
+
+Can give and follow simple directions and instructions, e.g., explain how to get somewhere: They are capable of providing and following basic directions or instructions, such as explaining how to reach a specific location.
+
+To simplify, this descriptor describes someone who can understand and manage simple and routine exchanges without significant effort. They can handle practical tasks related to finding and sharing basic information. They can ask and answer questions about habits, routines, pastimes, and plans. Additionally, they can give and follow simple directions or instructions, including explaining how to get somewhere.
 
 </details>
 
@@ -303,10 +311,19 @@ Can ask and answer simple questions about an event (e.g. ask where and when it t
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can communicate in simple and routine tasks requiring a simple and direct exchange of information:</br> This means the person can effectively communicate in straightforward and repetitive tasks that involve sharing basic information in a direct manner.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can exchange limited information on familiar and routine operational matters:</br> They have the ability to exchange limited information regarding familiar and routine operational topics or tasks.
+
+Can ask and answer questions about what they do at work and in their free time:</br> They can inquire about and respond to questions related to their work responsibilities and activities during their free time.
+
+Can ask for and give directions referring to a map or plan:</br> They are capable of requesting and providing directions, particularly when referring to a map or plan.
+
+Can ask for and provide personal information:</br> They can ask for and share personal information about themselves or others as needed.
+
+Can ask and answer simple questions about an event (e.g., ask where and when it took place, who was there, and what it was like):</br> They have the ability to ask and answer basic questions about an event, such as its location, date and time, attendees, and general description.
+
+To simplify, this descriptor describes someone who can communicate effectively in simple and routine tasks that involve direct information exchange. They can share limited information on familiar operational matters, answer questions about their work and free time activities, ask for and provide directions using maps or plans, exchange personal information, and engage in simple conversations about events.
 
 </details>
 
@@ -351,9 +368,19 @@ Can name the colour of clothes or other familiar objects and can ask the colour 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can understand questions and instructions addressed carefully and slowly to them and follow short, simple directions: </br>This means the person can comprehend questions and instructions when they are presented clearly, slowly, and with care. They can also follow short and simple directions given to them.
 
-1. Can communicate very basic information about personal details in a simple way.
+Can ask and answer simple questions, initiate and respond to simple statements in areas of immediate need or on very familiar topics:</br> They have the ability to ask and respond to basic questions, initiate simple statements, and engage in conversations related to immediate needs or highly familiar topics.
+
+Can ask and answer questions about themselves and other people, where they live, people they know, things they have: </br>They can inquire about and provide answers regarding personal information, such as their own background, residence, acquaintances, and possessions.
+
+Can indicate time using lexicalized phrases like "next week," "last Friday," "in November," "3 o'clock": </br>They are capable of expressing time-related information using common phrases or expressions, such as referring to future or past weeks, days, months, or specific hours.
+
+Can express numbers, quantities, and cost in a limited way:</br> They have the ability to express numbers, quantities, and costs on a basic level, although their range of expression may be limited.
+
+Can name the color of clothes or other familiar objects and can ask about the color of such objects:</br> They can identify and state the color of clothing items or other familiar objects, as well as inquire about the color of those objects.
+
+To simplify, this descriptor describes someone who can understand carefully presented questions and instructions, follow short and simple directions, ask and answer basic questions, and engage in conversations related to immediate needs or highly familiar topics. They can discuss personal information, indicate time using common phrases, express numbers and quantities in a limited way, and name colors of familiar objects while also being able to inquire about their colors.
 
 </details>
 
@@ -398,9 +425,21 @@ Can ask very simple questions for information, such as “What is this?” and u
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can tell people their name and ask other people their names:</br> This means the person can introduce themselves by stating their name and inquire about the names of others.
 
-1. Can communicate very basic information about personal details in a simple way.
+Can use and understand simple numbers in everyday conversations:</br> They have the ability to use and comprehend basic numbers in their everyday interactions.
+
+Can ask and tell what day, time of day, and date it is:</br> They can inquire about and provide information regarding the day of the week, the time of day, and the date.
+
+Can ask for and give a date of birth:</br> They are capable of requesting and sharing their date of birth or inquiring about the date of birth of others.
+
+Can ask for and give a phone number:</br> They have the ability to request and provide phone numbers.
+
+Can tell people their age and ask people about their age:</br> They can communicate their age to others and inquire about the age of others.
+
+Can ask very simple questions for information, such as "What is this?" and understand one- or two-word/sign answers: </br>They can ask basic questions to gather information, such as asking about the identity of an object, and understand short responses consisting of one or two words or signs.
+
+To simplify, this descriptor describes someone who can confidently share their name and inquire about the names of others. They can use and understand simple numbers in everyday conversations, ask and provide information about the day, time, and date, request and share dates of birth and phone numbers, communicate their age and inquire about the age of others. Additionally, they can ask straightforward questions for information and understand brief answers consisting of one or two words or signs.
 
 </details>
 

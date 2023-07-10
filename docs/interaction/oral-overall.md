@@ -30,7 +30,9 @@ meaning. Can convey finer shades of meaning precisely by using, with reasonable 
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+This means the person has a proficient understanding of idiomatic expressions and colloquialisms, recognizing their connotations and implied meanings. They can precisely convey subtle nuances of meaning by employing a variety of modification devices with a reasonable level of accuracy. Additionally, they possess the ability to smoothly backtrack and restructure their speech when faced with challenges, doing so in a way that is hardly noticeable to the listener.
+
+To simplify, this descriptor describes someone who has a strong command of idiomatic expressions and colloquial language, understanding their nuanced meanings. They can effectively convey precise shades of meaning by using a wide range of modification techniques with reasonable accuracy. Furthermore, they can skillfully adjust their speech when encountering difficulties, doing so seamlessly and without disrupting the conversation.
 
 </details>
 
@@ -70,10 +72,9 @@ smooth flow of language.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person can communicate fluently and effortlessly, expressing themselves with ease. They possess a broad vocabulary that enables them to navigate around any gaps in their knowledge by finding alternative ways to express their thoughts. They rarely encounter difficulties in finding the right words or resorting to avoidance strategies. However, exceptionally challenging or complex topics might temporarily disrupt their natural and smooth flow of language.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor describes someone who can communicate fluently and naturally, with a wide range of vocabulary at their disposal. They can overcome any gaps in their knowledge by using paraphrasing techniques. They rarely struggle to find the right words or rely on avoidance strategies. The only potential hindrance to their communication flow is when encountering highly complex subject matter.
 
 </details>
 
@@ -116,10 +117,9 @@ of formality appropriate to the circumstances.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person can communicate in the language with fluency, accuracy, and effectiveness across various subjects, whether they are general, academic, vocational, or related to leisure activities. They can express their ideas clearly, emphasizing the connections between them. They possess strong grammatical control, allowing them to communicate spontaneously without feeling the need to restrict their thoughts. Additionally, they can adjust their level of formality to suit the specific context or situation.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor describes someone who can use the language fluently, accurately, and effectively on a wide range of topics. They can express ideas clearly and maintain strong grammatical control, allowing them to communicate spontaneously without much restriction. Furthermore, they can appropriately adapt their level of formality based on the given circumstances.
 
 </details>
 
@@ -157,10 +157,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person can communicate with a level of fluency and spontaneity that enables them to engage in regular and meaningful interactions with native speakers of the target language. They can convey the personal importance of events and experiences, as well as express their viewpoints clearly by offering relevant explanations and supporting arguments.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor describes someone who can communicate with ease and naturalness, allowing for regular and sustained relationships with native speakers. They can effectively express the personal significance of various situations and articulate their views clearly by providing relevant explanations and supporting arguments.
 
 </details>
 
@@ -202,11 +201,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person is able to communicate confidently in both familiar and unfamiliar situations related to their personal interests and professional field. They can effectively exchange information, confirm details, and handle less routine scenarios. They can also explain why a particular issue is problematic. Additionally, they are capable of expressing their thoughts, opinions, and ideas on more abstract and cultural topics such as films, books, music, and other related subjects.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
-
+To simplify, this descriptor describes someone who can confidently communicate in various situations related to their interests and profession. They can exchange information, handle non-routine scenarios, and express their thoughts on abstract and cultural topics with ease.
 </details>
 
 <!-- panels:end -->
@@ -245,10 +242,9 @@ hobbies, work, travel and current events).
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to utilize a wide range of simple language skills to navigate various situations that may arise while traveling. They can engage in unplanned conversations on familiar topics, expressing their own opinions and exchanging information. These topics typically revolve around personal interests, everyday life, and common subjects such as family, hobbies, work, travel, and current events.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor describes someone who can effectively use a diverse range of simple language to handle travel-related situations. They can engage in spontaneous conversations, express personal opinions, and exchange information on familiar topics that are of interest to them or relevant to everyday life.
 
 </details>
 
@@ -288,10 +284,9 @@ situations.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person can engage in interactions with relative ease in structured situations and brief conversations. While they may occasionally require some assistance or support, they can effectively manage simple and routine exchanges. They are capable of asking and responding to questions, as well as exchanging ideas and information on familiar topics within predictable everyday situations.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor describes someone who can comfortably participate in structured situations and short conversations. Although they may occasionally need help, they can handle straightforward exchanges and engage in discussions related to familiar topics in everyday situations that follow predictable patterns.
 
 </details>
 
@@ -331,10 +326,9 @@ rarely able to understand enough to keep conversation going of their own accord.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person can effectively communicate in basic and everyday tasks that involve simple and straightforward information related to work and leisure activities. They can handle routine discussions about familiar topics. However, their ability to engage in more extended conversations is limited, and they often struggle to keep the conversation going without assistance or prompts from others.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor describes someone who can successfully communicate in simple and routine tasks related to work and free time. They can exchange direct information and engage in short social exchanges. However, they may find it challenging to sustain a conversation independently and often require assistance or prompts to keep the conversation going.
 
 </details>
 
@@ -369,9 +363,10 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
 
-1. Can communicate very basic information about personal details in a simple way.
+This means the person can engage in basic interactions but requires frequent repetition, slower speech, rephrasing, and clarification to understand and communicate effectively. They are able to ask and respond to simple questions and initiate or respond to simple statements related to immediate needs or highly familiar topics.
+
+To simplify, this descriptor describes someone who can participate in basic interactions but may need information to be repeated at a slower pace and rephrased. They can ask and answer simple questions and engage in conversations regarding immediate needs or familiar topics. However, their communication heavily relies on strategies like repetition, rephrasing, and repairing for effective understanding and expression.
 
 </details>
 
@@ -403,9 +398,9 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to inquire about and provide information regarding themselves and their daily routines. They can use simple and established expressions to ask and respond to questions. Additionally, they may rely on gestures or non-verbal cues to further emphasize or clarify the information they are conveying.
 
-1. Can communicate very basic information about personal details in a simple way.
+To simplify, this descriptor describes someone who can ask and answer questions related to their personal information and daily routines. They use short, predetermined expressions and may utilize gestures to support and reinforce the information they are sharing.
 
 </details>
 
