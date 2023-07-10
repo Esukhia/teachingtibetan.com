@@ -30,7 +30,9 @@ Can take notes selectively, paraphrasing and abbreviating successfully to captur
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+This means the person has the ability to simultaneously participate in a meeting or seminar while creating comprehensive and dependable notes for individuals who are not present. They can handle complex or unfamiliar subject matters and accurately capture the key points discussed. Moreover, they possess an understanding of the implications and allusions conveyed during the meeting or seminar and can effectively incorporate them into their notes alongside the actual spoken words. They can selectively choose what to include in their notes, successfully paraphrasing and abbreviating to capture abstract concepts and the relationships between ideas.
+
+In summary, this descriptor emphasizes the person's capacity to actively engage in a meeting or seminar while generating reliable notes for absent individuals. They can handle complex subject matters, recognize implied meanings, and include them in their notes. They possess the skill to selectively capture information, paraphrase it, and abbreviate as needed, ensuring that abstract concepts and relationships between ideas are accurately represented in their notes.
 
 </details>
 
@@ -75,10 +77,9 @@ Can select relevant, detailed information and arguments on complex, abstract top
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to take detailed and accurate notes during a lecture on subjects related to their field of interest. Their notes are comprehensive and of such quality that they can be beneficial to others. Additionally, they possess the skill to make discerning choices on what information to include and exclude as the lecture or seminar unfolds, even when confronted with unfamiliar topics. They can effectively identify and extract relevant and detailed information, including arguments, from various oral sources such as lectures, podcasts, discussions, debates, and interviews, as long as the delivery speed is within normal range.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this descriptor highlights the individual's proficiency in note-taking during lectures. They can produce thorough and precise notes, ensuring their usefulness to others. They can make informed decisions on what to include and exclude, adapt to unfamiliar subjects, and extract pertinent information and arguments from multiple oral sources, given that the delivery speed is within a normal range.
 
 </details>
 
@@ -122,10 +123,11 @@ Can take accurate notes in meetings and seminars on most matters likely to arise
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to understand and follow a clearly structured lecture on a topic that is familiar to them. They can identify and take notes on the key points that they consider important. However, they may have a tendency to concentrate more on the precise wording or formulation used by the speaker, which may cause them to miss out on some details or information.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Furthermore, they are proficient in accurately taking notes during meetings and seminars that cover various subjects within their field of interest. They can effectively capture and record the relevant information discussed during these sessions.
+
+In summary, this descriptor emphasizes the individual's capability to comprehend and take notes during a well-structured lecture on a familiar subject. They are able to identify and note down the key points they find important, although they may focus more on the exact phrasing and potentially miss some details. Additionally, they possess the skill to accurately take notes in meetings and seminars on most topics related to their field of interest.
 
 </details>
 
@@ -164,10 +166,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to take notes during a lecture in a manner that allows them to use those notes effectively at a later date. Their notes are precise and detailed enough to serve their own purposes for future reference. However, this proficiency applies primarily to lectures on topics that are within their field of interest. Additionally, the clarity and well-structured nature of the lecture contribute to their ability to capture accurate and meaningful notes.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this descriptor highlights the individual's capability to take notes during a lecture that are precise and suitable for their personal use in the future. This is particularly the case when the lecture covers a topic within their field of interest and is presented in a clear and well-structured manner. Their note-taking skills allow them to retain important information and refer back to it effectively at a later time.
 
 </details>
 
@@ -206,10 +207,11 @@ Can note down routine instructions in a meeting on a familiar subject, provided 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to generate a list of essential points while taking notes during a straightforward lecture. Their proficiency in note-taking is particularly effective when the topic being discussed is familiar to them, and the lecture is conveyed using simple language and clear articulation. They can identify and record the main points without excessive complexity.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they are capable of noting down routine instructions during a meeting that focuses on a subject they are familiar with. They can accurately capture these instructions when they are formulated in simple language and are given enough time to write them down.
+
+In summary, this descriptor highlights the person's aptitude for creating a list of key points during a straightforward lecture, provided the topic is familiar, and the language used is simple and clearly articulated. Furthermore, they can effectively record routine instructions during meetings on familiar subjects, given that the instructions are expressed in simple language and they are allotted sufficient time to note them down.
 
 </details>
 
@@ -248,10 +250,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to successfully capture simple notes during a presentation or demonstration. They are particularly proficient in note-taking when the topic being presented is familiar to them and follows a predictable pattern. Additionally, their note-taking ability is enhanced when the presenter encourages clarification and provides opportunities for note-taking.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this descriptor highlights the individual's competence in taking simple notes during a presentation or demonstration. Their note-taking skills excel when the subject matter is familiar and predictable, and the presenter allows for clarification and facilitates note-taking.
 
 </details>
 
@@ -269,10 +270,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -283,9 +281,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 
@@ -303,10 +299,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -317,9 +310,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

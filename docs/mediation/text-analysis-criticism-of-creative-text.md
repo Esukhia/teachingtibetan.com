@@ -27,14 +27,15 @@ Can give a critical appreciation of deliberate breaches of linguistic convention
 
 
 
-
-
-
 <details>
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+This means the person has the ability to offer a thoughtful and analytical assessment of works across various periods and genres, such as novels, poems, and plays. They can appreciate and discern subtle distinctions in writing styles and implicit as well as explicit meanings embedded within the texts. They are adept at recognizing and interpreting nuanced language usage, rhetorical effects, and stylistic elements like metaphors, unconventional syntax, and ambiguity. They can delve deeper into the meanings and connotations, unpacking the layers of the text.
+
+Furthermore, they can critically evaluate how the structure, language, and rhetorical devices employed in a work serve a specific purpose. They can provide a reasoned argument, assessing the appropriateness and effectiveness of these elements in achieving the intended goals of the piece. They are capable of discerning deliberate breaches of linguistic conventions in writing and can offer a critical appreciation of such deviations.
+
+In summary, this descriptor highlights the individual's capacity to provide a critical analysis of various literary works, including the recognition of subtle nuances, interpretation of rhetorical devices, and evaluation of their effectiveness. They can also appreciate intentional departures from linguistic conventions, offering a thoughtful perspective on their purpose and impact within the written piece.
 
 </details>
 
@@ -76,10 +77,11 @@ Can describe and comment on ways in which the work engages the audience (e.g. by
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to conduct a critical appraisal of a wide range of texts, encompassing literary works from different periods and genres. They can assess the strengths and weaknesses of these texts, offering insightful commentary and analysis. Additionally, they can evaluate the degree to which a work adheres to the conventions and expectations associated with its genre.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Moreover, they possess the skill to describe and analyze how a particular work engages its audience. They can identify and discuss the techniques employed to captivate and involve readers or viewers. This includes examining the methods of building up and subverting expectations, which contribute to the audience's engagement with the text. They can explore how the work effectively manages or surprises the audience's anticipations, adding depth and impact to the overall experience.
+
+In summary, this descriptor emphasizes the person's ability to critically appraise a broad range of texts, including literary works, evaluate adherence to genre conventions, and analyze the ways in which the text engages the audience by manipulating expectations.
 
 </details>
 
@@ -127,10 +129,11 @@ Can describe the way in which different works differ in their treatment of the s
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to conduct a comparative analysis of two works, considering elements such as themes, characters, and scenes. They can identify similarities and differences between the works and explain the relevance and implications of these connections. Furthermore, they can offer a reasoned opinion of a work, showcasing an awareness of its thematic, structural, and formal aspects. They are able to draw upon the perspectives and arguments put forth by others to enrich their own evaluation.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they possess the skill to evaluate how a work fosters identification with its characters. They can articulate the techniques employed by the author to create relatable and engaging characters, supported by specific examples from the text. Moreover, they can describe and analyze how different works diverge in their treatment of a shared theme, highlighting variations in approach, interpretation, or emphasis.
+
+In summary, this descriptor emphasizes the person's ability to compare, analyze, and evaluate works, demonstrating an understanding of themes, characters, and scenes. They can provide thoughtful opinions, incorporate external viewpoints, evaluate identification with characters, and describe differences in the treatment of common themes across various works.
 
 </details>
 
@@ -167,10 +170,11 @@ Can describe the key themes and characters in short narratives involving familia
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to identify and highlight the most important episodes and events within a narrative that is presented in a clear and structured manner. They can explain the significance of these events and effectively demonstrate the connections between them, helping others understand the overarching storyline and its key moments. They can convey this information using everyday language that is easily accessible to a wide audience.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Furthermore, they can describe the primary themes and characters present in short narratives that involve familiar situations. These narratives are crafted using high-frequency everyday language, making them relatable and easily understandable to the target audience. The person can effectively communicate the central ideas, messages, and personalities found within these narratives, facilitating comprehension and engagement.
+
+In summary, this descriptor emphasizes the person's ability to identify and explain important episodes and events within a well-structured narrative, highlighting their significance and interconnections using everyday language. They can also describe the key themes and characters in short narratives featuring familiar situations, using commonly used language to enhance accessibility and understanding.
 
 </details>
 
@@ -209,10 +213,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to recognize and offer brief descriptions of the primary themes and characters in short narratives that are simple and easy to understand. These narratives involve familiar situations that the audience can readily relate to. The person can provide concise descriptions using basic and formulaic language, ensuring clarity and accessibility for the intended audience. They can effectively convey the central ideas and personalities found within these narratives, utilizing commonly used everyday language to facilitate understanding.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this descriptor highlights the person's capability to identify and provide concise descriptions of key themes and characters in uncomplicated narratives. They employ basic and formulaic language to communicate effectively, making the narratives accessible and relatable to the audience.
 
 </details>
 
@@ -230,10 +233,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -244,9 +244,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 
@@ -264,10 +262,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -278,9 +273,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

@@ -8,10 +8,7 @@
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 
@@ -28,7 +25,7 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+...
 
 </details>
 
@@ -68,10 +65,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person has the ability to elucidate and clarify the significance of specific information found in a particular section of a long and intricate text written in their native language, Language A. They can explain the relevance and importance of that specific information in their second language, Language B. This proficiency allows them to identify and articulate the connections between different sections of the text and understand how the specific information contributes to the overall meaning and context. They can effectively communicate the relevance of the information to others in Language B, highlighting its significance within the broader scope of the complex text.
 
 </details>
 
@@ -112,17 +106,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person is capable of conveying and communicating, in their second language, Language B, which presentations delivered at a conference or which articles in a book written in their native language, Language A, are specifically relevant for a particular purpose. They possess the ability to identify the key information and content from the presentations or articles and evaluate their applicability and importance within a specific context or objective. This proficiency allows them to effectively relay this information in Language B, providing recommendations or indicating which presentations or articles are most pertinent for a given purpose or goal.
 
 </details>
 
 <!-- panels:end -->
-
-
-
 
 
 
@@ -157,10 +145,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person has the ability to convey and communicate, in their second language, Language B, the main point(s) contained in formal correspondence and/or reports written in their native language, Language A. This proficiency extends to both general subjects and topics related to their fields of interest. They are skilled at identifying and extracting the essential information and key messages from formal correspondence and reports. They can effectively relay these main points in Language B, ensuring that the intended meaning and important details are accurately conveyed. Whether it is a general subject or a specialized topic within their field of interest, the person is capable of succinctly summarizing the main ideas and central themes in their second language.
 
 </details>
 
@@ -201,10 +186,7 @@ Can relay (in Language B) specific information given in straightforward informat
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person possesses the ability to effectively relay and communicate the content of various forms of communication in their second language, Language B. They can accurately convey the information contained in public announcements and messages delivered at a normal speed in their native language, Language A. This includes being able to transmit the main points and key details clearly and comprehensibly to others in Language B. Additionally, they can relay the contents of detailed instructions or directions as long as they are clearly articulated in Language A, ensuring that the information is accurately conveyed in Language B. Furthermore, they can effectively communicate specific information presented in straightforward informational texts such as leaflets, brochure entries, notices, letters, or emails written in Language A. This proficiency allows them to accurately relay the relevant details and information from these texts to others in Language B, ensuring a clear and accurate transfer of specific information.
 
 </details>
 
@@ -245,10 +227,11 @@ Can relay (in Language B) specific, relevant information contained in short, sim
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person has the ability to effectively relay and communicate the main point of a clear announcement in their second language, Language B, when the announcement is related to familiar everyday subjects. They may need to simplify the message and search for words or signs to accurately convey the intended meaning in Language B. This proficiency enables them to effectively transmit the core message and main idea of the announcement, ensuring that others understand the key points.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can relay specific and relevant information found in short, simple texts, labels, and notices written in their native language, Language A, on familiar subjects. They can extract the pertinent details from these texts and accurately communicate them in Language B. Whether it's information on labels, notices, or short texts, the person can effectively transfer the specific information in a clear and understandable manner to others.
+
+In summary, this proficiency allows the person to relay the main point of clear announcements related to everyday subjects in Language B, while also being able to communicate specific and relevant information contained in short, simple texts, labels, and notices in Language A on familiar subjects.
 
 </details>
 
@@ -289,10 +272,11 @@ Can relay (in Language B) in a simple way a series of short, simple instructions
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person possesses the ability to effectively relay and communicate the main point of short, clear, and simple messages, instructions, and announcements in their second language, Language B. However, this is dependent on these messages being expressed slowly and clearly in simple language in their native language, Language A. The person can accurately convey the intended meaning and main idea of these messages to others in Language B, ensuring clear understanding.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can relay a series of short, simple instructions in a simple manner in Language B, as long as the original instructions in their native language, Language A, are clearly and slowly articulated. The person can effectively transfer the instructions, one after another, while maintaining clarity and simplicity in their communication.
+
+Overall, this proficiency enables the person to relay the main point of short and simple messages, instructions, and announcements in Language B when they are expressed clearly and slowly in simple language in Language A. They can also communicate a series of short and simple instructions in Language B, as long as the original instructions in Language A are clearly and slowly articulated.
 
 </details>
 
@@ -326,9 +310,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+It means the person has the ability to effectively relay and communicate simple and predictable information about times and places in their second language, Language B. This information is conveyed through short and simple statements delivered in their native language, Language A. The person can accurately convey details such as specific times, dates, locations, and directions in Language B, ensuring clear understanding by others. They can effectively transfer this information, providing concise and straightforward statements related to times and places in a clear and understandable manner.
 
 </details>
 
@@ -361,9 +343,11 @@ Can relay (in Language B) very basic information (e.g. numbers and prices) from 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person possesses the ability to relay simple instructions about places and times in their second language, Language B, when these instructions are given in their native language, Language A. However, to effectively relay these instructions, they need the instructions to be repeated very slowly and clearly. This allows the person to accurately communicate the instructions in Language B, ensuring clear understanding by others.
 
-1. Can communicate very basic information about personal details in a simple way.
+Additionally, they can relay very basic information, such as numbers and prices, from short, simple, and illustrated texts written in their native language, Language A. They can extract and communicate this basic information in Language B, utilizing the visuals and simplicity of the texts to enhance understanding. This proficiency allows them to effectively convey numbers, prices, and other basic information from these texts in a clear and comprehensible manner.
+
+In summary, this proficiency enables the person to relay simple instructions about places and times in Language B, provided they are repeated slowly and clearly in Language A. Furthermore, they can communicate very basic information from short, simple, and illustrated texts in Language B, utilizing the visual aids and simplicity of the texts to enhance communication.
 
 </details>
 

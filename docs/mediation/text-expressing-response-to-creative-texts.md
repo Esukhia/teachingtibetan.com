@@ -9,10 +9,7 @@
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 
@@ -27,7 +24,7 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+...
 
 </details>
 
@@ -70,10 +67,9 @@ Can outline a personal interpretation of a character in a work: their psychologi
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to offer a comprehensive and detailed personal interpretation of a work. They can outline their reactions to particular features of the work and effectively explain the significance of these features. Additionally, they can provide an in-depth personal interpretation of a character within the work. This includes describing the character's psychological and emotional state, delving into the motives behind their actions, and examining the consequences resulting from those actions. Their interpretations reflect their personal understanding and perspective, allowing for a nuanced analysis of the work and its characters.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this descriptor emphasizes the individual's capacity to provide a detailed personal interpretation of a work, highlighting their reactions to specific features and explaining their significance. Furthermore, they can offer an in-depth analysis of a character's psychological state, motives, and the consequences of their actions. Their interpretations provide a thoughtful and nuanced perspective on the work and its characters.
 
 </details>
 
@@ -121,10 +117,9 @@ Can express in some detail their reactions to the form of expression, style and 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person possesses the ability to effectively present their reactions to a work in a clear and organized manner. They can articulate their thoughts and ideas, substantiating them with relevant examples and logical arguments. Additionally, they can provide a personal interpretation of the plot development, characters, and themes within a story, novel, film, or play, offering insights into the deeper layers of the work. They can describe their emotional response to the work, elaborating on how it evoked specific feelings or reactions. Furthermore, they can express detailed reactions to the form of expression, style, and content of the work, explaining what aspects they appreciated and the reasons behind their appreciation.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this descriptor emphasizes the person's ability to deliver a coherent and well-supported presentation of their reactions to a work. They can provide personal interpretations, describe emotional responses, and express detailed reactions to various aspects of the work, including plot development, characters, themes, form of expression, style, and content. Their analyses are thoughtful and considerate, providing a comprehensive understanding of their engagement with the work.
 
 </details>
 
@@ -175,10 +170,9 @@ Can describe a character’s feelings and explain the reasons for them.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person possesses the ability to articulate the reasons behind their particular interest in specific parts or aspects of a work, providing detailed explanations for their engagement. They can explain their strong identification with a particular character, offering insights into the reasons behind their connection. Furthermore, they can establish connections between events in a story, film, or play and similar events they have encountered or heard about, providing a broader context for understanding the work. They can relate the emotions experienced by a character to their own personal emotional experiences, drawing parallels and creating a deeper understanding. They can vividly describe their emotional responses at specific points in a story, offering explanations for their reactions, particularly moments of anxiety or concern for a character. They can also express their brief feelings and opinions provoked by the work, describing the impact it had on them. Additionally, they are capable of describing a character's personality and emotions, offering reasoning behind their feelings.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this descriptor highlights the individual's ability to provide explanations and insights into their interests, character identification, emotional responses, and opinions regarding a work. They can draw connections to personal experiences, describe emotions experienced by characters and themselves, and offer detailed explanations for their thoughts and feelings. Their analyses and descriptions contribute to a richer understanding of their engagement with the work and its characters.
 
 </details>
 
@@ -220,10 +214,9 @@ Can state whether they liked a work or not and explain why in simple language.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to communicate their responses to a work, effectively conveying their feelings and ideas using straightforward language. They can express their emotions, thoughts, and opinions about the work in a clear and understandable manner. They are capable of stating the specific aspects of the work that interested them, using simple language to articulate their points. Additionally, they can express whether they liked or disliked the work, providing explanations in simple language to support their stance.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this descriptor emphasizes the individual's proficiency in expressing their reactions to a work using simple language. They can effectively communicate their feelings, ideas, interests, and evaluations, ensuring clarity and understanding.
 
 </details>
 
@@ -256,9 +249,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person is capable of using straightforward language or signs to convey how a particular work made them feel. They possess the ability to use simple words or gestures to express their emotional reaction, providing a basic description of their feelings evoked by the work.
 
-1. Can communicate very basic information about personal details in a simple way.
+In summary, this descriptor highlights the individual's proficiency in using simple language or signs to communicate their emotional response to a work. They can effectively express their feelings in a concise and straightforward manner.
 
 </details>
 
@@ -276,10 +269,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -290,9 +280,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

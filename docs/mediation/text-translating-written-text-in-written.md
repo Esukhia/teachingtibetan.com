@@ -26,7 +26,11 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+It means the person has the ability to translate technical material written in their native language, Language A, into their second language, Language B, even if it falls outside their field of specialization. However, to ensure subject matter accuracy, the person needs to have the translation checked by a specialist in the specific field addressed in the technical material.
+
+This proficiency allows the person to effectively convey the technical content from Language A to Language B, using their translation skills. They are able to understand and translate technical terminology and concepts, even if it is in a field outside their area of expertise. However, to ensure the accuracy of the translation, it is essential for a specialist in the respective field to review and verify the subject matter accuracy of the translated material.
+
+In summary, this proficiency enables the person to translate technical material written in Language A into Language B, even if it pertains to a field outside their specialization. They can utilize their translation skills to accurately convey the technical content, but it is crucial to have a specialist in the relevant field review the translation to ensure subject matter accuracy.
 
 </details>
 
@@ -67,10 +71,11 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person has the ability to translate abstract texts on social, academic, and professional subjects in their field written in their native language, Language A, into their second language, Language B. They can successfully convey the evaluative aspects, arguments, and many of the associated implications present in the original texts. However, it is important to note that some expression in their translation may be over-influenced by the original text.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+This proficiency allows the person to accurately convey the meaning, evaluative aspects, and arguments found in abstract texts related to social, academic, and professional subjects in their field. They can capture the underlying implications and effectively convey them in their translation. However, due to the influence of the original text, there may be instances where their expression in the translation is overly influenced by the original text.
+
+In summary, this proficiency enables the person to translate abstract texts on social, academic, and professional subjects in their field from Language A to Language B. They can successfully convey the evaluative aspects, arguments, and many of the associated implications. However, it is important to be aware that their translation may exhibit some over-influence from the original text.
 
 </details>
 
@@ -111,10 +116,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person has the ability to produce clearly organized translations from their native language, Language A, into their second language, Language B. These translations reflect normal language usage in Language B, but they may be over-influenced by the order, paragraphing, punctuation, and specific formulations of the original text in Language A.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+This proficiency allows the person to create translations that are well-structured and organized, ensuring clarity and coherence in Language B. They are capable of capturing the meaning and essence of the original text while adhering to the conventions of normal language usage in Language B. However, it is important to note that their translations may be influenced by the order of the original text, the arrangement of paragraphs, punctuation choices, and specific wordings used in the original text in Language A.
+
+In summary, this proficiency enables the person to produce translations that are clearly organized and reflect natural language usage in Language B. While their translations maintain coherence and clarity, it is possible that the influence of the original text's order, paragraphing, punctuation, and specific formulations from Language A may be noticeable in their translations.
 
 </details>
 
@@ -156,10 +162,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person has the ability to produce translations into their second language, Language B, that closely adhere to the sentence and paragraph structure of the original text written in their native language, Language A. They can accurately convey the main points and content of the source text in their translations. However, it is important to note that the resulting translation may read awkwardly due to the strict adherence to the structure of the original text.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+This proficiency allows the person to effectively capture and convey the key information and main points of the source text in their translations. They maintain the sentence and paragraph structure of the original text, ensuring the accuracy of the content. However, due to the adherence to the structure of the original text, the resulting translation may read awkwardly or sound less natural in Language B.
+
+In summary, this proficiency enables the person to produce translations in Language B that closely follow the sentence and paragraph structure of the original text in Language A. They accurately convey the main points of the source text. However, it is important to note that the translation may read awkwardly due to the strict adherence to the structure of the original text.
 
 </details>
 
@@ -198,10 +205,12 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person has the ability to produce approximate translations from their native language, Language A, into their second language, Language B, of straightforward and factual texts. These texts are written in uncomplicated, standard language, and the person closely follows the structure of the original text. While some linguistic errors may occur in the translation, the overall meaning remains comprehensible.
+
+This proficiency allows the person to convey the general content and meaning of straightforward and factual texts through their translations. They maintain the structure of the original text, ensuring that the main ideas and information are accurately conveyed. However, it is important to note that there may be occasional linguistic errors in the translation. Despite these errors, the translation remains comprehensible, allowing readers to understand the intended message.
+
+In summary, this proficiency enables the person to produce translations in Language B that approximate the content of straightforward and factual texts in Language A. They closely adhere to the structure of the original text, although some linguistic errors may occur. Nonetheless, the overall meaning of the translation remains comprehensible and allows readers to grasp the intended information.
 
 </details>
 
@@ -238,10 +247,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person has the ability to produce approximate translations from their native language, Language A, into their second language, Language B, of information contained in short, factual texts. These texts are written in uncomplicated, standard language. Despite the presence of errors in the translation, the overall meaning and information conveyed remain comprehensible.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+This proficiency allows the person to convey the information presented in short, factual texts through their translations. They strive to capture the main ideas and details, ensuring that the overall meaning is comprehensible in Language B. However, it is important to note that there may be errors in the translation, which could include linguistic, grammatical, or structural inaccuracies. Despite these errors, the essential information is conveyed, enabling readers to understand the intended message.
+
+In summary, this proficiency enables the person to produce translations in Language B that approximate the information contained in short, factual texts written in Language A. Although errors may be present in the translation, the overall meaning and information remain comprehensible.
 
 </details>
 
@@ -281,10 +291,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person has the ability to use simple language to provide an approximate translation from their native language, Language A, into their second language, Language B, of very short texts on familiar and everyday themes. These texts contain vocabulary that is commonly used and of high frequency. Despite the presence of errors in the translation, the overall meaning remains comprehensible.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+This proficiency allows the person to convey the essence and main ideas of very short texts on familiar and everyday themes through their translations. They utilize simple language and draw from their knowledge of high-frequency vocabulary in Language B. However, it is important to note that there may be errors in the translation, including linguistic, grammatical, or structural inaccuracies. Despite these errors, the overall meaning of the translation is comprehensible, allowing readers to grasp the intended message.
+
+In summary, this proficiency enables the person to provide approximate translations in Language B using simple language for very short texts on familiar and everyday themes written in Language A. Although errors may be present in the translation, the overall meaning remains comprehensible.
 
 </details>
 
@@ -317,9 +328,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person has the ability to translate simple words, signs, and phrases from their native language, Language A, into their second language, Language B, with the assistance of a dictionary. However, they may not always select the appropriate meaning for the words or phrases they are translating.
 
-1. Can communicate very basic information about personal details in a simple way.
+This proficiency allows the person to make use of a dictionary to aid their translation process. They can understand and translate simple words, signs, and phrases, but there may be instances where they do not accurately select the most appropriate meaning or interpretation. This could be due to limitations in their understanding of the context or nuances of the words or phrases being translated.
+
+In summary, this proficiency enables the person to translate simple words, signs, and phrases from Language A into Language B with the help of a dictionary. However, it is important to note that there may be instances where the person does not always select the most appropriate meaning, potentially due to difficulties in understanding context or nuances.
 
 </details>
 
@@ -337,10 +350,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -351,9 +361,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

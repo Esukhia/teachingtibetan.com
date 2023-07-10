@@ -27,7 +27,7 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+It means the person has the ability to clarify and elucidate the hidden or indirect meanings in Language B (the second language they are learning) when these meanings are not explicitly stated in Language A (their native language). They can effectively break down and interpret the implied connections or suggestions that exist within the language they are studying. Additionally, they possess the skill to recognize and highlight the social and cultural implications associated with various forms of expression, such as understatement, irony, or sarcasm. In simpler terms, this proficiency allows the person to comprehend and explain implied meanings and the cultural context behind different manners of communication in their second language.
 
 </details>
 
@@ -76,10 +76,19 @@ Can explain (in Language B) the attitude or opinion expressed in a source text (
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+Can summarise (in Language B) long, demanding texts (in Language A): </br>This means the person has the ability to condense and provide a concise overview of lengthy and challenging texts in their second language, capturing the main points and essential information.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Can summarise (in Language B) discussions (in Language A) on topics within their academic or professional expertise:</br> It means the person can effectively summarize conversations or debates in their second language, focusing on subjects that fall within their area of knowledge or work. They can analyze different perspectives, weigh them, and identify the most important points.
+
+Can clearly summarise the main points of complex texts (in Language A) in specialized fields other than their own:</br> This indicates the person's ability to summarize complex texts in their second language, even if the subject matter is outside their own area of specialization. However, they may occasionally need to check specific technical concepts.
+
+Can explain subtle distinctions in the presentation of facts and arguments (in Language A):</br> This means the person can elucidate and clarify nuanced differences in how facts and arguments are presented in their native language. They can identify and explain these subtle variations in their second language.
+
+Can use information and arguments from complex texts (in Language A) to discuss a topic (in Language B), adding their opinion and evaluative comments:</br> It means the person can extract relevant information and arguments from complex texts in their native language and engage in discussions on a specific topic in their second language.
+
+Can use information and arguments from complex texts (in Language A) to discuss a topic (in Language B), adding their opinion and evaluative comments:</br> It means the person can extract relevant information and arguments from complex texts in their native language and engage in discussions on a specific topic in their second language. They can provide their opinion, make evaluative comments, and support their arguments using the information from the text.
+
+Can explain the attitude or opinion expressed in a source text (in Language A) on a specialized topic, citing specific passages as evidence:</br> This means the person can articulate and clarify the viewpoint or opinion expressed in a source text in their native language. They can support their inferences and explanations by referring to specific sections or passages in the original text.
 
 </details>
 
@@ -122,10 +131,7 @@ Can summarise (in Language B) the main points of complex discussions (in Languag
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means the person possesses the ability to effectively summarize complex texts and discussions in their second language, Language B. They can provide clear and well-structured summaries, capturing the main information, arguments, and different points of view presented in texts and discussions conducted in their native language, Language A. Their summarization skills extend to a wide range of subjects within their fields of interest and specialization. Additionally, they can weigh and evaluate different perspectives, identifying the most significant points and providing their own opinions and evaluative comments.</br> They are adept at recognizing subtle distinctions in the presentation of facts and arguments, as well as explaining the attitudes or opinions expressed in source texts. Moreover, they can utilize the information and arguments from complex texts to discuss various topics in Language B, while adding their own thoughts and opinions. Overall, this proficiency enables the person to engage in comprehensive and insightful discussions, summarize complex information, and critically analyze texts in their second language.
 
 </details>
 

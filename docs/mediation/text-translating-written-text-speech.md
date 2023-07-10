@@ -26,7 +26,11 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+It means the person has the ability to provide fluent oral translation into their second language, Language B, of abstract texts written in their native language, Language A, on a wide range of subjects of personal, academic, and professional interest. They successfully convey the evaluative aspects, arguments, nuances, and implications associated with the texts.
+
+This proficiency allows the person to effectively translate abstract texts orally, demonstrating fluency in Language B. They can accurately convey the content, evaluative aspects, arguments, and associated nuances present in the original texts. They are capable of capturing the subtleties and implications of the text, ensuring that the translated version effectively conveys the intended meaning and depth of the original.
+
+In summary, this proficiency enables the person to provide fluent oral translation in Language B of abstract texts on various subjects of personal, academic, and professional interest written in Language A. They successfully convey the evaluative aspects, arguments, nuances, and implications associated with the texts, ensuring that the translated version captures the depth and meaning of the original.
 
 </details>
 
@@ -64,10 +68,11 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person has the ability to provide fluent oral translation into their second language, Language B, of complex texts written in their native language, Language A, on a wide range of general and specialized topics. They are capable of capturing most of the nuances present in the original texts.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+This proficiency allows the person to effectively translate complex texts orally, demonstrating fluency in Language B. They can accurately convey the content, ideas, and nuances of the original texts across various general and specialized topics. While they may not capture every single nuance, they can effectively convey the overall meaning and most of the nuanced elements present in the texts.
+
+In summary, this proficiency enables the person to provide fluent oral translation in Language B of complex texts written in Language A. They can effectively convey the content and nuances of the original texts on a wide range of general and specialized topics, although they may not capture every single nuance.
 
 </details>
 
@@ -108,10 +113,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person has the ability to provide oral translation into their second language, Language B, of complex texts written in their native language, Language A. These texts contain information and arguments on subjects within their fields of professional, academic, and personal interest.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+This proficiency allows the person to effectively translate complex texts orally, demonstrating their language skills in Language B. They can accurately convey the information and arguments presented in the original texts, particularly when they pertain to topics within their areas of expertise and interest. The person possesses the necessary knowledge and understanding to grasp the content and accurately convey it in the target language.
+
+In summary, this proficiency enables the person to provide oral translation in Language B of complex texts written in Language A. They can effectively convey the information and arguments contained in the texts, especially when the topics align with their professional, academic, and personal interests.
 
 </details>
 
@@ -152,10 +158,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person has the ability to provide oral translation into their second language, Language B, of texts written in their native language, Language A, on subjects within their fields of professional, academic, and personal interest. However, for successful translation, these texts should be written in uncomplicated and standard language.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+This proficiency allows the person to effectively translate texts orally, demonstrating their language skills in Language B. They can accurately convey the information and arguments presented in the original texts when they pertain to topics within their areas of expertise and interest. It is important to note that the texts should be written in uncomplicated and standard language to ensure a smooth and accurate translation process.
+
+In summary, this proficiency enables the person to provide oral translation in Language B of texts written in Language A that cover subjects within their fields of professional, academic, and personal interest. The person can accurately convey the information and arguments contained in these texts when they are written in uncomplicated and standard language.
 
 </details>
 
@@ -192,10 +199,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person has the ability to provide an approximate oral translation into their second language, Language B, of clear and well-structured informational texts written in their native language, Language A. These texts cover subjects that are familiar or of personal interest to the person. However, due to lexical limitations, they may encounter difficulty with formulating the translation at times.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+This proficiency allows the person to convey the general meaning and key points of clear and well-structured informational texts orally in Language B. They can provide an approximate translation that captures the essence of the original text. However, due to lexical limitations, they may encounter challenges in accurately formulating certain phrases or expressions during the translation process.
+
+In summary, this proficiency enables the person to provide an approximate oral translation in Language B of clear and well-structured informational texts written in Language A. They can convey the general meaning and key points of the texts, particularly when the subjects are familiar or of personal interest. However, due to lexical limitations, they may face difficulties with formulation during the translation process.
 
 </details>
 
@@ -232,10 +240,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person has the ability to provide an approximate oral translation into their second language, Language B, of clear and well-structured informational texts written in their native language, Language A. These texts cover subjects that are familiar or of personal interest to the person. However, due to lexical limitations, they may encounter difficulty with formulating the translation at times.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+This proficiency allows the person to convey the general meaning and key points of clear and well-structured informational texts orally in Language B. They can provide an approximate translation that captures the essence of the original text. However, due to lexical limitations, they may encounter challenges in accurately formulating certain phrases or expressions during the translation process.
+
+In summary, this proficiency enables the person to provide an approximate oral translation in Language B of clear and well-structured informational texts written in Language A. They can convey the general meaning and key points of the texts, particularly when the subjects are familiar or of personal interest. However, due to lexical limitations, they may face difficulties with formulation during the translation process.
 
 </details>
 
@@ -275,10 +284,11 @@ Can provide a simple, rough oral translation (into Language B) of routine inform
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person has the ability to provide a simple and rough oral translation into their second language, Language B, of short and simple texts written in their native language, Language A. These texts could include notices on familiar subjects or routine information on everyday topics. In their translation, the person focuses on capturing the most essential point or conveying the main idea.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+This proficiency allows the person to convey the core meaning and essential information of short and simple texts through their oral translation in Language B. They prioritize capturing the main point or conveying the central idea of the original text. Although the translation may be simplified and lacking in intricate details, it serves the purpose of delivering the primary message.
+
+In summary, this proficiency enables the person to provide a simple and rough oral translation in Language B of short and simple texts written in Language A. They focus on conveying the most essential point or main idea, especially when the texts involve familiar subjects or routine information on everyday topics. The translation may lack intricacies but serves to deliver the core message effectively.
 
 </details>
 
@@ -312,9 +322,11 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+It means the person has the ability to provide a simple and rough oral translation into their second language, Language B, of simple everyday words, signs, and phrases encountered on signs, notices, posters, programs, leaflets, and similar materials. These texts are written in their native language, Language A.
 
-1. Can communicate very basic information about personal details in a simple way.
+This proficiency allows the person to convey the basic meaning and understanding of simple everyday words, signs, and phrases through their oral translation in Language B. They are capable of providing a simple and rough translation that helps convey the intended message or information presented on signs, notices, posters, programs, leaflets, and other similar materials. The emphasis is on ensuring that the essential meaning is communicated effectively.
+
+In summary, this proficiency enables the person to provide a simple and rough oral translation in Language B of simple everyday words, signs, and phrases encountered on signs, notices, posters, programs, leaflets, and similar materials written in Language A. They focus on conveying the basic meaning and understanding, ensuring that the essential information is effectively communicated.
 
 </details>
 
@@ -332,10 +344,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -346,9 +355,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

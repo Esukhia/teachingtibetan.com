@@ -30,7 +30,9 @@ Can summarise information from different sources, reconstructing arguments and a
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+This means the person possesses the ability to provide a clear and concise written explanation of how facts and arguments are presented in a text written in Language A. They are particularly adept at recognizing and drawing attention to rhetorical devices such as understatement, veiled criticism, irony, and sarcasm when these techniques are employed by the author to convey a particular meaning. Furthermore, they can effectively summarize information from different sources, reconstructing and organizing arguments and accounts to create a cohesive and comprehensive overview.
+
+In summary, this descriptor emphasizes the individual's capacity to analyze and explain the presentation of facts and arguments in a text written in Language A, showcasing their ability to identify and highlight rhetorical devices. They can also summarize information from multiple sources, demonstrating their skill in reconstructing and presenting coherent narratives and arguments.
 
 </details>
 
@@ -71,10 +73,9 @@ Can summarise in writing a long and complex text (in Language A) (e.g. an academ
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person possesses the ability to create concise summaries of lengthy and complex texts written in Language A. They can interpret the content of these texts accurately, with occasional reference checks to ensure precise understanding of unusual or technical terms. Furthermore, they are capable of producing written summaries of long and complex texts, such as academic articles, political analyses, novel extracts, editorials, literary reviews, and scientific reports. These summaries are tailored to a specific audience, while still adhering to the style and register of the original text.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this descriptor highlights the individual's proficiency in summarizing extensive and intricate texts written in Language A. They can accurately interpret the content, making occasional references to clarify unfamiliar technical terms. Their written summaries are tailored to a specific audience, respecting the style and register of the original text.
 
 </details>
 
@@ -118,10 +119,9 @@ Can explain in writing (in Language B) the viewpoint articulated in a complex te
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to create concise written summaries of well-structured texts written in Language A, even when those texts contain complex propositions. These summaries focus on subjects within their professional, academic, and personal interests. They can also compare, contrast, and synthesize information and viewpoints from various academic and professional publications written in Language A that pertain to their specific areas of interest. Furthermore, they can explain, in written form (Language B), the viewpoint presented in a complex text written in Language A, providing evidence to support their inferences by referring to specific information within the original text.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this descriptor emphasizes the individual's proficiency in summarizing well-structured but propositionally complex texts written in Language A. They can effectively compare, contrast, and synthesize information from academic and professional publications in their fields of interest, while also explaining viewpoints expressed in complex texts. Their written communication in Language B demonstrates their ability to accurately convey the main content, make inferences, and support them with specific references from the original text.
 
 </details>
 
@@ -164,10 +164,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to create concise written summaries of complex texts written in Language A, focusing on subjects that are relevant to their areas of interest and specialization. They can accurately distill and convey the main ideas and essential information from these texts using Language B.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this descriptor highlights the individual's proficiency in summarizing complex texts written in Language A. They can succinctly capture the main content and convey it effectively in written form using Language B, particularly when the subject matter aligns with their fields of interest and specialization.
 
 </details>
 
@@ -206,10 +205,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to create concise written summaries of texts written in Language A that discuss topics of general or personal interest. They can accurately capture and convey the relevant information and arguments contained in these texts using Language B.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this descriptor emphasizes the individual's proficiency in summarizing texts written in Language A that address subjects of general or personal interest. They can effectively distill the information and arguments presented in these texts and provide concise summaries in written form using Language B.
 
 </details>
 
@@ -247,10 +245,11 @@ Can paraphrase short passages in a simple fashion, using the original text wordi
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to create concise written summaries of straightforward informational texts written in Language A, particularly when the subject matter is of personal or current interest. They can accurately capture and convey the main points from these texts using Language B, provided that oral texts are clearly articulated.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Additionally, they can paraphrase short passages from the original text, maintaining the same wording and order but simplifying the language to make it more accessible or understandable.
+
+In summary, this descriptor highlights the individual's proficiency in summarizing straightforward informational texts written in Language A that relate to personal or current interests. They can effectively capture the main points and present them in written form using Language B. They can also paraphrase short passages, simplifying the language while preserving the original wording and order.
 
 </details>
 
@@ -292,10 +291,11 @@ Can pick out and reproduce key words and phrases or short sentences from a short
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to extract and organize relevant information from short and uncomplicated texts written in Language A. They can accurately present this information in the form of bullet points using Language B. This proficiency is particularly evident when the texts discuss familiar and tangible subjects and use uncomplicated language.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+Furthermore, they can identify and reproduce key words, phrases, or short sentences from a text, even if their language competence and experience are limited. They can accurately recognize and reproduce these linguistic elements.
+
+In summary, this descriptor emphasizes the individual's competence in listing relevant information from short and simple texts in Language B. They can create a series of bullet points that effectively capture the key details. Additionally, they can identify and reproduce essential linguistic elements from a text within the boundaries of their linguistic competence and experience.
 
 </details>
 
@@ -334,10 +334,9 @@ Can copy out short texts in printed or clearly handwritten format.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person can convey the main ideas or points from very short texts in Language A using simple language in Language B. The texts they work with are centered around familiar and everyday themes and employ vocabulary commonly used. Even though errors may be present, the text remains understandable. Additionally, they are able to accurately transcribe or copy short texts, whether they are presented in printed or handwritten format.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this descriptor highlights the individual's ability to effectively communicate the main point(s) of very short texts in Language A using simple language in Language B. Despite possible errors, the overall comprehension is maintained. Furthermore, they possess the skill to accurately copy or transcribe short texts, regardless of their presentation format.
 
 </details>
 
@@ -373,9 +372,9 @@ Can copy out single words and short texts presented in standard printed format.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to communicate the meaning of simple phrases in Language A to Language B, particularly when the phrases revolve around familiar and everyday topics. They can accomplish this task with the aid of a dictionary, which helps them understand and convey the intended meaning accurately. Additionally, they are capable of copying single words and short texts that are presented in a standard printed format with precision.
 
-1. Can communicate very basic information about personal details in a simple way.
+In summary, this descriptor highlights the individual's proficiency in conveying the meaning of simple phrases from Language A to Language B, with the assistance of a dictionary. They can accurately copy single words and short texts presented in a standard printed format. Their understanding of language and use of resources allow them to effectively communicate and reproduce information.
 
 </details>
 
@@ -393,10 +392,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -407,9 +403,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

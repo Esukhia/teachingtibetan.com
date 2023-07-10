@@ -28,7 +28,11 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+This means the person has the ability to accurately understand and effectively articulate different forms of empirical data and visually organized information derived from complex research in academic or professional fields. They can interpret the information presented in graphs, charts, tables, or other visual formats using Language B. Additionally, they can provide clear and reliable descriptions of the data and visuals, ensuring accurate communication of the findings. They possess the skills necessary to comprehend the conceptual complexities of the research and convey the information in a precise and understandable manner.
+
+It is important to note that they consider the accompanying text written in Language A to gain a deeper understanding of the context and explanations related to the empirical data and visually organized information.
+
+In summary, this descriptor emphasizes the person's proficiency in interpreting and describing empirical data and visually organized information derived from complex research. They can do so accurately using Language B, while also considering the accompanying text in Language A. Their skill set enables them to effectively communicate the findings of academic or professional research in a clear and reliable manner.
 
 </details>
 
@@ -68,10 +72,11 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to accurately understand and effectively communicate the important points and intricate details presented in complex diagrams and visually organized information concerning complex academic or professional subjects. They can interpret the content depicted in the diagrams using Language B. Additionally, they can provide clear and reliable descriptions of the salient points and specific details within the visuals. They possess the skills necessary to comprehend the complexity of the topics and convey the information accurately and coherently.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It is important to note that they consider the accompanying text written in Language A to gain a comprehensive understanding of the context and explanations associated with the diagrams and visually organized information.
+
+In summary, this descriptor emphasizes the person's proficiency in interpreting and describing the salient points and intricate details contained within complex diagrams and visually organized information. They can accomplish this accurately using Language B, while also taking into account the accompanying text in Language A. Their skill set enables them to effectively communicate complex academic or professional information in a clear and reliable manner.
 
 </details>
 
@@ -112,10 +117,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person possesses the ability to accurately understand and convey detailed information derived from diagrams and visually organized data within their areas of interest. They can interpret the information depicted in the diagrams and visuals, utilizing their proficiency in writing (Language B) to effectively present the information in written form. They consider the accompanying text written in Language A to gain a deeper understanding of the context and explanations related to the diagrams and visuals.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this descriptor highlights the individual's capability to accurately interpret and present detailed information derived from diagrams and visually organized data in writing (Language B). They take into account the accompanying text in Language A to enhance their understanding and ensure accurate communication. Their skill set enables them to effectively convey complex information from their fields of interest through written means.
 
 </details>
 
@@ -154,10 +158,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to accurately understand and articulate the general trends illustrated in straightforward diagrams, like graphs or bar charts, using Language B. They can effectively convey the overall patterns and trends depicted in the diagrams. In order to provide more detailed explanations of the important points, they may require the help of a dictionary or other reference materials to overcome any potential language or terminology limitations. Additionally, they consider the accompanying text in Language A to gain a comprehensive understanding of the context and explanations related to the diagrams.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this descriptor emphasizes the individual's capability to interpret and present the overall trends shown in simple diagrams using Language B. They can provide detailed explanations with the assistance of reference materials, ensuring a thorough understanding of the significant points. They also take into account the accompanying text in Language A to enhance their comprehension and presentation.
 
 </details>
 
@@ -194,10 +197,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to accurately describe the primary facts depicted in visuals related to familiar topics, such as a weather map or basic flow chart. They can effectively communicate the essential information using simple sentences in Language B. They consider the accompanying text in Language A to gain a deeper understanding of the visuals and provide accurate descriptions.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+In summary, this descriptor highlights the individual's proficiency in describing the key facts found in visuals representing familiar topics. They can achieve this by using simple sentences in Language B, while considering the accompanying text in Language A. Their skill set allows them to effectively convey the main information presented in the visuals.
 
 </details>
 
@@ -218,10 +220,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -235,10 +234,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+...
 
 </details>
 
@@ -256,10 +252,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -270,9 +263,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 
@@ -290,10 +281,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -304,9 +292,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 
