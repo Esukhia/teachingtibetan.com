@@ -8,10 +8,7 @@
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 
@@ -26,7 +23,7 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+...
 
 </details>
 
@@ -64,10 +61,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person has the ability to select the right phrase or expression from a set of common phrases that are often used in conversations or discussions. They can use these phrases to initiate their turn in the conversation, or to buy themselves some time to gather their thoughts before speaking further. This skill helps them navigate the flow of the conversation and contribute effectively.
 
 </details>
 
@@ -112,10 +106,7 @@ Can use stock phrases (e.g. “That’s a difficult question to answer”) to ga
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person has the ability to engage in discussions in a meaningful way. They can use suitable language and expressions to contribute effectively to the conversation. They are able to start conversations, take turns appropriately, and bring the conversation to a close when needed, even though their approach may not always be perfectly smooth. They can also use common phrases to give themselves time to think before responding.
 
 </details>
 
@@ -152,10 +143,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person has the ability to join a discussion on a topic they are familiar with. They can effectively contribute to the conversation by using a suitable phrase to indicate their desire to speak and take their turn in the discussion.
 
 </details>
 
@@ -194,10 +182,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person is capable of initiating conversations with others, keeping the conversation going, and bringing it to a close. They can do this comfortably when discussing topics that they are familiar with or have a personal interest in.
 
 </details>
 
@@ -236,10 +221,7 @@ Can initiate, maintain and close simple, face-to-face conversation.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person is capable of employing simple techniques to start, sustain, or end a brief conversation. They can initiate a basic conversation, keep it flowing smoothly, and bring it to a natural conclusion when speaking directly to someone.
 
 </details>
 
@@ -276,10 +258,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person is capable of asking someone to pay attention to them. They can politely seek the attention of others when needed.
 
 </details>
 
@@ -298,10 +277,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -312,9 +288,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 
@@ -332,10 +306,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -345,10 +316,7 @@ Let me break it down into simpler parts:
 <details>
 
   <summary>Detailed explanation</summary>
-
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

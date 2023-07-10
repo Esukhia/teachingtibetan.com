@@ -28,7 +28,9 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+This means the person has the ability to comprehend the speech of any speaker, even when the topics being discussed are abstract and complex, and relate to specialized areas that are beyond their own field of expertise. However, they may require some time and exposure to adjust to a less familiar variety of the language being used by the speaker.
+
+To simplify, this descriptor indicates that the person can understand anyone speaking, even when discussing intricate and theoretical subjects that are specialized and outside their own area of knowledge. However, they may need some time to familiarize themselves with the specific variety or dialect of the language used by the speaker.
 
 </details>
 
@@ -67,10 +69,9 @@ own field, though they may need to confirm occasional details, especially if the
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to comprehend the speaker's message with a high level of detail when discussing intricate and theoretical subjects that are specialized and outside their own area of knowledge. However, they may occasionally need to verify certain details to ensure complete understanding, especially if the language variety or dialect used by the speaker is unfamiliar to them.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor indicates that the person can understand a speaker in depth when engaged in conversations about complex and abstract topics that are specialized and beyond their field. While they grasp the main ideas, they may occasionally seek clarification on specific details, particularly if the language variety used by the speaker is unfamiliar to them.
 
 </details>
 
@@ -107,10 +108,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to comprehend the spoken or written language with a high level of detail, even when there is [audial/visual] noise present in the environment. They can understand the message clearly when the language used is in its standard form or a variety that they are familiar with.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor indicates that the person can understand the spoken or written language in great detail, even in a [noisy] environment, as long as the language used is in its standard form or a familiar variety to them.
 
 </details>
 
@@ -148,10 +148,9 @@ sometimes have to ask for repetition of particular words/signs and phrases.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to comprehend spoken or signed language that is clearly articulated in everyday conversations when it is addressed directly to them. However, there may be instances where they need to ask the speaker or signer to repeat certain words, signs, or phrases to ensure full understanding.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor indicates that the person can understand spoken or signed language in everyday conversations when it is addressed to them clearly. However, they may occasionally need to ask for certain words, signs, or phrases to be repeated to fully grasp the message.
 
 </details>
 
@@ -190,10 +189,9 @@ Can generally understand clear, standard speech/sign on familiar matters directe
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to understand and manage simple, everyday interactions without much effort. They can generally grasp the meaning of clear and standard speech or sign language on familiar topics when it is addressed to them. However, there may be instances where they need to ask for repetition or clarification to ensure full understanding.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor indicates that the person can understand and handle basic conversations and exchanges without much difficulty. They can generally comprehend clear and standard speech or sign language on familiar topics, but they may need to ask for repetition or clarification at times.
 
 </details>
 
@@ -229,10 +227,9 @@ made to understand, if the interlocutor can take the trouble.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to understand spoken language in simple everyday conversations when it is articulated in a clear, slow, and direct manner. However, their understanding relies on the effort of the person they are conversing with to ensure the message is easy to comprehend.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor indicates that the person can understand simple conversations if the speaker takes the time to express the message clearly and directly.
 
 </details>
 
@@ -270,9 +267,9 @@ simple directions.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person has the ability to understand expressions and instructions that are related to fulfilling simple and concrete needs in everyday situations. They rely on the speaker to deliver the information clearly, slowly, and with repetition. Additionally, they can understand questions and instructions when they are communicated carefully and slowly, and they can follow short and straightforward directions.
 
-1. Can communicate very basic information about personal details in a simple way.
+To simplify, this descriptor indicates that the person can understand basic expressions and instructions regarding their immediate needs, provided they are delivered slowly, clearly, and with repetition. They can also comprehend simple questions and follow short directions when they are presented carefully and slowly.
 
 </details>
 
@@ -309,9 +306,7 @@ Can understand a number of familiar words/signs and recognise key information (e
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+In simpler terms, this descriptor indicates that the person can understand simple questions about themselves, like their name, age, or address, if the questions are asked slowly and clearly. They can also understand basic personal information when it is introduced slowly and clearly by others, and they can grasp questions related to that information, even though they may require repetition. Furthermore, they can understand familiar words and signs and identify important details such as numbers, prices, dates, and days of the week, as long as the delivery is very slow and includes repetition if needed.
 
 </details>
 

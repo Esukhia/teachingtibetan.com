@@ -26,7 +26,7 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+It means that the person has the ability to effectively connect their ideas and comments to the contributions made by others in a conversation. They can broaden the discussion's focus and help steer it towards a resolution or a specific outcome. This skill allows them to actively contribute to the flow and progression of the conversation, ensuring that it remains productive and purposeful.
 
 </details>
 
@@ -61,10 +61,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person has the ability to skillfully relate their own ideas, comments, or responses to what others have said in a conversation. They can make connections and build upon the previous contributions of others, creating a cohesive and meaningful conversation. This skill allows them to actively engage with the ideas and perspectives shared by others, contributing to the overall flow and understanding of the discussion.
 
 </details>
 
@@ -108,10 +105,7 @@ The CEFR Illustrative Descriptor Scales: communicative language activities and s
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person is capable of giving constructive feedback on what others have said in a discussion. They can contribute to the development of the conversation by offering their insights, opinions, or evaluations of the statements and inferences made by others. Additionally, they are able to summarize the key points discussed and provide their assessment of those points, particularly in topics that fall within their academic or professional knowledge. This ability allows them to actively participate and contribute meaningfully to the discussion.
 
 </details>
 
@@ -151,10 +145,7 @@ Can summarise the point reached at a particular stage in a discussion and propos
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person is able to assist in moving the discussion forward on familiar topics. They can contribute by confirming their understanding of the conversation, encouraging others to join in, and taking an active role in facilitating the flow of the discussion. They are also capable of summarizing the current point or stage reached in the conversation, ensuring that everyone is on the same page. Additionally, they can propose the next steps or actions to be taken in the discussion, helping to guide its progression. Overall, their ability to actively participate and help steer the discussion contributes to its effectiveness and cohesion.
 
 </details>
 
@@ -196,10 +187,7 @@ Can summarise the point reached in a discussion and so help focus the argument.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person is able to utilize a basic set of language and techniques to maintain and sustain a conversation or discussion. They can employ various strategies, such as asking follow-up questions, providing relevant comments, or giving examples, to ensure that the conversation continues smoothly. They have the ability to summarize the key points or stage reached in a discussion, helping to keep the participants focused and on track. By effectively using their language skills and contributing to the flow of the conversation, they play an active role in sustaining the discussion and ensuring its coherence.
 
 </details>
 
@@ -237,10 +225,7 @@ Can invite others into the discussion.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person has the ability to confirm their understanding of what someone has said by repeating back a part of it. This helps ensure that both parties are on the same page and that the discussion continues in a coherent manner. They actively engage in the conversation by inviting others to contribute their ideas, perspectives, or opinions. By facilitating clear communication and encouraging the involvement of others, they play a role in maintaining the focus and progression of ideas during the discussion.
 
 </details>
 
@@ -275,10 +260,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person has the ability to demonstrate that they are comprehending and keeping up with the conversation or discussion. They may use various means such as nodding, maintaining eye contact, or giving verbal or non-verbal cues to show that they are following what is being said. This indicates their active participation and engagement in the interaction.
 
 </details>
 
@@ -297,10 +279,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -312,9 +291,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 
@@ -332,10 +309,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -346,9 +320,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 

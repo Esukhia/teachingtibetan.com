@@ -27,7 +27,7 @@
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+It means that the person is capable of composing different types of professional letters or emails in a tone and style that is suitable for the intended purpose. They are able to adapt their writing to the specific requirements and expectations of professional communication.
 
 </details>
 
@@ -70,10 +70,7 @@ Can, with good expression and accuracy, compose formal correspondence such as le
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person is capable of expressing themselves clearly and accurately in personal letters, using language in a flexible and effective manner, including emotional, indirect, and humorous expressions. They are also able to write formal letters for various purposes such as clarifications, applications, recommendations, references, complaints, sympathy, and condolences with good expression and accuracy.
 
 </details>
 
@@ -120,10 +117,7 @@ Can compose a forceful but polite letter of complaint, including supporting deta
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person is capable of maintaining relationships through personal letters, using language fluently and effectively to share detailed experiences, ask caring questions, and discuss common interests. They can generally understand and use idiomatic expressions and informal language in their correspondence. They are also able to write formal letters for various purposes such as inquiries, requests, applications, and complaints, following the appropriate language style and structure. They can express their concerns firmly but politely in a complaint letter, providing necessary supporting details and stating their desired resolution clearly.
 
 </details>
 
@@ -171,11 +165,7 @@ Can obtain, by letter or e-mail, information required for a particular purpose, 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
-
+It means that the person is capable of writing letters that convey emotions, personal significance, and responses to the recipient's news and opinions. They are skilled at using the appropriate level of formality and conventions when writing both personal and professional letters and emails. They can compose formal emails or letters for invitations, expressing gratitude, or making apologies, following the necessary language style and conventions. They are also able to write non-routine professional letters, as long as they are based on factual information. Furthermore, they can gather information through letters or emails, compile it, and send it to others electronically.
 </details>
 
 <!-- panels:end -->
@@ -219,10 +209,7 @@ Can compose basic formal e-mails/letters (e.g. to make a complaint and request a
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person is capable of writing personal letters to share news and discuss abstract or cultural topics. They can express different opinions and provide detailed accounts of personal feelings and experiences in their letters. They are also able to respond to advertisements by writing letters and ask for more information about specific items. Additionally, they can write basic formal emails or letters, such as making a complaint and requesting action to address an issue.
 
 </details>
 
@@ -264,10 +251,7 @@ Can compose a basic letter of application with limited supporting details.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+IT means that the person is capable of writing personal letters where they can provide detailed descriptions of their experiences, feelings, and events. They are able to effectively express themselves and communicate their thoughts and emotions through their writing. They can also compose basic emails or letters for practical purposes, such as requesting information or confirming certain details. Additionally, they can write a basic letter of application, although it may not contain extensive supporting details.
 
 </details>
 
@@ -302,10 +286,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person is capable of exchanging information in written form using different mediums such as text messages, emails, or short letters. They are able to respond to questions posed by the other person, which could include inquiries about a new product or activity.
 
 </details>
 
@@ -351,10 +332,7 @@ Can compose a short text in a greetings card (e.g. for someone’s birthday or t
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person is capable of sharing personal information in a simple email or letter. They can write basic personal letters to express gratitude or apologize. They are also able to compose short and simple messages or emails for various purposes, such as responding to invitations or confirming plans. Furthermore, they can write brief greetings or messages in cards for occasions like birthdays or New Year's.
 
 </details>
 
@@ -393,9 +371,7 @@ Can compose a short, very simple message (e.g. a text message) to friends to giv
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+It means that the person can write short messages or posts online using simple sentences to discuss their hobbies, preferences, and dislikes. They may use basic words and fixed expressions and may need to refer to a dictionary for help. They are also capable of writing brief and straightforward postcards. Furthermore, they can compose short and basic messages, like text messages, to share information or ask questions with friends.
 
 </details>
 
@@ -428,9 +404,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+It means that the person can share basic personal information using short phrases and sentences. They may need to consult a dictionary for help with vocabulary or expression.
 
 </details>
 

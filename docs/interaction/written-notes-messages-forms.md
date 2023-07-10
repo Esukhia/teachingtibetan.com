@@ -8,10 +8,7 @@
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 
@@ -25,8 +22,7 @@
 <details>
 
   <summary>Detailed explanation</summary>
-
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+...
 
 </details>
 
@@ -48,10 +44,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -64,10 +57,7 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+...
 
 </details>
 
@@ -104,10 +94,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person can comprehend complex messages in personal or professional contexts. However, if they need further clarification or additional information, they are comfortable asking for it. They can assess the message and decide if a response or action is required.
 
 </details>
 
@@ -146,10 +133,7 @@ Can take messages communicating enquiries and explaining problems.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person can understand typical messages that are commonly encountered in various contexts, such as personal, professional, or academic settings. They can grasp messages that involve inquiries or explanations of problems.
 
 </details>
 
@@ -190,10 +174,7 @@ Can take messages over the phone containing several points, provided the caller 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person can write notes to communicate simple and relevant information to different individuals in their everyday life. They can effectively convey the important points they want to communicate. Additionally, they can understand phone messages that contain multiple points if the caller delivers them clearly and sympathetically.
 
 </details>
 
@@ -229,10 +210,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person is able to understand and receive a brief and uncomplicated message. However, they may need to ask the speaker to repeat or rephrase the message if they didn't fully grasp it the first time.
 
 </details>
 
@@ -274,10 +252,7 @@ Can fill in personal and other details on most everyday forms (e.g. to open a ba
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+It means that the person is able to write short and straightforward notes or messages to communicate their immediate needs. They are also capable of filling in personal information and completing common forms that are typically encountered in everyday situations, such as opening a bank account or sending important mail.
 
 </details>
 
@@ -315,9 +290,7 @@ Can leave a simple message giving information regarding for instance where they 
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+It means that the person is able to fill in basic personal information on forms, such as providing their name, address, date of birth, etc. They can also leave simple messages to communicate their whereabouts or expected return time, like leaving a note saying they went shopping and will be back at a specific time.
 
 </details>
 
@@ -350,9 +323,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+It means that the person is able to complete very simple registration forms by providing basic personal details such as their name, address, nationality, and marital status. They can fill in these details accurately and appropriately on the form.
 
 </details>
 

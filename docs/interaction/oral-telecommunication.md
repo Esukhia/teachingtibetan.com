@@ -29,7 +29,9 @@ if there is some interference (noise) or the caller has a less familiar accent.
 
   <summary>Detailed explanation</summary>
 
-It means that the written text is entirely devoid of spelling, punctuation, grammar, or any other mistakes that would compromise its correctness, clarity, or adherence to the established rules and conventions of the writing system.
+This means the person can confidently and effectively utilize telecommunications for both personal and professional purposes. They can communicate over phone calls or video calls, demonstrating proficiency in handling different situations. They can adapt to situations where there might be background noise or when conversing with individuals who have accents that are less familiar to them.
+
+To simplify, this descriptor describes someone who can confidently and effectively use telecommunications for personal and professional reasons. They can handle various situations that may arise, such as background noise or communicating with individuals with different accents.
 
 </details>
 
@@ -66,10 +68,9 @@ It means that the written text is entirely devoid of spelling, punctuation, gram
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person can effectively use telecommunications, such as phone calls, video calls, or other digital communication methods, for various professional and personal needs. They are proficient in utilizing these tools to communicate and interact with others in different contexts.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor indicates that the person can successfully use telecommunications for a broad range of purposes, both in their professional and personal life. They are skilled in leveraging these communication tools to meet their needs and engage with others effectively.
 
 </details>
 
@@ -109,10 +110,9 @@ topics.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person can effectively use telecommunications for a variety of personal and professional needs. If they encounter unfamiliar accents or terminology, they are capable of seeking clarification to ensure understanding. Additionally, they can actively participate in longer, informal conversations over the phone with people they are familiar with, discussing various topics.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor describes someone who can use telecommunications for both personal and professional purposes. They can request clarification when faced with unfamiliar accents or terminology. Furthermore, they can engage in extended casual conversations over the phone with people they know, covering a wide range of topics.
 
 </details>
 
@@ -155,10 +155,9 @@ Can give important details over the (video)phone concerning an unexpected incide
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person can use telecommunications, such as phone calls or video calls, for their regular personal and professional requirements. They have the ability to ask for clarification when needed to ensure clear communication. Additionally, they can convey important information during phone or video conversations, such as addressing unexpected incidents that require immediate attention, like issues with hotel accommodations, travel arrangements, or rental cars.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor describes someone who can utilize telecommunications for everyday personal or professional needs. They can ask for clarification when necessary to ensure effective communication. Furthermore, they can provide essential details during phone or video calls, especially in situations where there are unexpected incidents that need to be addressed promptly.
 
 </details>
 
@@ -198,10 +197,9 @@ Can use telecommunications for routine messages (e.g. arrangements for a meeting
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person can effectively utilize telecommunications to have extended conversations with people they know personally, discussing relatively straightforward subjects. They are also capable of using telecommunications for everyday communication needs, such as sending routine messages for arranging meetings. Additionally, they can access basic services by using telecommunications, like making hotel reservations or scheduling medical appointments.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor describes someone who can use telecommunications to engage in longer conversations with familiar individuals on simple topics. They can also use telecommunications for routine messaging purposes, such as making meeting arrangements, and for accessing basic services like booking hotel rooms or making medical appointments.
 
 </details>
 
@@ -238,10 +236,9 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person can effectively use telecommunications, such as phone calls, text messages, or other communication methods, to interact with their friends. They are capable of exchanging simple news, discussing recent events, making plans for activities, and coordinating meetings with their friends.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor indicates that the person can use telecommunications to communicate with their friends. They can share basic news, discuss plans for activities, and arrange meetups using these communication methods.
 
 </details>
 
@@ -284,10 +281,9 @@ message and pass it on by phone to other people concerned.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
+This means the person can engage in brief phone conversations with someone they know, focusing on straightforward and anticipated subjects like discussing arrival times or planning meetups. They may need repetitions and clarifications during the conversation to ensure understanding. Additionally, they can comprehend a simple message, verify its details, and effectively convey the message to other people involved using the phone.
 
-1. Clear and fluent language: This means that you can speak or write in a way that is easy to understand. You use words that make sense and are not too complicated for the listener or reader.
-Example: "The sky is blue today" is a clear and simple sentence.
+To simplify, this descriptor describes someone who can participate in short and uncomplicated phone conversations with people they are familiar with, discussing predictable topics. They may require some repetitions and clarifications for better comprehension. Furthermore, they can understand a simple message, confirm its details, and relay the information to other relevant individuals over the phone.
 
 </details>
 
@@ -305,10 +301,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -320,9 +313,7 @@ Example: "The sky is blue today" is a clear and simple sentence.
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+..
 
 </details>
 
@@ -340,10 +331,7 @@ Let me break it down into simpler parts:
 <details>
   <summary>དཀའ་འགྲེལ་དང་དཔེར་བརྗོད།</summary>
 
-བདག་གིས་དེ་ལྷག་ཏུ་སྟབས་བདེའི་ཆ་ཤས་སུ་དབྱེ་རུ་བཅུག་པ་སྟེ།
-
-1.སྐད་ཆ་དྭངས་ཤིང་གསལ་བ་སྟེ། འདིས་ཁྱོད་ཀྱིས་གོ་བདེ་ཤེས་སླ་བའི་ཐབས་ལ་བརྟེན་ནས་བཤད་ཆོག་པ་དང་འབྲི་ཆོག་པ་མཚོན་ ཁྱེད་ཀྱིས་དོན་སྙིང་ལྡན་པའི་ཚིག་བཀོལ་ནས་ཉན་མཁན་དང་ཀློག་པ་པོ་རྣམས་ལ་མཚོན་ན་རྙོག་འཛིང་ཆེན་པོ་མེད།
-དཔེ་མཚོན་འདི་ལྟར། "དེ་རིང་གི་ནམ་མཁའ་ཧ་ཅང་སྔོ་"ཞེས་པ་ནི་སྟབས་བདེ་ཞིང་གསལ་བའི་ཚིག་གྲུབ་ཤིག་རེད།
+...
 </details>
 
 <!-- div:right-panel -->
@@ -354,9 +342,7 @@ Let me break it down into simpler parts:
 
   <summary>Detailed explanation</summary>
 
-Let me break it down into simpler parts:
-
-1. Can communicate very basic information about personal details in a simple way.
+...
 
 </details>
 
